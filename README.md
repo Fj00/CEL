@@ -4,7 +4,7 @@ Common Word List (CWL), a word list with common words, for word games.
 
 ## Background
 
-I singlehandedly compiled this word list in two months. I am releasing it into the public domain so anyone can use or modify it at will.
+I compiled this word list in two months. I am releasing it into the public domain so anyone can use or modify it at will.
 
 It was a project envisioned by David Eldar, the self-proclaimed second best Scrabble player in the world.
 
@@ -34,15 +34,37 @@ CSW-only words (#)
 
 filtered by CSW
 
-
+Google search results > 1M
 
 A data set containing 8.4M internet articles was processed and filtered by CSW
 
-A 0-10 score for each word was computed using this formula: (10/log(1+freq("the"))) * log(1+freq(word))
+A 0-10 score for each word was computed using this formula: `(10/log(1+freq("the")))*log(1+freq(word))`
 
 "the" had the highest frequency of any 2-15 letter word, and is used to normalize the score.
 
-2 and 3-letter words
+Words above 3 almost always make the cut, whereas words below 2 almost always miss the cut. 
+
+2-3 letter words
+
+Expletives and pejorative words were left in for completeness.
+
+Names or proper nouns can conflate the scores, so those words were recognized and handled on a case-by-case basis.
+
+Comparatives and superlatives are a gray area. Internet articles usually avoid using them, and their scores are low in general, whereas conversational English would be more likely to use them. Similarly, adverbs are likely used less in writing. These might need to be handled on a case-by-case basis.
+
+Loanwords are generally avoided
+
+Words that are common but limited to specific fields
+
+Uncountable nouns have the plural omitted in almost all cases, but often there is a little bit of gray area, so some are included.
+
+Inflections are usually all included, however oftentimes a group of inflections will have a subset that are very common, whereas one or more words are not. For example, a noun and its plural along with an adjectival form might be included, where as the present participle of the verb is excluded. Another example is where only the adjectival form and the gerund form are common.
+
+Even though the 9-15 letter words have also been examined, they are a lot less important for some games where the majority of words employed are less than 9 letters.
+
+Variants of words are only included if they are common enough.
+
+Impossible to be objective
 
 ## Next Steps
 
@@ -52,7 +74,9 @@ Kenji Matsumoto, Scrabble Grandmaster and top 10 player in North America created
 
 Dani Barker developed an initial word list based on the TV and movie scripts list on https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists, removing words not commonly considered words, proper nouns, and also adding in other commonly used English words. https://github.com/danibarker/CommonWordLexicon
 
-Look at CSW words that were not in the original starter list
+Look at CSW words that were not in the original starter list and sort by letter and score
+
+Crowdsource the 2-3 letter words
 
 ## Twitch Shoutouts
 
