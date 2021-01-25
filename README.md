@@ -54,6 +54,8 @@ Comparatives and superlatives are a gray area. Internet articles usually avoid u
 
 Loanwords are generally avoided
 
+Historical, archaic or outmoded words are generally avoided
+
 Words that are common but limited to specific fields
 
 Uncountable nouns have the plural omitted in almost all cases, but often there is a little bit of gray area, so some are included.
@@ -63,6 +65,12 @@ Inflections are usually all included, however oftentimes a group of inflections 
 Even though the 9-15 letter words have also been examined, they are a lot less important for some games where the majority of words employed are less than 9 letters.
 
 Variants of words are only included if they are common enough.
+
+Letters from the Greek alphabet have been included for completeness, regardless of commonality. Letters from the Hebrew alphabet have been omitted. However, spellings of letters from the English alphabet have also been omitted since they aren't typically spelled out in writing.
+
+Elements 1-103 in the periodic table are all included for completeness. Elements 104-118 are all theoretical and in most cases have been synthesized in only very small quantities.
+
+Agent nouns (-ER, -OR, -IST) are avoided, unless they are significantly common, or a profession or tool.
 
 Impossible to be objective
 
@@ -80,7 +88,7 @@ Crowdsource the 2-3 letter words
 
 ## Twitch Shoutouts
 
-David Eldar https://twitch.tv/deldar182
-César Del Solar https://twitch.tv/14domino
-Will Anderson https://twitch.tv/wanderer15
-Fj00 https://twitch.tv/WTFj00
+- David Eldar https://twitch.tv/deldar182
+- César Del Solar https://twitch.tv/14domino
+- Will Anderson https://twitch.tv/wanderer15
+- Fj00 https://twitch.tv/WTFj00
