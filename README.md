@@ -10,7 +10,7 @@ It was a project envisioned by David Eldar, the self-proclaimed second best Scra
 
 The purpose of CWL is to bring more people to word games. Traditional dictionaries and word lists currently in use in conjunction with popular word games are filled with obscure and impractical words. 
 
-This is still a work in progress and will never achieve perfection. Next steps are to assimilate additional word lists made by other community members, described in more detail below.
+This is still a work in progress and will never achieve perfection. Next steps are to merge additional word lists made by other community members, described in more detail below.
 
 ## Community
 
@@ -34,7 +34,7 @@ CSW-only words (#)
 
 filtered by CSW
 
-Google search results > 1M
+Google search results typically > 1M
 
 A data set containing 8.4M internet articles was processed and filtered by CSW
 
@@ -43,6 +43,9 @@ A 0-10 score for each word was computed using this formula: `(10/log(1+freq("the
 "the" had the highest frequency of any 2-15 letter word, and is used to normalize the score.
 
 Words above 3 almost always make the cut, whereas words below 2 almost always miss the cut. 
+
+For 2 letter words, a cutoff of 7 was able to split the very common words from the rest.
+For 3 letter words, a cutoff of 5 was helpful in determining how common they were.
 
 2-3 letter words
 
@@ -70,7 +73,13 @@ Letters from the Greek alphabet have been included for completeness, regardless 
 
 Elements 1-103 in the periodic table are all included for completeness. Elements 104-118 are all theoretical and in most cases have been synthesized in only very small quantities.
 
-Agent nouns (-ER, -OR, -IST) are avoided, unless they are significantly common, or a profession or tool.
+Agent nouns (-ER, -OR, -IST) are avoided, unless they are significantly common, or a profession, machine or tool.
+
+Favored simple plurals with -ES or -S over more obscure plurals
+
+Only major currencies are included, DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S) is also included due to commonality.
+
+Google Books Ngram Viewer was helpful for 2-3 letter words. It provided a percent score for each of the words based on their frequency within books.
 
 Impossible to be objective
 
@@ -84,7 +93,7 @@ Dani Barker developed an initial word list based on the TV and movie scripts lis
 
 Look at CSW words that were not in the original starter list and sort by letter and score
 
-Crowdsource the 2-3 letter words
+I created a list of both 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created.
 
 ## Twitch Shoutouts
 
