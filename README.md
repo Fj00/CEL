@@ -71,13 +71,13 @@ Even though the 9-15 letter words have also been examined, they are a lot less i
 
 Variants of words are only included if they are common enough.
 
-Letters from the Greek alphabet have been included for completeness, regardless of commonality. Letters from the Hebrew alphabet have been omitted. However, spellings of letters from the English alphabet have also been omitted since they aren't typically spelled out in writing. Greek letters typically are treated as uncountable nouns, however a few have auxiliary definitions that require inflections, such as DELTA(S).
+Letters from the Greek alphabet have been included for completeness, regardless of commonality. Letters from the Hebrew alphabet have been omitted. However, spellings of letters from the English alphabet have also been omitted since they aren't typically spelled out in writing. Greek letters typically are treated as uncountable nouns, however a few have auxiliary definitions that require inflections, ALPHA(S), BETA(S), DELTA(S).
 
-Elements 1-103 in the periodic table are all included for completeness. Elements 104-118 are all theoretical and in most cases have been synthesized in only very small quantities.
+Elements 1-103 in the periodic table are all included for completeness. Elements 104-118 are all theoretical and in most cases have been synthesized in only very small quantities. In addition, all have been recently named, therefore they are not included.
 
 Agent nouns (-ER, -OR, -IST) are avoided, unless they are significantly common, or a profession, machine or tool.
 
-Favored simple plurals with -ES or -S over more obscure plurals
+Favored simple plurals with -ES or -S over more obscure plurals.
 
 Only major currencies are included, DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S) is also included due to commonality.
 
@@ -95,7 +95,7 @@ One thing I need to do is look at CSW words that were not in the original starte
 
 I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, and also the union of CSW19 and NWL18, making sure to point out the removed words from NWL20. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all the next steps in one location.
 
-I created a list of both 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created.
+I created a list of both 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created. Maybe a survey with all the 2s and maybe 3s needs to be created and sent to the appropriate audience for validation.
 
 ## Twitch Shoutouts
 
