@@ -36,6 +36,8 @@ filtered by CSW
 
 Google search results typically > 1M
 
+Checked definitions on https://www.dictionary.com/, https://www.collinsdictionary.com/, Google dictionary, and CSW dictionary.
+
 A data set containing the full text of 8.4M internet articles (34 GB of text) was processed for word frequency and then filtered by CSW.
 
 A 0-10 score for each word was computed using this formula: `(10/log(1 + freq("the")))*log(1 + freq(word))`
@@ -51,9 +53,11 @@ Google Books Ngram Viewer was also helpful for 2-3 letter words. It provided a p
 
 A cutoff of 4 was used for 2s, and a cutoff of 3.5 was used for 3s.
 
+Names or proper nouns can conflate the scores, so those words were recognized and handled on a case-by-case basis.
+
 Expletives, slurs and pejorative words were left in for completeness, but there is an ongoing discussion for how to handle them.
 
-Names or proper nouns can conflate the scores, so those words were recognized and handled on a case-by-case basis.
+For the most part, onomatopoeia are left out, especially consonant clusters. There are some instances which are common enough such as various animal sounds used as verbs.
 
 Comparatives and superlatives are a gray area. Internet articles usually avoid using them, and their scores are low in general, whereas conversational English would be more likely to use them. Similarly, adverbs are likely used less in writing. These might need to be handled on a case-by-case basis.
 
