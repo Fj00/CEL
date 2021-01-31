@@ -113,8 +113,39 @@ Again, the initial list contained 80775 words. The number of words removed was 2
 | 13 | 1658 | 14703 | 11.28 |
 | 14 | 794 | 9652 | 8.23 |
 | 15 | 382 | 6103 | 6.26 |
+| Total | 56311 | 281857 | 19.98 |
 
-Unsurprisingly, the proportion of words in CWL is strictly decreasing as the number of letters increase. Here is the same table for words starting with letters A-Z:
+Unsurprisingly, the proportion of words in CWL is strictly decreasing as the number of letters increase. The number of CWL words with 2-8 letters is 31396 for reference. Here is the same table for words starting with letters A-Z:
+
+| Letter | CWL Count | NWL+CSW Count | Percent CWL/NWL+CSW |
+| --- | --- | --- | --- |
+| A | 3278 | 16315 | 20.09 |
+| B | 3205 | 15380 | 20.84 |
+| C | 5282 | 25223 | 20.94 |
+| D | 3467 | 16719 | 20.74 |
+| E | 2336 | 11397 | 20.5 |
+| F | 2404 | 10676 | 22.52 |
+| G | 1712 | 9410 | 18.19 |
+| H | 1997 | 10619 | 18.81 |
+| I | 2320 | 9684 | 23.96 |
+| J | 448 | 2315 | 19.35 |
+| K | 360 | 3411 | 10.55 |
+| L | 1622 | 8105 | 20.01 |
+| M | 2897 | 16034 | 18.07 |
+| N | 1121 | 6782 | 16.53 |
+| O | 1533 | 9017 | 17.0 |
+| P | 4504 | 24560 | 18.34 |
+| Q | 279 | 1413 | 19.75 |
+| R | 3825 | 15168 | 25.22 |
+| S | 6657 | 32194 | 20.68 |
+| T | 2954 | 14656 | 20.16 |
+| U | 1554 | 9695 | 16.03 |
+| V | 817 | 4609 | 17.73 |
+| W | 1466 | 5950 | 24.64 |
+| X | 13 | 309 | 4.21 |
+| Y | 161 | 1040 | 15.48 |
+| Z | 99 | 1176 | 8.42 |
+| Total | 56311 | 281857 | 19.98 |
 
 ## Next Steps
 
