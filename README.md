@@ -6,11 +6,11 @@ Common Word List (CWL), a word list with common words, for word games.
 
 I compiled this word list in two months. I am releasing it into the public domain so anyone can use or modify it at will.
 
-It was a project envisioned by David Eldar, the self-proclaimed second best Scrabble player in the world.
+It was a project envisioned by David Eldar, who is commonly recognized as the second best Scrabble player in the world.
 
 The purpose of CWL is to bring more people to word games. Traditional dictionaries and word lists currently used in conjunction with popular word games are filled with obscure and impractical words.
 
-This is still a work in progress and will never achieve perfection. Next steps are to merge additional word lists made by other community members, described in more detail below.
+This is still a work in progress and will never achieve perfection. The next steps are to merge additional word lists made by other community members, described in more detail below.
 
 ## Community
 
