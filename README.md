@@ -30,11 +30,13 @@ CSW-only words (#)
 
 ## Methodology
 
+The working spreadsheet is public. It currently contains 4 tabs, cwl is the current working list, 2s is just 2 letter word selection, 3s is 3 letter word selection, and movies is another list described below. The spreadsheet can be viewed at: https://docs.google.com/spreadsheets/d/1N-LfFbuuVA176f6pI8oTHYtpUGOy7t2i_ovsCTalq4A/edit?usp=sharing
+
 The starter list chosen was 2of12, which contains a list of common words and their inflections, created by finding words that were in at least 2 out of 12 dictionaries that were selected. More information on 2of12 here: http://wordlist.aspell.net/12dicts-readme/#2of12inf
 
 The uncountable nouns (%) in 2of12 were removed almost completely, and it was filtered by the CSW word list. This resulted in a total of 80775 words. There were less than 100 words in 2of12 that were not in CSW. The list was a good start, but due to the methodology and lack of oversight, many words remained that were either obscure or unused. Thus the great purge began.
 
-The list was audited, and initially only the 4-9 letter words and their inflections were considered. I was going to handle the 2-3 letter words at a later point. I started going through the list the first time, but it was apparent that my strategy was evolving over time, even early on. I decided to finish one pass and then make another pass to try to correct the inconsistencies. The second pass, I ended up deciding to fix the 10-15 letter words as well, since 
+The list was audited, and initially only the 4-9 letter words and their inflections were considered. I was going to handle the 2-3 letter words at a later point. I started going through the list the first time, but it was apparent that my strategy was evolving over time, even early on. I decided to finish one pass and then make another pass to try to correct the inconsistencies. The second pass, I ended up deciding to fix the 10-15 letter words as well, since many of them would look odd to keep in the list.
 
 Definitions were checked on https://www.dictionary.com/, https://www.collinsdictionary.com/, Google dictionary, and the CSW dictionary.
 
@@ -90,6 +92,29 @@ The only major currencies included are DOLLAR(S), EURO(S), [Swiss] FRANC(S), POU
 A number of words were added to the list that were either missed inflections or just missed making the list altogether. There is a plan to analyze the rest of the NWL+CSW words described in more detail below.
 
 This is just a disclaimer that it is impossible to be objective in every instance, and it is fine that people disagree with some of the choices that were made. Hopefully the goal is achieved that people who don't play word games competitively will enjoy playing more with a word list that contains only words they know.
+
+## Stats
+
+Again, the initial list contained 80775 words. The number of words removed was 24688, making 56087. There were 150 additions that weren't 2 or 3 letters. The total number of 2 letter words is 65 (out of 127 NWL+CSW), and the total number of 3 letter words is 640 (out of 1347 NWL+CSW). Combining the purged list with the additions and 2-3 letter words makes 56311 words, out of which there are:
+
+| Length | CWL Count | NWL+CSW Count | Percent CWL/NWL+CSW |
+| --- | --- | --- | --- |
+| 2 | 65 | 127 | 51.18 |
+| 3 | 640 | 1347 | 47.51 |
+| 4 | 2246 | 5638 | 39.84 |
+| 5 | 4234 | 12973 | 32.64 |
+| 6 | 6593 | 23035 | 28.62 |
+| 7 | 8657 | 34345 | 25.21 |
+| 8 | 8961 | 42153 | 21.26 |
+| 9 | 8065 | 42935 | 18.78 |
+| 10 | 6543 | 37749 | 17.33 |
+| 11 | 4541 | 29591 | 15.35 |
+| 12 | 2932 | 21506 | 13.63 |
+| 13 | 1658 | 14703 | 11.28 |
+| 14 | 794 | 9652 | 8.23 |
+| 15 | 382 | 6103 | 6.26 |
+
+Unsurprisingly, the proportion of words in CWL is strictly decreasing as the number of letters increase. Here is the same table for words starting with letters A-Z:
 
 ## Next Steps
 
