@@ -8,7 +8,7 @@ I compiled this word list in two months. I am releasing it into the public domai
 
 It was a project envisioned by David Eldar, the self-proclaimed second best Scrabble player in the world.
 
-The purpose of CWL is to bring more people to word games. Traditional dictionaries and word lists currently in use in conjunction with popular word games are filled with obscure and impractical words. 
+The purpose of CWL is to bring more people to word games. Traditional dictionaries and word lists currently used in conjunction with popular word games are filled with obscure and impractical words.
 
 This is still a work in progress and will never achieve perfection. Next steps are to merge additional word lists made by other community members, described in more detail below.
 
@@ -30,21 +30,25 @@ CSW-only words (#)
 
 ## Methodology
 
-2of12
+The starter list chosen was 2of12, which contains a list of common words and their inflections, created by finding words that were in at least 2 out of 12 dictionaries that were selected. More information on 2of12 here: http://wordlist.aspell.net/12dicts-readme/#2of12inf
 
-filtered by CSW
+The uncountable nouns (%) in 2of12 were removed almost completely, and it was filtered by the CSW word list. This resulted in a total of 80775 words. There were less than 100 words in 2of12 that were not in CSW. The list was a good start, but due to the methodology and lack of oversight, many words remained that were either obscure or unused. Thus the great purge began.
 
-Google search results typically > 1M
+The list was audited, and initially only the 4-9 letter words and their inflections were considered. I was going to handle the 2-3 letter words at a later point. I started going through the list the first time, but it was apparent that my strategy was evolving over time, even early on. I decided to finish one pass and then make another pass to try to correct the inconsistencies. The second pass, I ended up deciding to fix the 10-15 letter words as well, since 
 
-Checked definitions on https://www.dictionary.com/, https://www.collinsdictionary.com/, Google dictionary, and CSW dictionary.
+Definitions were checked on https://www.dictionary.com/, https://www.collinsdictionary.com/, Google dictionary, and the CSW dictionary.
 
-A data set containing the full text of 8.4M internet articles (34 GB of text) was processed for word frequency and then filtered by CSW.
+When necessary, Google search was helpful for figuring out words. Results with less than 1M hits were typically removed.
 
-A 0-10 score for each word was computed using this formula: `(10/log(1 + freq("the")))*log(1 + freq(word))`
+After the second pass, it was determined that the process was too subjective and there needed to be more objectivity when deciding on words. I had access to a data set containing the cleaned full text of 8.4M internet articles (34 GB of text). That data set was processed for word frequency and then filtered by CSW.
 
-"the" had the highest frequency of any 2-15 letter word, and is used to normalize the score.
+A 0-10 score for each word was computed using this formula: `(10/log(1 + freq(THE)))*log(1 + freq(word))`
 
-Words above 3 almost always make the cut, whereas words below 2 almost always miss the cut. 
+THE had the highest frequency of any 2-15 letter word, and is used to normalize the score.
+
+Words above a score of 3 almost always make the cut, whereas words below 2 almost always miss the cut. 
+
+Names and proper nouns can confound the scores, so those words had to be recognized and handled on a case-by-case basis.
 
 For 2 letter words, a cutoff of 7 was able to split the very common words from the rest.
 For 3 letter words, a cutoff of 5 was helpful in determining how common they were.
@@ -53,39 +57,39 @@ Google Books Ngram Viewer was also helpful for 2-3 letter words. It provided a p
 
 A cutoff of 4 was used for 2s, and a cutoff of 3.5 was used for 3s.
 
-Names or proper nouns can conflate the scores, so those words were recognized and handled on a case-by-case basis.
+For the most part, onomatopoeia are left out, especially for 2-3 letter words with consonant clusters. I made that determination mainly due to my PTSD from playing HM in a game with classmates in school and getting mocked for it. There are some instances of onomatopoeia which are common enough to keep, such as various animal sounds used as verbs.
 
-Expletives, slurs and pejorative words were left in for completeness, but there is an ongoing discussion for how to handle them.
+Expletives, slurs and pejorative words were left in for completeness, but there is an ongoing discussion for how to handle them. I don't believe it is up to me whether they get used or not at the end of the day. There is a good case that such words could scare off some audiences. It is at least a good idea to make a list of such words and maintain a separate list with those words removed.
 
-For the most part, onomatopoeia are left out, especially consonant clusters. There are some instances which are common enough such as various animal sounds used as verbs.
+The list tends to favor non-CSW and American-only spellings, although there are British spellings for many words. This might be an area that needs better consistency. There were less than 200 CSW-only words that made the cut in the end, however there are likely many more that need to be investigated. There is a plan described below in next steps to address this issue.
 
 Comparatives and superlatives are a gray area. Internet articles usually avoid using them, and their scores are low in general, whereas conversational English would be more likely to use them. Similarly, adverbs are likely used less in writing. These might need to be handled on a case-by-case basis.
 
-Loanwords are generally avoided
+Loanwords are generally avoided, unless they have a significant degree of commonality. Historical, archaic or outmoded words are also generally avoided.
 
-Historical, archaic or outmoded words are generally avoided
+Words that are common but limited to specific fields are avoided. Some instances are words only related to high-level chemistry, physics or mathematics.
 
-Words that are common but limited to specific fields
-
-Uncountable nouns have the plural omitted in almost all cases, but often there is a little bit of gray area, so some are included.
-
-Inflections are usually all included, however oftentimes a group of inflections will have a subset that are very common, whereas one or more words are not. For example, a noun and its plural along with an adjectival form might be included, where as the present participle of the verb is excluded. Another example is where only the adjectival form and the gerund form are common.
-
-Even though the 9-15 letter words have also been examined, they are a lot less important for some games where the majority of words employed are less than 9 letters.
-
-Variants of words are only included if they are common enough.
+Elements 1-103 in the periodic table are all included for completeness. It would be hard to determine what counts as a common element. However, elements 104-118 are all theoretical and in most cases have been synthesized in only very small quantities. In addition, all have been recently named, therefore they are not included.
 
 Letters from the Greek alphabet have been included for completeness, regardless of commonality. Letters from the Hebrew alphabet have been omitted. However, spellings of letters from the English alphabet have also been omitted since they aren't typically spelled out in writing. Greek letters typically are treated as uncountable nouns, however a few have auxiliary definitions that require inflections, ALPHA(S), BETA(S), DELTA(S).
 
-Elements 1-103 in the periodic table are all included for completeness. Elements 104-118 are all theoretical and in most cases have been synthesized in only very small quantities. In addition, all have been recently named, therefore they are not included.
+Uncountable nouns have the plural omitted in almost all cases, mainly thanks to the 2of12 list having labeled them. However, there were still many more that needed to be classified. Often there is a little bit of gray area, so some plurals are included. It mostly depended on the ratio between the frequency of the singular and plural forms.
+
+Inflections are usually all included, however oftentimes a group of inflections will have a subset that are very common, whereas one or more words are not. For example, a noun and its plural along with an adjectival form might be included, where as the present participle of the verb is excluded. Another example is where only the adjectival form and the gerund form are common.
+
+Simple plurals with -ES or -S were favored over more obscure plurals, even in some cases where the usage was skewed in the other direction.
+
+Even though all the 9-15 letter words were examined, they are a lot less important for some games where the majority of words employed are less than 9 letters. They were left in mainly for extending 7-8 letter words using inflections, and also as an attempt to slow Nigel Richards down when he learns the dictionary.
+
+Variants of words are only included if they are common enough. Verbs ending in L often had both single and double L inflections, and there was a lot of unmanageable inconsistency with frequency. This might be a reason to look into it making it more consistent later.
 
 Agent nouns (-ER, -OR, -IST) are avoided, unless they are significantly common, or a profession, machine or tool.
 
-Favored simple plurals with -ES or -S over more obscure plurals.
+The only major currencies included are DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S) is also included due to commonality.
 
-Only major currencies are included, DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S) is also included due to commonality.
+A number of words were added to the list that were either missed inflections or just missed making the list altogether. There is a plan to analyze the rest of the NWL+CSW words described in more detail below.
 
-Impossible to be objective
+This is just a disclaimer that it is impossible to be objective in every instance, and it is fine that people disagree with some of the choices that were made. Hopefully the goal is achieved that people who don't play word games competitively will enjoy playing more with a word list that contains only words they know.
 
 ## Next Steps
 
@@ -97,9 +101,9 @@ Dani Barker developed an initial word list based on the TV and movie scripts lis
 
 One thing I need to do is look at CSW words that were not in the original starter list I made using 2of12 and sort by letter and score. This way I can find any common words that were not in the original list.
 
-I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, and also the union of CSW19 and NWL18, making sure to point out the removed words from NWL20. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all the next steps in one location.
+I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, and also the union of CSW19 and NWL18, making sure to point out the removed words from NWL20 and NWL/CSW-only words. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all of these next steps in one location.
 
-I created a list of both 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created. Maybe a survey with all the 2s and maybe 3s needs to be created and sent to the appropriate audience for validation.
+I put extra effort into creating lists of 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created. Maybe a survey with all the 2s and maybe 3s needs to be created and sent to the appropriate audience for validation.
 
 ## Twitch Shoutouts
 
