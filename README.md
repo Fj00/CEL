@@ -46,7 +46,7 @@ After the second pass, it was determined that the process was too subjective and
 
 A 0-10 score for each word was computed using this formula: `(10/log(1 + freq(THE)))*log(1 + freq(word))`
 
-THE had the highest frequency of any 2-15 letter word, and is used to normalize the score.
+`THE` had the highest frequency of any 2-15 letter word, and is used to normalize the score.
 
 Words above a score of 3 almost always make the cut, whereas words below 2 almost always miss the cut. 
 
