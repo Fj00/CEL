@@ -95,7 +95,7 @@ This is just a disclaimer that it is impossible to be objective in every instanc
 
 ## Stats
 
-Again, the initial list contained 80775 words. The number of words removed was 24688, making 56087. There were 150 additions that weren't 2 or 3 letters. The total number of 2 letter words is 65 (out of 127 NWL+CSW), and the total number of 3 letter words is 640 (out of 1347 NWL+CSW). Combining the purged list with the additions and 2-3 letter words makes 56311 words, out of which there are:
+Again, the initial list contained 80775 words. The number of words removed was 24688, making 56087. There are 124 CSW-only words. There were 150 additions that weren't 2 or 3 letters. The total number of 2 letter words is 65 (out of 127 NWL+CSW), and the total number of 3 letter words is 640 (out of 1347 NWL+CSW). Combining the purged list with the additions and 2-3 letter words makes 56311 words, out of which there are:
 
 | Length | CWL Count | NWL+CSW Count | Percent CWL/NWL+CSW |
 | --- | --- | --- | --- |
