@@ -36,7 +36,7 @@ The starter list chosen was 2of12, which contains a list of common words and the
 
 The uncountable nouns (%) in 2of12 were removed almost completely, and it was filtered by the CSW word list. This resulted in a total of 80775 words. There were less than 100 words in 2of12 that were not in CSW. The list was a good start, but due to the methodology and lack of oversight, many words remained that were either obscure or unused. Thus the great purge began.
 
-The list was audited, and initially only the 4-9 letter words and their inflections were considered. I was going to handle the 2-3 letter words at a later point. I started going through the list the first time, but it was apparent that my strategy was evolving over time, even early on. I decided to finish one pass and then make another pass to try to correct the inconsistencies. The second pass, I ended up deciding to fix the 10-15 letter words as well, since many of them would look odd to keep in the list.
+The list was audited, and initially only the 4-9 letter words and their inflections were considered. I was going to handle the 2-3 letter words at a later point. I started going through the list the first time, but it was apparent that my strataji was evolving over time, even early on. I decided to finish one pass and then make another pass to try to correct the inconsistencies. The second pass, I ended up deciding to clean up the 10-15 letter words as well, since many of them would look odd to keep in the list.
 
 Definitions were checked on https://www.dictionary.com/, https://www.collinsdictionary.com/, Google dictionary, and the CSW dictionary.
 
@@ -95,7 +95,7 @@ This is just a disclaimer that it is impossible to be objective in every instanc
 
 ## Stats
 
-Again, the initial list contained 80775 words. The number of words removed was 24688, making 56087. There are 124 CSW-only words. There were 150 additions that weren't 2 or 3 letters. The total number of 2 letter words is 65 (out of 127 NWL+CSW), and the total number of 3 letter words is 640 (out of 1347 NWL+CSW). Combining the purged list with the additions and 2-3 letter words makes 56311 words, out of which there are:
+Again, the initial list contained 80775 words. The number of words removed was 24688, making 56087. There are 124 CSW-only words. There were 150 additions that weren't 2 or 3 letters. The total number of 2 letter words is 65 (out of 127 NWL+CSW), and the total number of 3 letter words is 640 (out of 1347 NWL+CSW). Combining the purged list with the additions and 2-3 letter words makes 56311 words, and here is the list broken down by word length:
 
 | Length | CWL Count | NWL+CSW Count | Percent CWL/NWL+CSW |
 | --- | --- | --- | --- |
