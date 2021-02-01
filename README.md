@@ -26,7 +26,7 @@ Woogles achieved a successful Kickstarter in October last year, and was created 
 
 ## Getting Started
 
-The repository contains cwl.txt, the master CWL list. Also in the main folder is cwl_csw.txt, which only contains CSW-only words in CWL. The 2-15 folder contains subsets of cwl by word length, from 2-15 letters. The a-z folder contains subsets of cwl by starting letter, from A-Z. More subset lists can be generated if desired. In the future, these lists will be updated to stay consistent with cwl.txt.
+The repository contains `cwl.txt`, the master CWL list. Also in the main folder is `cwl_csw.txt`, which only contains CSW-only words in CWL. The `2-15` folder contains subsets of CWL by word length, from 2-15 letters. The `a-z` folder contains subsets of CWL by starting letter, from A-Z. More subset lists can be generated if desired. In the future, these lists will be updated to stay consistent with `cwl.txt`.
 
 ## Methodology
 
