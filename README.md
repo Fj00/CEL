@@ -155,9 +155,11 @@ Kenji Matsumoto, Scrabble Grandmaster and top 10 player in North America indepen
 
 Dani Barker developed an initial word list based on the TV and movie scripts list on https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists, removing words not commonly considered words, proper nouns, and also adding in other commonly used English words. https://github.com/danibarker/CommonWordLexicon
 
+Another list that I am planning to use is the New General Service List (NGSL) http://www.newgeneralservicelist.org/. It contains 30708 words within NWL+CSW, more specifically lemmas (no inflections). There are also frequency scores which have been normalized into a 0-10 score using the function previously described.
+
 One thing I need to do is look at CSW words that were not in the original starter list I made using 2of12 and sort by letter and score. This way I can find any common words that were not in the original list.
 
-I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, and also the union of CSW19 and NWL18, making sure to point out the removed words from NWL20 and NWL/CSW-only words. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all of these next steps in one location.
+I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, NGSL, and also the union of CSW19 and NWL18, making sure to point out the removed words from NWL20 and NWL/CSW-only words. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all of these next steps in one location.
 
 I put extra effort into creating lists of 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created. Maybe a survey with all the 2s and maybe 3s needs to be created and sent to the appropriate audience for validation.
 
