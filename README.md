@@ -167,11 +167,11 @@ I put extra effort into creating lists of 2 and 3 letter words, however there wi
 
 Here is David Eldar's written proof of UTE:
 
-it would be completely insane for UTE not to be a word
-i went on a date the other night with a girl who can drive a UTE
-we spoke the word UTE at least 10 times through the night
-every person in this country knows what a UTE is
-UTE = word
+- it would be completely insane for UTE not to be a word
+- i went on a date the other night with a girl who can drive a UTE
+- we spoke the word UTE at least 10 times through the night
+- every person in this country knows what a UTE is
+- UTE = word
 
 ## Twitch Shoutouts
 
