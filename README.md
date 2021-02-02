@@ -163,6 +163,16 @@ I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, 
 
 I put extra effort into creating lists of 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created. Maybe a survey with all the 2s and maybe 3s needs to be created and sent to the appropriate audience for validation.
 
+## UTE
+
+Here is David Eldar's written proof of UTE:
+
+it would be completely insane for UTE not to be a word
+i went on a date the other night with a girl who can drive a UTE
+we spoke the word UTE at least 10 times through the night
+every person in this country knows what a UTE is
+UTE = word
+
 ## Twitch Shoutouts
 
 - David Eldar https://twitch.tv/deldar182
