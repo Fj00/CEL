@@ -342,6 +342,7 @@ ratify
 ratifying
 rating
 ratings
+ratio
 ration
 rational
 rationale

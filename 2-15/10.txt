@@ -501,6 +501,7 @@ battlement
 battleship
 beachheads
 beanstalks
+beautician
 beautified
 beautifies
 bedazzling

@@ -4023,7 +4023,7 @@ beau
 beaus
 beaut
 beauteous
-beauteously
+beautician
 beauticians
 beauties
 beautification
@@ -39107,6 +39107,7 @@ ratify
 ratifying
 rating
 ratings
+ratio
 ration
 rational
 rationale
@@ -53723,6 +53724,7 @@ usurpers
 usurping
 usurps
 usury
+ute
 utensil
 utensils
 uterine
