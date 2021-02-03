@@ -26,7 +26,7 @@ Woogles achieved a successful Kickstarter in October last year, and was created 
 
 ## Getting Started
 
-CSW-only words (#)
+The repository contains `cwl.txt`, the master CWL list. Also in the main folder is `cwl_csw.txt`, which only contains CSW-only words in CWL. The `2-15` folder contains subsets of CWL by word length, from 2-15 letters. The `a-z` folder contains subsets of CWL by starting letter, from A-Z. More subset lists can be generated if desired. In the future, these lists will be updated to stay consistent with `cwl.txt`.
 
 ## Methodology
 
@@ -36,7 +36,7 @@ The starter list chosen was 2of12, which contains a list of common words and the
 
 The uncountable nouns (%) in 2of12 were removed almost completely, and it was filtered by the CSW word list. This resulted in a total of 80775 words. There were less than 100 words in 2of12 that were not in CSW. The list was a good start, but due to the methodology and lack of oversight, many words remained that were either obscure or unused. Thus the great purge began.
 
-The list was audited, and initially only the 4-9 letter words and their inflections were considered. I was going to handle the 2-3 letter words at a later point. I started going through the list the first time, but it was apparent that my strategy was evolving over time, even early on. I decided to finish one pass and then make another pass to try to correct the inconsistencies. The second pass, I ended up deciding to fix the 10-15 letter words as well, since many of them would look odd to keep in the list.
+The list was audited, and initially only the 4-9 letter words and their inflections were considered. I was going to handle the 2-3 letter words at a later point. I started going through the list the first time, but it was apparent that my strataji was evolving over time, even early on. I decided to finish one pass and then make another pass to try to correct the inconsistencies. The second pass, I ended up deciding to clean up the 10-15 letter words as well, since many of them would look odd to keep in the list.
 
 Definitions were checked on https://www.dictionary.com/, https://www.collinsdictionary.com/, Google dictionary, and the CSW dictionary.
 
@@ -46,7 +46,7 @@ After the second pass, it was determined that the process was too subjective and
 
 A 0-10 score for each word was computed using this formula: `(10/log(1 + freq(THE)))*log(1 + freq(word))`
 
-THE had the highest frequency of any 2-15 letter word, and is used to normalize the score.
+`THE` had the highest frequency of any 2-15 letter word, and is used to normalize the score.
 
 Words above a score of 3 almost always make the cut, whereas words below 2 almost always miss the cut. 
 
@@ -95,7 +95,7 @@ This is just a disclaimer that it is impossible to be objective in every instanc
 
 ## Stats
 
-Again, the initial list contained 80775 words. The number of words removed was 24688, making 56087. There are 124 CSW-only words. There were 150 additions that weren't 2 or 3 letters. The total number of 2 letter words is 65 (out of 127 NWL+CSW), and the total number of 3 letter words is 640 (out of 1347 NWL+CSW). Combining the purged list with the additions and 2-3 letter words makes 56311 words, out of which there are:
+Again, the initial list contained 80775 words. The number of words removed was 24688, making 56087. There are 124 CSW-only words. There were 150 additions that weren't 2 or 3 letters. The total number of 2 letter words is 65 (out of 127 NWL+CSW), and the total number of 3 letter words is 640 (out of 1347 NWL+CSW). Combining the purged list with the additions and 2-3 letter words makes 56311 words, and here is the list broken down by word length:
 
 | Length | CWL Count | NWL+CSW Count | Percent CWL/NWL+CSW |
 | --- | --- | --- | --- |
@@ -155,11 +155,23 @@ Kenji Matsumoto, Scrabble Grandmaster and top 10 player in North America indepen
 
 Dani Barker developed an initial word list based on the TV and movie scripts list on https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists, removing words not commonly considered words, proper nouns, and also adding in other commonly used English words. https://github.com/danibarker/CommonWordLexicon
 
+Another list that I am planning to use is the New General Service List (NGSL) http://www.newgeneralservicelist.org/. It contains 30708 words within NWL+CSW, more specifically lemmas (no inflections). There are also frequency scores which have been normalized into a 0-10 score using the function previously described.
+
 One thing I need to do is look at CSW words that were not in the original starter list I made using 2of12 and sort by letter and score. This way I can find any common words that were not in the original list.
 
-I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, and also the union of CSW19 and NWL18, making sure to point out the removed words from NWL20 and NWL/CSW-only words. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all of these next steps in one location.
+I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, NGSL, and also the union of CSW19 and NWL18, making sure to point out the removed words from NWL20 and NWL/CSW-only words. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all of these next steps in one location.
 
 I put extra effort into creating lists of 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created. Maybe a survey with all the 2s and maybe 3s needs to be created and sent to the appropriate audience for validation.
+
+## UTE
+
+Here is David Eldar's written proof of UTE:
+
+- it would be completely insane for UTE not to be a word
+- i went on a date the other night with a girl who can drive a UTE
+- we spoke the word UTE at least 10 times through the night
+- every person in this country knows what a UTE is
+- UTE = word
 
 ## Twitch Shoutouts
 
