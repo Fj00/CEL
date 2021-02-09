@@ -63,7 +63,7 @@ For the most part, onomatopoeia are left out, especially for 2-3 letter words wi
 
 Expletives, slurs and pejorative words were left in for completeness, but there is an ongoing discussion for how to handle them. I don't believe it is up to me whether they get used or not at the end of the day. There is a good case that such words could scare off some audiences. It is at least a good idea to make a list of such words and maintain a separate list with those words removed.
 
-The list tends to favor non-CSW and American-only spellings, although there are British spellings for many words. This might be an area that needs better consistency. There were less than 200 CSW-only words that made the cut in the end, however there are likely many more that need to be investigated. There is a plan described below in next steps to address this issue.
+The list currently tends to favor non-British and American-only spellings, although there are British spellings for many words. This might be an area that needs better consistency. There were less than 200 non-American competitive words that made the cut in the end, however there are likely many more that need to be investigated. There is a plan described below in next steps to address this issue.
 
 Comparatives and superlatives are a gray area. Internet articles usually avoid using them, and their scores are low in general, whereas conversational English would be more likely to use them. Similarly, adverbs are likely used less in writing. These might need to be handled on a case-by-case basis.
 
