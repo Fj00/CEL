@@ -26,7 +26,7 @@ Woogles achieved a successful Kickstarter in October last year, and was created 
 
 ## Getting Started
 
-The repository contains `cwl.txt`, the master CWL list. Also in the main folder is `cwl_csw.txt`, which only contains CSW-only words in CWL. The `2-15` folder contains subsets of CWL by word length, from 2-15 letters. The `a-z` folder contains subsets of CWL by starting letter, from A-Z. More subset lists can be generated if desired. In the future, these lists will be updated to stay consistent with `cwl.txt`.
+The repository contains `cwl.txt`, the master CWL list. The `2-15` folder contains subsets of CWL by word length, from 2-15 letters. The `a-z` folder contains subsets of CWL by starting letter, from A-Z. More subset lists can be generated if desired. In the future, these lists will be updated to stay consistent with `cwl.txt`.
 
 ## Methodology
 
@@ -34,15 +34,15 @@ The working spreadsheet is public. It currently contains 4 tabs, cwl is the curr
 
 The starter list chosen was 2of12, which contains a list of common words and their inflections, created by finding words that were in at least 2 out of 12 dictionaries that were selected. More information on 2of12 here: http://wordlist.aspell.net/12dicts-readme/#2of12inf
 
-The uncountable nouns (%) in 2of12 were removed almost completely, and it was filtered by the CSW word list. This resulted in a total of 80775 words. There were less than 100 words in 2of12 that were not in CSW. The list was a good start, but due to the methodology and lack of oversight, many words remained that were either obscure or unused. Thus the great purge began.
+The uncountable nouns (%) in 2of12 were removed almost completely, and it was filtered by a competitive word list. This resulted in a total of 80775 words. There were less than 100 words in 2of12 that were not in the competitive word list. The list was a good start, but due to the methodology and lack of oversight, many words remained that were either obscure or unused. Thus the great purge began.
 
 The list was audited, and initially only the 4-9 letter words and their inflections were considered. I was going to handle the 2-3 letter words at a later point. I started going through the list the first time, but it was apparent that my strataji was evolving over time, even early on. I decided to finish one pass and then make another pass to try to correct the inconsistencies. The second pass, I ended up deciding to clean up the 10-15 letter words as well, since many of them would look odd to keep in the list.
 
-Definitions were checked on https://www.dictionary.com/, https://www.collinsdictionary.com/, Google dictionary, and the CSW dictionary.
+Definitions were checked on https://www.dictionary.com/, https://www.collinsdictionary.com/, and Google dictionary.
 
 When necessary, Google search was helpful for figuring out words. Results with less than 1M hits were typically removed.
 
-After the second pass, it was determined that the process was too subjective and there needed to be more objectivity when deciding on words. I had access to a data set containing the cleaned full text of 8.4M internet articles (34 GB of text). That data set was processed for word frequency and then filtered by CSW.
+After the second pass, it was determined that the process was too subjective and there needed to be more objectivity when deciding on words. I had access to a data set containing the cleaned full text of 8.4M internet articles (34 GB of text). That data set was processed for word frequency and then filtered by the same list.
 
 A 0-10 score for each word was computed using this formula: `(10/log(1 + freq(THE)))*log(1 + freq(word))`
 
@@ -89,15 +89,15 @@ Agent nouns (-ER, -OR, -IST) are avoided, unless they are significantly common, 
 
 The only major currencies included are DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S) is also included due to commonality.
 
-A number of words were added to the list that were either missed inflections or just missed making the list altogether. There is a plan to analyze the rest of the NWL+CSW words described in more detail below.
+A number of words were added to the list that were either missed inflections or just missed making the list altogether. There is a plan to analyze the rest of the competitive words described in more detail below.
 
 This is just a disclaimer that it is impossible to be objective in every instance, and it is fine that people disagree with some of the choices that were made. Hopefully the goal is achieved that people who don't play word games competitively will enjoy playing more with a word list that contains only words they know.
 
 ## Stats
 
-Again, the initial list contained 80775 words. The number of words removed was 24688, making 56087. There are 124 CSW-only words. There were 150 additions that weren't 2 or 3 letters. The total number of 2 letter words is 65 (out of 127 NWL+CSW), and the total number of 3 letter words is 640 (out of 1347 NWL+CSW). Combining the purged list with the additions and 2-3 letter words makes 56311 words, and here is the list broken down by word length:
+Again, the initial list contained 80775 words. The number of words removed was 24688, making 56087. There were 150 additions that weren't 2 or 3 letters. The total number of 2 letter words is 65 (out of 127 competitive), and the total number of 3 letter words is 640 (out of 1347 competitive). Combining the purged list with the additions and 2-3 letter words makes 56311 words, and here is the list broken down by word length:
 
-| Length | CWL Count | NWL+CSW Count | Percent CWL/NWL+CSW |
+| Length | CWL Count | Competitive Count | Percent CWL/Competitive |
 | --- | --- | --- | --- |
 | 2 | 65 | 127 | 51.18% |
 | 3 | 640 | 1347 | 47.51% |
@@ -117,7 +117,7 @@ Again, the initial list contained 80775 words. The number of words removed was 2
 
 Unsurprisingly, the proportion of words in CWL is strictly decreasing as the number of letters increase. The number of CWL words with 2-8 letters is 31396 for reference. Here is the same table for words starting with letters A-Z:
 
-| Letter | CWL Count | NWL+CSW Count | Percent CWL/NWL+CSW |
+| Letter | CWL Count | Competitive Count | Percent CWL/Competitive |
 | --- | --- | --- | --- |
 | A | 3278 | 16315 | 20.09% |
 | B | 3205 | 15380 | 20.84% |
@@ -155,11 +155,11 @@ Kenji Matsumoto, Scrabble Grandmaster and top 10 player in North America indepen
 
 Dani Barker developed an initial word list based on the TV and movie scripts list on https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists, removing words not commonly considered words, proper nouns, and also adding in other commonly used English words. https://github.com/danibarker/CommonWordLexicon
 
-Another list that I am planning to use is the New General Service List (NGSL) http://www.newgeneralservicelist.org/. It contains 30708 words within NWL+CSW, more specifically lemmas (no inflections). There are also frequency scores which have been normalized into a 0-10 score using the function previously described.
+Another list that I am planning to use is the New General Service List (NGSL) http://www.newgeneralservicelist.org/. It contains 30708 words within competitive word lists, more specifically lemmas (no inflections). There are also frequency scores which have been normalized into a 0-10 score using the function previously described.
 
-One thing I need to do is look at CSW words that were not in the original starter list I made using 2of12 and sort by letter and score. This way I can find any common words that were not in the original list.
+One thing I need to do is look at words in the competitive word lists that were not in the original starter list I made using 2of12 and sort by letter and score. This way I can find any common words that were not in the original list.
 
-I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, NGSL, and also the union of CSW19 and NWL18, making sure to point out the removed words from NWL20 and NWL/CSW-only words. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all of these next steps in one location.
+I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, NGSL, and also the union of some competitive word lists, making sure to point out recently removed words and words only within each list. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all of these next steps in one location.
 
 I put extra effort into creating lists of 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created. Maybe a survey with all the 2s and maybe 3s needs to be created and sent to the appropriate audience for validation.
 
