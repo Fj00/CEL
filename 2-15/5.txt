@@ -4122,7 +4122,6 @@ wakes
 walks
 walls
 waltz
-WANDE
 wands
 waned
 wanes

@@ -45709,6 +45709,7 @@ scatterbrains
 scattered
 scattering
 scatters
+scattershot
 scatting
 scavenge
 scavenged
@@ -58371,7 +58372,6 @@ waltzes
 waltzing
 wan
 wand
-WANDE
 wander
 wandered
 wanderer

@@ -593,6 +593,7 @@ scatterbrains
 scattered
 scattering
 scatters
+scattershot
 scatting
 scavenge
 scavenged
