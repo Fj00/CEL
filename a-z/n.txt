@@ -185,6 +185,7 @@ navigation
 navigational
 navigator
 navigators
+navy
 nay
 nays
 naysayer

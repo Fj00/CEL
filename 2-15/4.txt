@@ -1303,6 +1303,7 @@ nana
 nans
 nape
 naps
+navy
 nays
 near
 neat
@@ -2052,7 +2053,7 @@ trip
 trod
 trot
 troy
-TRUE
+true
 tsar
 tuba
 tube

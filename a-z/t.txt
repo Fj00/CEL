@@ -2134,7 +2134,7 @@ trajectories
 trajectory
 tram
 tramcar
-tramel
+tramcars
 tramline
 tramlines
 trammel
@@ -2792,6 +2792,7 @@ trudge
 trudged
 trudges
 trudging
+true
 truelove
 trueloves
 truer

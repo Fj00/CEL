@@ -107,6 +107,7 @@ addicted
 addition
 additive
 adducing
+adenoids
 adenomas
 adequacy
 adequate
@@ -3706,6 +3707,7 @@ hardline
 hardness
 hardship
 hardtops
+hardware
 hardwood
 harkened
 harmless
@@ -8595,6 +8597,7 @@ training
 traipsed
 traipses
 traitors
+tramcars
 tramline
 trammels
 tramping

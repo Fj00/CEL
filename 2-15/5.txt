@@ -2192,6 +2192,7 @@ macro
 madam
 madly
 mafia
+mages
 magic
 magma
 maids

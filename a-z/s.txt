@@ -1441,6 +1441,7 @@ sensations
 sense
 sensed
 sensei
+senseis
 senseless
 senselessly
 senselessness
@@ -5506,6 +5507,7 @@ stolid
 stomach
 stomachache
 stomachaches
+stomached
 stomaching
 stomachs
 stomp

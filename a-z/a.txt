@@ -656,11 +656,10 @@ adduced
 adduces
 adducing
 adenine
-adenocarcinoma
-adenocarcinomas
+adenoid
+adenoids
 adenoma
 adenomas
-adenosine
 adept
 adeptly
 adeptness
@@ -1690,7 +1689,6 @@ amounting
 amounts
 amour
 amours
-amoxicillin
 amp
 amped
 amperage

@@ -656,11 +656,10 @@ adduced
 adduces
 adducing
 adenine
-adenocarcinoma
-adenocarcinomas
+adenoid
+adenoids
 adenoma
 adenomas
-adenosine
 adept
 adeptly
 adeptness
@@ -1690,7 +1689,6 @@ amounting
 amounts
 amour
 amours
-amoxicillin
 amp
 amped
 amperage
@@ -8771,6 +8769,7 @@ circumcisions
 circumference
 circumferences
 circumferential
+circumlocution
 circumnavigate
 circumnavigated
 circumnavigates
@@ -23287,6 +23286,7 @@ hardship
 hardships
 hardtop
 hardtops
+hardware
 hardwood
 hardwoods
 hardworking
@@ -30077,6 +30077,7 @@ magazine
 magazines
 mage
 magenta
+mages
 maggot
 maggots
 magic
@@ -33254,6 +33255,7 @@ navigation
 navigational
 navigator
 navigators
+navy
 nay
 nays
 naysayer
@@ -46551,6 +46553,7 @@ sensations
 sense
 sensed
 sensei
+senseis
 senseless
 senselessly
 senselessness
@@ -50616,6 +50619,7 @@ stolid
 stomach
 stomachache
 stomachaches
+stomached
 stomaching
 stomachs
 stomp
@@ -54586,7 +54590,7 @@ trajectories
 trajectory
 tram
 tramcar
-tramel
+tramcars
 tramline
 tramlines
 trammel
@@ -55244,7 +55248,7 @@ trudge
 trudged
 trudges
 trudging
-TRUE
+true
 truelove
 trueloves
 truer
