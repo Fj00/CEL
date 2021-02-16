@@ -265,6 +265,7 @@ hue
 hug
 huh
 hum
+hun
 hup
 hut
 ice
@@ -309,6 +310,7 @@ lab
 lad
 lag
 lap
+lat
 law
 lax
 lay
@@ -331,6 +333,7 @@ lug
 luv
 lux
 lye
+mac
 mad
 mag
 mam
@@ -339,6 +342,7 @@ map
 mar
 mas
 mat
+maw
 max
 may
 med
@@ -363,9 +367,9 @@ mum
 nab
 nag
 nah
+nan
 nap
 nay
-nee
 net
 new
 nib

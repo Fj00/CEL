@@ -56,6 +56,7 @@ factorial
 factorials
 factories
 factoring
+factorization
 factors
 factory
 facts
@@ -162,6 +163,11 @@ fame
 famed
 familial
 familiar
+familiarisation
+familiarise
+familiarised
+familiarises
+familiarising
 familiarity
 familiarization
 familiarize
@@ -207,6 +213,10 @@ fans
 fantasia
 fantasias
 fantasies
+fantasise
+fantasised
+fantasises
+fantasising
 fantasize
 fantasized
 fantasizes
@@ -350,6 +360,15 @@ faultless
 faults
 faulty
 fauna
+faux
+fava
+favas
+fave
+favela
+favelas
+faves
+favicon
+favicons
 favor
 favorable
 favorably
@@ -360,8 +379,13 @@ favorites
 favoritism
 favors
 favour
+favourable
+favourably
 favoured
 favouring
+favourite
+favourites
+favouritism
 favours
 fawn
 fawned
@@ -464,6 +488,8 @@ felicity
 feline
 felines
 fell
+fella
+fellas
 fellatio
 felled
 felling
@@ -538,6 +564,13 @@ ferrying
 ferryman
 ferrymen
 fertile
+fertilisation
+fertilise
+fertilised
+fertiliser
+fertilisers
+fertilises
+fertilising
 fertility
 fertilization
 fertilize
@@ -629,6 +662,8 @@ fiberboard
 fiberglass
 fibers
 fibre
+fibreboard
+fibreglass
 fibres
 fibril
 fibrillation
@@ -645,6 +680,10 @@ fickle
 fickleness
 fiction
 fictional
+fictionalise
+fictionalised
+fictionalises
+fictionalising
 fictionalize
 fictionalized
 fictionalizes
@@ -781,6 +820,11 @@ finagling
 final
 finale
 finales
+finalisation
+finalise
+finalised
+finalises
+finalising
 finalist
 finalists
 finality
@@ -796,6 +840,7 @@ financed
 finances
 financial
 financially
+financials
 financier
 financiers
 financing
@@ -872,6 +917,8 @@ firefighting
 firefights
 fireflies
 firefly
+firehose
+firehoses
 firehouse
 firehouses
 firelight
@@ -1090,6 +1137,9 @@ flasks
 flat
 flatbed
 flatbeds
+flatbread
+flatbreads
+flathead
 flatiron
 flatirons
 flatland
@@ -1127,10 +1177,15 @@ flavoring
 flavorings
 flavorless
 flavors
+flavorsome
 flavour
 flavoured
+flavourful
 flavouring
+flavourings
+flavourless
 flavours
+flavoursome
 flaw
 flawed
 flawless
@@ -1214,6 +1269,7 @@ flipper
 flippers
 flipping
 flips
+flipside
 flirt
 flirtation
 flirtations
@@ -1380,6 +1436,7 @@ fluorocarbons
 flurries
 flurry
 flush
+flushable
 flushed
 flushes
 flushing
@@ -1407,9 +1464,13 @@ flybys
 flyer
 flyers
 flying
+flyover
+flyovers
 flypaper
 flyswatter
 flyswatters
+flytrap
+flytraps
 flyweight
 flyweights
 flywheel
@@ -1457,6 +1518,7 @@ foisted
 foisting
 foists
 fold
+foldable
 foldaway
 folded
 folder
@@ -1466,6 +1528,7 @@ foldout
 foldouts
 folds
 foliage
+folic
 folio
 folios
 folk
@@ -1488,6 +1551,8 @@ followers
 following
 followings
 follows
+followup
+followups
 folly
 foment
 fomented
@@ -1509,6 +1574,7 @@ fondues
 font
 fonts
 food
+foodborne
 foodie
 foodies
 foods
@@ -1525,6 +1591,7 @@ foolishly
 foolishness
 foolproof
 fools
+foosball
 foot
 footage
 football
@@ -1534,6 +1601,8 @@ footballs
 footbridge
 footbridges
 footed
+footer
+footers
 footfall
 footfalls
 foothill
@@ -1744,6 +1813,11 @@ forlornly
 form
 formal
 formaldehyde
+formalisation
+formalise
+formalised
+formalises
+formalising
 formalism
 formalist
 formalists
@@ -1819,7 +1893,6 @@ fortresses
 forts
 fortuitous
 fortuitously
-fortuity
 fortunate
 fortunately
 fortune
@@ -1836,6 +1909,8 @@ forwardness
 forwards
 forwent
 fossil
+fossilisation
+fossilised
 fossilization
 fossilized
 fossils
@@ -1850,6 +1925,7 @@ fouling
 fouls
 found
 foundation
+foundational
 foundations
 founded
 founder
@@ -1964,6 +2040,8 @@ fraternizing
 frats
 fraud
 frauds
+fraudster
+fraudsters
 fraudulence
 fraudulent
 fraudulently
@@ -1994,6 +2072,8 @@ freedman
 freedmen
 freedom
 freedoms
+freefall
+freeform
 freehand
 freehold
 freeholder
@@ -2079,11 +2159,10 @@ frets
 fretted
 fretting
 friar
-friaries
 friars
-friary
 friction
 frictional
+frictionless
 fridge
 fridges
 fried
@@ -2125,6 +2204,8 @@ fringe
 fringed
 fringes
 fringing
+frisbee
+frisbees
 frisk
 frisked
 frisking
@@ -2159,6 +2240,7 @@ front
 frontage
 frontages
 frontal
+frontcourt
 fronted
 frontier
 frontiers
@@ -2280,6 +2362,8 @@ fuming
 fun
 function
 functional
+functionalities
+functionality
 functionally
 functionaries
 functionary
@@ -2295,8 +2379,12 @@ fundamentally
 fundamentals
 funded
 funding
+fundraise
+fundraised
 fundraiser
 fundraisers
+fundraises
+fundraising
 funds
 funeral
 funerals

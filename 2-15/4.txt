@@ -3,6 +3,7 @@ abet
 able
 ably
 abut
+acai
 aced
 aces
 ache
@@ -15,6 +16,7 @@ acts
 adds
 aeon
 afar
+afro
 agar
 aged
 ages
@@ -43,6 +45,7 @@ ammo
 amok
 amps
 anal
+ands
 anew
 ankh
 anon
@@ -63,6 +66,7 @@ arid
 arks
 arms
 army
+arse
 arts
 arty
 ashy
@@ -263,12 +267,14 @@ call
 calm
 cals
 came
+camo
 camp
 cams
 cane
 cans
 cape
 caps
+carb
 card
 care
 carp
@@ -286,11 +292,13 @@ cede
 cell
 cels
 cent
+chai
 chap
 char
 chat
 chef
 chew
+chia
 chic
 chin
 chip
@@ -367,6 +375,7 @@ cram
 crap
 crew
 crib
+croc
 crop
 crow
 crud
@@ -452,6 +461,7 @@ dime
 dims
 dine
 ding
+dino
 dips
 dire
 dirt
@@ -470,6 +480,7 @@ does
 doff
 doge
 dogs
+dojo
 dole
 doll
 dolt
@@ -589,6 +600,9 @@ fart
 fast
 fate
 fats
+faux
+fava
+fave
 fawn
 faze
 fear
@@ -726,6 +740,7 @@ gens
 gent
 germ
 gets
+ghee
 gifs
 gift
 gigs
@@ -756,6 +771,7 @@ gobs
 gods
 goer
 goes
+goji
 gold
 golf
 gone
@@ -907,6 +923,7 @@ hump
 hums
 hung
 hunk
+huns
 hunt
 hurl
 hurt
@@ -956,7 +973,6 @@ java
 jaws
 jays
 jazz
-jean
 jeep
 jeer
 jeez
@@ -971,7 +987,7 @@ jinx
 jive
 jobs
 jock
-joes
+joey
 jogs
 john
 join
@@ -1045,6 +1061,7 @@ lash
 lass
 last
 late
+lats
 laud
 lava
 lawn
@@ -1083,6 +1100,7 @@ lift
 like
 lilt
 lily
+lima
 limb
 lime
 limo
@@ -1136,6 +1154,7 @@ lows
 luau
 lube
 luck
+luge
 lugs
 lull
 lump
@@ -1151,6 +1170,7 @@ mace
 mach
 made
 mads
+mage
 mags
 maid
 mail
@@ -1162,6 +1182,7 @@ mall
 malt
 mama
 mams
+mana
 mane
 mans
 many
@@ -1178,6 +1199,7 @@ mate
 math
 mats
 maul
+maws
 mayo
 maze
 mead
@@ -1220,6 +1242,7 @@ mink
 mint
 minx
 mire
+miso
 miss
 mist
 mite
@@ -1231,6 +1254,7 @@ mobs
 mock
 mode
 mods
+mojo
 mold
 mole
 mols
@@ -1270,13 +1294,15 @@ must
 mute
 mutt
 myth
+naan
 nabs
 nags
 nail
 name
+nana
+nans
 nape
 naps
-navy
 nays
 near
 neat
@@ -1301,6 +1327,7 @@ node
 nods
 noes
 none
+noob
 nook
 noon
 nope
@@ -1355,6 +1382,7 @@ opts
 opus
 oral
 orbs
+orca
 orcs
 ores
 orgs
@@ -1426,6 +1454,7 @@ peon
 peps
 perk
 perm
+perv
 peso
 pest
 pets
@@ -1454,7 +1483,6 @@ pita
 pith
 pits
 pity
-pixy
 plan
 plat
 play
@@ -1477,6 +1505,7 @@ poky
 pole
 poll
 polo
+poly
 pomp
 pond
 pony
@@ -1533,6 +1562,7 @@ push
 puss
 puts
 putt
+putz
 pyre
 quad
 quay
@@ -1543,6 +1573,7 @@ quiz
 race
 rack
 racy
+rads
 raft
 rage
 rags
@@ -1552,7 +1583,6 @@ rain
 rake
 ramp
 rams
-rand
 rang
 rank
 rant
@@ -1585,6 +1615,7 @@ rein
 rely
 rend
 rent
+repo
 reps
 rest
 revs
@@ -1717,6 +1748,7 @@ serf
 sets
 sewn
 sews
+sext
 sexy
 shag
 sham
@@ -1804,6 +1836,7 @@ snug
 soak
 soap
 soar
+soba
 sobs
 sock
 soda
@@ -1836,6 +1869,7 @@ spar
 spas
 spat
 spay
+spaz
 spec
 sped
 spew
@@ -1877,6 +1911,7 @@ sunk
 suns
 sure
 surf
+suss
 swab
 swag
 swam
@@ -1912,6 +1947,7 @@ taro
 tarp
 tars
 tart
+tase
 task
 tats
 taut
@@ -1959,6 +1995,7 @@ tier
 ties
 tiff
 tike
+tiki
 tile
 till
 tilt
@@ -1988,6 +2025,7 @@ tong
 tons
 took
 tool
+toon
 toot
 tops
 tore
@@ -2014,7 +2052,7 @@ trip
 trod
 trot
 troy
-true
+TRUE
 tsar
 tuba
 tube
@@ -2031,6 +2069,7 @@ turn
 tusk
 tutu
 twas
+twat
 twig
 twin
 twit
@@ -2039,6 +2078,7 @@ tyke
 type
 typo
 tyre
+udon
 ugly
 ulna
 umps
@@ -2053,6 +2093,7 @@ urns
 used
 user
 uses
+utes
 vacs
 vain
 vamp
@@ -2087,6 +2128,7 @@ vino
 visa
 vise
 viva
+vlog
 void
 vole
 volt
@@ -2105,6 +2147,7 @@ walk
 wall
 wand
 wane
+wank
 want
 ward
 ware
@@ -2146,6 +2189,7 @@ when
 whet
 whew
 whey
+whig
 whim
 whip
 whir
@@ -2169,6 +2213,7 @@ wind
 wine
 wing
 wink
+wino
 wins
 wipe
 wire
@@ -2190,6 +2235,7 @@ wood
 woof
 wool
 woos
+woot
 word
 wore
 work
@@ -2229,6 +2275,7 @@ yowl
 yuck
 yule
 yurt
+yuzu
 zags
 zany
 zaps
@@ -2240,7 +2287,9 @@ zigs
 zinc
 zing
 zips
+ziti
 zits
 zone
 zoom
 zoos
+zoot

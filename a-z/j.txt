@@ -15,7 +15,11 @@ jacked
 jacket
 jacketed
 jackets
+jackfruit
+jackfruits
 jackhammer
+jackhammered
+jackhammering
 jackhammers
 jacking
 jackknife
@@ -29,6 +33,8 @@ jackrabbit
 jackrabbits
 jacks
 jacquard
+jacuzzi
+jacuzzis
 jade
 jaded
 jag
@@ -47,6 +53,8 @@ jailbroken
 jailed
 jailer
 jailers
+jailhouse
+jailhouses
 jailing
 jails
 jalapeno
@@ -60,7 +68,12 @@ jamboree
 jamborees
 jambs
 jammed
+jammer
+jammers
+jammies
 jamming
+jammy
+jampacked
 jams
 jangle
 jangled
@@ -93,6 +106,8 @@ jawbreaker
 jawbreakers
 jawed
 jawing
+jawline
+jawlines
 jaws
 jay
 jaybird
@@ -111,7 +126,6 @@ jealous
 jealousies
 jealously
 jealousy
-jean
 jeans
 jeep
 jeeps
@@ -131,6 +145,10 @@ jelly
 jellybean
 jellybeans
 jellyfish
+jeopardise
+jeopardised
+jeopardises
+jeopardising
 jeopardize
 jeopardized
 jeopardizes
@@ -150,8 +168,11 @@ jesters
 jesting
 jests
 jet
+jetlag
 jetliner
 jetliners
+jetpack
+jetpacks
 jets
 jetsam
 jetted
@@ -197,6 +218,8 @@ jihad
 jihadist
 jihadists
 jihads
+jillion
+jillions
 jilted
 jingle
 jingled
@@ -233,7 +256,8 @@ jockstrap
 jockstraps
 jocular
 joe
-joes
+joey
+joeys
 jog
 jogged
 jogger
@@ -325,6 +349,7 @@ jubilees
 judge
 judged
 judgement
+judgemental
 judgements
 judges
 judgeship
@@ -414,7 +439,6 @@ jurisdiction
 jurisdictional
 jurisprudence
 jurist
-juristic
 jurists
 juror
 jurors

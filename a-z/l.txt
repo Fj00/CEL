@@ -22,6 +22,8 @@ laboriously
 labors
 labour
 laboured
+labourer
+labourers
 labouring
 labours
 labs
@@ -95,8 +97,11 @@ lain
 lair
 lairs
 lake
+lakebed
+lakebeds
 lakefront
 lakes
+lakeside
 lamb
 lambast
 lambaste
@@ -166,6 +171,8 @@ landmark
 landmarks
 landmass
 landmasses
+landmine
+landmines
 landowner
 landowners
 landowning
@@ -263,6 +270,7 @@ lasted
 lasting
 lastly
 lasts
+lat
 latch
 latched
 latches
@@ -291,6 +299,7 @@ latitudes
 latitudinal
 latrine
 latrines
+lats
 latte
 latter
 latterly
@@ -331,6 +340,8 @@ launderers
 laundering
 launders
 laundries
+laundromat
+laundromats
 laundry
 laureate
 laureates
@@ -412,6 +423,8 @@ lead
 leaded
 leaden
 leader
+leaderboard
+leaderboards
 leaderless
 leaders
 leadership
@@ -539,6 +552,11 @@ legacies
 legacy
 legal
 legalese
+legalisation
+legalise
+legalised
+legalises
+legalising
 legalism
 legalisms
 legalistic
@@ -585,6 +603,11 @@ legitimated
 legitimately
 legitimates
 legitimating
+legitimisation
+legitimise
+legitimised
+legitimises
+legitimising
 legitimization
 legitimize
 legitimized
@@ -661,6 +684,7 @@ let
 letdown
 letdowns
 lethal
+lethality
 lethally
 lethargic
 lethargy
@@ -742,12 +766,15 @@ libations
 libel
 libeled
 libeling
-libelled
-libelling
 libellous
 libelous
 libels
 liberal
+liberalisation
+liberalise
+liberalised
+liberalises
+liberalising
 liberalism
 liberality
 liberalization
@@ -765,6 +792,7 @@ liberation
 liberator
 liberators
 libertarian
+libertarianism
 libertarians
 liberties
 libertine
@@ -830,6 +858,8 @@ lifers
 lifesaver
 lifesavers
 lifesaving
+lifespan
+lifespans
 lifestyle
 lifestyles
 lifetime
@@ -838,6 +868,8 @@ lift
 lifted
 lifter
 lifters
+liftgate
+liftgates
 lifting
 liftoff
 lifts
@@ -847,6 +879,8 @@ ligation
 ligature
 ligatures
 light
+lightbulb
+lightbulbs
 lighted
 lighten
 lightened
@@ -892,6 +926,7 @@ lilacs
 lilies
 lilt
 lily
+lima
 limb
 limber
 limbo
@@ -973,12 +1008,18 @@ lint
 lion
 lioness
 lionesses
+lionise
+lionised
+lionises
+lionising
 lionize
 lionized
 lionizes
 lionizing
 lions
 lip
+lipgloss
+lipglosses
 lipid
 lipids
 liposuction
@@ -1099,6 +1140,10 @@ livers
 livery
 lives
 livestock
+livestream
+livestreamed
+livestreaming
+livestreams
 livid
 living
 livings
@@ -1156,11 +1201,19 @@ lobsters
 local
 locale
 locales
+localisation
+localise
+localised
+localiser
+localisers
+localises
+localising
 localities
 locality
 localization
 localize
 localized
+localizer
 localizes
 localizing
 locally
@@ -1179,6 +1232,8 @@ loch
 lochs
 loci
 lock
+lockdown
+lockdowns
 locked
 locker
 lockers
@@ -1274,6 +1329,8 @@ loner
 loners
 lonesome
 long
+longboard
+longboards
 longboat
 longboats
 longbow
@@ -1310,6 +1367,8 @@ looking
 lookout
 lookouts
 looks
+lookup
+lookups
 loom
 loomed
 looming
@@ -1317,6 +1376,7 @@ looms
 loon
 looney
 looneys
+loonies
 loons
 loony
 loop
@@ -1373,6 +1433,7 @@ loses
 losing
 loss
 losses
+lossless
 lost
 lot
 lotion
@@ -1453,7 +1514,6 @@ lowly
 lowness
 lows
 loyal
-loyalism
 loyalist
 loyalists
 loyally
@@ -1492,6 +1552,7 @@ lucrative
 ludicrous
 ludicrously
 lug
+luge
 luggage
 lugged
 lugging
@@ -1512,6 +1573,8 @@ lumberjacks
 lumbers
 lumberyard
 lumberyards
+lumen
+lumens
 luminaries
 luminary
 luminescence
@@ -1528,6 +1591,8 @@ lunar
 lunatic
 lunatics
 lunch
+lunchbox
+lunchboxes
 lunched
 luncheon
 luncheons
@@ -1589,6 +1654,7 @@ luxuriating
 luxuries
 luxurious
 luxuriously
+luxuriousness
 luxury
 lychee
 lychees

@@ -13,7 +13,6 @@ by
 do
 ed
 eh
-el
 ew
 ex
 fa
@@ -33,7 +32,6 @@ lo
 ma
 me
 mi
-mo
 mu
 my
 na
