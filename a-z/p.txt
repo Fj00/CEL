@@ -208,6 +208,7 @@ pandemonium
 pander
 pandered
 pandering
+panders
 pane
 panel
 paneled

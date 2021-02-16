@@ -2592,6 +2592,7 @@ arenas
 areola
 areolas
 arf
+argent
 argon
 arguable
 arguably

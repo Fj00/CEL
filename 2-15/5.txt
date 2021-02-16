@@ -2237,6 +2237,7 @@ masts
 match
 mated
 mates
+maths
 matte
 mauls
 mauve
@@ -3147,7 +3148,6 @@ scarp
 scars
 scary
 scats
-WANDE
 scene
 scent
 scoff
@@ -4122,6 +4122,7 @@ wakes
 walks
 walls
 waltz
+WANDE
 wands
 waned
 wanes

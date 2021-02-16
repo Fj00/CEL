@@ -235,6 +235,7 @@ ardors
 ardour
 arenas
 areola
+argent
 argued
 argues
 argyle

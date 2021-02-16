@@ -1163,6 +1163,7 @@ capstone
 capsular
 capsules
 captains
+captchas
 captions
 captives
 captured

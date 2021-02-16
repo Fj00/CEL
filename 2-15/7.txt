@@ -1178,6 +1178,7 @@ caprice
 capsize
 capsule
 captain
+captcha
 caption
 captive
 captors
@@ -5269,6 +5270,7 @@ pampers
 panacea
 panache
 pancake
+panders
 paneled
 panicky
 panning

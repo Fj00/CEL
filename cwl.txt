@@ -2592,6 +2592,7 @@ arenas
 areola
 areolas
 arf
+argent
 argon
 arguable
 arguably
@@ -7324,6 +7325,8 @@ captaincy
 captained
 captaining
 captains
+captcha
+captchas
 caption
 captioned
 captioning
@@ -30757,6 +30760,7 @@ mathematically
 mathematician
 mathematicians
 mathematics
+maths
 matinee
 matinees
 mating
@@ -36123,6 +36127,7 @@ pandemonium
 pander
 pandered
 pandering
+panders
 pane
 panel
 paneled
@@ -45704,7 +45709,6 @@ scatterbrains
 scattered
 scattering
 scatters
-WANDE
 scatting
 scavenge
 scavenged
@@ -58367,6 +58371,7 @@ waltzes
 waltzing
 wan
 wand
+WANDE
 wander
 wandered
 wanderer

@@ -443,6 +443,8 @@ captaincy
 captained
 captaining
 captains
+captcha
+captchas
 caption
 captioned
 captioning
