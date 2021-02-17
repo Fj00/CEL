@@ -73,6 +73,8 @@ Words that are common but limited to specific fields are avoided. Some instances
 
 Elements 1-103 in the periodic table are all included for completeness. It would be hard to determine what counts as a common element. However, elements 104-118 are all theoretical and in most cases have been synthesized in only very small quantities. In addition, all have been recently named, therefore they are not included.
 
+Medicines and obscure chemicals are left out. Common medicines such as ASPIRIN or IBUPROFEN in the uncountable form are left in.
+
 Letters from the Greek alphabet have been included for completeness, regardless of commonality. Letters from the Hebrew alphabet have been omitted. However, spellings of letters from the English alphabet have also been omitted since they aren't typically spelled out in writing. Greek letters typically are treated as uncountable nouns, however a few have auxiliary definitions that require inflections, ALPHA(S), BETA(S), DELTA(S).
 
 Uncountable nouns have the plural omitted in almost all cases, mainly thanks to the 2of12 list having labeled them. However, there were still many more that needed to be classified. Often there is a little bit of gray area, so some plurals are included. It mostly depended on the ratio between the frequency of the singular and plural forms.
