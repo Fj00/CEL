@@ -149,7 +149,7 @@ Unsurprisingly, the proportion of words in CWL is strictly decreasing as the num
 | Z | 99 | 1176 | 8.42% |
 | Total | 56311 | 281857 | 19.98% |
 
- After making the first revision, the total number of words is 60124. Here is what the same charts look like:
+ After making the first revision, the total number of words is 60133. Here is what the same charts look like:
 
 | Length | CWL Count | Competitive Count | Percent CWL/Competitive |
 | --- | --- | --- | --- |
