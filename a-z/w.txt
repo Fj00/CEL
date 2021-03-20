@@ -95,6 +95,8 @@ wakes
 waking
 walk
 walkable
+walkathon
+walkathons
 walkaway
 walkaways
 walked
@@ -112,9 +114,13 @@ wall
 wallabies
 wallaby
 wallboard
+wallcovering
+wallcoverings
 walled
 wallet
 wallets
+walleye
+walleyes
 wallflower
 wallflowers
 walling
@@ -153,6 +159,8 @@ wands
 wane
 waned
 wanes
+wang
+wangs
 waning
 wank
 wanked
@@ -170,6 +178,8 @@ wanton
 wantonly
 wants
 war
+warbird
+warbirds
 warble
 warbled
 warbler
@@ -226,6 +236,7 @@ warning
 warnings
 warns
 warp
+warpage
 warped
 warping
 warplane
@@ -348,10 +359,13 @@ waterfronts
 waterhole
 waterholes
 watering
+waterjet
+waterjets
 waterless
 waterline
 waterlines
 waterlogged
+waterlogging
 watermark
 watermarked
 watermarking
@@ -391,6 +405,10 @@ wave
 waved
 waveform
 waveforms
+wavefront
+wavefronts
+waveguide
+waveguides
 wavelength
 wavelengths
 wavelet
@@ -441,12 +459,15 @@ wealthy
 wean
 weaned
 weaning
+weanling
+weanlings
 weans
 weapon
 weaponise
 weaponised
 weaponises
 weaponising
+weaponization
 weaponize
 weaponized
 weaponizes
@@ -489,7 +510,10 @@ weaver
 weavers
 weaves
 weaving
+weavings
 web
+webapp
+webapps
 webbed
 webbing
 webcam
@@ -497,10 +521,15 @@ webcams
 webcast
 webcasting
 webcasts
+webchat
+webchats
 webinar
 webinars
 webisode
 webisodes
+weblog
+weblogs
+webmail
 webmaster
 webmasters
 webpage
@@ -508,6 +537,8 @@ webpages
 webs
 website
 websites
+webzine
+webzines
 wed
 wedded
 wedding
@@ -532,6 +563,8 @@ week
 weekday
 weekdays
 weekend
+weekender
+weekenders
 weekends
 weeklies
 weeklong
@@ -593,11 +626,15 @@ wellbeing
 welled
 wellhead
 wellheads
+wellies
 welling
+wellington
+wellingtons
 wellness
 wells
 wellspring
 wellsprings
+welly
 welt
 welterweight
 welterweights
@@ -666,6 +703,10 @@ whats
 whatsoever
 wheat
 wheaten
+wheatgrass
+wheatland
+wheatlands
+wheats
 whee
 wheedle
 wheedled
@@ -774,6 +815,7 @@ whirlpools
 whirls
 whirlwind
 whirlwinds
+whirly
 whirr
 whirred
 whirring
@@ -795,7 +837,10 @@ whispered
 whisperer
 whisperers
 whispering
+whisperings
 whispers
+whispery
+whist
 whistle
 whistleblowing
 whistled
@@ -815,6 +860,7 @@ whitelist
 whitelisted
 whitelisting
 whitelists
+whitely
 whiten
 whitened
 whitener
@@ -834,6 +880,7 @@ whitewashed
 whitewashes
 whitewashing
 whitewater
+whitewood
 whither
 whiting
 whitish
@@ -858,6 +905,7 @@ wholegrain
 wholegrains
 wholehearted
 wholeheartedly
+wholemeal
 wholeness
 wholes
 wholesale
@@ -947,6 +995,8 @@ wife
 wifely
 wig
 wigged
+wigger
+wiggers
 wigging
 wiggle
 wiggled
@@ -998,6 +1048,7 @@ willows
 willowy
 willpower
 wills
+willy
 wilt
 wilted
 wilting
@@ -1016,6 +1067,7 @@ winches
 winching
 wincing
 wind
+windage
 windbag
 windbags
 windblown
@@ -1032,6 +1084,7 @@ windfalls
 windier
 windiest
 winding
+windings
 windless
 windmill
 windmills
@@ -1085,6 +1138,8 @@ winger
 wingers
 winging
 wingless
+winglet
+winglets
 wingman
 wingmen
 wingnut
@@ -1118,6 +1173,8 @@ winos
 wins
 winsome
 winter
+winterberries
+winterberry
 wintered
 wintergreen
 wintering
@@ -1157,6 +1214,7 @@ wiretaps
 wiring
 wiry
 wisdom
+wisdoms
 wise
 wisecrack
 wisecracked
@@ -1205,6 +1263,7 @@ withers
 withheld
 withhold
 withholding
+withholdings
 withholds
 within
 without
@@ -1320,16 +1379,20 @@ woodcutters
 woodcutting
 wooded
 wooden
+woodgrain
 wooding
 woodland
 woodlands
 woodpecker
 woodpeckers
+woodruff
 woods
 woodshed
 woodsheds
 woodsman
 woodsmen
+woodstove
+woodstoves
 woodsy
 woodwind
 woodwinds
@@ -1353,6 +1416,7 @@ woolens
 woollen
 woollens
 woolly
+wools
 wooly
 woos
 woot
@@ -1403,9 +1467,13 @@ workloads
 workman
 workmanlike
 workmanship
+workmate
+workmates
 workmen
 workout
 workouts
+workpiece
+workpieces
 workplace
 workplaces
 workroom
@@ -1480,6 +1548,7 @@ worthily
 worthiness
 worthless
 worthlessness
+worths
 worthwhile
 worthy
 would
@@ -1489,6 +1558,7 @@ wounding
 wounds
 wove
 woven
+wovens
 wow
 wowed
 wowing
@@ -1571,6 +1641,8 @@ wrinkly
 wrist
 wristband
 wristbands
+wristlet
+wristlets
 wrists
 wristwatch
 wristwatches
@@ -1612,3 +1684,5 @@ wurst
 wursts
 wuss
 wusses
+wyvern
+wyverns

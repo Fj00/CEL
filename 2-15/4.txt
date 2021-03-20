@@ -14,7 +14,9 @@ acne
 acre
 acts
 adds
+addy
 aeon
+aero
 afar
 afro
 agar
@@ -63,6 +65,7 @@ arcs
 area
 aria
 arid
+aril
 arks
 arms
 army
@@ -98,6 +101,7 @@ babe
 baby
 back
 bade
+bads
 baes
 bags
 bail
@@ -169,6 +173,7 @@ bite
 bits
 blab
 blah
+blam
 bled
 blew
 blip
@@ -182,6 +187,7 @@ blur
 boar
 boas
 boat
+boba
 bobs
 bode
 bods
@@ -191,11 +197,13 @@ boil
 bois
 bold
 boll
+bolo
 bolt
 bomb
 bond
 bone
 bong
+bonk
 bony
 boob
 book
@@ -205,6 +213,7 @@ boos
 boot
 bops
 bore
+bork
 born
 boss
 both
@@ -249,6 +258,7 @@ burr
 burs
 bury
 bush
+busk
 bust
 busy
 buts
@@ -292,6 +302,7 @@ cede
 cell
 cels
 cent
+cess
 chai
 chap
 char
@@ -302,6 +313,7 @@ chia
 chic
 chin
 chip
+chit
 chop
 chow
 chug
@@ -321,6 +333,7 @@ clip
 clit
 clod
 clog
+clop
 clot
 club
 clue
@@ -373,6 +386,8 @@ crab
 crag
 cram
 crap
+craw
+cred
 crew
 crib
 croc
@@ -385,6 +400,7 @@ cubs
 cued
 cues
 cuff
+cuke
 cull
 cult
 cums
@@ -440,6 +456,7 @@ deer
 deft
 defy
 deli
+dell
 demo
 dens
 dent
@@ -454,6 +471,7 @@ dick
 died
 dies
 diet
+diff
 digs
 dike
 dill
@@ -470,6 +488,7 @@ dish
 disk
 diss
 dits
+ditz
 diva
 dive
 dock
@@ -497,6 +516,7 @@ dorm
 dose
 dote
 dots
+dour
 dove
 down
 doze
@@ -545,12 +565,14 @@ eats
 eave
 ebbs
 echo
+ecru
 edge
 edgy
 edit
 eels
 effs
 eggs
+eggy
 egos
 eked
 ekes
@@ -574,6 +596,7 @@ even
 ever
 eves
 evil
+ewer
 ewes
 exam
 exec
@@ -705,6 +728,8 @@ fury
 fuse
 fuss
 fuzz
+gabs
+gaff
 gaga
 gags
 gain
@@ -744,21 +769,26 @@ ghee
 gifs
 gift
 gigs
+gila
 gild
 gill
 gilt
+gimp
 gins
 gird
 girl
 gist
+gits
 give
 glad
+glam
 glee
 glib
 glob
 glop
 glow
 glue
+glug
 glum
 glut
 gnat
@@ -783,6 +813,7 @@ goop
 gore
 gory
 gosh
+goth
 gout
 gown
 grab
@@ -797,8 +828,10 @@ grin
 grip
 grit
 grog
+grok
 grow
 grub
+guar
 gulf
 gull
 gulp
@@ -811,6 +844,7 @@ gust
 guts
 guys
 gyms
+gyre
 gyro
 hack
 hags
@@ -985,6 +1019,7 @@ jiff
 jigs
 jinx
 jive
+jizz
 jobs
 jock
 joey
@@ -999,6 +1034,7 @@ jowl
 joys
 judo
 jugs
+juju
 jump
 junk
 jury
@@ -1015,6 +1051,8 @@ kelp
 keno
 kept
 kerb
+kern
+keto
 keys
 kick
 kids
@@ -1037,6 +1075,8 @@ knot
 know
 kola
 kook
+koto
+kudu
 labs
 lace
 lack
@@ -1109,6 +1149,7 @@ line
 link
 lint
 lion
+lipo
 lips
 lisp
 list
@@ -1158,12 +1199,14 @@ luge
 lugs
 lull
 lump
+luna
 lung
 lure
 lurk
 lush
 lust
 lute
+lyes
 lynx
 lyre
 mace
@@ -1177,6 +1220,7 @@ mail
 maim
 main
 make
+mako
 male
 mall
 malt
@@ -1202,6 +1246,7 @@ maul
 maws
 mayo
 maze
+mazy
 mead
 meal
 mean
@@ -1221,7 +1266,9 @@ mere
 mesa
 mesh
 mess
+meta
 mete
+meth
 mews
 mica
 mice
@@ -1285,6 +1332,8 @@ mugs
 mule
 mull
 mums
+mung
+muon
 murk
 muse
 mush
@@ -1296,6 +1345,7 @@ mutt
 myth
 naan
 nabs
+nada
 nags
 nail
 name
@@ -1303,6 +1353,7 @@ nana
 nans
 nape
 naps
+nary
 navy
 nays
 near
@@ -1324,14 +1375,17 @@ nine
 nips
 nite
 nits
+nobs
 node
 nods
 noes
+noir
 none
 noob
 nook
 noon
 nope
+nori
 norm
 nose
 nosh
@@ -1348,6 +1402,7 @@ nuns
 nuts
 oafs
 oaks
+oaky
 oars
 oath
 oats
@@ -1406,6 +1461,7 @@ oxen
 pace
 pack
 pact
+pacy
 pads
 page
 paid
@@ -1455,6 +1511,7 @@ peon
 peps
 perk
 perm
+perp
 perv
 peso
 pest
@@ -1535,6 +1592,7 @@ pray
 prep
 prey
 prim
+prob
 prod
 prof
 prom
@@ -1565,6 +1623,7 @@ puts
 putt
 putz
 pyre
+pyro
 quad
 quay
 quid
@@ -1578,6 +1637,7 @@ rads
 raft
 rage
 rags
+ragu
 raid
 rail
 rain
@@ -1653,10 +1713,10 @@ robs
 rock
 rode
 rods
-roes
 roil
 role
 roll
+roma
 romp
 roof
 rook
@@ -1675,6 +1735,7 @@ rows
 rube
 rubs
 ruby
+ruck
 rude
 rued
 rues
@@ -1746,6 +1807,7 @@ semi
 send
 sent
 serf
+sesh
 sets
 sewn
 sews
@@ -1754,6 +1816,7 @@ sexy
 shag
 sham
 shat
+shea
 shed
 shes
 shim
@@ -1821,7 +1884,6 @@ slug
 slum
 slur
 slut
-smit
 smog
 smug
 smut
@@ -1839,6 +1901,7 @@ soap
 soar
 soba
 sobs
+soca
 sock
 soda
 sods
@@ -1928,7 +1991,6 @@ tabs
 tack
 taco
 tact
-tads
 tags
 tail
 take
@@ -1941,6 +2003,7 @@ tamp
 tang
 tank
 tans
+tapa
 tape
 taps
 tare
@@ -1952,6 +2015,7 @@ tase
 task
 tats
 taut
+taxa
 taxi
 teak
 teal
@@ -2010,6 +2074,8 @@ tips
 tire
 tits
 toad
+tock
+toco
 toed
 toes
 tofu
@@ -2059,6 +2125,7 @@ tuba
 tube
 tubs
 tuck
+tuff
 tuft
 tugs
 tums
@@ -2067,6 +2134,7 @@ tune
 turd
 turf
 turn
+tush
 tusk
 tutu
 twas
@@ -2084,8 +2152,10 @@ ugly
 ulna
 umps
 undo
+unis
 unit
 unto
+updo
 upon
 urea
 urge
@@ -2148,6 +2218,7 @@ walk
 wall
 wand
 wane
+wang
 wank
 want
 ward

@@ -6,9 +6,11 @@ yachts
 yah
 yahoo
 yak
+yakitori
 yakked
 yakking
 yaks
+yakuza
 yam
 yammer
 yammered
@@ -70,12 +72,15 @@ yellowed
 yellower
 yellowest
 yellowfin
+yellowhammer
+yellowhammers
 yellowing
 yellowish
 yellowjacket
 yellowjackets
 yellowness
 yellows
+yellowtail
 yellowy
 yells
 yelp
@@ -92,6 +97,7 @@ yeses
 yesterday
 yesterdays
 yesteryear
+yesteryears
 yet
 yeti
 yetis
@@ -107,6 +113,8 @@ yippee
 yipping
 yips
 yo
+yoctosecond
+yoctoseconds
 yodel
 yodeled
 yodeling
@@ -115,6 +123,7 @@ yoga
 yoghurt
 yoghurts
 yogi
+yogic
 yogis
 yogurt
 yogurts
@@ -129,6 +138,10 @@ yolks
 yon
 yonder
 yore
+yorkie
+yorkies
+yottabyte
+yottabytes
 you
 young
 younger
@@ -160,6 +173,7 @@ yuk
 yule
 yuletide
 yum
+yumminess
 yummy
 yup
 yurt

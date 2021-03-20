@@ -206,6 +206,7 @@ fro
 fry
 fun
 fur
+gab
 gag
 gal
 gap
@@ -220,6 +221,7 @@ get
 gif
 gig
 gin
+git
 gnu
 gob
 god
@@ -329,6 +331,7 @@ loo
 lop
 lot
 low
+lox
 lug
 luv
 lux
@@ -377,6 +380,7 @@ nil
 nip
 nit
 nix
+nob
 nod
 nor
 nos

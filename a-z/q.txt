@@ -84,6 +84,11 @@ quantise
 quantised
 quantises
 quantising
+quantitate
+quantitated
+quantitates
+quantitating
+quantitation
 quantitative
 quantitatively
 quantities
@@ -148,6 +153,9 @@ quavering
 quavers
 quay
 quays
+quayside
+qubit
+qubits
 queasily
 queasiness
 queasy
@@ -229,6 +237,10 @@ quiescence
 quiescent
 quiet
 quieted
+quieten
+quietened
+quietening
+quietens
 quieter
 quietest
 quieting
@@ -236,6 +248,8 @@ quietly
 quietness
 quiets
 quietude
+quiff
+quiffs
 quill
 quills
 quilt
