@@ -245,7 +245,6 @@ anxiolytics
 anxiousness
 apatosaurus
 aphrodisiac
-aphrodisias
 apocalypses
 apocalyptic
 apologetics
@@ -708,6 +707,7 @@ chairperson
 chalkboards
 challengers
 challenging
+chamberings
 chambermaid
 chameleonic
 championing
@@ -1386,6 +1386,7 @@ devastation
 developable
 development
 deviousness
+devotionals
 diagnosable
 diagnostics
 diagramming
@@ -3040,6 +3041,7 @@ metaphysics
 metastasise
 metastasize
 metatarsals
+meteoritics
 meteorology
 methodology
 metroplexes
@@ -4419,6 +4421,7 @@ reregisters
 rereleasing
 rescheduled
 reschedules
+rescissions
 researchers
 researching
 resemblance

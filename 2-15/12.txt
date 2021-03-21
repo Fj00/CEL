@@ -56,7 +56,6 @@ adjudicatory
 administered
 administrate
 admonishment
-adolescences
 adorableness
 adulterating
 adulteration
@@ -1390,6 +1389,7 @@ grandmasters
 grandmothers
 grandnephews
 grandparents
+granulations
 grasshoppers
 gratefulness
 gratuitously
@@ -2564,6 +2564,7 @@ precondition
 predecessors
 predetermine
 predicaments
+predications
 predilection
 predisposing
 predominance

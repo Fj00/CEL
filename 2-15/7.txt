@@ -770,6 +770,7 @@ biscuit
 bisects
 bishops
 bismuth
+bisques
 bistros
 bitched
 bitches
@@ -5240,6 +5241,7 @@ nebular
 nebulas
 necking
 necktie
+nectars
 needful
 needier
 needing
@@ -6119,6 +6121,7 @@ prepare
 prepays
 preplan
 prepped
+preppie
 prequel
 presage
 presale

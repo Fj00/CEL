@@ -573,6 +573,7 @@ macromolecules
 macronutrients
 magnetospheric
 magnifications
+maladjustments
 malfunctioning
 manifestations
 manipulatively
@@ -772,6 +773,7 @@ polycarbonates
 polymerisation
 polymerization
 polysaccharide
+pontifications
 popularisation
 popularization
 possessiveness
@@ -1141,6 +1143,8 @@ untranslatable
 utilitarianism
 valedictorians
 ventriloquists
+verbalisations
+verbalizations
 verisimilitude
 videocassettes
 vindictiveness

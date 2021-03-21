@@ -295,6 +295,7 @@ necrotizing
 nectar
 nectarine
 nectarines
+nectars
 need
 needed
 needful

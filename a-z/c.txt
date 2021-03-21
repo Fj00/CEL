@@ -678,7 +678,6 @@ carport
 carports
 carps
 carrageenan
-carraway
 carriage
 carriages
 carriageway
@@ -1287,6 +1286,7 @@ chalupas
 chamber
 chambered
 chambering
+chamberings
 chambermaid
 chambermaids
 chambers
@@ -2016,6 +2016,7 @@ circumference
 circumferences
 circumferential
 circumlocution
+circumlocutions
 circumnavigate
 circumnavigated
 circumnavigates
@@ -5169,6 +5170,7 @@ craftsmanship
 craftsmen
 craftspeople
 craftsperson
+craftspersons
 craftswoman
 craftswomen
 crafty

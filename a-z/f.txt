@@ -556,6 +556,7 @@ feinting
 feints
 feisty
 feldspar
+feldspars
 felicity
 feline
 felines

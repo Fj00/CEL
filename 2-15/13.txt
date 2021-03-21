@@ -427,6 +427,7 @@ counterstrike
 countertenors
 counterweight
 craftsmanship
+craftspersons
 credentialing
 criminalising
 criminalizing
@@ -984,6 +985,7 @@ installations
 instantaneous
 instantiating
 instantiation
+instillations
 instinctively
 instinctually
 institutional

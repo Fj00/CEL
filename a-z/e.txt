@@ -100,6 +100,7 @@ easy
 easygoing
 eat
 eatable
+eatables
 eaten
 eater
 eateries
@@ -486,6 +487,7 @@ elegies
 elegy
 element
 elemental
+elementals
 elementary
 elements
 elephant
@@ -644,7 +646,6 @@ embezzlement
 embezzles
 embezzling
 embittered
-embitters
 emblazoned
 emblem
 emblematic

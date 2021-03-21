@@ -804,7 +804,6 @@ admonitions
 ado
 adobe
 adolescence
-adolescences
 adolescent
 adolescents
 adopt
@@ -2395,11 +2394,9 @@ aphid
 aphids
 aphorism
 aphorisms
-aphorist
 aphrodisiac
 aphrodisiacal
 aphrodisiacs
-aphrodisias
 apiaries
 apiary
 apiece
@@ -5460,6 +5457,7 @@ bismuth
 bison
 bisons
 bisque
+bisques
 bistro
 bistros
 bit
@@ -8128,7 +8126,6 @@ carport
 carports
 carps
 carrageenan
-carraway
 carriage
 carriages
 carriageway
@@ -8737,6 +8734,7 @@ chalupas
 chamber
 chambered
 chambering
+chamberings
 chambermaid
 chambermaids
 chambers
@@ -9466,6 +9464,7 @@ circumference
 circumferences
 circumferential
 circumlocution
+circumlocutions
 circumnavigate
 circumnavigated
 circumnavigates
@@ -12619,6 +12618,7 @@ craftsmanship
 craftsmen
 craftspeople
 craftsperson
+craftspersons
 craftswoman
 craftswomen
 crafty
@@ -14109,6 +14109,7 @@ decluttered
 decluttering
 declutters
 decoction
+decoctions
 decode
 decoded
 decoder
@@ -15418,6 +15419,7 @@ devotes
 devoting
 devotion
 devotional
+devotionals
 devotions
 devour
 devoured
@@ -17752,6 +17754,7 @@ easy
 easygoing
 eat
 eatable
+eatables
 eaten
 eater
 eateries
@@ -18138,6 +18141,7 @@ elegies
 elegy
 element
 elemental
+elementals
 elementary
 elements
 elephant
@@ -18296,7 +18300,6 @@ embezzlement
 embezzles
 embezzling
 embittered
-embitters
 emblazoned
 emblem
 emblematic
@@ -20835,6 +20838,7 @@ feinting
 feints
 feisty
 feldspar
+feldspars
 felicity
 feline
 felines
@@ -24401,6 +24405,7 @@ granular
 granularity
 granulated
 granulation
+granulations
 granule
 granules
 grape
@@ -24922,6 +24927,7 @@ gum
 gumball
 gumballs
 gumbo
+gumbos
 gumdrop
 gumdrops
 gummed
@@ -28930,6 +28936,7 @@ insatiable
 insatiably
 inscribe
 inscribed
+inscribes
 inscribing
 inscription
 inscriptions
@@ -29078,6 +29085,7 @@ instigators
 instil
 instill
 instillation
+instillations
 instilled
 instilling
 instills
@@ -30842,6 +30850,7 @@ knifed
 knifepoint
 knifes
 knifing
+knifings
 knight
 knighted
 knighthood
@@ -33068,6 +33077,7 @@ maladaptive
 maladies
 maladjusted
 maladjustment
+maladjustments
 malady
 malaise
 malapropism
@@ -34336,6 +34346,7 @@ meteoric
 meteorite
 meteorites
 meteoritic
+meteoritics
 meteoroid
 meteoroids
 meteorological
@@ -34837,6 +34848,7 @@ minstrels
 minstrelsy
 mint
 mintage
+mintages
 minted
 minter
 minters
@@ -36600,6 +36612,7 @@ necrotizing
 nectar
 nectarine
 nectarines
+nectars
 need
 needed
 needful
@@ -39754,7 +39767,6 @@ panoply
 panorama
 panoramas
 panoramic
-panpipes
 pans
 pansexual
 pansexuality
@@ -40600,6 +40612,7 @@ penitent
 penitential
 penitentiaries
 penitentiary
+penitents
 penmanship
 pennant
 pennants
@@ -42356,6 +42369,7 @@ pontificated
 pontificates
 pontificating
 pontification
+pontifications
 pontoon
 pontoons
 pony
@@ -42948,6 +42962,7 @@ predicated
 predicates
 predicating
 predication
+predications
 predict
 predictability
 predictable
@@ -43168,6 +43183,7 @@ prepositions
 preposterous
 preposterously
 prepped
+preppie
 preppies
 prepping
 preppy
@@ -47800,6 +47816,7 @@ rescinded
 rescinding
 rescinds
 rescission
+rescissions
 rescue
 rescued
 rescuer
@@ -49599,6 +49616,7 @@ salvages
 salvaging
 salvation
 salve
+salves
 salvo
 salvos
 samaritan
@@ -59581,7 +59599,7 @@ transcending
 transcends
 transcode
 transcoded
-transcoder
+transcodes
 transcoding
 transcribe
 transcribed
@@ -60713,6 +60731,7 @@ um
 umami
 umber
 umbilical
+umbilicals
 umbra
 umbrage
 umbrella
@@ -62965,11 +62984,13 @@ verandas
 verb
 verbal
 verbalisation
+verbalisations
 verbalise
 verbalised
 verbalises
 verbalising
 verbalization
+verbalizations
 verbalize
 verbalized
 verbalizes

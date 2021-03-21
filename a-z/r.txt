@@ -2809,6 +2809,7 @@ rescinded
 rescinding
 rescinds
 rescission
+rescissions
 rescue
 rescued
 rescuer

@@ -194,6 +194,7 @@ salvages
 salvaging
 salvation
 salve
+salves
 salvo
 salvos
 samaritan

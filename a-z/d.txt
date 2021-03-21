@@ -528,6 +528,7 @@ decluttered
 decluttering
 declutters
 decoction
+decoctions
 decode
 decoded
 decoder
@@ -1837,6 +1838,7 @@ devotes
 devoting
 devotion
 devotional
+devotionals
 devotions
 devour
 devoured

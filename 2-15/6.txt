@@ -2706,6 +2706,7 @@ guitar
 gulags
 gullet
 gulped
+gumbos
 gummed
 gunman
 gunmen
@@ -5210,6 +5211,7 @@ salsas
 salted
 saluki
 salute
+salves
 salvos
 sambal
 samosa

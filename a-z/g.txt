@@ -1347,6 +1347,7 @@ granular
 granularity
 granulated
 granulation
+granulations
 granule
 granules
 grape
@@ -1868,6 +1869,7 @@ gum
 gumball
 gumballs
 gumbo
+gumbos
 gumdrop
 gumdrops
 gummed

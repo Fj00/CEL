@@ -2719,7 +2719,6 @@ embedding
 embellish
 embezzled
 embezzles
-embitters
 embodying
 emboldens
 embolisms
@@ -3154,6 +3153,7 @@ federated
 feedbacks
 feedstock
 feedstuff
+feldspars
 fellating
 felonious
 feminised
@@ -4284,6 +4284,7 @@ inputting
 inquiries
 inquiring
 inscribed
+inscribes
 insensate
 inserting
 insertion
@@ -5943,6 +5944,7 @@ pendulums
 penetrate
 peninsula
 penitence
+penitents
 penniless
 pensioner
 pensively

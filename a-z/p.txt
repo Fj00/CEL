@@ -282,7 +282,6 @@ panoply
 panorama
 panoramas
 panoramic
-panpipes
 pans
 pansexual
 pansexuality
@@ -1128,6 +1127,7 @@ penitent
 penitential
 penitentiaries
 penitentiary
+penitents
 penmanship
 pennant
 pennants
@@ -2884,6 +2884,7 @@ pontificated
 pontificates
 pontificating
 pontification
+pontifications
 pontoon
 pontoons
 pony
@@ -3476,6 +3477,7 @@ predicated
 predicates
 predicating
 predication
+predications
 predict
 predictability
 predictable
@@ -3696,6 +3698,7 @@ prepositions
 preposterous
 preposterously
 prepped
+preppie
 preppies
 prepping
 preppy

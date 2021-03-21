@@ -804,7 +804,6 @@ admonitions
 ado
 adobe
 adolescence
-adolescences
 adolescent
 adolescents
 adopt
@@ -2395,11 +2394,9 @@ aphid
 aphids
 aphorism
 aphorisms
-aphorist
 aphrodisiac
 aphrodisiacal
 aphrodisiacs
-aphrodisias
 apiaries
 apiary
 apiece

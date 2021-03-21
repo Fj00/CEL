@@ -1721,6 +1721,7 @@ decisively
 deckchairs
 declassify
 declutters
+decoctions
 decolonise
 decolonize
 decomposed
@@ -2265,6 +2266,7 @@ electrical
 electrodes
 electronic
 electropop
+elementals
 elementary
 elevations
 eliminated
@@ -7296,7 +7298,7 @@ transacted
 transaxles
 transcends
 transcoded
-transcoder
+transcodes
 transcribe
 transcript
 transduced
@@ -7419,6 +7421,7 @@ ultimatums
 ultralight
 ultrasonic
 ultrasound
+umbilicals
 unabridged
 unadjusted
 unaffected

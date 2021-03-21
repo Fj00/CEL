@@ -376,11 +376,13 @@ verandas
 verb
 verbal
 verbalisation
+verbalisations
 verbalise
 verbalised
 verbalises
 verbalising
 verbalization
+verbalizations
 verbalize
 verbalized
 verbalizes
