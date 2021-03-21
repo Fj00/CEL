@@ -3049,7 +3049,6 @@ skinniness
 skinning
 skinny
 skins
-skint
 skintight
 skip
 skipjack
@@ -4727,6 +4726,8 @@ spiny
 spiral
 spiraled
 spiraling
+spiraliser
+spiralisers
 spiralizer
 spiralizers
 spiralled
@@ -6216,7 +6217,6 @@ strongly
 strongman
 strongmen
 strontium
-stroppy
 strove
 struck
 structural

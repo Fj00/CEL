@@ -1475,6 +1475,10 @@ reenactments
 reenactor
 reenactors
 reenacts
+reenergise
+reenergised
+reenergises
+reenergising
 reenergize
 reenergized
 reenergizes

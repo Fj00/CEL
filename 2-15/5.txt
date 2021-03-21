@@ -3495,7 +3495,6 @@ skimp
 skims
 skink
 skins
-skint
 skips
 skirt
 skits
@@ -4380,7 +4379,6 @@ whirl
 whirr
 whirs
 whisk
-whist
 white
 whizz
 whole

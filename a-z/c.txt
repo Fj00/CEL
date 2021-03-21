@@ -538,6 +538,8 @@ carbonates
 carbonating
 carbonation
 carbonic
+carbonisation
+carbonised
 carbonization
 carbonized
 carbons

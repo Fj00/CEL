@@ -7988,6 +7988,8 @@ carbonates
 carbonating
 carbonation
 carbonic
+carbonisation
+carbonised
 carbonization
 carbonized
 carbons
@@ -38588,6 +38590,7 @@ otherness
 others
 otherwise
 otherworldly
+otitis
 otolaryngology
 otoscope
 otoscopes
@@ -46463,6 +46466,10 @@ reenactments
 reenactor
 reenactors
 reenacts
+reenergise
+reenergised
+reenergises
+reenergising
 reenergize
 reenergized
 reenergizes
@@ -52447,7 +52454,6 @@ skinniness
 skinning
 skinny
 skins
-skint
 skintight
 skip
 skipjack
@@ -54125,6 +54131,8 @@ spiny
 spiral
 spiraled
 spiraling
+spiraliser
+spiralisers
 spiralizer
 spiralizers
 spiralled
@@ -55614,7 +55622,6 @@ strongly
 strongman
 strongmen
 strontium
-stroppy
 strove
 struck
 structural
@@ -64426,7 +64433,6 @@ whispering
 whisperings
 whispers
 whispery
-whist
 whistle
 whistleblowing
 whistled

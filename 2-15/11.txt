@@ -4254,6 +4254,8 @@ reemphasise
 reemphasize
 reemploying
 reenactment
+reenergised
+reenergises
 reenergized
 reenergizes
 reengineers
@@ -4799,6 +4801,7 @@ spermatozoa
 spermicidal
 spermicides
 spherically
+spiralisers
 spiralizers
 spiritually
 spitballing

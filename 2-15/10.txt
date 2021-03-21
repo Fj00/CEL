@@ -929,6 +929,7 @@ caramelise
 caramelize
 carbonated
 carbonates
+carbonised
 carbonized
 carburetor
 carcinogen
@@ -5793,6 +5794,7 @@ reemerging
 reemployed
 reenacting
 reenactors
+reenergise
 reenergize
 reengaging
 reengineer
@@ -6643,6 +6645,7 @@ spheroidal
 sphincters
 spiderwebs
 spillovers
+spiraliser
 spiralizer
 spiralling
 spirituals
