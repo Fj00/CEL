@@ -1574,8 +1574,6 @@ grinding
 grinds
 grindstone
 grindstones
-gringo
-gringos
 grinned
 grinning
 grins

@@ -1296,7 +1296,6 @@ hitters
 hitting
 hive
 hives
-ho
 hoagie
 hoagies
 hoard
@@ -1727,7 +1726,6 @@ horticultural
 horticulture
 horticulturist
 horticulturists
-hos
 hose
 hosed
 hoses

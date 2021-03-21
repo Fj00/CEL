@@ -21,7 +21,6 @@ go
 ha
 he
 hi
-ho
 id
 if
 in

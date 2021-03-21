@@ -1360,8 +1360,6 @@ redline
 redlined
 redlines
 redlining
-redneck
-rednecks
 redness
 redo
 redoes

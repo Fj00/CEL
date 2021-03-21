@@ -259,7 +259,6 @@ hoc
 hoe
 hog
 hop
-hos
 hot
 how
 hub
@@ -320,7 +319,6 @@ led
 lee
 leg
 let
-lez
 lid
 lie
 lip
