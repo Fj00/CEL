@@ -3,6 +3,7 @@ acclimatization
 accomplishments
 acknowledgement
 acknowledgments
+adenocarcinomas
 administrations
 aerodynamically
 agriculturalist
@@ -26,6 +27,8 @@ archaeopteryxes
 architecturally
 astrobiologists
 astrophysicists
+atherosclerosis
+atherosclerotic
 atmospherically
 authentications
 authoritatively
@@ -34,7 +37,9 @@ bacteriological
 bacteriologists
 bastardisations
 bastardizations
+benzodiazepines
 bibliographical
+bioavailability
 bioluminescence
 biostatistician
 biotechnologies
@@ -130,6 +135,7 @@ decontamination
 decriminalising
 decriminalizing
 defragmentation
+demisemiquavers
 democratisation
 democratization
 demographically
@@ -174,12 +180,15 @@ electrification
 electrochemical
 electrodynamics
 electromagnetic
+electrophoresis
+electrophoretic
 endocrinologist
 enfranchisement
 entrepreneurial
 environmentally
 epidemiological
 epidemiologists
+epistemological
 ethnomusicology
 euphemistically
 excommunicating
@@ -200,12 +209,14 @@ fundamentalists
 gastroenteritis
 generalisations
 generalizations
+glucocorticoids
 gravitationally
 harpsichordists
 heartbreakingly
 heterogeneously
 heteronormative
 heterosexuality
+histopathologic
 horticulturists
 hospitalisation
 hospitalization
@@ -398,6 +409,8 @@ pharmacotherapy
 philanthropists
 philosophically
 phosphorescence
+phosphorylating
+phosphorylation
 photojournalism
 photojournalist
 photosynthesise
@@ -406,6 +419,7 @@ physicochemical
 physiologically
 physiotherapist
 plenipotentiary
+polychlorinated
 polycrystalline
 polysaccharides
 polyunsaturated
@@ -545,6 +559,7 @@ teleconferences
 temperamentally
 therapeutically
 thoughtlessness
+thromboembolism
 thyroidectomies
 tonsillectomies
 topographically
@@ -564,6 +579,7 @@ troubleshooting
 trustworthiness
 typographically
 tyrannosauruses
+ultrafiltration
 ultrasonography
 unaccommodating
 unauthenticated

@@ -9,7 +9,6 @@ aces
 ache
 achy
 acid
-acme
 acne
 acre
 acts
@@ -35,6 +34,7 @@ ajar
 akin
 alas
 ales
+alit
 ally
 alms
 aloe
@@ -72,6 +72,7 @@ army
 arse
 arts
 arty
+arvo
 ashy
 asks
 asps
@@ -131,6 +132,7 @@ bass
 bate
 bath
 bats
+baud
 bawl
 bays
 bead
@@ -173,7 +175,6 @@ bite
 bits
 blab
 blah
-blam
 bled
 blew
 blip
@@ -209,6 +210,7 @@ boob
 book
 boom
 boon
+boor
 boos
 boot
 bops
@@ -237,6 +239,7 @@ brig
 brim
 bros
 brow
+bubs
 buck
 buds
 buff
@@ -275,7 +278,6 @@ cake
 calf
 call
 calm
-cals
 came
 camo
 camp
@@ -316,6 +318,7 @@ chip
 chit
 chop
 chow
+chub
 chug
 chum
 ciao
@@ -376,6 +379,7 @@ cork
 corn
 cost
 cosy
+cote
 cots
 coup
 cove
@@ -454,6 +458,7 @@ deep
 deer
 deft
 defy
+deke
 deli
 dell
 demo
@@ -512,6 +517,8 @@ door
 dope
 dork
 dorm
+dory
+dosa
 dose
 dote
 dots
@@ -550,6 +557,7 @@ dupe
 dusk
 dust
 duty
+dyad
 dyed
 dyes
 dyke
@@ -565,11 +573,11 @@ eave
 ebbs
 echo
 ecru
+eddy
 edge
 edgy
 edit
 eels
-effs
 eggs
 eggy
 egos
@@ -580,7 +588,6 @@ elks
 elms
 else
 emit
-emos
 emus
 ends
 envy
@@ -601,6 +608,7 @@ exam
 exec
 exes
 exit
+exon
 expo
 eyed
 eyes
@@ -647,6 +655,7 @@ fete
 feud
 fiat
 fibs
+fief
 fife
 figs
 file
@@ -654,6 +663,7 @@ fill
 film
 find
 fine
+fink
 fins
 fire
 firm
@@ -722,6 +732,7 @@ full
 fume
 fund
 funk
+furl
 furs
 fury
 fuse
@@ -730,6 +741,7 @@ fuzz
 gabs
 gaff
 gaga
+gage
 gags
 gain
 gait
@@ -797,6 +809,7 @@ goad
 goal
 goat
 gobs
+goby
 gods
 goer
 goes
@@ -807,9 +820,11 @@ gone
 gong
 good
 goof
+gook
 goon
 goop
 gore
+gorp
 gory
 gosh
 goth
@@ -818,6 +833,7 @@ gown
 grab
 grad
 gram
+gran
 gray
 grew
 grey
@@ -831,6 +847,7 @@ grok
 grow
 grub
 guar
+guff
 gulf
 gull
 gulp
@@ -844,11 +861,13 @@ guts
 guys
 gyms
 gyre
+gyri
 gyro
 hack
 hags
 hail
 hair
+hake
 half
 hall
 halo
@@ -857,7 +876,6 @@ hams
 hand
 hang
 hank
-haps
 hard
 hare
 hark
@@ -991,7 +1009,6 @@ iris
 irks
 iron
 isle
-isms
 itch
 item
 jabs
@@ -1001,11 +1018,13 @@ jags
 jail
 jamb
 jams
+jape
 jars
 java
 jaws
 jays
 jazz
+jean
 jeep
 jeer
 jeez
@@ -1014,9 +1033,11 @@ jerk
 jest
 jets
 jibe
+jibs
 jiff
 jigs
 jinx
+jism
 jive
 jizz
 jobs
@@ -1034,6 +1055,7 @@ joys
 judo
 jugs
 juju
+juke
 jump
 junk
 jury
@@ -1042,6 +1064,7 @@ jute
 juts
 kale
 kart
+kava
 keel
 keen
 keep
@@ -1096,6 +1119,7 @@ lank
 laps
 lard
 lark
+lase
 lash
 lass
 last
@@ -1116,8 +1140,10 @@ leap
 lech
 leek
 leer
+lees
 left
 legs
+leis
 lend
 lens
 lent
@@ -1128,7 +1154,9 @@ levy
 lewd
 liar
 lice
+lich
 lick
+lido
 lids
 lied
 lien
@@ -1166,6 +1194,7 @@ lock
 loco
 lode
 loft
+loge
 logo
 logs
 loin
@@ -1198,7 +1227,6 @@ luge
 lugs
 lull
 lump
-luna
 lung
 lure
 lurk
@@ -1211,7 +1239,6 @@ lyre
 mace
 mach
 made
-mads
 mage
 mags
 maid
@@ -1234,6 +1261,7 @@ mare
 mark
 mars
 mart
+masa
 mash
 mask
 mass
@@ -1280,6 +1308,7 @@ milf
 milk
 mill
 mils
+milt
 mime
 mind
 mine
@@ -1293,17 +1322,17 @@ miss
 mist
 mite
 mitt
-mixt
 moan
 moat
 mobs
 mock
 mode
 mods
+mofo
 mojo
 mold
 mole
-mols
+moll
 molt
 moms
 monk
@@ -1352,6 +1381,7 @@ nana
 nans
 nape
 naps
+narc
 nary
 navy
 nays
@@ -1359,6 +1389,7 @@ near
 neat
 neck
 need
+neem
 neon
 nerd
 nest
@@ -1391,6 +1422,7 @@ nosh
 nosy
 note
 noun
+nous
 nova
 nubs
 nude
@@ -1442,6 +1474,7 @@ orcs
 ores
 orgs
 orgy
+oryx
 orzo
 ouch
 ours
@@ -1460,7 +1493,6 @@ oxen
 pace
 pack
 pact
-pacy
 pads
 page
 paid
@@ -1511,6 +1543,7 @@ peps
 perk
 perm
 perp
+pert
 perv
 peso
 pest
@@ -1557,6 +1590,7 @@ pock
 pods
 poem
 poet
+pogo
 poke
 poky
 pole
@@ -1565,6 +1599,8 @@ polo
 poly
 pomp
 pond
+pong
+pons
 pony
 poof
 pooh
@@ -1634,6 +1670,7 @@ rack
 racy
 rads
 raft
+raga
 rage
 rags
 ragu
@@ -1683,6 +1720,7 @@ rhea
 ribs
 rice
 rich
+rick
 ride
 rids
 rife
@@ -1702,6 +1740,7 @@ rips
 rise
 risk
 rite
+ritz
 rive
 road
 roam
@@ -1727,6 +1766,7 @@ ropy
 rose
 rosy
 rote
+roti
 rots
 rout
 rove
@@ -1758,6 +1798,7 @@ sacs
 safe
 saga
 sage
+sago
 sags
 said
 sail
@@ -1784,6 +1825,7 @@ scam
 scan
 scar
 scat
+scow
 scud
 scum
 seal
@@ -1805,6 +1847,7 @@ sell
 semi
 send
 sent
+sere
 serf
 sesh
 sets
@@ -1812,6 +1855,7 @@ sewn
 sews
 sext
 sexy
+shad
 shag
 sham
 shat
@@ -1831,7 +1875,6 @@ shot
 show
 shun
 shut
-sibs
 sick
 sics
 side
@@ -1875,6 +1918,7 @@ slim
 slip
 slit
 slob
+sloe
 slog
 slop
 slot
@@ -1907,9 +1951,11 @@ sods
 sofa
 soft
 soil
+soju
 sold
 sole
 solo
+soma
 some
 song
 sons
@@ -1956,6 +2002,7 @@ stow
 stub
 stud
 stun
+stye
 subs
 such
 suck
@@ -1998,6 +2045,7 @@ talk
 tall
 tame
 tamp
+tams
 tang
 tank
 tans
@@ -2005,6 +2053,7 @@ tapa
 tape
 taps
 tare
+tarn
 taro
 tarp
 tars
@@ -2068,12 +2117,12 @@ ting
 tins
 tint
 tiny
+tipi
 tips
 tire
 tits
 toad
 tock
-toco
 toed
 toes
 tofu
@@ -2086,7 +2135,6 @@ tomb
 tome
 toms
 tone
-tong
 tons
 took
 tool
@@ -2094,7 +2142,9 @@ toon
 toot
 tops
 tore
+tori
 torn
+torr
 tort
 toss
 tote
@@ -2164,6 +2214,7 @@ uses
 utes
 vacs
 vain
+vale
 vamp
 vane
 vans
@@ -2193,6 +2244,7 @@ view
 vile
 vine
 vino
+viny
 visa
 vise
 viva
@@ -2208,9 +2260,12 @@ wads
 waft
 wage
 wags
+waif
 wail
+wain
 wait
 wake
+wale
 walk
 wall
 wand
@@ -2242,6 +2297,7 @@ weed
 week
 weep
 weft
+weir
 weld
 well
 welt
@@ -2253,12 +2309,10 @@ west
 wets
 wham
 what
-whee
 when
 whet
 whew
 whey
-whig
 whim
 whip
 whir

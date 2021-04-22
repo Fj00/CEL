@@ -108,6 +108,8 @@ dangerousness
 dangers
 dangle
 dangled
+dangler
+danglers
 dangles
 dangling
 dangly
@@ -143,6 +145,7 @@ darkrooms
 darks
 darling
 darlings
+darmstadtium
 darn
 darndest
 darned
@@ -162,6 +165,7 @@ dashed
 dasher
 dashers
 dashes
+dashi
 dashing
 dastardly
 data
@@ -295,7 +299,6 @@ dearies
 dearly
 dears
 dearth
-deary
 death
 deathbed
 deathbeds
@@ -334,6 +337,10 @@ debited
 debiting
 debits
 debonair
+debone
+deboned
+debones
+deboning
 debridement
 debrief
 debriefed
@@ -671,6 +678,7 @@ deepness
 deeps
 deepwater
 deer
+deerskin
 def
 deface
 defaced
@@ -683,6 +691,10 @@ defame
 defamed
 defames
 defaming
+defang
+defanged
+defanging
+defangs
 default
 defaulted
 defaulter
@@ -795,6 +807,8 @@ defocus
 defocused
 defocuses
 defocusing
+defogger
+defoggers
 deforest
 deforestation
 deforested
@@ -853,6 +867,10 @@ degenerates
 degenerating
 degeneration
 degenerative
+deglaze
+deglazed
+deglazes
+deglazing
 degradable
 degradation
 degradations
@@ -902,11 +920,17 @@ deigned
 deigning
 deigns
 deionized
+deism
+deist
+deistic
+deists
 deities
 deity
 dejected
 dejectedly
 dejection
+deke
+dekes
 delay
 delayed
 delaying
@@ -1057,6 +1081,8 @@ demilitarizes
 demilitarizing
 demining
 demise
+demisemiquaver
+demisemiquavers
 demises
 demo
 demobilisation
@@ -1168,6 +1194,9 @@ denature
 denatured
 denatures
 denaturing
+dendrite
+dendrites
+dendritic
 dengue
 deniability
 deniable
@@ -1218,6 +1247,8 @@ density
 dent
 dental
 dented
+dentin
+dentine
 denting
 dentist
 dentistry
@@ -1570,6 +1601,8 @@ designates
 designating
 designation
 designations
+designator
+designators
 designed
 designee
 designees
@@ -1594,6 +1627,7 @@ desktop
 desktops
 desolate
 desolation
+desorption
 despair
 despaired
 despairing
@@ -1788,6 +1822,10 @@ devastates
 devastating
 devastatingly
 devastation
+devein
+deveined
+deveining
+deveins
 develop
 developable
 developed
@@ -1849,6 +1887,10 @@ devoutly
 devs
 dew
 dewatering
+deworm
+dewormed
+deworming
+deworms
 dewy
 dexterity
 dexterous
@@ -1920,6 +1962,7 @@ diary
 diaspora
 diasporas
 diasporic
+diastole
 diastolic
 diatribe
 diatribes
@@ -1952,7 +1995,6 @@ diction
 dictionaries
 dictionary
 dictum
-dictums
 did
 didactic
 diddle
@@ -1984,7 +2026,6 @@ dieting
 dietitian
 dietitians
 diets
-dif
 diff
 differ
 differed
@@ -2027,7 +2068,6 @@ diffusion
 diffusive
 diffusivity
 dig
-digerati
 digest
 digested
 digestibility
@@ -2056,6 +2096,7 @@ digitalized
 digitalizes
 digitalizing
 digitally
+digitals
 digitisation
 digitise
 digitised
@@ -2087,6 +2128,7 @@ digression
 digressions
 digressive
 digs
+dihedral
 dike
 dikes
 dilapidated
@@ -2130,6 +2172,7 @@ dimensioning
 dimensionless
 dimensions
 dimes
+dimethyl
 diminish
 diminished
 diminishes
@@ -2173,6 +2216,8 @@ dingo
 dingoes
 dingos
 dings
+dingus
+dinguses
 dingy
 dining
 dinky
@@ -2193,8 +2238,10 @@ diorama
 dioramas
 dioxide
 dip
+diphtheria
 diplodocus
 diplodocuses
+diploid
 diploma
 diplomacy
 diplomas
@@ -2237,7 +2284,6 @@ directorship
 directorships
 directory
 directs
-direful
 direly
 direr
 direst
@@ -3128,6 +3174,8 @@ docketed
 docketing
 dockets
 docking
+dockland
+docklands
 docks
 dockside
 dockworker
@@ -3161,6 +3209,7 @@ documenting
 documents
 docuseries
 doddering
+doddle
 dodecahedra
 dodecahedral
 dodecahedron
@@ -3210,6 +3259,9 @@ dogmas
 dogmatic
 dogmatically
 dogs
+dogsled
+dogsledding
+dogsleds
 dogwood
 dogwoods
 doilies
@@ -3293,6 +3345,7 @@ donator
 donators
 done
 doneness
+doner
 dong
 dongle
 dongles
@@ -3356,6 +3409,7 @@ dopey
 doping
 doppelganger
 doppelgangers
+dories
 dork
 dorks
 dorky
@@ -3364,13 +3418,18 @@ dormancy
 dormant
 dormer
 dormers
+dormice
 dormitories
 dormitory
+dormouse
 dorms
 dorsal
+dory
 dos
+dosa
 dosage
 dosages
+dosas
 dose
 dosed
 doses
@@ -3435,6 +3494,8 @@ dovetailed
 dovetailing
 dovetails
 dovish
+dowager
+dowagers
 dowdy
 dowel
 dowels
@@ -3442,7 +3503,6 @@ dower
 dowers
 down
 downbeat
-downbeats
 downburst
 downbursts
 downcast
@@ -3558,6 +3618,10 @@ dragonfly
 dragonfruit
 dragonfruits
 dragons
+dragoon
+dragooned
+dragooning
+dragoons
 drags
 dragster
 dragsters
@@ -3573,6 +3637,8 @@ draining
 drainpipe
 drainpipes
 drains
+drake
+drakes
 drama
 dramas
 dramatic
@@ -3630,6 +3696,7 @@ dreaded
 dreadful
 dreadfully
 dreading
+dreadlock
 dreadlocks
 dreadnought
 dreadnoughts
@@ -3654,6 +3721,8 @@ dreamt
 dreamworld
 dreamworlds
 dreamy
+drearier
+dreariest
 dreary
 dreck
 dredge
@@ -3832,6 +3901,8 @@ drunker
 drunkest
 drunks
 dry
+dryad
+dryads
 dryer
 dryers
 drying
@@ -3852,6 +3923,7 @@ dubbed
 dubbing
 dubious
 dubiously
+dubnium
 dubs
 dubstep
 duchess
@@ -3958,6 +4030,8 @@ dunks
 dunno
 duo
 duodenal
+duodenum
+duodenums
 duopolies
 duopoly
 duos
@@ -4029,6 +4103,8 @@ dwindle
 dwindled
 dwindles
 dwindling
+dyad
+dyads
 dye
 dyed
 dyeing
@@ -4061,6 +4137,8 @@ dyspepsia
 dyspeptic
 dysphoria
 dysphoric
+dyspnea
+dyspnoea
 dyspraxia
 dysprosium
 dystopia

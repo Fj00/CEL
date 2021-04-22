@@ -155,6 +155,7 @@ iguana
 iguanas
 iguanodon
 iguanodons
+ikebana
 ilk
 ill
 illegal
@@ -606,6 +607,7 @@ improviser
 improvisers
 improvises
 improvising
+improvs
 imprudence
 imprudent
 imps
@@ -725,9 +727,7 @@ incendiaries
 incendiary
 incense
 incensed
-incent
-incented
-incenting
+incenses
 incentive
 incentives
 incentivise
@@ -738,7 +738,6 @@ incentivize
 incentivized
 incentivizes
 incentivizing
-incents
 inception
 incessant
 incessantly
@@ -1184,8 +1183,6 @@ infectiousness
 infective
 infectivity
 infects
-infeed
-infeeds
 infer
 inference
 inferences
@@ -1519,6 +1516,7 @@ inns
 innuendo
 innuendos
 innumerable
+inocula
 inoculant
 inoculants
 inoculate
@@ -1527,6 +1525,7 @@ inoculates
 inoculating
 inoculation
 inoculations
+inoculum
 inoffensive
 inoperable
 inoperative
@@ -2252,6 +2251,8 @@ introducing
 introduction
 introductions
 introductory
+intron
+introns
 intros
 introspect
 introspected
@@ -2371,6 +2372,7 @@ investor
 investors
 invests
 inveterate
+inviable
 invidious
 invigorate
 invigorated
@@ -2466,6 +2468,7 @@ ironically
 ironies
 ironing
 irons
+ironwood
 ironwork
 ironworker
 ironworkers
@@ -2551,8 +2554,6 @@ isle
 isles
 islet
 islets
-ism
-isms
 isoform
 isoforms
 isolate

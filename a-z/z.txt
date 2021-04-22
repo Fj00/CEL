@@ -114,10 +114,14 @@ zoomable
 zoomed
 zooming
 zooms
+zoonoses
+zoonosis
+zoonotic
 zoophilia
 zooplankton
 zoos
 zoot
+zoster
 zucchini
 zucchinis
 zugzwang

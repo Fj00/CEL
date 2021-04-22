@@ -6,7 +6,6 @@ aback
 abacus
 abacuses
 abalone
-abalones
 abandon
 abandoned
 abandoning
@@ -294,6 +293,8 @@ acceptance
 acceptances
 accepted
 accepting
+acceptor
+acceptors
 accepts
 access
 accessed
@@ -453,6 +454,8 @@ acetate
 acetates
 acetic
 acetone
+acetyl
+acetylcholine
 ache
 ached
 aches
@@ -467,7 +470,6 @@ achieves
 achieving
 aching
 achingly
-achoo
 achy
 acid
 acidic
@@ -487,7 +489,6 @@ acknowledges
 acknowledging
 acknowledgment
 acknowledgments
-acme
 acne
 acolyte
 acolytes
@@ -619,6 +620,7 @@ acyclic
 ad
 adage
 adages
+adagio
 adamant
 adamantine
 adamantly
@@ -681,10 +683,13 @@ adduces
 adducing
 addy
 adenine
+adenocarcinoma
+adenocarcinomas
 adenoid
 adenoids
 adenoma
 adenomas
+adenosine
 adept
 adeptly
 adeptness
@@ -704,6 +709,8 @@ adhesive
 adhesives
 adieu
 adios
+adipocyte
+adipocytes
 adipose
 adiposity
 adjacencies
@@ -803,6 +810,7 @@ admonition
 admonitions
 ado
 adobe
+adobo
 adolescence
 adolescent
 adolescents
@@ -941,7 +949,6 @@ aerators
 aerial
 aerialist
 aerialists
-aerially
 aerials
 aero
 aerobatic
@@ -979,6 +986,7 @@ aesthetically
 aesthetician
 aestheticians
 aesthetics
+aether
 afar
 affability
 affable
@@ -998,6 +1006,8 @@ affections
 affective
 affectively
 affects
+afferent
+afferents
 affidavit
 affidavits
 affiliate
@@ -1176,6 +1186,9 @@ agonised
 agonises
 agonising
 agonisingly
+agonist
+agonistic
+agonists
 agonize
 agonized
 agonizes
@@ -1305,7 +1318,6 @@ airman
 airmen
 airplane
 airplanes
-airplay
 airport
 airports
 airpower
@@ -1345,6 +1357,7 @@ alarm
 alarmed
 alarming
 alarmingly
+alarmism
 alarmist
 alarmists
 alarms
@@ -1352,6 +1365,7 @@ alas
 albacore
 albatross
 albatrosses
+albedo
 albeit
 albinism
 albino
@@ -1393,6 +1407,7 @@ algae
 algal
 algebra
 algebraic
+algebras
 algorithm
 algorithmic
 algorithmically
@@ -1428,6 +1443,7 @@ alimentary
 alimentation
 aliments
 alimony
+alit
 alive
 aliveness
 alkali
@@ -1454,6 +1470,7 @@ alleging
 allegorical
 allegories
 allegory
+allegro
 allele
 alleles
 allelic
@@ -1542,6 +1559,7 @@ along
 alongside
 aloof
 aloofness
+alopecia
 aloud
 alpaca
 alpacas
@@ -1592,6 +1610,7 @@ alternatives
 alternator
 alternators
 alters
+altho
 although
 altimeter
 altimeters
@@ -1615,6 +1634,9 @@ alumnae
 alumni
 alumnus
 alums
+alveolar
+alveoli
+alveolus
 always
 am
 amalgam
@@ -1674,6 +1696,7 @@ amble
 ambled
 ambles
 ambling
+amblyopia
 ambrosia
 ambulance
 ambulances
@@ -1736,7 +1759,6 @@ amniotic
 amoeba
 amoebae
 amoebas
-amoebic
 amok
 among
 amongst
@@ -1762,6 +1784,7 @@ amounting
 amounts
 amour
 amours
+amoxicillin
 amp
 amped
 amperage
@@ -1791,6 +1814,8 @@ amplifying
 amplitude
 amplitudes
 amply
+ampoule
+ampoules
 amps
 amputate
 amputated
@@ -1878,6 +1903,7 @@ analyzers
 analyzes
 analyzing
 anamorphic
+anaphase
 anaphylactic
 anaphylaxis
 anarchic
@@ -1919,6 +1945,7 @@ ancients
 ancillaries
 ancillary
 and
+andante
 andouille
 androgen
 androgenic
@@ -1967,6 +1994,14 @@ angered
 angering
 angers
 angina
+angiogenesis
+angiogenic
+angiogram
+angiograms
+angiographic
+angiography
+angioplasties
+angioplasty
 angle
 angled
 angler
@@ -2017,6 +2052,7 @@ animators
 animatronic
 animatronics
 anime
+animes
 animosities
 animosity
 animus
@@ -2025,6 +2061,8 @@ anionic
 anions
 anise
 aniseed
+anisotropic
+anisotropy
 ankh
 ankhs
 ankle
@@ -2089,16 +2127,17 @@ annuities
 annuity
 annul
 annular
+annuli
 annulled
 annulling
 annulment
 annulments
 annuls
+annulus
 annunciation
 annunciations
 anode
 anodes
-anodic
 anodise
 anodised
 anodises
@@ -2245,7 +2284,6 @@ antidrug
 antidumping
 antiepileptic
 antiepileptics
-antifa
 antifascist
 antifascists
 antifraud
@@ -2427,6 +2465,7 @@ apologized
 apologizes
 apologizing
 apology
+apoplectic
 apostasy
 apostate
 apostates
@@ -2626,6 +2665,7 @@ aquaculture
 aquamarine
 aquamarines
 aquaponics
+aquaria
 aquarium
 aquariums
 aquatic
@@ -2672,9 +2712,7 @@ arbours
 arc
 arcade
 arcades
-arcana
 arcane
-arcanum
 arccosine
 arccosines
 arced
@@ -2693,6 +2731,10 @@ archbishops
 archdiocesan
 archdiocese
 archdioceses
+archduchess
+archduchesses
+archduke
+archdukes
 arched
 archenemies
 archenemy
@@ -2756,7 +2798,6 @@ areola
 areolas
 arepa
 arepas
-arf
 argan
 argent
 arginine
@@ -2849,6 +2890,7 @@ aromatics
 arose
 around
 arousal
+arousals
 arouse
 aroused
 arouses
@@ -2915,6 +2957,8 @@ artful
 artfully
 arthritic
 arthritis
+arthroplasties
+arthroplasty
 arthropod
 arthropods
 arthroscopic
@@ -2957,6 +3001,7 @@ artwork
 artworks
 arty
 arugula
+arvo
 as
 asana
 asanas
@@ -2996,6 +3041,8 @@ ashamed
 ashen
 ashes
 ashore
+ashram
+ashrams
 ashtray
 ashtrays
 ashy
@@ -3044,6 +3091,7 @@ aspired
 aspires
 aspirin
 aspiring
+aspirins
 asps
 ass
 assail
@@ -3242,6 +3290,8 @@ atheism
 atheist
 atheistic
 atheists
+atherosclerosis
+atherosclerotic
 athleisure
 athlete
 athletes
@@ -3261,7 +3311,6 @@ atolls
 atom
 atomic
 atomically
-atomics
 atomisation
 atomise
 atomised
@@ -3295,6 +3344,7 @@ atrophied
 atrophies
 atrophy
 atrophying
+atropine
 attach
 attachable
 attache
@@ -3354,7 +3404,6 @@ attics
 attire
 attired
 attires
-attiring
 attitude
 attitudes
 attitudinal
@@ -3466,13 +3515,13 @@ auras
 aurora
 auroral
 auroras
+aurum
 auspice
 auspices
 auspicious
 auspiciously
 austere
 austerity
-austral
 auteur
 auteurs
 authentic
@@ -3563,6 +3612,7 @@ autonomic
 autonomous
 autonomously
 autonomy
+autophagy
 autopilot
 autopilots
 autopsied
@@ -3586,6 +3636,8 @@ autumnal
 autumns
 auxiliaries
 auxiliary
+auxin
+auxins
 avail
 availabilities
 availability
@@ -3597,7 +3649,6 @@ avalanche
 avalanches
 avarice
 avaricious
-avast
 avatar
 avatars
 avenge
@@ -3627,15 +3678,13 @@ averting
 averts
 avgas
 avian
-avians
 aviaries
 aviary
 aviation
 aviator
 aviators
-aviatrix
-aviatrixes
 avid
+avidity
 avidly
 avionic
 avionics
@@ -3685,7 +3734,6 @@ awash
 away
 awe
 awed
-aweigh
 awesome
 awesomely
 awesomeness

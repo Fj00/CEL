@@ -128,6 +128,8 @@ anesthetises
 anesthetists
 anesthetized
 anesthetizes
+angiogenesis
+angiographic
 animatronics
 ankylosaurus
 annihilating
@@ -190,6 +192,7 @@ arithmetical
 aromatherapy
 arraignments
 arrangements
+arthroplasty
 arthroscopic
 articulately
 articulating
@@ -288,6 +291,7 @@ bicentennial
 bifurcations
 bilingualism
 billionaires
+bioavailable
 biochemicals
 biochemistry
 biodegrading
@@ -352,6 +356,7 @@ brotherhoods
 brushstrokes
 bullfighters
 bullfighting
+bullmastiffs
 bullshitting
 bureaucratic
 burglarising
@@ -789,6 +794,10 @@ customisable
 customizable
 cyberattacks
 cyberbullies
+cytoskeletal
+cytoskeleton
+cytotoxicity
+darmstadtium
 deactivating
 deactivation
 dealbreakers
@@ -1160,6 +1169,7 @@ enumerations
 environments
 epidemiology
 episodically
+epistemology
 equalisation
 equalization
 equilibriums
@@ -1167,6 +1177,7 @@ equivalences
 equivalently
 equivocating
 equivocation
+erythematous
 essentialism
 essentialist
 essentiality
@@ -1373,6 +1384,7 @@ glassblowers
 glassblowing
 globetrotter
 glockenspiel
+glycoprotein
 gobbledygook
 goddaughters
 googolplexes
@@ -1409,6 +1421,7 @@ haberdashery
 habilitation
 habitability
 haematologic
+haemodynamic
 haemorrhaged
 haemorrhages
 haemorrhagic
@@ -1443,10 +1456,13 @@ helicoptered
 heliocentric
 helplessness
 hematologist
+hemodynamics
 hemorrhaging
 hereinbefore
 heritability
+hermeneutics
 hermetically
+heterogenous
 heterologous
 heterosexual
 heterozygous
@@ -1848,6 +1864,7 @@ kalashnikovs
 kaleidoscope
 keyboardists
 kickstarting
+kilocalories
 kindergarten
 kitchenettes
 kiteboarding
@@ -1882,6 +1899,7 @@ liberalizing
 libertarians
 lighthearted
 lightweights
+lipoproteins
 liquefaction
 liquidations
 listlessness
@@ -1926,6 +1944,7 @@ manipulative
 manipulators
 manoeuvrable
 manslaughter
+mansplaining
 mantelpieces
 manufactured
 manufacturer
@@ -1986,8 +2005,6 @@ meritocratic
 mesothelioma
 metabolising
 metabolizing
-metalisation
-metalization
 metallurgist
 metalworkers
 metalworking
@@ -2000,6 +2017,7 @@ metastasised
 metastasises
 metastasized
 metastasizes
+methacrylate
 methodically
 meticulously
 metrological
@@ -2109,6 +2127,7 @@ mountaineers
 mountainside
 mountaintops
 multibillion
+multicentric
 multichannel
 multicolored
 multifaceted
@@ -2201,6 +2220,7 @@ noncommittal
 noncompliant
 noncriminals
 noncustodial
+nonemergency
 nonessential
 nonexclusive
 nonexistence
@@ -2462,6 +2482,7 @@ pescatarians
 petrodollars
 pharmacology
 pharmacopeia
+phenological
 phenomenally
 philanderers
 philandering
@@ -2475,6 +2496,7 @@ philosophize
 phlebotomist
 phonetically
 phonographic
+phospholipid
 photobombing
 photocopiers
 photocopying
@@ -2482,8 +2504,10 @@ photographed
 photographer
 photographic
 photorealism
+photoresists
 photoshopped
 photovoltaic
+phylogenetic
 physiologist
 pickpocketed
 pigeonholing
@@ -2501,6 +2525,7 @@ plasticizers
 plausibility
 pleasantness
 pleasantries
+pneumococcal
 pocketknives
 polarisation
 polarization
@@ -2513,6 +2538,7 @@ polyethylene
 polymerising
 polymerizing
 polymorphism
+polypeptides
 polysyllabic
 polytechnics
 polytheistic
@@ -2995,6 +3021,7 @@ revitalizing
 rhetorically
 rheumatology
 rhinoceroses
+rhinoviruses
 rhododendron
 rhythmically
 ridiculously
@@ -3010,6 +3037,7 @@ romanticized
 romanticizes
 roughhousing
 ruthlessness
+sabermetrics
 sacrilegious
 sadistically
 safeguarding
@@ -3256,6 +3284,7 @@ subjectively
 subjectivism
 subjectivity
 subliminally
+subluxations
 submersibles
 submissively
 suboptimally
@@ -3353,6 +3382,7 @@ systemically
 tangentially
 tautological
 taxidermists
+teaspoonfuls
 technicality
 technocratic
 technologies
@@ -3365,6 +3395,7 @@ telecommutes
 telegraphing
 telemarketer
 telemedicine
+teleological
 telepresence
 teleprompter
 temperaments
@@ -3388,6 +3419,7 @@ theatrically
 thematically
 theoretician
 therapeutics
+thermocouple
 thermography
 thermometers
 thermosphere
@@ -3441,6 +3473,7 @@ transcribers
 transcribing
 transduction
 transections
+transfection
 transferable
 transference
 transferring
@@ -3458,6 +3491,8 @@ transitional
 transitioned
 translatable
 translations
+translocated
+translocates
 translucence
 translucency
 transmission
@@ -3707,6 +3742,8 @@ vaporisation
 vaporization
 vascularised
 vascularized
+vasodilation
+vasodilators
 velociraptor
 verification
 veterinarian
@@ -3719,6 +3756,7 @@ vindications
 vindictively
 virtualising
 virtualizing
+viscoelastic
 visibilities
 visuospatial
 viticultural
@@ -3731,6 +3769,7 @@ volcanically
 volunteering
 volunteerism
 wakeboarding
+walkingstick
 wallcovering
 wallpapering
 warmongering

@@ -173,6 +173,7 @@ ameliorated
 ameliorates
 amenability
 ammunitions
+amoxicillin
 amphetamine
 amputations
 anachronism
@@ -193,12 +194,15 @@ anesthetics
 anesthetise
 anesthetist
 anesthetize
+angiography
+angioplasty
 anglicising
 anglicizing
 anglophones
 animalistic
 animatronic
 animosities
+anisotropic
 annexations
 annihilated
 annihilates
@@ -286,6 +290,7 @@ arbitrators
 archaeology
 archbishops
 archdiocese
+archduchess
 archenemies
 archipelago
 architected
@@ -449,6 +454,7 @@ bifurcation
 bilaterally
 bilingually
 billionaire
+bioactivity
 biochemical
 biochemists
 biodegraded
@@ -563,9 +569,11 @@ brushstroke
 brutalising
 brutalities
 brutalizing
+budgerigars
 bulletproof
 bullfighter
 bullishness
+bullmastiff
 bullshitted
 bureaucracy
 bureaucrats
@@ -644,6 +652,7 @@ caricatured
 caricatures
 carjackings
 carnivorous
+carotenoids
 carrageenan
 carriageway
 carsickness
@@ -651,6 +660,7 @@ cartography
 cartoonists
 cartwheeled
 caseworkers
+cassowaries
 castigating
 castigation
 castrations
@@ -696,6 +706,7 @@ centrepiece
 centrifugal
 centrifuges
 centripetal
+centrosomes
 cephalopods
 cerebellums
 ceremonious
@@ -1079,6 +1090,7 @@ cooperators
 coordinated
 coordinates
 coordinator
+copernicium
 copperheads
 coppersmith
 copyrighted
@@ -1111,6 +1123,7 @@ cosmologist
 cosponsored
 cottonmouth
 cottonseeds
+cottontails
 cottonwoods
 councillors
 counselling
@@ -1357,6 +1370,7 @@ desiccating
 desiccation
 designating
 designation
+designators
 despatching
 desperadoes
 desperately
@@ -1554,6 +1568,7 @@ documenting
 dodecahedra
 dogcatchers
 dogfighting
+dogsledding
 domesticate
 domesticity
 domiciliary
@@ -1703,8 +1718,11 @@ endeavoring
 endeavoured
 endodontics
 endodontist
+endoplasmic
 endorsement
 endoscopies
+endothelial
+endothelium
 endothermic
 enforceable
 enforcement
@@ -1942,6 +1960,7 @@ festivities
 fetishising
 fetishistic
 fetishizing
+fibroblasts
 fiduciaries
 figureheads
 filamentous
@@ -2133,6 +2152,7 @@ glasshouses
 glassmaking
 globalising
 globalizing
+glucosamine
 goalkeepers
 goalkeeping
 goalscorers
@@ -2199,6 +2219,8 @@ haemoglobin
 haemophilia
 haemorrhage
 haemorrhoid
+haemostasis
+haemostatic
 hairbrushes
 haircutting
 hairdresser
@@ -2251,6 +2273,7 @@ helpfulness
 hematologic
 hemispheres
 hemispheric
+hemodynamic
 hemorrhaged
 hemorrhages
 hemorrhagic
@@ -2258,6 +2281,8 @@ hemorrhoids
 heptathlons
 herbivorous
 hereinafter
+hermeneutic
+herniations
 herpetology
 herringbone
 hesitations
@@ -2310,6 +2335,7 @@ hopefulness
 hopscotched
 hopscotches
 horizontals
+horological
 horseracing
 horseradish
 hospitalise
@@ -2348,6 +2374,7 @@ hyperactive
 hyperdrives
 hyperlinked
 hypermarket
+hyperplasia
 hypersonics
 hyphenating
 hyphenation
@@ -2784,9 +2811,11 @@ kettlebells
 keyboardist
 kickstarted
 kidnappings
+kilocalorie
 kilogrammes
 kindhearted
 kinesiology
+kinesthetic
 kinetically
 kingfishers
 kitchenette
@@ -2863,6 +2892,7 @@ limitations
 linebackers
 lingonberry
 linguistics
+lipoprotein
 liposuction
 liquidating
 liquidation
@@ -2876,6 +2906,7 @@ litigations
 littermates
 liveability
 livelihoods
+livermorium
 livestreams
 locomotives
 logarithmic
@@ -3031,8 +3062,6 @@ metabolites
 metabolized
 metabolizes
 metacarpals
-metallising
-metallizing
 metalsmiths
 metalworker
 metamorphic
@@ -3045,6 +3074,7 @@ meteorology
 methodology
 metroplexes
 metrosexual
+microarrays
 microbiomes
 microbursts
 microcosmic
@@ -3186,6 +3216,8 @@ mouthwashes
 moviemakers
 moviemaking
 mudslinging
+multicenter
+multicentre
 multicolour
 multiethnic
 multifactor
@@ -3210,6 +3242,7 @@ murderously
 muscularity
 musculature
 mushrooming
+mutagenesis
 mutilations
 mutualistic
 mycological
@@ -3332,11 +3365,13 @@ nonvolatile
 normalising
 normalizing
 normatively
+noroviruses
 northerners
 nothingness
 noticeboard
 notoriously
 nourishment
+nucleosomes
 nucleotides
 numerically
 numismatics
@@ -3360,6 +3395,7 @@ obnoxiously
 obscenities
 obscuration
 obscurities
+observables
 observances
 observation
 observatory
@@ -3409,6 +3445,7 @@ optometrist
 orchestrate
 orderliness
 ordinations
+orecchiette
 organically
 orientating
 orientation
@@ -3491,7 +3528,6 @@ overfilling
 overfishing
 overflights
 overflowing
-overfunding
 overgrazing
 overgrowing
 overhanging
@@ -3506,6 +3542,7 @@ overloading
 overlooking
 overnighted
 overnighter
+overpacking
 overpayment
 overplaying
 overpowered
@@ -3569,6 +3606,7 @@ panhandling
 pantomiming
 papermaking
 paperweight
+pappardelle
 parachuting
 parachutist
 paradoxical
@@ -3718,6 +3756,7 @@ photocopier
 photocopies
 photographs
 photography
+photoresist
 photoshoots
 phraseology
 physicality
@@ -3802,6 +3841,7 @@ polymerized
 polymerizes
 polymorphic
 polynomials
+polypeptide
 polystyrene
 polytechnic
 polytheists
@@ -4024,6 +4064,7 @@ prostration
 protagonist
 protectants
 protections
+proteinuria
 prototyping
 protractors
 protrusions
@@ -4470,6 +4511,7 @@ retaliatory
 retardation
 retargeting
 reticulated
+retinopathy
 retirements
 retracement
 retractable
@@ -4499,6 +4541,7 @@ revitalizes
 revivalists
 revocations
 revolutions
+rheological
 rhinestones
 rhinoplasty
 ribonucleic
@@ -4512,10 +4555,12 @@ ritualistic
 roadrunners
 robotically
 rodenticide
+roentgenium
 rollerblade
 romanticise
 romanticism
 romanticize
+rotaviruses
 rottweilers
 roughhoused
 roughhouses
@@ -4545,6 +4590,7 @@ sandblaster
 sandcastles
 sandwiching
 sanitariums
+sarcoidosis
 sarcophagus
 sartorially
 sasquatches
@@ -4621,6 +4667,7 @@ selfishness
 semicircles
 seminarians
 semiprivate
+semiquavers
 semiretired
 semiskilled
 semitrailer
@@ -4817,6 +4864,7 @@ spluttering
 spoilsports
 spokeswoman
 spokeswomen
+spondylitis
 sponsorship
 spontaneity
 spontaneous
@@ -4949,6 +4997,7 @@ subjunctive
 sublicenses
 sublimating
 sublimation
+subluxation
 submariners
 submergence
 submersible
@@ -5121,6 +5170,7 @@ taxonomical
 taxonomists
 teargassing
 tearjerkers
+teaspoonful
 technically
 technicians
 technocracy
@@ -5187,6 +5237,7 @@ theological
 theoretical
 therapeutic
 thereabouts
+theretofore
 thermometer
 thermostats
 thesauruses
@@ -5215,6 +5266,7 @@ titillation
 titleholder
 tobacconist
 tobogganing
+tocopherols
 tomographic
 tonsillitis
 toothpastes
@@ -5254,6 +5306,7 @@ transducers
 transducing
 transecting
 transection
+transfected
 transferred
 transfigure
 transfixing
@@ -5268,6 +5321,7 @@ transitions
 translating
 translation
 translators
+translocate
 translucent
 transmittal
 transmitted
@@ -5344,6 +5398,7 @@ ultrasounds
 ultraviolet
 unabashedly
 unaccounted
+unaddressed
 unalienable
 unallocated
 unalterable
@@ -5593,6 +5648,7 @@ variational
 vascularity
 vasculature
 vasectomies
+vasodilator
 vectorising
 vectorizing
 vegetarians
@@ -5649,6 +5705,7 @@ voyeuristic
 vulcanising
 vulcanizing
 vulgarities
+wainscoting
 waitlisting
 wakefulness
 wallflowers

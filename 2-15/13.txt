@@ -21,6 +21,7 @@ acculturating
 acculturation
 accumulations
 acetaminophen
+acetylcholine
 acidification
 acknowledging
 acquaintances
@@ -71,6 +72,7 @@ anaesthetized
 anaesthetizes
 anesthetising
 anesthetizing
+angioplasties
 anniversaries
 announcements
 annunciations
@@ -114,6 +116,7 @@ arbitrariness
 arboriculture
 archaeologist
 archaeopteryx
+archduchesses
 archeological
 archeologists
 architectural
@@ -156,6 +159,7 @@ autorickshaws
 baccalaureate
 bachelorettes
 backpedalling
+bacteriophage
 balkanisation
 balkanization
 bantamweights
@@ -171,6 +175,7 @@ bibliographic
 bicentenaries
 bicentennials
 bidirectional
+bioactivities
 biochemically
 biodegradable
 bioengineered
@@ -456,6 +461,7 @@ cyberbullying
 cybercriminal
 cybersecurity
 cyberstalking
+cytoskeletons
 dangerousness
 decaffeinated
 decapitations
@@ -720,6 +726,7 @@ externalizing
 extinguishers
 extinguishing
 extortionists
+extracellular
 extrajudicial
 extraordinary
 extrapolating
@@ -792,6 +799,7 @@ globetrotters
 globetrotting
 glockenspiels
 glorification
+glycoproteins
 grammatically
 grandchildren
 granddaughter
@@ -809,6 +817,7 @@ gynaecologist
 gynecological
 gynecologists
 haematologist
+haemodynamics
 haemorrhaging
 halfheartedly
 hallucinating
@@ -859,6 +868,7 @@ hyperactivity
 hyperextended
 hyperglycemia
 hyperglycemic
+hyperhidrosis
 hypochondriac
 hypoglycaemia
 hypoglycaemic
@@ -1159,6 +1169,7 @@ megastructure
 melodramatics
 memorialising
 memorializing
+meningococcal
 merchandisers
 merchandising
 meritocracies
@@ -1366,6 +1377,7 @@ orthogonality
 orthographies
 orthopaedists
 oscilloscopes
+osteomyelitis
 outdistancing
 outmaneuvered
 outmanoeuvred
@@ -1450,6 +1462,7 @@ perfectionism
 perfectionist
 perfunctorily
 periodontists
+periodontitis
 perioperative
 perpendicular
 personalising
@@ -1461,6 +1474,7 @@ petrochemical
 pharmacologic
 pharmacopeias
 pharmacopoeia
+phenomenology
 phenylalanine
 philanthropic
 philodendrons
@@ -1470,6 +1484,8 @@ philosophises
 philosophized
 philosophizes
 phlebotomists
+phospholipids
+phosphorylate
 photochemical
 photoelectric
 photographers
@@ -1483,6 +1499,7 @@ phytochemical
 phytonutrient
 phytoplankton
 pickpocketing
+piezoelectric
 platitudinous
 pluralisation
 pluralization
@@ -1510,6 +1527,7 @@ postponements
 postsecondary
 posttraumatic
 posttreatment
+potentiometer
 powerlessness
 practitioners
 pragmatically
@@ -1801,6 +1819,7 @@ sarcastically
 satisfactions
 scarification
 scatterbrains
+schadenfreude
 schematically
 schizophrenia
 schizophrenic
@@ -1993,6 +2012,7 @@ syntactically
 synthetically
 systematising
 systematizing
+tablespoonful
 tantalisingly
 tantalizingly
 taxonomically
@@ -2017,6 +2037,7 @@ theatricality
 theologically
 theoretically
 theoreticians
+thermocouples
 thermodynamic
 thermographic
 thermonuclear
@@ -2065,6 +2086,8 @@ transhipments
 transitioning
 translational
 transliterate
+translocating
+translocation
 transmembrane
 transmissible
 transmissions
@@ -2247,6 +2270,7 @@ volcanologist
 vulcanisation
 vulcanization
 vulnerability
+walkingsticks
 wallcoverings
 waterboarding
 waterproofing

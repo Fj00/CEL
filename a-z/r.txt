@@ -142,8 +142,10 @@ rafters
 rafting
 rafts
 rag
+raga
 ragamuffin
 ragamuffins
+ragas
 ragdoll
 ragdolls
 rage
@@ -156,6 +158,7 @@ raggedy
 ragging
 raging
 ragout
+ragouts
 rags
 ragtag
 ragtime
@@ -187,6 +190,7 @@ railroads
 rails
 railway
 railways
+raiment
 rain
 rainbow
 rainbows
@@ -243,6 +247,8 @@ rambles
 rambling
 ramblings
 rambunctious
+rambutan
+rambutans
 ramekin
 ramekins
 ramen
@@ -448,6 +454,7 @@ rationing
 rations
 ratios
 rats
+rattan
 ratted
 ratting
 rattle
@@ -835,6 +842,8 @@ rebuke
 rebuked
 rebukes
 rebuking
+rebus
+rebuses
 rebut
 rebuts
 rebuttable
@@ -1326,6 +1335,8 @@ redeveloping
 redevelopment
 redevelopments
 redevelops
+redeye
+redeyes
 redfish
 redhead
 redheaded
@@ -1379,6 +1390,7 @@ redound
 redounded
 redounding
 redounds
+redox
 redraft
 redrafted
 redrafting
@@ -1544,7 +1556,9 @@ referencing
 referenda
 referendum
 referendums
+referent
 referential
+referents
 referral
 referrals
 referred
@@ -1796,6 +1810,7 @@ registration
 registrations
 registries
 registry
+regnant
 regrade
 regraded
 regrades
@@ -2739,6 +2754,8 @@ reputed
 reputedly
 request
 requested
+requester
+requesters
 requesting
 requests
 requiem
@@ -2946,6 +2963,8 @@ resolutions
 resolvable
 resolve
 resolved
+resolver
+resolvers
 resolves
 resolving
 resonance
@@ -3153,6 +3172,8 @@ retardant
 retardants
 retardation
 retarded
+retarder
+retarders
 retarding
 retards
 retarget
@@ -3186,14 +3207,17 @@ reticence
 reticent
 reticle
 reticles
+reticula
 reticular
 reticulated
+reticulum
 retie
 retied
 reties
 retina
 retinal
 retinas
+retinopathy
 retinue
 retinues
 retire
@@ -3331,6 +3355,7 @@ reupholster
 reupholstered
 reupholstering
 reupholsters
+reuptake
 reusability
 reusable
 reusables
@@ -3370,6 +3395,8 @@ revelling
 revelries
 revelry
 revels
+revenant
+revenants
 revenge
 revenged
 revengeful
@@ -3507,10 +3534,6 @@ rewashing
 rewear
 rewearing
 rewears
-reweigh
-reweighed
-reweighing
-reweighs
 rewilding
 rewind
 rewinding
@@ -3546,6 +3569,8 @@ rhapsody
 rhea
 rheas
 rhenium
+rheological
+rheology
 rhesus
 rhetoric
 rhetorical
@@ -3566,12 +3591,16 @@ rhinoceroses
 rhinoplasties
 rhinoplasty
 rhinos
+rhinovirus
+rhinoviruses
 rhizome
 rhizomes
 rho
 rhodium
 rhododendron
 rhododendrons
+rhomboid
+rhomboids
 rhombus
 rhombuses
 rhubarb
@@ -3585,9 +3614,9 @@ rhythmical
 rhythmically
 rhythms
 rib
+ribald
 ribbed
 ribbing
-ribbit
 ribbon
 ribbons
 ribcage
@@ -3611,9 +3640,12 @@ riches
 richest
 richly
 richness
+ricin
 ricing
+rick
 rickets
 rickety
+ricks
 rickshaw
 rickshaws
 ricochet
@@ -3637,6 +3669,8 @@ ridership
 rides
 ridesharing
 ridge
+ridgeback
+ridgebacks
 ridged
 ridges
 ridging
@@ -3648,6 +3682,7 @@ ridiculous
 ridiculously
 ridiculousness
 riding
+ridings
 rids
 riesling
 rieslings
@@ -3809,6 +3844,7 @@ ritualistic
 ritualistically
 ritually
 rituals
+ritz
 ritzy
 rival
 rivaled
@@ -3950,6 +3986,9 @@ rodeo
 rodeos
 rods
 roe
+roebuck
+roebucks
+roentgenium
 roger
 rogue
 rogues
@@ -4032,7 +4071,10 @@ rooflines
 roofs
 rooftop
 rooftops
+rooibos
 rook
+rookeries
+rookery
 rookie
 rookies
 rooks
@@ -4075,6 +4117,7 @@ rosacea
 rosaries
 rosary
 rose
+roseate
 rosebud
 rosebuds
 rosebush
@@ -4111,8 +4154,12 @@ rotational
 rotations
 rotator
 rotators
+rotavirus
+rotaviruses
 rote
+roti
 rotini
+rotis
 rotisserie
 rotor
 rotorcraft
@@ -4148,6 +4195,8 @@ roughneck
 roughnecks
 roughness
 roughs
+roulade
+roulades
 roulette
 round
 roundabout
@@ -4405,9 +4454,13 @@ rutherfordium
 ruthless
 ruthlessly
 ruthlessness
+rutile
+rutin
 ruts
 rutted
 rutting
 rutty
 rye
 ryegrass
+ryokan
+ryokans

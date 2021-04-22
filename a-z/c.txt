@@ -24,6 +24,8 @@ cable
 cabled
 cables
 cabling
+cabochon
+cabochons
 caboose
 cabooses
 cabrio
@@ -34,8 +36,11 @@ cabs
 cacao
 cache
 cached
+cachepot
+cachepots
 caches
 cachet
+cachets
 caching
 cackle
 cackled
@@ -96,7 +101,8 @@ cakes
 cakewalk
 cakewalks
 caking
-cal
+calabash
+calabashes
 calamansi
 calamari
 calamine
@@ -148,6 +154,8 @@ call
 callable
 callback
 callbacks
+callboy
+callboys
 called
 caller
 callers
@@ -183,9 +191,10 @@ caloric
 calorie
 calories
 calorific
-cals
 calumnies
 calumny
+calvaries
+calvary
 calve
 calved
 calves
@@ -196,6 +205,8 @@ calzones
 cam
 camaraderie
 camber
+cambia
+cambium
 camcorder
 camcorders
 came
@@ -237,6 +248,8 @@ campground
 campgrounds
 camphor
 camping
+campout
+campouts
 camps
 campsite
 campsites
@@ -443,6 +456,7 @@ capitulation
 capitulations
 caplet
 caplets
+capoeira
 capon
 capons
 capped
@@ -521,6 +535,8 @@ carat
 carats
 caravan
 caravans
+caravel
+caravels
 caraway
 carb
 carbide
@@ -574,6 +590,7 @@ cardiograms
 cardiologist
 cardiologists
 cardiology
+cardiomyopathy
 cardiopulmonary
 cardiovascular
 cards
@@ -652,13 +669,18 @@ caroler
 carolers
 caroling
 carols
+carom
+caroms
 carotene
 carotenes
+carotenoid
+carotenoids
 carotid
 carousel
 carousels
 carousing
 carp
+carpaccio
 carpal
 carpals
 carped
@@ -787,6 +809,8 @@ casserole
 casseroles
 cassette
 cassettes
+cassowaries
+cassowary
 cast
 castaway
 castaways
@@ -860,6 +884,8 @@ catastrophe
 catastrophes
 catastrophic
 catatonic
+catbird
+catbirds
 catcall
 catcalled
 catcalling
@@ -946,6 +972,7 @@ caucus
 caucused
 caucuses
 caucusing
+caudal
 caught
 cauldron
 cauldrons
@@ -1035,6 +1062,8 @@ cedarwood
 cede
 ceded
 cedes
+cedilla
+cedillas
 ceding
 ceiling
 ceilinged
@@ -1053,6 +1082,7 @@ celebratory
 celebrities
 celebrity
 celebs
+celeriac
 celery
 celestial
 celiac
@@ -1089,6 +1119,8 @@ cemeteries
 cemetery
 cenotaph
 cenotaphs
+cenote
+cenotes
 censor
 censored
 censoring
@@ -1172,6 +1204,8 @@ centrist
 centrists
 centroid
 centroids
+centrosome
+centrosomes
 cents
 centuries
 centurion
@@ -1217,6 +1251,7 @@ certifying
 certitude
 cerulean
 cervical
+cervices
 cervix
 cervixes
 cesarean
@@ -1275,6 +1310,7 @@ chalked
 chalking
 chalks
 chalky
+challah
 challenge
 challenged
 challenger
@@ -1297,6 +1333,7 @@ chamfer
 chamfered
 chamfering
 chamfers
+chamois
 chamomile
 chamomiles
 champ
@@ -1332,6 +1369,8 @@ changeovers
 changer
 changers
 changes
+changeup
+changeups
 changing
 channel
 channeled
@@ -1438,6 +1477,7 @@ charters
 charting
 chartreuse
 charts
+chary
 chase
 chased
 chaser
@@ -1544,6 +1584,10 @@ cheekily
 cheekiness
 cheeks
 cheeky
+cheep
+cheeped
+cheeping
+cheeps
 cheer
 cheered
 cheerful
@@ -1558,8 +1602,6 @@ cheerlead
 cheerleader
 cheerleaders
 cheerleading
-cheerleads
-cheerled
 cheerless
 cheers
 cheery
@@ -1615,6 +1657,7 @@ cherry
 cherrywood
 cherub
 cherubs
+chervil
 chess
 chessboard
 chessboards
@@ -1636,6 +1679,8 @@ chevrons
 chew
 chewable
 chewed
+chewier
+chewiest
 chewing
 chews
 chewy
@@ -1667,6 +1712,7 @@ chiefs
 chieftain
 chieftains
 chiffon
+chiffons
 chigger
 chiggers
 chihuahua
@@ -1729,10 +1775,12 @@ chinchilla
 chinchillas
 chink
 chinks
-chinned
 chino
+chinook
+chinooks
 chinos
 chins
+chintz
 chip
 chipboard
 chipmunk
@@ -1898,7 +1946,11 @@ chrysalises
 chrysanthemum
 chrysanthemums
 chrysoprase
+chub
+chubbier
+chubbiest
 chubby
+chubs
 chuck
 chucked
 chucking
@@ -1907,10 +1959,7 @@ chuckled
 chuckles
 chuckling
 chucks
-chuff
 chuffed
-chuffing
-chuffs
 chug
 chugged
 chugging
@@ -2015,6 +2064,7 @@ circumcisions
 circumference
 circumferences
 circumferential
+circumflex
 circumlocution
 circumlocutions
 circumnavigate
@@ -2037,6 +2087,8 @@ circumvention
 circumvents
 circus
 circuses
+cirque
+cirques
 cirrhosis
 cirrocumulus
 cirrostratus
@@ -2101,6 +2153,8 @@ clacking
 clacks
 clad
 cladding
+clade
+clades
 claim
 claimant
 claimants
@@ -2168,6 +2222,8 @@ clarinet
 clarinetist
 clarinetists
 clarinets
+clarion
+clarions
 clarity
 clash
 clashed
@@ -2324,6 +2380,9 @@ cliffhanger
 cliffhangers
 cliffs
 cliffside
+cliffsides
+clifftop
+clifftops
 climactic
 climate
 climates
@@ -2394,6 +2453,8 @@ clobber
 clobbered
 clobbering
 clobbers
+cloche
+cloches
 clock
 clocked
 clocking
@@ -2566,6 +2627,8 @@ coarsened
 coarseness
 coarsening
 coarsens
+coarser
+coarsest
 coast
 coastal
 coasted
@@ -2614,7 +2677,6 @@ coccyx
 coccyxes
 cochlea
 cochlear
-cochleas
 cock
 cockatiel
 cockatiels
@@ -2692,6 +2754,8 @@ coeds
 coefficient
 coefficients
 coeliac
+coenzyme
+coenzymes
 coequal
 coerce
 coerced
@@ -2706,6 +2770,8 @@ coexistence
 coexistent
 coexisting
 coexists
+cofactor
+cofactors
 coffee
 coffeehouse
 coffeehouses
@@ -2773,6 +2839,8 @@ cohosting
 cohosts
 cohousing
 coiffed
+coiffure
+coiffures
 coil
 coiled
 coiling
@@ -2803,7 +2871,6 @@ cola
 colander
 colanders
 colas
-colby
 cold
 colder
 coldest
@@ -2918,8 +2985,10 @@ colloquial
 colloquialism
 colloquialisms
 colloquially
+colloquies
 colloquium
 colloquiums
+colloquy
 collude
 colluded
 colludes
@@ -3630,7 +3699,6 @@ concomitantly
 concord
 concordance
 concordant
-concours
 concourse
 concourses
 concrete
@@ -3861,7 +3929,6 @@ congeniality
 congenital
 congenitally
 conger
-congers
 congest
 congested
 congesting
@@ -3905,6 +3972,7 @@ congruence
 congruent
 conic
 conical
+conics
 conifer
 coniferous
 conifers
@@ -3926,6 +3994,7 @@ conjugates
 conjugating
 conjugation
 conjugations
+conjunct
 conjunction
 conjunctions
 conjunctivitis
@@ -4078,6 +4147,7 @@ consolidator
 consolidators
 consoling
 consolingly
+consomme
 consonance
 consonant
 consonants
@@ -4199,6 +4269,8 @@ contactable
 contacted
 contacting
 contactless
+contactor
+contactors
 contacts
 contagion
 contagions
@@ -4398,6 +4470,8 @@ conundrum
 conundrums
 conurbation
 conurbations
+conure
+conures
 convalesce
 convalesced
 convalescence
@@ -4533,6 +4607,8 @@ coolly
 coolness
 cools
 coon
+coonhound
+coonhounds
 coons
 coop
 cooped
@@ -4569,6 +4645,7 @@ copayments
 copays
 cope
 coped
+copernicium
 copes
 copied
 copier
@@ -4580,6 +4657,8 @@ coping
 copious
 copiously
 coplanar
+copolymer
+copolymers
 copped
 copper
 copperhead
@@ -4623,11 +4702,14 @@ cordon
 cordoned
 cordoning
 cordons
+cordovan
 cords
 corduroy
 corduroys
 core
 cored
+corer
+corers
 cores
 corgi
 corgis
@@ -4637,6 +4719,8 @@ cork
 corkage
 corkboard
 corked
+corker
+corkers
 corking
 corks
 corkscrew
@@ -4682,8 +4766,10 @@ cornstarch
 cornucopia
 cornucopias
 corny
+corolla
 corollaries
 corollary
+corollas
 corona
 coronal
 coronary
@@ -4776,6 +4862,8 @@ corruptly
 corrupts
 corsage
 corsages
+corsair
+corsairs
 corset
 corseted
 corseting
@@ -4791,6 +4879,8 @@ corticosteroids
 cortisol
 cortisone
 corundum
+corvette
+corvettes
 cosecant
 cosecants
 cosied
@@ -4857,8 +4947,10 @@ cosying
 cot
 cotangent
 cotangents
+cote
 coterie
 coteries
+cotes
 cotillion
 cotillions
 cots
@@ -4871,6 +4963,8 @@ cottonmouths
 cottons
 cottonseed
 cottonseeds
+cottontail
+cottontails
 cottonwood
 cottonwoods
 couch
@@ -5095,8 +5189,6 @@ cowering
 cowers
 cowgirl
 cowgirls
-cowherd
-cowherds
 cowhide
 cowhides
 cowing
@@ -5112,7 +5204,6 @@ coy
 coyly
 coyote
 coyotes
-coz
 cozied
 cozier
 cozies
@@ -5121,7 +5212,6 @@ cozily
 coziness
 cozy
 cozying
-cozzes
 crab
 crabapple
 crabapples
@@ -5195,6 +5285,8 @@ craniotomy
 cranium
 craniums
 crank
+crankbait
+crankbaits
 cranked
 cranking
 cranks
@@ -5322,7 +5414,6 @@ credits
 creditworthy
 credo
 credos
-creds
 credulity
 credulous
 creed
@@ -5352,8 +5443,10 @@ crematoriums
 crematory
 creme
 cremes
+cremini
 creole
 creoles
+creosote
 crepe
 creperie
 creperies
@@ -5550,12 +5643,15 @@ crosscheck
 crosschecked
 crosschecking
 crosschecks
+crosscourt
 crosscurrent
 crosscurrents
 crosscut
 crosscuts
 crosscutting
 crossed
+crosser
+crossers
 crosses
 crossfire
 crossfires
@@ -5576,8 +5672,11 @@ crosswinds
 crosswise
 crossword
 crosswords
+crostini
 crotch
 crotches
+crotchet
+crotchets
 crotchety
 crouch
 crouched
@@ -5786,6 +5885,8 @@ cucumbers
 cud
 cuddle
 cuddled
+cuddler
+cuddlers
 cuddles
 cuddling
 cuddly
@@ -5869,14 +5970,15 @@ cupboard
 cupboards
 cupcake
 cupcakes
+cupful
+cupfuls
 cupholder
 cupholders
-cupid
-cupids
 cupola
 cupolas
 cupped
 cupping
+cupric
 cups
 cur
 curable
@@ -5909,6 +6011,8 @@ cures
 curfew
 curfews
 curing
+curio
+curios
 curiosities
 curiosity
 curious
@@ -6054,7 +6158,6 @@ cutting
 cuttings
 cuttlefish
 cuz
-cuzzes
 cyan
 cyanide
 cyber
@@ -6101,6 +6204,8 @@ cyclonic
 cyclops
 cyclotron
 cyclotrons
+cygnet
+cygnets
 cylinder
 cylinders
 cylindrical
@@ -6119,10 +6224,21 @@ cyst
 cysteine
 cystic
 cysts
+cytidine
+cytokine
+cytokines
 cytology
+cytometry
 cytoplasm
 cytoplasmic
 cytosine
+cytoskeletal
+cytoskeleton
+cytoskeletons
+cytosol
+cytosolic
+cytotoxic
+cytotoxicity
 czar
 czarina
 czarinas

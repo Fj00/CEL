@@ -30,6 +30,9 @@ vacillation
 vacillations
 vacs
 vacuity
+vacuolar
+vacuole
+vacuoles
 vacuous
 vacuum
 vacuumed
@@ -43,6 +46,7 @@ vagina
 vaginal
 vaginally
 vaginas
+vaginosis
 vagrancy
 vagrant
 vagrants
@@ -57,15 +61,18 @@ vainglory
 vainly
 valance
 valances
+vale
 valedictorian
 valedictorians
 valedictories
 valedictory
 valence
 valences
+valency
 valentine
 valentines
 valerian
+vales
 valet
 valeted
 valeting
@@ -85,6 +92,8 @@ validators
 validity
 validly
 valine
+valise
+valises
 valley
 valleys
 valor
@@ -107,6 +116,8 @@ valuations
 value
 valued
 valueless
+valuer
+valuers
 values
 valuing
 valve
@@ -148,8 +159,6 @@ vanishing
 vanishingly
 vanities
 vanity
-vanned
-vanning
 vanpool
 vanpools
 vanquish
@@ -195,9 +204,12 @@ variance
 variances
 variant
 variants
+variate
+variates
 variation
 variational
 variations
+varicella
 varicose
 varied
 variegated
@@ -225,11 +237,15 @@ vascularity
 vascularization
 vascularized
 vasculature
+vasculitis
 vase
 vasectomies
 vasectomy
 vaseline
 vases
+vasodilation
+vasodilator
+vasodilators
 vassal
 vassalage
 vassals
@@ -247,8 +263,6 @@ vaulters
 vaulting
 vaults
 vaunted
-vax
-vaxes
 veal
 vector
 vectored
@@ -279,7 +293,10 @@ vegetal
 vegetarian
 vegetarianism
 vegetarians
+vegetate
 vegetated
+vegetates
+vegetating
 vegetation
 vegetative
 vegged
@@ -303,6 +320,7 @@ veining
 veins
 veiny
 velcro
+vellum
 velociraptor
 velociraptors
 velocities
@@ -372,6 +390,8 @@ venue
 venues
 veracity
 veranda
+verandah
+verandahs
 verandas
 verb
 verbal
@@ -400,6 +420,8 @@ verdict
 verdicts
 verge
 verged
+verger
+vergers
 verges
 verging
 verifiability
@@ -417,6 +439,7 @@ verily
 verisimilitude
 veritable
 veritably
+veritas
 verities
 verity
 vermeil
@@ -470,6 +493,8 @@ vestigial
 vesting
 vestment
 vestments
+vestries
+vestry
 vests
 vet
 vetch
@@ -560,6 +585,9 @@ victorious
 victoriously
 victors
 victory
+victuals
+vicuna
+vicunas
 vid
 video
 videocassette
@@ -596,6 +624,7 @@ viewpoints
 viewport
 viewports
 views
+vig
 vigil
 vigilance
 vigilant
@@ -604,13 +633,12 @@ vigilantes
 vigilantism
 vigilantly
 vigils
-vigneron
-vignerons
 vignette
 vignetted
 vignettes
 vignetting
 vigor
+vigorish
 vigorous
 vigorously
 vigour
@@ -666,6 +694,7 @@ vintage
 vintages
 vintner
 vintners
+viny
 vinyl
 vinyls
 viola
@@ -693,6 +722,8 @@ violist
 violists
 viper
 vipers
+virago
+viragos
 viral
 virality
 virally
@@ -722,6 +753,7 @@ virtualizing
 virtually
 virtue
 virtues
+virtuosi
 virtuosic
 virtuosity
 virtuoso
@@ -739,6 +771,7 @@ visas
 viscera
 visceral
 viscerally
+viscoelastic
 viscose
 viscosities
 viscosity
@@ -760,6 +793,8 @@ visioned
 visioning
 visions
 visit
+visitant
+visitants
 visitation
 visitations
 visited
@@ -819,11 +854,17 @@ vitrified
 vitrifies
 vitrify
 vitrifying
+vitrine
+vitrines
 vitriol
 vitriolic
 viva
+vivace
 vivacious
 vivacity
+vivaria
+vivarium
+vivariums
 vivid
 vividly
 vividness
@@ -874,6 +915,7 @@ voices
 voicing
 voicings
 void
+voidable
 voided
 voiding
 voids
@@ -934,6 +976,8 @@ volunteerism
 volunteers
 voluptuous
 voluptuousness
+volute
+volutes
 volution
 volutions
 vomit
@@ -946,6 +990,8 @@ voraciously
 vortex
 vortexes
 vortices
+votaries
+votary
 vote
 voted
 voter

@@ -179,6 +179,8 @@ bacteriological
 bacteriologist
 bacteriologists
 bacteriology
+bacteriophage
+bacteriophages
 bacterium
 bad
 badass
@@ -187,7 +189,6 @@ badder
 baddest
 baddie
 baddies
-baddy
 bade
 badge
 badged
@@ -273,6 +274,7 @@ balancer
 balancers
 balances
 balancing
+balayage
 balconies
 balcony
 bald
@@ -305,7 +307,6 @@ balkanizing
 balked
 balking
 balks
-balky
 ball
 ballad
 ballads
@@ -420,8 +421,6 @@ banishment
 banister
 banisters
 banjo
-banjoist
-banjoists
 banjos
 bank
 bankable
@@ -466,6 +465,8 @@ banter
 bantered
 bantering
 banters
+banyan
+banyans
 baobab
 baobabs
 baptise
@@ -494,8 +495,10 @@ barbecued
 barbecues
 barbecuing
 barbed
+barbel
 barbell
 barbells
+barbels
 barbeque
 barbequed
 barbeques
@@ -526,6 +529,7 @@ barefoot
 barefooted
 barehanded
 barely
+bareness
 barer
 bares
 barest
@@ -543,10 +547,6 @@ barge
 barged
 barges
 barging
-barhop
-barhopped
-barhopping
-barhops
 bariatric
 bariatrics
 baring
@@ -587,6 +587,7 @@ baroness
 baronesses
 barons
 baroque
+barrack
 barracks
 barracuda
 barracudas
@@ -615,6 +616,8 @@ barricading
 barrier
 barriers
 barring
+barrio
+barrios
 barrister
 barristers
 barroom
@@ -719,6 +722,8 @@ bastardizing
 bastards
 baste
 basted
+baster
+basters
 bastes
 basting
 bastion
@@ -750,10 +755,12 @@ bathtubs
 bathwater
 bathymetric
 bathymetry
+batik
 bating
 baton
 batons
 bats
+batshit
 batsman
 batsmen
 battalion
@@ -791,6 +798,7 @@ battling
 batty
 bauble
 baubles
+baud
 bauxite
 bawdy
 bawl
@@ -805,7 +813,6 @@ bayonets
 bayou
 bayous
 bays
-bayside
 bazaar
 bazaars
 bazillion
@@ -857,6 +864,8 @@ beanstalk
 beanstalks
 bear
 bearable
+bearcat
+bearcats
 beard
 bearded
 beardless
@@ -889,6 +898,8 @@ beater
 beaters
 beating
 beatings
+beatnik
+beatniks
 beats
 beau
 beaus
@@ -912,7 +923,6 @@ beavers
 bebop
 became
 because
-bechamel
 beckon
 beckoned
 beckoning
@@ -927,6 +937,8 @@ bedazzles
 bedazzling
 bedbug
 bedbugs
+bedcover
+bedcovers
 bedded
 bedding
 beddings
@@ -1119,6 +1131,8 @@ belched
 belches
 belching
 beleaguered
+belfries
+belfry
 belie
 belied
 belief
@@ -1238,7 +1252,13 @@ benignly
 bent
 benthic
 bento
+bentonite
+bentos
 benzene
+benzine
+benzoate
+benzodiazepine
+benzodiazepines
 bequeath
 bequeathed
 bequeathing
@@ -1256,6 +1276,7 @@ bereft
 beret
 berets
 bergamot
+beriberi
 berkelium
 berm
 berms
@@ -1288,6 +1309,7 @@ besmirched
 besmirches
 besmirching
 besotted
+besought
 bespeak
 bespeaking
 bespeaks
@@ -1314,8 +1336,8 @@ bestsellers
 bestselling
 bet
 beta
+betaine
 betas
-betcha
 betray
 betrayal
 betrayals
@@ -1328,6 +1350,8 @@ betrothal
 betrothals
 betrothed
 bets
+betta
+bettas
 better
 bettered
 bettering
@@ -1399,6 +1423,8 @@ bickers
 bicolor
 bicolour
 bicultural
+bicuspid
+bicuspids
 bicycle
 bicycled
 bicycles
@@ -1419,12 +1445,9 @@ bidets
 biding
 bidirectional
 bids
-biennia
 biennial
 biennially
 biennials
-biennium
-bienniums
 bifocal
 bifocals
 bifold
@@ -1440,6 +1463,7 @@ bigamists
 bigamous
 bigamy
 bigfoot
+bigfoots
 bigger
 biggest
 biggie
@@ -1447,7 +1471,6 @@ biggies
 biggish
 bighorn
 bighorns
-bigly
 bigmouth
 bigmouths
 bigness
@@ -1470,6 +1493,8 @@ bikini
 bikinis
 bilateral
 bilaterally
+bilayer
+bilayers
 bile
 bilge
 bilges
@@ -1478,6 +1503,7 @@ bilingual
 bilingualism
 bilingually
 bilinguals
+bilirubin
 bilk
 bilked
 bilking
@@ -1497,6 +1523,7 @@ billfold
 billfolds
 billiard
 billiards
+billies
 billing
 billings
 billion
@@ -1511,8 +1538,10 @@ billowing
 billows
 billowy
 bills
+billy
 bimbo
 bimbos
+bimodal
 bimonthly
 bin
 binaries
@@ -1543,7 +1572,14 @@ binoculars
 binomial
 binomials
 bins
+binturong
+binturongs
 bio
+bioactive
+bioactivities
+bioactivity
+bioavailability
+bioavailable
 biochemical
 biochemically
 biochemicals
@@ -1568,6 +1604,8 @@ bioethanol
 bioethical
 bioethics
 biofeedback
+biofilm
+biofilms
 biofuel
 biofuels
 biogas
@@ -1647,6 +1685,9 @@ bipartite
 biped
 bipedal
 bipeds
+biphasic
+biphenyl
+biphenyls
 biplane
 biplanes
 bipod
@@ -1762,6 +1803,8 @@ bituminous
 bivalent
 bivalve
 bivalves
+bivouac
+bivouacs
 biweekly
 biz
 bizarre
@@ -1807,7 +1850,6 @@ blacklist
 blacklisted
 blacklisting
 blacklists
-blackly
 blackmail
 blackmailed
 blackmailer
@@ -1831,7 +1873,6 @@ blades
 blading
 blah
 blahs
-blam
 blame
 blamed
 blameless
@@ -1964,6 +2005,8 @@ bling
 blinged
 blinging
 blingy
+blini
+blinis
 blink
 blinked
 blinker
@@ -2140,6 +2183,8 @@ bluebonnet
 bluebonnets
 bluefin
 bluefish
+bluegill
+bluegills
 bluegrass
 blueish
 bluejay
@@ -2284,6 +2329,8 @@ bodysuits
 bodywork
 bodyworks
 bog
+bogan
+bogans
 bogey
 bogeyed
 bogeying
@@ -2297,10 +2344,13 @@ boggled
 boggles
 boggling
 boggy
+bogie
+bogies
 bogs
 bogus
 bohemian
 bohemians
+bohrium
 boi
 boil
 boiled
@@ -2325,7 +2375,6 @@ bollocks
 bolls
 bolo
 bologna
-bolognese
 bolos
 bolster
 bolstered
@@ -2348,9 +2397,11 @@ bombardments
 bombards
 bombast
 bombastic
+bombe
 bombed
 bomber
 bombers
+bombes
 bombing
 bombings
 bombproof
@@ -2389,6 +2440,7 @@ bongos
 bongs
 boning
 bonito
+bonitos
 bonk
 bonked
 bonkers
@@ -2435,6 +2487,8 @@ bookend
 bookended
 bookending
 bookends
+booker
+bookers
 bookie
 bookies
 booking
@@ -2484,7 +2538,9 @@ boondoggle
 boondoggles
 boonies
 boons
+boor
 boorish
+boors
 boos
 boost
 boosted
@@ -2528,6 +2584,8 @@ bopped
 bopping
 bops
 borax
+bordello
+bordellos
 border
 bordered
 bordering
@@ -2546,6 +2604,7 @@ boreholes
 borer
 borers
 bores
+boric
 boring
 bork
 borked
@@ -2632,6 +2691,8 @@ bounced
 bouncer
 bouncers
 bounces
+bouncier
+bounciest
 bouncing
 bouncy
 bound
@@ -2664,12 +2725,18 @@ bow
 bowed
 bowel
 bowels
+bower
+bowers
 bowie
 bowing
 bowl
 bowled
 bowler
 bowlers
+bowlful
+bowlfuls
+bowline
+bowlines
 bowling
 bowls
 bowman
@@ -2711,6 +2778,7 @@ braces
 brachiosaurus
 brachiosauruses
 bracing
+bracken
 bracket
 bracketed
 bracketing
@@ -2719,6 +2787,8 @@ brackish
 brad
 brads
 brag
+braggart
+braggarts
 bragged
 bragging
 brags
@@ -2881,6 +2951,7 @@ breakup
 breakups
 breakwater
 breakwaters
+bream
 breast
 breastbone
 breastbones
@@ -2930,6 +3001,8 @@ breezily
 breezing
 breezy
 brethren
+breve
+breves
 brevity
 brew
 brewed
@@ -2963,6 +3036,7 @@ brickwork
 brickworks
 brickyard
 brickyards
+bricolage
 bridal
 bridals
 bride
@@ -3219,6 +3293,7 @@ brutally
 brute
 brutes
 brutish
+bub
 bubble
 bubbled
 bubblegum
@@ -3228,6 +3303,7 @@ bubbles
 bubbling
 bubbly
 bubonic
+bubs
 buccal
 buccaneer
 buccaneers
@@ -3239,9 +3315,13 @@ bucket
 bucketed
 bucketing
 buckets
+buckeye
+buckeyes
 bucking
 buckle
 buckled
+buckler
+bucklers
 buckles
 buckling
 bucks
@@ -3261,12 +3341,16 @@ buddy
 buddying
 budge
 budged
+budgerigar
+budgerigars
 budges
 budget
 budgetary
 budgeted
 budgeting
 budgets
+budgie
+budgies
 budging
 buds
 buff
@@ -3298,7 +3382,6 @@ buggery
 buggies
 bugging
 buggy
-bughouse
 bugle
 bugled
 bugler
@@ -3348,6 +3431,7 @@ bulldozer
 bulldozers
 bulldozes
 bulldozing
+bulled
 bullet
 bulleted
 bulletin
@@ -3367,10 +3451,15 @@ bullhorn
 bullhorns
 bullied
 bullies
+bulling
 bullion
 bullish
 bullishly
 bullishness
+bullmastiff
+bullmastiffs
+bullock
+bullocks
 bullpen
 bullpens
 bullring
@@ -3386,6 +3475,8 @@ bullwhip
 bullwhips
 bully
 bullying
+bulrush
+bulrushes
 bulwark
 bulwarks
 bum
@@ -3428,6 +3519,8 @@ bungalow
 bungalows
 bungee
 bungees
+bunghole
+bungholes
 bungle
 bungled
 bungles
@@ -3460,12 +3553,12 @@ buoyed
 buoying
 buoys
 bur
-burbs
 burden
 burdened
 burdening
 burdens
 burdensome
+burdock
 bureau
 bureaucracies
 bureaucracy
@@ -3524,16 +3617,22 @@ burp
 burped
 burping
 burps
+burqa
+burqas
 burr
 burrito
 burritos
+burro
+burros
 burrow
 burrowed
 burrowing
 burrows
 burrs
 burs
+bursar
 bursaries
+bursars
 bursary
 burst
 bursting
@@ -3553,6 +3652,8 @@ bushes
 bushfire
 bushfires
 bushido
+bushier
+bushiest
 bushing
 bushings
 bushland
@@ -3675,8 +3776,6 @@ buzzed
 buzzer
 buzzers
 buzzes
-buzzier
-buzziest
 buzzing
 buzzkill
 buzzkills

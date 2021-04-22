@@ -4,8 +4,12 @@ kabob
 kabobs
 kaboom
 kabuki
+kaftan
+kaftans
 kahuna
 kahunas
+kaiser
+kaisers
 kaizen
 kalamata
 kalashnikov
@@ -19,6 +23,7 @@ kamikazes
 kanban
 kangaroo
 kangaroos
+kaolin
 kappa
 kaput
 karaoke
@@ -34,6 +39,7 @@ katana
 katanas
 katydid
 katydids
+kava
 kayak
 kayaked
 kayaker
@@ -63,6 +69,8 @@ keepsakes
 kefir
 keg
 kegs
+keister
+keisters
 keloid
 keloids
 kelp
@@ -73,6 +81,7 @@ kennels
 keno
 kept
 keratin
+keratins
 kerb
 kerbs
 kerbside
@@ -107,6 +116,8 @@ keyboards
 keycard
 keycards
 keyed
+keyframe
+keyframes
 keyhole
 keyholes
 keying
@@ -127,6 +138,8 @@ keystone
 keystones
 keystroke
 keystrokes
+keyway
+keyways
 keyword
 keywords
 khaki
@@ -135,7 +148,6 @@ kibble
 kibbles
 kibbutz
 kibbutzim
-kibosh
 kick
 kickback
 kickbacks
@@ -193,13 +205,19 @@ kills
 kiln
 kilns
 kilo
+kilobit
+kilobits
 kilobyte
 kilobytes
+kilocalorie
+kilocalories
 kilogram
 kilogramme
 kilogrammes
 kilograms
 kilohertz
+kilojoule
+kilojoules
 kiloliter
 kiloliters
 kilolitre
@@ -225,6 +243,8 @@ kimchi
 kimono
 kimonos
 kin
+kinase
+kinases
 kind
 kinda
 kinder
@@ -248,6 +268,7 @@ kinds
 kinematic
 kinematics
 kinesiology
+kinesthetic
 kinetic
 kinetically
 kinetics
@@ -256,6 +277,7 @@ king
 kingdom
 kingdoms
 kinged
+kingfish
 kingfisher
 kingfishers
 kinging
@@ -282,6 +304,7 @@ kiosk
 kiosks
 kipper
 kippers
+kirsch
 kiss
 kissable
 kissed
@@ -300,7 +323,9 @@ kite
 kiteboarding
 kites
 kitesurfing
+kiting
 kits
+kitsch
 kitschy
 kitted
 kitten
@@ -416,8 +441,11 @@ knuckleheads
 knuckles
 knuckling
 knurled
+knurling
 koala
 koalas
+kofta
+koftas
 kohlrabi
 koi
 kola
@@ -425,6 +453,7 @@ kolas
 kook
 kooks
 kooky
+korma
 kosher
 koto
 kotos
@@ -442,8 +471,11 @@ kudos
 kudu
 kudus
 kudzu
+kugel
 kumquat
 kumquats
+kundalini
+kurtosis
 kvetch
 kvetched
 kvetches

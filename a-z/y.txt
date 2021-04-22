@@ -29,12 +29,15 @@ yaps
 yard
 yardage
 yardages
+yarder
+yarders
 yards
 yardstick
 yardsticks
 yardwork
 yarn
 yarns
+yarrow
 yaw
 yawn
 yawned
@@ -63,7 +66,6 @@ yeas
 yeast
 yeasts
 yeasty
-yeh
 yell
 yelled
 yelling
@@ -91,7 +93,6 @@ yen
 yeoman
 yeomen
 yep
-yerba
 yes
 yeses
 yesterday
@@ -101,6 +102,7 @@ yesteryears
 yet
 yeti
 yetis
+yew
 yield
 yielded
 yielding
@@ -138,8 +140,6 @@ yolks
 yon
 yonder
 yore
-yorkie
-yorkies
 yottabyte
 yottabytes
 you
@@ -158,7 +158,6 @@ youth
 youthful
 youthfulness
 youths
-yow
 yowl
 yowled
 yowling
@@ -173,9 +172,13 @@ yuk
 yule
 yuletide
 yum
+yummier
+yummiest
 yumminess
 yummy
 yup
+yuppie
+yuppies
 yurt
 yurts
 yuzu

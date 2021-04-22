@@ -3,8 +3,6 @@ pace
 paced
 pacemaker
 pacemakers
-pacer
-pacers
 paces
 pacesetter
 pacesetters
@@ -39,14 +37,15 @@ packets
 packing
 packinghouse
 packinghouses
+packings
 packs
 pact
 pacts
-pacy
 pad
 padded
 paddies
 padding
+paddings
 paddle
 paddleboard
 paddleboards
@@ -74,6 +73,7 @@ paedophiles
 paedophilia
 paedophilic
 paella
+paellas
 pagan
 paganism
 pagans
@@ -133,6 +133,7 @@ pairings
 pairs
 pairwise
 paisley
+paisleys
 pajama
 pajamas
 pakora
@@ -169,6 +170,7 @@ palindrome
 palindromes
 palindromic
 paling
+palings
 palisade
 palisades
 pall
@@ -208,6 +210,11 @@ palomino
 palominos
 palpable
 palpably
+palpate
+palpated
+palpates
+palpating
+palpation
 palpitating
 palpitation
 palpitations
@@ -229,6 +236,7 @@ pancake
 pancaked
 pancakes
 pancaking
+pancetta
 pancreas
 pancreases
 pancreatic
@@ -256,6 +264,7 @@ panellist
 panellists
 panels
 panes
+panettone
 pang
 pangolin
 pangolins
@@ -282,6 +291,7 @@ panoply
 panorama
 panoramas
 panoramic
+panpipes
 pans
 pansexual
 pansexuality
@@ -332,6 +342,13 @@ paperweight
 paperweights
 paperwork
 papery
+papilloma
+papillomas
+papillomavirus
+papillon
+papillons
+pappardelle
+pappy
 paprika
 paps
 papyri
@@ -446,6 +463,8 @@ parasitology
 parasol
 parasols
 parasympathetic
+paratha
+parathas
 paratrooper
 paratroopers
 parboil
@@ -480,6 +499,7 @@ parenthood
 parenting
 parents
 pares
+paresis
 parfait
 parfaits
 pariah
@@ -576,6 +596,8 @@ partakes
 partaking
 parted
 parter
+parterre
+parterres
 parters
 partial
 partiality
@@ -631,6 +653,8 @@ party
 partygoer
 partygoers
 partying
+parvenu
+parvenus
 pas
 pascal
 pascals
@@ -654,6 +678,7 @@ passers
 passersby
 passes
 passing
+passings
 passion
 passionate
 passionately
@@ -693,6 +718,8 @@ pasteurizer
 pasteurizers
 pasteurizes
 pasteurizing
+pastiche
+pastiches
 pasties
 pastime
 pastimes
@@ -774,6 +801,7 @@ patient
 patiently
 patients
 patina
+patinas
 patio
 patios
 patisserie
@@ -852,6 +880,8 @@ paves
 pavilion
 pavilions
 paving
+pavlova
+pavlovas
 paw
 pawed
 pawing
@@ -863,6 +893,8 @@ pawning
 pawns
 pawnshop
 pawnshops
+pawpaw
+pawpaws
 paws
 pay
 payable
@@ -923,6 +955,7 @@ peacoat
 peacoats
 peacock
 peacocks
+peafowl
 peak
 peaked
 peaking
@@ -931,6 +964,7 @@ peanut
 peanuts
 pear
 pearl
+pearled
 pearlescent
 pearls
 pearly
@@ -1011,6 +1045,8 @@ pedophile
 pedophiles
 pedophilia
 pedophilic
+peduncle
+peduncles
 pee
 peed
 peeing
@@ -1099,8 +1135,6 @@ pencilling
 pencils
 pendant
 pendants
-pendency
-pendent
 pending
 pendulous
 pendulum
@@ -1128,6 +1162,8 @@ penitential
 penitentiaries
 penitentiary
 penitents
+penknife
+penknives
 penmanship
 pennant
 pennants
@@ -1146,6 +1182,8 @@ pensions
 pensive
 pensively
 pent
+pentacle
+pentacles
 pentagon
 pentagonal
 pentagons
@@ -1192,10 +1230,12 @@ peppery
 pepping
 peppy
 peps
+pepsin
 peptic
 peptide
 peptides
 per
+percale
 perceivable
 perceive
 perceived
@@ -1255,12 +1295,15 @@ perfections
 perfectly
 perfectness
 perfects
+perfidious
+perfidy
 perforate
 perforated
 perforates
 perforating
 perforation
 perforations
+perforce
 perform
 performance
 performances
@@ -1281,6 +1324,8 @@ perfuming
 perfunctorily
 perfunctory
 perfusion
+pergola
+pergolas
 perhaps
 peridot
 peridots
@@ -1306,6 +1351,7 @@ periodontal
 periodontics
 periodontist
 periodontists
+periodontitis
 periodontology
 periods
 perioperative
@@ -1477,6 +1523,7 @@ persuasions
 persuasive
 persuasively
 persuasiveness
+pert
 pertain
 pertained
 pertaining
@@ -1551,6 +1598,8 @@ peter
 petered
 petering
 peters
+petiole
+petioles
 petite
 petites
 petition
@@ -1593,15 +1642,19 @@ pewter
 peyote
 phablet
 phablets
+phage
+phages
 phalanges
 phalanx
 phalanxes
 phallic
 phallus
 phalluses
+phantasies
 phantasm
 phantasmal
 phantasms
+phantasy
 phantom
 phantoms
 pharaoh
@@ -1626,6 +1679,7 @@ pharmacopoeias
 pharmacotherapy
 pharmacy
 pharyngeal
+pharynges
 pharyngitis
 pharynx
 pharynxes
@@ -1641,11 +1695,14 @@ phat
 pheasant
 pheasants
 phenol
+phenological
+phenology
 phenols
 phenom
 phenomena
 phenomenal
 phenomenally
+phenomenology
 phenomenon
 phenomenons
 phenoms
@@ -1654,6 +1711,7 @@ phenotypes
 phenotypic
 phenotypically
 phenotyping
+phenyl
 phenylalanine
 pheromone
 pheromones
@@ -1720,9 +1778,10 @@ phonograph
 phonographic
 phonographs
 phony
-phooey
 phosphate
 phosphates
+phospholipid
+phospholipids
 phosphor
 phosphorescence
 phosphorescent
@@ -1730,6 +1789,11 @@ phosphoric
 phosphorous
 phosphors
 phosphorus
+phosphorylate
+phosphorylated
+phosphorylates
+phosphorylating
+phosphorylation
 photo
 photobomb
 photobombed
@@ -1763,6 +1827,8 @@ photonics
 photons
 photorealism
 photorealistic
+photoresist
+photoresists
 photos
 photosensitive
 photoshoot
@@ -1784,7 +1850,11 @@ phraseology
 phrases
 phrasing
 phrasings
+phthalate
+phthalates
+phthalic
 phyla
+phylogenetic
 phylum
 physical
 physicality
@@ -1803,7 +1873,6 @@ physiologically
 physiologist
 physiologists
 physiology
-physios
 physiotherapist
 physiotherapy
 physique
@@ -1814,6 +1883,7 @@ phytonutrient
 phytonutrients
 phytoplankton
 pi
+pianissimo
 pianist
 pianists
 piano
@@ -1821,7 +1891,6 @@ pianos
 piazza
 piazzas
 pic
-picante
 picayune
 piccolo
 piccolos
@@ -1831,6 +1900,7 @@ pickaxe
 pickaxes
 picked
 picker
+pickerel
 pickers
 picket
 picketed
@@ -1876,14 +1946,16 @@ piddle
 piddled
 piddles
 piddling
+pidgin
+pidgins
 pie
+piebald
 piece
 pieced
 piecemeal
 pieces
 piecing
 pied
-piedmont
 pier
 pierce
 pierced
@@ -1898,6 +1970,7 @@ pierogies
 piers
 pies
 piety
+piezoelectric
 pig
 pigeon
 pigeonhole
@@ -1906,6 +1979,7 @@ pigeonholes
 pigeonholing
 pigeons
 pigged
+piggie
 piggies
 pigging
 piggy
@@ -1931,6 +2005,8 @@ pike
 pikes
 pilaf
 pilafs
+pilaster
+pilasters
 pile
 piled
 piledriver
@@ -1961,6 +2037,8 @@ pillbox
 pillboxes
 pilled
 pilling
+pillion
+pillions
 pilloried
 pillories
 pillory
@@ -2007,6 +2085,7 @@ pinching
 pincushion
 pincushions
 pine
+pineal
 pineapple
 pineapples
 pinecone
@@ -2030,11 +2109,13 @@ pining
 pinion
 pinions
 pink
+pinked
 pinker
 pinkest
 pinkeye
 pinkie
 pinkies
+pinking
 pinkish
 pinkness
 pinks
@@ -2042,7 +2123,9 @@ pinky
 pinnacle
 pinnacles
 pinned
+pinnies
 pinning
+pinny
 pinochle
 pinot
 pinots
@@ -2215,6 +2298,8 @@ placid
 placidly
 placing
 placings
+placket
+plackets
 plagiarise
 plagiarised
 plagiarises
@@ -2240,11 +2325,13 @@ plainly
 plainness
 plains
 plainspoken
+plaint
 plaintext
 plaintiff
 plaintiffs
 plaintive
 plaintively
+plaints
 plait
 plaited
 plaiting
@@ -2281,6 +2368,7 @@ plans
 plant
 plantain
 plantains
+plantar
 plantation
 plantations
 planted
@@ -2319,6 +2407,8 @@ plateful
 platefuls
 platelet
 platelets
+platen
+platens
 plates
 platform
 platformed
@@ -2327,6 +2417,7 @@ platformers
 platforming
 platforms
 plating
+platings
 platinum
 platitude
 platitudes
@@ -2337,8 +2428,10 @@ platooned
 platooning
 platoons
 plats
+platted
 platter
 platters
+platting
 platypus
 platypuses
 plaudits
@@ -2346,8 +2439,10 @@ plausibility
 plausible
 plausibly
 play
+playa
 playability
 playable
+playas
 playback
 playbacks
 playbill
@@ -2459,17 +2554,21 @@ plenums
 plesiosaur
 plesiosaurs
 plethora
+pleura
+pleural
 plexiglass
 plexus
+plexuses
 pliability
 pliable
 pliant
 plied
-plier
 pliers
 plies
 plight
 plights
+plinth
+plinths
 plod
 plodded
 plodding
@@ -2490,6 +2589,8 @@ plough
 ploughed
 ploughing
 ploughs
+plover
+plovers
 plow
 plowed
 plowing
@@ -2526,7 +2627,6 @@ plumper
 plumpest
 plumping
 plumps
-plumpy
 plums
 plunder
 plundered
@@ -2565,6 +2665,7 @@ plurals
 plus
 pluses
 plush
+plushes
 plushy
 plusses
 plutocracy
@@ -2572,12 +2673,15 @@ plutocrat
 plutocratic
 plutocrats
 plutonium
+pluvial
 ply
 plying
 plywood
+plywoods
 pneumatic
 pneumatically
 pneumatics
+pneumococcal
 pneumonia
 poach
 poached
@@ -2626,6 +2730,7 @@ poetically
 poetics
 poetry
 poets
+pogo
 pogrom
 pogroms
 poi
@@ -2753,7 +2858,6 @@ pollinator
 pollinators
 polling
 pollock
-pollocks
 polls
 pollster
 pollsters
@@ -2772,14 +2876,15 @@ polos
 poltergeist
 poltergeists
 poly
+polyamide
+polyamides
 polyamorous
 polyamory
 polyandrous
 polyandry
-polybag
-polybags
 polycarbonate
 polycarbonates
+polychlorinated
 polychromatic
 polychrome
 polyclinic
@@ -2827,6 +2932,8 @@ polymorphisms
 polynomial
 polynomials
 polyp
+polypeptide
+polypeptides
 polyphonic
 polyphony
 polypropylene
@@ -2874,8 +2981,11 @@ ponderous
 ponders
 ponding
 ponds
+pong
 ponied
 ponies
+pons
+pontes
 pontiff
 pontiffs
 pontifical
@@ -2975,14 +3085,20 @@ porcelain
 porcelains
 porch
 porches
+porchetta
 porcine
+porcini
 porcupine
 porcupines
 pore
 pored
 pores
+porgies
+porgy
 poring
 pork
+porker
+porkers
 porky
 porn
 porno
@@ -2990,10 +3106,12 @@ pornographer
 pornographers
 pornographic
 pornography
+pornos
 porosities
 porosity
 porous
 porousness
+porphyry
 porpoise
 porpoises
 porridge
@@ -3213,6 +3331,8 @@ potentiated
 potentiates
 potentiating
 potentiation
+potentiometer
+potentiometers
 potently
 pothead
 potheads
@@ -3243,6 +3363,8 @@ pouch
 pouched
 pouches
 pouching
+poultice
+poultices
 poultry
 pounce
 pounced
@@ -3262,6 +3384,7 @@ pours
 pout
 pouted
 poutine
+poutines
 pouting
 pouts
 pouty
@@ -3497,6 +3620,7 @@ predisposes
 predisposing
 predisposition
 predispositions
+prednisone
 predoctoral
 predominance
 predominant
@@ -3788,7 +3912,6 @@ preserving
 preset
 presets
 presetting
-preshow
 preside
 presided
 presidencies
@@ -3931,6 +4054,7 @@ prey
 preyed
 preying
 preys
+priapism
 price
 priced
 priceless
@@ -3985,6 +4109,7 @@ priming
 primitive
 primitives
 primitivism
+primo
 primordial
 primp
 primped
@@ -4315,6 +4440,7 @@ projects
 prokaryote
 prokaryotes
 prokaryotic
+prolactin
 prolapse
 prolapsed
 prolapses
@@ -4445,6 +4571,7 @@ proper
 properly
 properties
 property
+prophase
 prophecies
 prophecy
 prophesied
@@ -4505,6 +4632,7 @@ propulsion
 propulsive
 propulsor
 propulsors
+propylene
 prorate
 prorated
 prorates
@@ -4547,6 +4675,7 @@ proselytized
 proselytizes
 proselytizing
 prosocial
+prosody
 prospect
 prospected
 prospecting
@@ -4587,6 +4716,8 @@ prostrations
 protactinium
 protagonist
 protagonists
+protease
+proteases
 protect
 protectant
 protectants
@@ -4609,6 +4740,7 @@ protege
 proteges
 protein
 proteins
+proteinuria
 protest
 protestation
 protestations
@@ -4727,6 +4859,7 @@ prunes
 pruning
 prurience
 prurient
+pruritus
 pry
 prying
 psalm
@@ -4740,7 +4873,9 @@ pseudonyms
 pseudorandom
 pseudoscience
 psi
+psilocybin
 psoriasis
+psoriatic
 psych
 psyche
 psyched
@@ -4856,7 +4991,9 @@ pucks
 pudding
 puddings
 puddle
+puddled
 puddles
+puddling
 pudgy
 pueblo
 pueblos
@@ -4891,6 +5028,8 @@ pullbacks
 pulled
 puller
 pullers
+pullet
+pullets
 pulley
 pulleys
 pulling
@@ -4994,6 +5133,8 @@ pungent
 punish
 punishable
 punished
+punisher
+punishers
 punishes
 punishing
 punishment
@@ -5058,7 +5199,8 @@ purifiers
 purifies
 purify
 purifying
-purism
+purine
+purines
 purist
 purists
 puritan
@@ -5086,6 +5228,7 @@ purposely
 purposes
 purposing
 purposive
+purpura
 purr
 purred
 purring
@@ -5106,6 +5249,7 @@ pursues
 pursuing
 pursuit
 pursuits
+purulent
 purvey
 purveyed
 purveying
@@ -5182,9 +5326,12 @@ pyramidal
 pyramids
 pyre
 pyres
+pyrex
 pyrite
+pyrites
 pyro
 pyroclastic
+pyrolysis
 pyromania
 pyromaniac
 pyromaniacs
@@ -5192,5 +5339,6 @@ pyros
 pyrotechnic
 pyrotechnical
 pyrotechnics
+pyruvate
 python
 pythons

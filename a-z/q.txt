@@ -135,6 +135,7 @@ quartermasters
 quarters
 quartet
 quartets
+quartic
 quartile
 quartiles
 quarts
@@ -156,7 +157,6 @@ quays
 quayside
 qubit
 qubits
-queasily
 queasiness
 queasy
 queen
@@ -293,6 +293,7 @@ quirky
 quit
 quite
 quits
+quitted
 quitter
 quitters
 quitting

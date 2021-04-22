@@ -22,10 +22,14 @@ gaffing
 gaffs
 gag
 gaga
+gage
+gaged
+gages
 gagged
 gagging
 gaggle
 gaggles
+gaging
 gags
 gaiety
 gaily
@@ -122,11 +126,13 @@ gamifying
 gamine
 gaming
 gamma
+gammon
 gamut
 gamuts
 gamy
 ganache
 gander
+ganders
 gang
 gangbang
 gangbanged
@@ -144,7 +150,6 @@ gangrene
 gangrenous
 gangs
 gangsta
-gangstas
 gangster
 gangsters
 gangway
@@ -172,7 +177,6 @@ garbage
 garbanzo
 garbanzos
 garbed
-garbing
 garble
 garbled
 garbles
@@ -226,8 +230,6 @@ gars
 garter
 garters
 gas
-gasbag
-gasbags
 gaseous
 gases
 gash
@@ -290,6 +292,8 @@ gatling
 gator
 gators
 gauche
+gaudier
+gaudiest
 gaudy
 gauge
 gauged
@@ -298,7 +302,6 @@ gauging
 gaunt
 gauntlet
 gauntlets
-gauss
 gauze
 gauzy
 gave
@@ -309,6 +312,7 @@ gawked
 gawking
 gawks
 gay
+gaydar
 gayer
 gayest
 gayness
@@ -357,6 +361,7 @@ geezers
 geisha
 geishas
 gel
+gelati
 gelatin
 gelatine
 gelatinous
@@ -364,6 +369,7 @@ gelato
 geld
 gelded
 gelding
+geldings
 gelds
 gelled
 gelling
@@ -441,6 +447,8 @@ genitalia
 genitals
 genius
 geniuses
+genoa
+genoas
 genocidal
 genocide
 genocides
@@ -481,6 +489,9 @@ genuine
 genuinely
 genuineness
 genus
+geocache
+geocaches
+geocaching
 geocentric
 geochemical
 geochemist
@@ -563,6 +574,7 @@ gerrymandering
 gerrymanders
 gerund
 gerunds
+gestalt
 gestate
 gestated
 gestates
@@ -635,8 +647,6 @@ gift
 giftable
 gifted
 giftedness
-giftee
-giftees
 gifting
 gifts
 giftware
@@ -690,6 +700,9 @@ gingers
 gingersnap
 gingersnaps
 gingery
+gingham
+gingiva
+gingival
 gingivitis
 ginkgo
 ginkgos
@@ -719,6 +732,8 @@ girlish
 girls
 girly
 girth
+girths
+gis
 gist
 git
 gits
@@ -833,6 +848,7 @@ gleans
 glee
 gleeful
 gleefully
+glial
 glib
 glibly
 glide
@@ -853,6 +869,8 @@ glint
 glinted
 glinting
 glints
+glioma
+gliomas
 glisten
 glistened
 glistening
@@ -926,6 +944,7 @@ glovebox
 gloveboxes
 gloved
 gloves
+gloving
 glow
 glowed
 glower
@@ -939,6 +958,9 @@ glowstick
 glowsticks
 glowworm
 glowworms
+glucocorticoid
+glucocorticoids
+glucosamine
 glucose
 glue
 glued
@@ -972,8 +994,15 @@ glycaemic
 glycemic
 glycerin
 glycerine
+glycerol
 glycine
 glycogen
+glycol
+glycolic
+glycols
+glycolysis
+glycoprotein
+glycoproteins
 glyph
 glyphs
 gnarl
@@ -1027,12 +1056,15 @@ gobbler
 gobblers
 gobbles
 gobbling
+gobies
 goblet
 goblets
 goblin
 goblins
 gobs
 gobsmacked
+goby
+gochujang
 god
 godchild
 godchildren
@@ -1078,6 +1110,8 @@ goldfish
 golds
 goldsmith
 goldsmiths
+golem
+golems
 golf
 golfed
 golfer
@@ -1136,6 +1170,7 @@ googol
 googolplex
 googolplexes
 googols
+gook
 goon
 goons
 goop
@@ -1166,6 +1201,7 @@ gorging
 gorilla
 gorillas
 goring
+gorp
 gory
 gosh
 gosling
@@ -1186,15 +1222,16 @@ gothic
 goths
 gotta
 gotten
+gouache
 gouge
 gouged
-gouger
-gougers
 gouges
 gouging
 goulash
 gourd
 gourds
+gourmand
+gourmands
 gourmet
 gourmets
 gout
@@ -1280,7 +1317,9 @@ gramme
 grammes
 gramophone
 gramophones
+gramps
 grams
+gran
 granaries
 granary
 grand
@@ -1329,8 +1368,13 @@ grandsons
 grandstand
 grandstanding
 grandstands
+grange
+granges
+granita
+granitas
 granite
 granites
+grannie
 grannies
 granny
 granola
@@ -1368,8 +1412,11 @@ graphing
 graphite
 graphitic
 graphs
+grappa
 grapple
 grappled
+grappler
+grapplers
 grapples
 grappling
 grasp
@@ -1398,8 +1445,10 @@ gratified
 gratifies
 gratify
 gratifying
+gratin
 grating
 gratings
+gratins
 gratis
 gratitude
 gratuities
@@ -1422,8 +1471,10 @@ gravestone
 gravestones
 graveyard
 graveyards
+gravid
 gravies
 gravimetric
+gravitas
 gravitate
 gravitated
 gravitates
@@ -1466,6 +1517,8 @@ greatly
 greatness
 greats
 greed
+greedier
+greediest
 greedily
 greediness
 greedy
@@ -1753,8 +1806,11 @@ grunting
 grunts
 gruyere
 guacamole
+guanaco
+guanacos
 guanine
 guano
+guanosine
 guar
 guarana
 guarantee
@@ -1803,6 +1859,7 @@ guesthouse
 guesthouses
 guesting
 guests
+guff
 guffaw
 guffawed
 guffawing
@@ -1853,6 +1910,8 @@ gulfs
 gull
 gullet
 gullets
+gulley
+gulleys
 gullibility
 gullible
 gullies
@@ -1897,6 +1956,7 @@ gunner
 gunners
 gunnery
 gunning
+gunny
 gunpoint
 gunpowder
 guns
@@ -1927,6 +1987,8 @@ gushers
 gushes
 gushing
 gushy
+gusset
+gussets
 gussied
 gussies
 gussy
@@ -1974,6 +2036,7 @@ gynecological
 gynecologist
 gynecologists
 gynecology
+gyoza
 gypsies
 gypsum
 gypsy
@@ -1985,8 +2048,10 @@ gyration
 gyrations
 gyre
 gyres
+gyri
 gyro
 gyros
 gyroscope
 gyroscopes
 gyroscopic
+gyrus

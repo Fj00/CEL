@@ -3,9 +3,11 @@ eager
 eagerly
 eagerness
 eagle
+eagled
 eagles
 eaglet
 eaglets
+eagling
 ear
 earache
 earaches
@@ -194,10 +196,13 @@ ecstasies
 ecstasy
 ecstatic
 ecstatically
+ectopic
 ecumenical
 eczema
 ed
 edamame
+eddies
+eddy
 edema
 edge
 edged
@@ -209,6 +214,7 @@ edgier
 edgiest
 edginess
 edging
+edgings
 edgy
 edibility
 edible
@@ -259,7 +265,6 @@ eel
 eels
 eerie
 eerily
-eff
 efface
 effaced
 effacement
@@ -272,6 +277,8 @@ effective
 effectively
 effectiveness
 effectivity
+effector
+effectors
 effects
 effectual
 effectually
@@ -302,7 +309,6 @@ effortless
 effortlessly
 effortlessness
 efforts
-effs
 effusion
 effusions
 effusive
@@ -472,6 +478,8 @@ electronica
 electronically
 electronics
 electrons
+electrophoresis
+electrophoretic
 electroplated
 electroplating
 electropop
@@ -705,6 +713,8 @@ emerges
 emerging
 emerita
 emeritus
+emetic
+emetics
 emigrant
 emigrants
 emigrate
@@ -737,7 +747,6 @@ emollient
 emollients
 emolument
 emoluments
-emos
 emote
 emoted
 emotes
@@ -865,6 +874,7 @@ encasement
 encasements
 encases
 encasing
+encaustic
 encephalitis
 enchant
 enchanted
@@ -961,6 +971,7 @@ endeavouring
 endeavours
 ended
 endemic
+endemics
 endgame
 endgames
 ending
@@ -979,6 +990,7 @@ endodontics
 endodontist
 endodontists
 endogenous
+endoplasmic
 endorphin
 endorphins
 endorse
@@ -997,6 +1009,10 @@ endoscopies
 endoscopy
 endoskeleton
 endoskeletons
+endosome
+endosomes
+endothelial
+endothelium
 endothermic
 endow
 endowed
@@ -1034,6 +1050,10 @@ energizing
 energy
 enervating
 enfeebled
+enfold
+enfolded
+enfolding
+enfolds
 enforce
 enforceability
 enforceable
@@ -1090,6 +1110,8 @@ enhance
 enhanced
 enhancement
 enhancements
+enhancer
+enhancers
 enhances
 enhancing
 enigma
@@ -1212,8 +1234,11 @@ entanglements
 entangles
 entangling
 entente
+ententes
 enter
+enteral
 entered
+enteric
 entering
 enterprise
 enterprises
@@ -1228,6 +1253,7 @@ entertainingly
 entertainment
 entertainments
 entertains
+enthalpy
 enthrall
 enthralled
 enthralling
@@ -1307,6 +1333,7 @@ entrepreneur
 entrepreneurial
 entrepreneurs
 entries
+entropic
 entropy
 entrust
 entrusted
@@ -1371,6 +1398,7 @@ enzyme
 enzymes
 eon
 eons
+ephedra
 ephemera
 ephemeral
 epic
@@ -1395,6 +1423,8 @@ epidurals
 epigenetic
 epigenetically
 epigenetics
+epigram
+epigrams
 epilepsies
 epilepsy
 epileptic
@@ -1408,6 +1438,11 @@ episode
 episodes
 episodic
 episodically
+epistemic
+epistemological
+epistemology
+epistle
+epistles
 epitaph
 epitaphs
 epithelia
@@ -1571,6 +1606,8 @@ eruption
 eruptions
 eruptive
 erupts
+erythema
+erythematous
 erythritol
 escalate
 escalated
@@ -1595,12 +1632,15 @@ escapist
 escapists
 escargot
 escargots
+escarole
 escarpment
 escarpments
 eschew
 eschewed
 eschewing
 eschews
+escolar
+escolars
 escort
 escorted
 escorting
@@ -1664,8 +1704,11 @@ estimations
 estimator
 estimators
 estoppel
+estrange
 estranged
 estrangement
+estranges
+estranging
 estrogen
 estrogenic
 estrogens
@@ -1730,6 +1773,7 @@ etymologically
 etymologies
 etymology
 eucalyptus
+euchre
 euclidean
 eugenic
 eugenicist
@@ -1876,6 +1920,8 @@ evidently
 evil
 evildoer
 evildoers
+evilly
+evilness
 evils
 evince
 evinced
@@ -2092,6 +2138,7 @@ executive
 executives
 executor
 executors
+exegesis
 exemplar
 exemplars
 exemplary
@@ -2197,12 +2244,14 @@ exits
 exocrine
 exodus
 exogenous
+exon
 exonerate
 exonerated
 exonerates
 exonerating
 exoneration
 exonerations
+exons
 exoplanet
 exoplanets
 exorbitant
@@ -2501,6 +2550,7 @@ extortionist
 extortionists
 extorts
 extra
+extracellular
 extract
 extractable
 extracted

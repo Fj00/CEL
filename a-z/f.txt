@@ -80,6 +80,8 @@ factorisation
 factorization
 factors
 factory
+factotum
+factotums
 facts
 factsheet
 factsheets
@@ -239,6 +241,7 @@ fanciful
 fancifully
 fancy
 fancying
+fandango
 fandom
 fandoms
 fanfare
@@ -250,6 +253,8 @@ fanged
 fangirl
 fangirls
 fangs
+fanlight
+fanlights
 fanned
 fannies
 fanning
@@ -277,6 +282,8 @@ fantasyland
 fanzine
 fanzines
 far
+farad
+farads
 faraway
 farce
 farces
@@ -318,6 +325,7 @@ farts
 fascia
 fascial
 fascias
+fasciitis
 fascinate
 fascinated
 fascinates
@@ -456,6 +464,7 @@ faze
 fazed
 fazes
 fazing
+fealty
 fear
 feared
 fearful
@@ -490,6 +499,7 @@ features
 featurette
 featurettes
 featuring
+febrile
 fecal
 feces
 feckless
@@ -511,6 +521,7 @@ federalized
 federalizes
 federalizing
 federally
+federate
 federated
 federation
 federations
@@ -627,8 +638,11 @@ fends
 fenestration
 fennel
 fens
+fentanyl
 fenugreek
 feral
+fermata
+fermatas
 ferment
 fermentable
 fermentation
@@ -653,6 +667,8 @@ ferrets
 ferric
 ferried
 ferries
+ferrite
+ferrites
 ferromagnetic
 ferrous
 ferry
@@ -683,6 +699,7 @@ fervently
 fervid
 fervor
 fervour
+fescue
 fess
 fessed
 fesses
@@ -776,6 +793,14 @@ fibres
 fibril
 fibrillation
 fibrils
+fibrin
+fibrinogen
+fibroblast
+fibroblasts
+fibroid
+fibroids
+fibroma
+fibromas
 fibromyalgia
 fibrosis
 fibrotic
@@ -814,6 +839,10 @@ fidgets
 fidgety
 fiduciaries
 fiduciary
+fief
+fiefdom
+fiefdoms
+fiefs
 field
 fielded
 fielder
@@ -1012,6 +1041,8 @@ finishing
 finishings
 finite
 finitely
+fink
+finks
 finned
 fins
 fintech
@@ -1068,6 +1099,7 @@ firetruck
 firetrucks
 firewall
 firewalls
+fireweed
 firewood
 firework
 fireworks
@@ -1111,6 +1143,8 @@ fishmonger
 fishmongers
 fishnet
 fishnets
+fishpond
+fishponds
 fishtail
 fishtailed
 fishtailing
@@ -1148,6 +1182,8 @@ fittingly
 fittings
 five
 fivefold
+fiver
+fivers
 fives
 fix
 fixable
@@ -1157,6 +1193,8 @@ fixates
 fixating
 fixation
 fixations
+fixative
+fixatives
 fixed
 fixedly
 fixer
@@ -1187,7 +1225,9 @@ flaccid
 flack
 flacks
 flag
+flagella
 flagellation
+flagellum
 flagged
 flagging
 flagpole
@@ -1235,6 +1275,7 @@ flan
 flange
 flanged
 flanges
+flanging
 flank
 flanked
 flanker
@@ -1287,6 +1328,7 @@ flatbed
 flatbeds
 flatbread
 flatbreads
+flatfish
 flathead
 flatiron
 flatirons
@@ -1325,6 +1367,8 @@ flaunt
 flaunted
 flaunting
 flaunts
+flauta
+flautas
 flautist
 flautists
 flavor
@@ -1381,6 +1425,7 @@ fleet
 fleeting
 fleetingly
 fleets
+flerovium
 flesh
 fleshed
 fleshes
@@ -1401,6 +1446,9 @@ flexitarian
 flexitarians
 flexor
 flexors
+flexural
+flexure
+flexures
 flick
 flicked
 flicker
@@ -1433,8 +1481,6 @@ flinty
 flip
 flipbook
 flipbooks
-flipflop
-flipflops
 flippancy
 flippant
 flippantly
@@ -1455,6 +1501,10 @@ flirty
 flit
 flits
 flitted
+flitter
+flittered
+flittering
+flitters
 flitting
 float
 floatation
@@ -1499,6 +1549,8 @@ floored
 flooring
 floorings
 floors
+floozies
+floozy
 flop
 flopped
 floppies
@@ -1537,6 +1589,8 @@ floundered
 floundering
 flounders
 flour
+floured
+flouring
 flourish
 flourished
 flourishes
@@ -1562,6 +1616,8 @@ flowerpots
 flowers
 flowery
 flowing
+flowmeter
+flowmeters
 flown
 flows
 flu
@@ -1591,6 +1647,8 @@ fluffy
 flugelhorn
 flugelhorns
 fluid
+fluidic
+fluidics
 fluidity
 fluidly
 fluids
@@ -1667,8 +1725,6 @@ flying
 flyover
 flyovers
 flypaper
-flypast
-flypasts
 flyswatter
 flyswatters
 flytrap
@@ -1724,6 +1780,7 @@ foist
 foisted
 foisting
 foists
+folate
 fold
 foldable
 foldaway
@@ -1734,11 +1791,13 @@ folding
 foldout
 foldouts
 folds
-foley
+folia
 foliage
+foliar
 folic
 folio
 folios
+folium
 folk
 folklife
 folklore
@@ -1746,6 +1805,8 @@ folkloric
 folklorist
 folklorists
 folks
+folksong
+folksongs
 folksy
 folktale
 folktales
@@ -1784,6 +1845,7 @@ fondness
 fondue
 fondues
 font
+fontina
 fonts
 food
 foodbank
@@ -2119,6 +2181,7 @@ fortified
 fortifies
 fortify
 fortifying
+fortissimo
 fortitude
 fortnight
 fortnightly
@@ -2156,6 +2219,8 @@ fosters
 fought
 foul
 fouled
+fouler
+foulest
 fouling
 fouls
 found
@@ -2181,6 +2246,8 @@ fountains
 founts
 four
 fourfold
+fourplex
+fourplexes
 fours
 fourscore
 foursome
@@ -2200,6 +2267,8 @@ foxhole
 foxholes
 foxhound
 foxhounds
+foxtail
+foxtails
 foxtrot
 foxy
 foyer
@@ -2296,6 +2365,8 @@ frays
 frazzled
 freak
 freaked
+freakier
+freakiest
 freaking
 freakish
 freakishly
@@ -2496,6 +2567,8 @@ frolicked
 frolicking
 frolics
 from
+frond
+fronds
 front
 frontage
 frontages
@@ -2702,12 +2775,16 @@ furballs
 furies
 furious
 furiously
+furl
+furled
+furling
 furlong
 furlongs
 furlough
 furloughed
 furloughing
 furloughs
+furls
 furnace
 furnaces
 furnish
@@ -2719,8 +2796,10 @@ furniture
 furor
 furred
 furrier
+furriers
 furries
 furriest
+furring
 furrow
 furrowed
 furrowing

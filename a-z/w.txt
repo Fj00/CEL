@@ -48,10 +48,18 @@ wagon
 wagons
 wags
 wagyu
+wahoo
+waif
+waifs
 wail
 wailed
 wailing
 wails
+wain
+wains
+wainscot
+wainscoting
+wainscots
 waist
 waistband
 waistbands
@@ -93,16 +101,18 @@ wakening
 wakens
 wakes
 waking
+wale
+wales
 walk
 walkable
 walkathon
 walkathons
-walkaway
-walkaways
 walked
 walker
 walkers
 walking
+walkingstick
+walkingsticks
 walkout
 walkouts
 walkover
@@ -237,6 +247,7 @@ warnings
 warns
 warp
 warpage
+warpath
 warped
 warping
 warplane
@@ -287,10 +298,11 @@ washout
 washouts
 washroom
 washrooms
+washtub
+washtubs
 washy
 wasp
 wasps
-wassail
 wastage
 waste
 wastebasket
@@ -398,6 +410,7 @@ waterworks
 watery
 watt
 wattage
+wattages
 wattle
 wattles
 watts
@@ -425,6 +438,8 @@ wax
 waxed
 waxes
 waxing
+waxwing
+waxwings
 waxy
 way
 wayfarer
@@ -439,6 +454,7 @@ waypoints
 ways
 wayside
 wayward
+wazoo
 we
 weak
 weaken
@@ -492,7 +508,6 @@ wearying
 weasel
 weaseled
 weaseling
-weaselly
 weasels
 weather
 weathered
@@ -537,8 +552,6 @@ webpages
 webs
 website
 websites
-webzine
-webzines
 wed
 wedded
 wedding
@@ -554,6 +567,8 @@ weds
 wee
 weed
 weeded
+weeder
+weeders
 weeding
 weedkiller
 weedkillers
@@ -574,7 +589,6 @@ weeknights
 weeks
 weenie
 weenies
-weensy
 weeny
 weep
 weeping
@@ -601,6 +615,9 @@ weightlifters
 weightlifting
 weights
 weighty
+weiner
+weiners
+weir
 weird
 weirded
 weirder
@@ -610,6 +627,8 @@ weirdly
 weirdness
 weirdo
 weirdos
+weirds
+weirs
 welcome
 welcomed
 welcomes
@@ -636,8 +655,12 @@ wellspring
 wellsprings
 welly
 welt
+welted
+welter
+welters
 welterweight
 welterweights
+welting
 welts
 wench
 wenches
@@ -671,6 +694,8 @@ westerns
 westward
 westwards
 wet
+wether
+wethers
 wetland
 wetlands
 wetness
@@ -686,6 +711,7 @@ whacked
 whacking
 whacks
 whale
+whaled
 whaler
 whalers
 whales
@@ -707,7 +733,6 @@ wheatgrass
 wheatland
 wheatlands
 wheats
-whee
 wheedle
 wheedled
 wheedles
@@ -738,6 +763,8 @@ wheezing
 wheezy
 whelk
 whelks
+whelp
+whelps
 when
 whence
 whenever
@@ -753,6 +780,7 @@ whereof
 wheres
 whereupon
 wherever
+wherewith
 wherewithal
 whet
 whether
@@ -769,8 +797,6 @@ whiff
 whiffed
 whiffing
 whiffs
-whig
-whigs
 while
 whiled
 whiles
@@ -791,12 +817,18 @@ whiner
 whiners
 whines
 whining
+whinnied
+whinnies
+whinny
+whinnying
 whiny
 whip
 whiplash
 whipped
 whippersnapper
 whippersnappers
+whippet
+whippets
 whipping
 whippings
 whips
@@ -840,6 +872,7 @@ whispering
 whisperings
 whispers
 whispery
+whist
 whistle
 whistleblowing
 whistled
@@ -859,7 +892,6 @@ whitelist
 whitelisted
 whitelisting
 whitelists
-whitely
 whiten
 whitened
 whitener
@@ -919,7 +951,6 @@ wholesomeness
 wholly
 whom
 whomever
-whomso
 whomsoever
 whoop
 whooped
@@ -939,10 +970,10 @@ whorehouse
 whorehouses
 whores
 whoring
+whorish
 whorl
 whorls
 whose
-whoso
 whosoever
 why
 whys
@@ -963,10 +994,10 @@ widely
 widemouthed
 widen
 widened
-widener
-wideners
 widening
 widens
+wideout
+wideouts
 wider
 widescreen
 widespread
@@ -992,6 +1023,7 @@ wiener
 wieners
 wife
 wifely
+wifey
 wig
 wigged
 wigger
@@ -1003,6 +1035,8 @@ wiggles
 wiggling
 wiggly
 wigs
+wigwam
+wigwams
 wiki
 wikis
 wild
@@ -1035,6 +1069,8 @@ wilfully
 wiling
 will
 willed
+willet
+willets
 willful
 willfully
 willfulness
@@ -1054,6 +1090,8 @@ wilting
 wilts
 wily
 wimp
+wimped
+wimping
 wimps
 wimpy
 win
@@ -1084,6 +1122,8 @@ windier
 windiest
 winding
 windings
+windlass
+windlasses
 windless
 windmill
 windmills
@@ -1099,6 +1139,8 @@ windowsills
 windpipe
 windpipes
 windproof
+windrow
+windrows
 winds
 windscreen
 windscreens
@@ -1132,6 +1174,8 @@ wineries
 winery
 wines
 wing
+wingback
+wingbacks
 winged
 winger
 wingers
@@ -1211,6 +1255,7 @@ wiretapped
 wiretapping
 wiretaps
 wiring
+wirings
 wiry
 wisdom
 wisdoms
@@ -1236,6 +1281,7 @@ wising
 wisp
 wisps
 wispy
+wisteria
 wistful
 wistfully
 wistfulness
@@ -1285,12 +1331,10 @@ witting
 wittingly
 witty
 wives
-wiz
 wizard
 wizardry
 wizards
 wizened
-wizzes
 wobble
 wobbled
 wobbles
@@ -1309,6 +1353,8 @@ wold
 wolds
 wolf
 wolfed
+wolfhound
+wolfhounds
 wolfing
 wolfish
 wolfram
@@ -1331,6 +1377,7 @@ womanizers
 womanizes
 womanizing
 womankind
+womanlike
 womanliness
 womanly
 womb
@@ -1360,6 +1407,7 @@ wonton
 wontons
 woo
 wood
+woodbine
 woodblock
 woodblocks
 woodcarver
@@ -1370,6 +1418,8 @@ woodchip
 woodchips
 woodchuck
 woodchucks
+woodcock
+woodcocks
 woodcraft
 woodcut
 woodcuts
@@ -1510,6 +1560,7 @@ wormhole
 wormholes
 worming
 worms
+wormwood
 wormy
 worn
 worried
@@ -1538,6 +1589,7 @@ worshippers
 worshipping
 worships
 worst
+worsted
 wort
 worth
 worthier
@@ -1582,6 +1634,8 @@ wrappers
 wrapping
 wrappings
 wraps
+wrasse
+wrasses
 wrath
 wrathful
 wreak

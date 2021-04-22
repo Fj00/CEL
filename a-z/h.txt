@@ -23,7 +23,6 @@ habituation
 hacienda
 haciendas
 hack
-hackable
 hacked
 hacker
 hackers
@@ -38,6 +37,7 @@ hacksaws
 hacktivist
 hacktivists
 had
+haddock
 hadron
 hadrons
 haematologic
@@ -47,7 +47,12 @@ haematologists
 haematology
 haematoma
 haematomas
+haematuria
+haemodynamic
+haemodynamics
 haemoglobin
+haemolysis
+haemolytic
 haemophilia
 haemorrhage
 haemorrhaged
@@ -56,6 +61,8 @@ haemorrhagic
 haemorrhaging
 haemorrhoid
 haemorrhoids
+haemostasis
+haemostatic
 hafnium
 hag
 haggard
@@ -116,6 +123,7 @@ hairstyling
 hairstylist
 hairstylists
 hairy
+hake
 halal
 halcyon
 half
@@ -172,12 +180,16 @@ hamburger
 hamburgers
 hamlet
 hamlets
+hammam
+hammams
+hammed
 hammer
 hammered
 hammerhead
 hammerheads
 hammering
 hammers
+hamming
 hammock
 hammocks
 hammy
@@ -263,6 +275,8 @@ handout
 handouts
 handover
 handovers
+handphone
+handphones
 handpick
 handpicked
 handpicking
@@ -272,6 +286,8 @@ handprints
 handrail
 handrails
 hands
+handsaw
+handsaws
 handset
 handsets
 handshake
@@ -324,7 +340,6 @@ hankie
 hankies
 hanks
 hanky
-hap
 haphazard
 haphazardly
 hapless
@@ -339,7 +354,6 @@ happiest
 happily
 happiness
 happy
-haps
 haptic
 haptics
 harangue
@@ -391,7 +405,6 @@ hardliner
 hardliners
 hardly
 hardness
-hards
 hardscape
 hardscapes
 hardscrabble
@@ -415,6 +428,7 @@ harebrained
 harem
 harems
 hares
+harissa
 hark
 harked
 harken
@@ -462,6 +476,8 @@ harnesses
 harnessing
 harp
 harped
+harper
+harpers
 harpies
 harping
 harpist
@@ -500,10 +516,13 @@ hashed
 hashes
 hashing
 hashish
+hashmark
+hashmarks
 hashtag
 hashtags
 hasp
 hasps
+hassium
 hassle
 hassled
 hassles
@@ -550,8 +569,6 @@ haulage
 hauled
 hauler
 haulers
-haulier
-hauliers
 hauling
 hauls
 haunch
@@ -578,8 +595,12 @@ hawks
 hawthorn
 hawthorns
 hay
+haycock
+haycocks
 hayfield
 hayfields
+haymaker
+haymakers
 hayride
 hayrides
 hays
@@ -680,7 +701,6 @@ headteachers
 headwater
 headwaters
 headway
-headways
 headwind
 headwinds
 heady
@@ -707,6 +727,8 @@ heaping
 heaps
 hear
 heard
+hearer
+hearers
 hearing
 hearings
 hearken
@@ -768,6 +790,7 @@ heathen
 heathens
 heather
 heathers
+heaths
 heating
 heatproof
 heats
@@ -782,6 +805,7 @@ heavens
 heavenward
 heaves
 heavier
+heavies
 heaviest
 heavily
 heaviness
@@ -852,6 +876,7 @@ heist
 heists
 held
 helical
+helices
 helicopter
 helicoptered
 helicoptering
@@ -915,6 +940,7 @@ hematologists
 hematology
 hematoma
 hematomas
+hematuria
 hemisphere
 hemispheres
 hemispheric
@@ -925,7 +951,11 @@ hemlock
 hemlocks
 hemmed
 hemming
+hemodynamic
+hemodynamics
 hemoglobin
+hemolysis
+hemolytic
 hemophilia
 hemorrhage
 hemorrhaged
@@ -934,6 +964,8 @@ hemorrhagic
 hemorrhaging
 hemorrhoid
 hemorrhoids
+hemostasis
+hemostatic
 hemp
 hems
 hen
@@ -1014,6 +1046,8 @@ heritages
 hermaphrodite
 hermaphrodites
 hermaphroditic
+hermeneutic
+hermeneutics
 hermetic
 hermetically
 hermit
@@ -1022,6 +1056,7 @@ hernia
 hernias
 herniated
 herniation
+herniations
 hero
 heroes
 heroic
@@ -1064,6 +1099,7 @@ heterodoxy
 heterogeneity
 heterogeneous
 heterogeneously
+heterogenous
 heterologous
 heteronormative
 heteros
@@ -1090,6 +1126,7 @@ hexahedra
 hexahedral
 hexahedron
 hexahedrons
+hexane
 hexed
 hexes
 hexing
@@ -1097,6 +1134,7 @@ hey
 heyday
 heydays
 hi
+hiatal
 hiatus
 hiatuses
 hibachi
@@ -1168,6 +1206,8 @@ highway
 highwayman
 highwaymen
 highways
+hijab
+hijabs
 hijack
 hijacked
 hijacker
@@ -1188,6 +1228,8 @@ hilarity
 hill
 hillbillies
 hillbilly
+hillock
+hillocks
 hills
 hillside
 hillsides
@@ -1264,6 +1306,10 @@ histologic
 histological
 histologically
 histology
+histone
+histones
+histopathologic
+histopathology
 historian
 historians
 historic
@@ -1310,11 +1356,11 @@ hoarsely
 hoarseness
 hoary
 hoax
-hoaxer
-hoaxers
 hoaxes
 hob
 hobbies
+hobbit
+hobbits
 hobble
 hobbled
 hobbles
@@ -1405,8 +1451,6 @@ hologram
 holograms
 holographic
 holography
-holstein
-holsteins
 holster
 holstered
 holstering
@@ -1514,7 +1558,11 @@ homogenized
 homogenizes
 homogenizing
 homogenous
+homolog
 homologous
+homologs
+homologue
+homologues
 homology
 homonym
 homonyms
@@ -1676,12 +1724,16 @@ hornbills
 horned
 hornet
 hornets
+hornier
+horniest
 horniness
 horning
 hornist
 hornists
 horns
 horny
+horological
+horology
 horoscope
 horoscopes
 horrendous
@@ -1726,6 +1778,8 @@ horticultural
 horticulture
 horticulturist
 horticulturists
+hosanna
+hosannas
 hose
 hosed
 hoses
@@ -1783,8 +1837,8 @@ hotline
 hotlines
 hotly
 hotness
-hotrod
-hotrods
+hotpot
+hotpots
 hots
 hotshot
 hotshots
@@ -1809,6 +1863,8 @@ house
 houseboat
 houseboats
 housebound
+houseboy
+houseboys
 housecleaning
 housed
 houseflies
@@ -1911,6 +1967,9 @@ hulks
 hull
 hullabaloo
 hulled
+huller
+hullers
+hulling
 hulls
 hum
 human
@@ -1936,6 +1995,7 @@ humanized
 humanizes
 humanizing
 humankind
+humanlike
 humanly
 humanness
 humanoid
@@ -2146,6 +2206,8 @@ hydrodynamics
 hydroelectric
 hydrofoil
 hydrofoils
+hydrogel
+hydrogels
 hydrogen
 hydrogenated
 hydrogenation
@@ -2212,6 +2274,7 @@ hyperglycaemia
 hyperglycaemic
 hyperglycemia
 hyperglycemic
+hyperhidrosis
 hyperinflation
 hyperlink
 hyperlinked
@@ -2221,6 +2284,7 @@ hypermarket
 hypermarkets
 hyperopia
 hyperopic
+hyperplasia
 hypersensitive
 hypersonic
 hypersonics

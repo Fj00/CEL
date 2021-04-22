@@ -16,10 +16,7 @@ uh
 ukulele
 ukuleles
 ulcer
-ulcerate
 ulcerated
-ulcerates
-ulcerating
 ulceration
 ulcerations
 ulcerative
@@ -34,6 +31,7 @@ ultimatum
 ultimatums
 ultra
 ultrafast
+ultrafiltration
 ultrafine
 ultrahigh
 ultralight
@@ -59,10 +57,14 @@ umami
 umber
 umbilical
 umbilicals
+umbilici
+umbilicus
 umbra
 umbrage
 umbrella
 umbrellas
+umlaut
+umlauts
 ump
 umpire
 umpired
@@ -89,6 +91,7 @@ unaccustomed
 unachievable
 unacknowledged
 unacquainted
+unaddressed
 unadjusted
 unadorned
 unadulterated
@@ -254,6 +257,7 @@ unchanging
 uncharged
 uncharitable
 uncharted
+unchaste
 uncheck
 unchecked
 unchecking
@@ -373,6 +377,8 @@ uncrosses
 uncrossing
 uncrowded
 uncrowned
+unction
+unctions
 unctuous
 uncuff
 uncuffed
@@ -824,6 +830,7 @@ unfinished
 unfired
 unfit
 unfitness
+unfitted
 unfixed
 unflagging
 unflappable
@@ -1089,6 +1096,7 @@ unlicensed
 unlikable
 unlike
 unlikeable
+unliked
 unlikelier
 unlikeliest
 unlikelihood
@@ -1370,7 +1378,6 @@ unsaturated
 unsaved
 unsavory
 unsavoury
-unsaw
 unscathed
 unscented
 unscheduled
@@ -1407,7 +1414,6 @@ unseeded
 unseeing
 unseemly
 unseen
-unsees
 unselected
 unselfish
 unselfishly
@@ -1475,6 +1481,7 @@ unstinting
 unstoppable
 unstressed
 unstructured
+unstrung
 unstuck
 unstudied
 unsubscribe
@@ -1568,10 +1575,7 @@ untrustworthy
 untruth
 untruthful
 untruths
-untuck
 untucked
-untucking
-untucks
 unturned
 untutored
 untwist
@@ -1645,7 +1649,6 @@ unzipping
 unzips
 up
 upbeat
-upbeats
 upbraid
 upbraided
 upbraiding
@@ -1826,6 +1829,8 @@ urbanizing
 urchin
 urchins
 urea
+uremia
+uremic
 ureter
 ureteral
 ureters
@@ -1841,6 +1846,7 @@ urgently
 urges
 urging
 uric
+uridine
 urinal
 urinals
 urinalyses
@@ -1931,5 +1937,6 @@ uttering
 utterly
 uttermost
 utters
+uveitis
 uvula
 uvulas

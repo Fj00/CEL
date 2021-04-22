@@ -15,7 +15,6 @@ oasis
 oat
 oatcake
 oatcakes
-oaten
 oath
 oaths
 oatmeal
@@ -61,6 +60,8 @@ objectivity
 objector
 objectors
 objects
+oblation
+oblations
 obligate
 obligated
 obligates
@@ -111,6 +112,7 @@ obsequiously
 obsequiousness
 observability
 observable
+observables
 observably
 observance
 observances
@@ -237,6 +239,8 @@ oceanside
 oceanview
 ocelot
 ocelots
+ocher
+ochre
 octagon
 octagonal
 octagons
@@ -351,8 +355,6 @@ offload
 offloaded
 offloading
 offloads
-offramp
-offramps
 offs
 offscreen
 offseason
@@ -372,6 +374,7 @@ offstage
 oft
 often
 oftentimes
+oganesson
 ogle
 ogled
 ogles
@@ -382,6 +385,7 @@ oh
 ohm
 ohms
 oil
+oilcloth
 oiled
 oiler
 oilers
@@ -431,6 +435,7 @@ oligopoly
 olive
 olives
 om
+ombre
 ombudsman
 ombudsmen
 ombudsperson
@@ -470,6 +475,9 @@ onboarded
 onboarding
 onboards
 once
+oncogene
+oncogenes
+oncogenic
 oncologic
 oncological
 oncologist
@@ -546,11 +554,13 @@ openings
 openly
 openness
 opens
+openwork
 opera
 operability
 operable
 operand
 operands
+operant
 operas
 operate
 operated
@@ -568,6 +578,8 @@ operator
 operators
 operetta
 operettas
+operon
+operons
 ophthalmic
 ophthalmologic
 ophthalmologist
@@ -695,11 +707,17 @@ orangey
 orangish
 orangutan
 orangutans
+orate
+orated
+orates
+orating
 oration
 orations
 orator
 oratorical
 oratories
+oratorio
+oratorios
 orators
 oratory
 orb
@@ -757,6 +775,7 @@ ordination
 ordinations
 ordnance
 ore
+orecchiette
 oregano
 ores
 org
@@ -875,6 +894,10 @@ orthopedic
 orthopedics
 orthopedist
 orthopedists
+orthotic
+orthotics
+oryx
+oryxes
 orzo
 oscillate
 oscillated
@@ -900,6 +923,7 @@ ostentation
 ostentatious
 ostentatiously
 osteoarthritis
+osteomyelitis
 osteopath
 osteopathic
 osteopaths
@@ -1417,10 +1441,6 @@ overflowed
 overflowing
 overflows
 overfull
-overfund
-overfunded
-overfunding
-overfunds
 overgraze
 overgrazed
 overgrazes
@@ -1497,12 +1517,17 @@ overlord
 overlords
 overly
 overlying
+overmuch
 overnight
 overnighted
 overnighter
 overnighters
 overnighting
 overnights
+overpack
+overpacked
+overpacking
+overpacks
 overpaid
 overpass
 overpasses
@@ -1749,6 +1774,8 @@ ovulates
 ovulating
 ovulation
 ovulatory
+ovule
+ovules
 ovum
 ow
 owe
@@ -1768,9 +1795,11 @@ ownerships
 owning
 owns
 ox
+oxblood
 oxen
 oxidant
 oxidants
+oxidase
 oxidation
 oxidative
 oxide
@@ -1790,6 +1819,8 @@ oxidizing
 oximeter
 oximeters
 oximetry
+oxtail
+oxtails
 oxycodone
 oxygen
 oxygenate

@@ -3,6 +3,7 @@ sabbaths
 sabbatical
 sabbaticals
 saber
+sabermetrics
 sabers
 sable
 sables
@@ -23,6 +24,7 @@ sack
 sacked
 sacking
 sacks
+sacra
 sacral
 sacrament
 sacramental
@@ -37,7 +39,10 @@ sacrificing
 sacrilege
 sacrileges
 sacrilegious
+sacristies
+sacristy
 sacrosanct
+sacrum
 sacs
 sad
 sadden
@@ -93,9 +98,13 @@ sages
 sagged
 sagging
 saggy
+sagittal
+sago
 sags
 saguaro
 saguaros
+sahib
+sahibs
 said
 sail
 sailboat
@@ -127,6 +136,8 @@ salaries
 salary
 sale
 saleable
+saleroom
+salerooms
 sales
 salesman
 salesmanship
@@ -151,6 +162,7 @@ salivated
 salivates
 salivating
 salivation
+sallow
 salmon
 salmonella
 salmonid
@@ -195,6 +207,7 @@ salvaging
 salvation
 salve
 salves
+salvia
 salvo
 salvos
 samaritan
@@ -331,6 +344,7 @@ saran
 sarcasm
 sarcastic
 sarcastically
+sarcoidosis
 sarcoma
 sarcomas
 sarcophagi
@@ -360,6 +374,8 @@ sasquatch
 sasquatches
 sass
 sassafras
+sassier
+sassiest
 sassy
 sat
 satanic
@@ -371,6 +387,7 @@ satchel
 satchels
 sate
 sated
+sateen
 satellite
 satellites
 sates
@@ -379,6 +396,7 @@ satiated
 satiates
 satiating
 satiation
+satiety
 satin
 sating
 satiny
@@ -422,6 +440,8 @@ saucepans
 saucer
 saucers
 sauces
+saucier
+sauciers
 saucing
 saucy
 sauerkraut
@@ -517,6 +537,7 @@ scaffolds
 scalability
 scalable
 scalar
+scalars
 scald
 scalded
 scalding
@@ -582,13 +603,15 @@ scans
 scant
 scantily
 scanty
+scape
 scapegoat
 scapegoated
 scapegoating
 scapegoats
+scapes
 scapula
+scapulae
 scapular
-scapulas
 scar
 scarab
 scarabs
@@ -664,6 +687,7 @@ scepticism
 sceptics
 sceptre
 sceptres
+schadenfreude
 schedule
 scheduled
 scheduler
@@ -691,8 +715,6 @@ schizoid
 schizophrenia
 schizophrenic
 schizophrenics
-schlock
-schlocky
 schlong
 schlongs
 schmaltz
@@ -704,7 +726,6 @@ schmoozes
 schmoozing
 schmuck
 schmucks
-schmutz
 schnapps
 schnauzer
 schnauzers
@@ -761,10 +782,15 @@ scimitars
 scintilla
 scintillating
 scintillation
+scion
+scions
 scissor
 scissored
 scissoring
 scissors
+sclera
+sclerae
+scleral
 sclerosis
 sclerotic
 scoff
@@ -789,6 +815,8 @@ scoop
 scooped
 scooper
 scoopers
+scoopful
+scoopfuls
 scooping
 scoops
 scoot
@@ -854,10 +882,12 @@ scouting
 scoutmaster
 scoutmasters
 scouts
+scow
 scowl
 scowled
 scowling
 scowls
+scows
 scrabble
 scrabbled
 scrabbles
@@ -919,6 +949,8 @@ screeched
 screeches
 screeching
 screechy
+screed
+screeds
 screen
 screencast
 screencasts
@@ -959,6 +991,8 @@ scribbling
 scribblings
 scribe
 scribed
+scriber
+scribers
 scribes
 scribing
 scrim
@@ -1014,12 +1048,14 @@ scruffs
 scruffy
 scrum
 scrumptious
+scrums
 scrunch
 scrunched
 scrunches
 scrunchie
 scrunchies
 scrunching
+scrunchy
 scruple
 scruples
 scrupulous
@@ -1045,9 +1081,12 @@ scuffles
 scuffling
 scuffs
 scull
+sculled
 sculleries
 scullery
 sculling
+scullion
+scullions
 sculls
 sculpt
 sculpted
@@ -1090,6 +1129,7 @@ seabeds
 seabird
 seabirds
 seaboard
+seaborgium
 seaborne
 seacoast
 seafarer
@@ -1115,6 +1155,7 @@ sealer
 sealers
 sealing
 seals
+sealskin
 seam
 seaman
 seamanship
@@ -1388,6 +1429,7 @@ seismologists
 seismology
 seismometer
 seismometers
+seitan
 seize
 seized
 seizes
@@ -1432,6 +1474,10 @@ sellouts
 sells
 seltzer
 seltzers
+selvage
+selvages
+selvedge
+selvedges
 selves
 semantic
 semantically
@@ -1479,6 +1525,8 @@ semiprecious
 semiprivate
 semipro
 semipros
+semiquaver
+semiquavers
 semiretired
 semis
 semiskilled
@@ -1656,6 +1704,11 @@ sequinned
 sequins
 sequoia
 sequoias
+seraph
+seraphic
+seraphim
+seraphs
+sere
 serenade
 serenaded
 serenades
@@ -1688,7 +1741,9 @@ serials
 series
 serif
 serifs
+serin
 serine
+serins
 serious
 seriously
 seriousness
@@ -1736,6 +1791,8 @@ servility
 serving
 servings
 servitude
+servlet
+servlets
 servo
 servomechanism
 servomechanisms
@@ -1839,6 +1896,8 @@ sextillions
 sextillionth
 sextillionths
 sexting
+sexton
+sextons
 sexts
 sextuple
 sextupled
@@ -1861,7 +1920,6 @@ sexualizes
 sexualizing
 sexually
 sexy
-sez
 shabbily
 shabby
 shack
@@ -1872,6 +1930,7 @@ shackled
 shackles
 shackling
 shacks
+shad
 shade
 shaded
 shader
@@ -2026,9 +2085,9 @@ shavers
 shaves
 shaving
 shavings
+shawarma
 shawl
 shawls
-shazam
 she
 shea
 sheaf
@@ -2051,7 +2110,6 @@ shed
 shedding
 sheds
 sheen
-sheens
 sheep
 sheepdog
 sheepdogs
@@ -2059,6 +2117,8 @@ sheepish
 sheepishly
 sheepskin
 sheer
+sheered
+sheering
 sheers
 sheesh
 sheet
@@ -2066,6 +2126,10 @@ sheeted
 sheeting
 sheetrock
 sheets
+sheik
+sheikh
+sheikhs
+sheiks
 shelf
 shell
 shellac
@@ -2201,6 +2265,7 @@ shirks
 shirt
 shirtdress
 shirtdresses
+shirting
 shirtless
 shirts
 shit
@@ -2453,6 +2518,8 @@ shrieked
 shrieking
 shrieks
 shrift
+shrike
+shrikes
 shrill
 shrimp
 shrimped
@@ -2542,14 +2609,14 @@ shuttled
 shuttles
 shuttling
 shy
+shyer
+shyest
 shying
 shyly
 shyness
 siamese
-sib
 sibling
 siblings
-sibs
 sic
 sicced
 siccing
@@ -2592,6 +2659,7 @@ sideman
 sidemen
 sidenote
 sidenotes
+sidereal
 sides
 sideshow
 sideshows
@@ -2651,16 +2719,15 @@ sightline
 sightlines
 sightly
 sights
-sightsaw
 sightsee
 sightseeing
-sightseen
 sightseer
 sightseers
 sigma
 sigmoid
 sign
 signage
+signages
 signal
 signaled
 signaling
@@ -2723,6 +2790,8 @@ silicones
 silicosis
 silk
 silken
+silkier
+silkiest
 silks
 silkscreen
 silkscreened
@@ -2775,6 +2844,9 @@ simpler
 simplest
 simpleton
 simpletons
+simplex
+simplexes
+simplices
 simplicity
 simplification
 simplifications
@@ -2944,8 +3016,6 @@ sizes
 sizing
 sizzle
 sizzled
-sizzler
-sizzlers
 sizzles
 sizzling
 ska
@@ -3076,6 +3146,8 @@ skittered
 skittering
 skitters
 skittish
+skivvies
+skivvy
 skulduggery
 skulk
 skulked
@@ -3092,12 +3164,16 @@ skunking
 skunks
 skunky
 sky
+skybox
+skyboxes
 skydive
 skydived
 skydiver
 skydivers
 skydives
 skydiving
+skylark
+skylarks
 skylight
 skylights
 skyline
@@ -3161,6 +3237,8 @@ slapdash
 slapped
 slapping
 slaps
+slapshot
+slapshots
 slapstick
 slash
 slashed
@@ -3198,6 +3276,7 @@ slaving
 slavish
 slavishly
 slaw
+slaws
 slay
 slayed
 slayer
@@ -3341,8 +3420,6 @@ slips
 slipshod
 slipstream
 slipstreams
-slipup
-slipups
 slipway
 slipways
 slit
@@ -3363,6 +3440,8 @@ slobbering
 slobbers
 slobbery
 slobs
+sloe
+sloes
 slog
 slogan
 slogans
@@ -3390,6 +3469,7 @@ sloshes
 sloshing
 slot
 sloth
+slothful
 sloths
 slots
 slotted
@@ -3403,9 +3483,7 @@ slough
 sloughed
 sloughing
 sloughs
-sloven
 slovenly
-slovens
 slow
 slowdown
 slowdowns
@@ -3467,6 +3545,8 @@ slushies
 slushy
 slut
 sluts
+sluttier
+sluttiest
 slutty
 sly
 slyly
@@ -3503,7 +3583,6 @@ smartening
 smartens
 smarter
 smartest
-smartie
 smarties
 smarting
 smartly
@@ -3529,6 +3608,8 @@ smearing
 smears
 smell
 smelled
+smellier
+smelliest
 smelling
 smells
 smelly
@@ -3557,6 +3638,7 @@ smites
 smith
 smithereens
 smithies
+smithing
 smiths
 smithy
 smiting
@@ -3643,6 +3725,8 @@ snacked
 snacking
 snacks
 snacky
+snaffle
+snaffles
 snafu
 snafus
 snag
@@ -3667,7 +3751,6 @@ snapdragon
 snapdragons
 snapped
 snapper
-snappers
 snappier
 snappiest
 snapping
@@ -3824,6 +3907,8 @@ snowcat
 snowcats
 snowdrift
 snowdrifts
+snowdrop
+snowdrops
 snowed
 snowfall
 snowfalls
@@ -3970,6 +4055,8 @@ sodomise
 sodomised
 sodomises
 sodomising
+sodomite
+sodomites
 sodomize
 sodomized
 sodomizes
@@ -3977,10 +4064,14 @@ sodomizing
 sodomy
 sods
 sofa
+sofabed
+sofabeds
 sofas
 soffit
 soffits
 soft
+softback
+softbacks
 softball
 softballs
 softcore
@@ -3999,7 +4090,6 @@ softie
 softies
 softly
 softness
-softs
 softshell
 software
 softwares
@@ -4020,8 +4110,11 @@ sojourner
 sojourners
 sojourning
 sojourns
+soju
+sol
 solace
 solar
+solaria
 solarium
 solariums
 sold
@@ -4033,6 +4126,7 @@ soldier
 soldiered
 soldiering
 soldiers
+soldiery
 sole
 soled
 solely
@@ -4093,6 +4187,9 @@ solver
 solvers
 solves
 solving
+soma
+somas
+somata
 somatic
 somatosensory
 somber
@@ -4106,7 +4203,6 @@ somebody
 someday
 somehow
 someone
-someones
 someplace
 somersault
 somersaulted
@@ -4204,6 +4300,7 @@ sores
 sorghum
 sororities
 sorority
+sorption
 sorrel
 sorrels
 sorrow
@@ -4281,6 +4378,8 @@ sources
 sourcing
 sourdough
 soured
+sourer
+sourest
 souring
 sourly
 sourness
@@ -4366,6 +4465,11 @@ spacy
 spade
 spades
 spaghetti
+spall
+spallation
+spalled
+spalling
+spalls
 spam
 spambot
 spambots
@@ -4431,6 +4535,8 @@ sparsity
 spartan
 spas
 spasm
+spasmed
+spasming
 spasmodic
 spasms
 spastic
@@ -4652,12 +4758,9 @@ sphincter
 sphincters
 sphinx
 sphinxes
-sphynx
-sphynxes
 spice
 spiced
 spices
-spicey
 spicier
 spiciest
 spiciness
@@ -4709,6 +4812,8 @@ spinel
 spineless
 spinels
 spines
+spinnaker
+spinnakers
 spinner
 spinners
 spinning
@@ -4756,8 +4861,8 @@ spitfires
 spits
 spitting
 spittle
-spitz
-spitzes
+spittoon
+spittoons
 splash
 splashback
 splashbacks
@@ -4847,6 +4952,7 @@ spokespersons
 spokeswoman
 spokeswomen
 spoliation
+spondylitis
 sponge
 sponged
 sponges
@@ -4947,6 +5053,8 @@ sprained
 spraining
 sprains
 sprang
+sprat
+sprats
 sprawl
 sprawled
 sprawling
@@ -4973,6 +5081,8 @@ sprigs
 spring
 springboard
 springboards
+springer
+springers
 springform
 springing
 springlike
@@ -4991,8 +5101,10 @@ sprinter
 sprinters
 sprinting
 sprints
+sprit
 sprite
 sprites
+sprits
 spritz
 spritzed
 spritzer
@@ -5041,10 +5153,12 @@ spyglass
 spyglasses
 spying
 spyware
+squab
 squabble
 squabbled
 squabbles
 squabbling
+squabs
 squad
 squadron
 squadrons
@@ -5099,6 +5213,8 @@ squeegees
 squeezable
 squeeze
 squeezed
+squeezer
+squeezers
 squeezes
 squeezing
 squeezy
@@ -5132,6 +5248,8 @@ squirrelly
 squirrels
 squirt
 squirted
+squirter
+squirters
 squirting
 squirts
 squish
@@ -5559,6 +5677,7 @@ stemming
 stems
 stemware
 stench
+stenches
 stencil
 stenciled
 stenciling
@@ -5758,6 +5877,8 @@ stinkbug
 stinkbugs
 stinker
 stinkers
+stinkier
+stinkiest
 stinking
 stinks
 stinky
@@ -5765,6 +5886,10 @@ stint
 stints
 stipend
 stipends
+stipple
+stippled
+stipples
+stippling
 stipulate
 stipulated
 stipulates
@@ -5805,6 +5930,8 @@ stockpile
 stockpiled
 stockpiles
 stockpiling
+stockpot
+stockpots
 stockroom
 stockrooms
 stocks
@@ -5826,6 +5953,7 @@ stoking
 stole
 stolen
 stolid
+stollen
 stoma
 stomach
 stomachache
@@ -5853,7 +5981,6 @@ stonewalling
 stonewalls
 stoneware
 stonework
-stoney
 stoning
 stony
 stood
@@ -5866,6 +5993,8 @@ stooped
 stooping
 stoops
 stop
+stopcock
+stopcocks
 stope
 stoped
 stopes
@@ -5911,6 +6040,9 @@ stork
 storks
 storm
 stormed
+stormier
+stormiest
+storminess
 storming
 storms
 stormwater
@@ -5946,6 +6078,7 @@ stowaways
 stowed
 stowing
 stows
+strabismus
 straddle
 straddled
 straddles
@@ -6119,7 +6252,11 @@ stretching
 stretchmarks
 stretchy
 streusel
+strew
+strewed
+strewing
 strewn
+strews
 striata
 striatal
 striated
@@ -6191,6 +6328,8 @@ strode
 stroganoff
 stroke
 stroked
+stroker
+strokers
 strokes
 stroking
 stroll
@@ -6214,6 +6353,8 @@ strongly
 strongman
 strongmen
 strontium
+strop
+strops
 strove
 struck
 structural
@@ -6331,6 +6472,8 @@ stuttered
 stuttering
 stutters
 sty
+stye
+styes
 style
 stylebook
 stylebooks
@@ -6364,10 +6507,13 @@ stymied
 stymieing
 stymies
 styrofoam
+suasion
 suave
 sub
 subacute
 subarctic
+subarea
+subareas
 subassemblies
 subassembly
 subatomic
@@ -6430,8 +6576,10 @@ subfolders
 subframe
 subframes
 subfreezing
+subgenera
 subgenre
 subgenres
+subgenus
 subgroup
 subgroups
 subhead
@@ -6471,11 +6619,16 @@ sublimates
 sublimating
 sublimation
 sublime
+sublimed
 sublimely
+sublimes
 subliminal
 subliminally
+subliming
 sublimity
 sublingual
+subluxation
+subluxations
 submarine
 submariner
 submariners
@@ -6834,6 +6987,9 @@ suiting
 suitor
 suitors
 suits
+sukiyaki
+sulci
+sulcus
 sulfate
 sulfates
 sulfide
@@ -6864,6 +7020,9 @@ sulphur
 sulphuric
 sulphurous
 sultan
+sultana
+sultanas
+sultanate
 sultans
 sultry
 sum
@@ -6914,16 +7073,20 @@ sumptuous
 sumptuously
 sums
 sun
+sunbath
 sunbathe
 sunbathed
 sunbather
 sunbathers
 sunbathes
 sunbathing
+sunbaths
 sunbeam
 sunbeams
 sunbed
 sunbeds
+sunbird
+sunbirds
 sunblock
 sunburn
 sunburned
@@ -6997,7 +7160,6 @@ suntanned
 suntanning
 suntans
 sunup
-sunward
 sup
 super
 superalloy
@@ -7279,6 +7441,8 @@ surpass
 surpassed
 surpasses
 surpassing
+surplice
+surplices
 surplus
 surpluses
 surprise
@@ -7418,6 +7582,8 @@ swappable
 swapped
 swapping
 swaps
+sward
+swards
 swarm
 swarmed
 swarming
@@ -7546,6 +7712,8 @@ swingarms
 swinger
 swingers
 swinging
+swingman
+swingmen
 swings
 swingy
 swipe
@@ -7587,7 +7755,6 @@ swivelled
 swivelling
 swivels
 swizzle
-swizzled
 swollen
 swoon
 swooned
@@ -7718,6 +7885,7 @@ syncing
 syncopated
 syncopation
 syncopations
+syncope
 syncs
 syndicate
 syndicated
@@ -7753,11 +7921,14 @@ synonymy
 synopses
 synopsis
 synoptic
+synovial
 syntactic
 syntactical
 syntactically
 syntax
 synth
+synthase
+synthases
 syntheses
 synthesis
 synthesise
@@ -7775,7 +7946,6 @@ synthesizing
 synthetic
 synthetically
 synthetics
-synthpop
 synths
 syphilis
 syphilitic
@@ -7783,8 +7953,6 @@ syphon
 syphoned
 syphoning
 syphons
-syringa
-syringas
 syringe
 syringes
 syrup
@@ -7809,6 +7977,7 @@ systematizing
 systemic
 systemically
 systems
+systole
 systolic
 syzygies
 syzygy
