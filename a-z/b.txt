@@ -2052,6 +2052,8 @@ blockage
 blockages
 blockbuster
 blockbusters
+blockchain
+blockchains
 blocked
 blocker
 blockers
@@ -3090,6 +3092,7 @@ brim
 brimmed
 brimming
 brims
+brimstone
 brindle
 brine
 brined
@@ -3534,6 +3537,8 @@ bunker
 bunkered
 bunkering
 bunkers
+bunkhouse
+bunkhouses
 bunking
 bunks
 bunnies

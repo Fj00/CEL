@@ -1836,6 +1836,7 @@ intelligence
 intelligences
 intelligent
 intelligently
+intelligentsia
 intelligibility
 intelligible
 intelligibly
@@ -2217,6 +2218,7 @@ intractability
 intractable
 intraday
 intramural
+intramurals
 intramuscular
 intramuscularly
 intranasal

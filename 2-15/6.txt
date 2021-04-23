@@ -1545,6 +1545,7 @@ dasher
 dashes
 daters
 dating
+datura
 daubed
 daunts
 dawdle
@@ -5351,7 +5352,6 @@ rustic
 rustle
 rutile
 rutted
-ryokan
 sabers
 sables
 sabres
@@ -5450,7 +5450,6 @@ scents
 schema
 scheme
 schism
-schist
 schizo
 school
 scions
@@ -7200,7 +7199,6 @@ wields
 wiener
 wifely
 wigged
-wigger
 wiggle
 wiggly
 wigwam

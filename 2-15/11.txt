@@ -493,6 +493,7 @@ blindfolded
 blindsiding
 blitzkriegs
 blockbuster
+blockchains
 blogosphere
 bloodhounds
 bloodstains
@@ -2737,6 +2738,7 @@ intoxicants
 intoxicated
 intoxicates
 intractable
+intramurals
 intraocular
 intravenous
 intricacies
@@ -2826,6 +2828,7 @@ knickknacks
 knighthoods
 knuckleball
 knucklehead
+kookaburras
 laboriously
 labradoodle
 lacerations
@@ -3720,6 +3723,7 @@ persecutors
 persevering
 persistence
 persistency
+persnickety
 personalise
 personality
 personalize

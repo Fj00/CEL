@@ -1474,6 +1474,7 @@ persistent
 persistently
 persisting
 persists
+persnickety
 person
 persona
 personable
@@ -2616,6 +2617,8 @@ plumbing
 plumbs
 plume
 plumed
+plumeria
+plumerias
 plumes
 plummet
 plummeted

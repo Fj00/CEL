@@ -708,7 +708,6 @@ schemes
 scheming
 schism
 schisms
-schist
 schizo
 schizoaffective
 schizoid
@@ -4042,6 +4041,7 @@ sock
 socked
 socket
 sockets
+sockeye
 socking
 socks
 sod
@@ -5573,7 +5573,9 @@ statutorily
 statutory
 staunch
 staunched
+stauncher
 staunches
+staunchest
 staunching
 staunchly
 stave

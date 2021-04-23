@@ -232,7 +232,6 @@ alienate
 alighted
 aligners
 aligning
-aliments
 alkaline
 alkaloid
 allaying
@@ -5670,6 +5669,7 @@ monotony
 monoxide
 monsieur
 monsoons
+monstera
 monsters
 montages
 monument
@@ -6674,6 +6674,7 @@ plucking
 plugging
 plumbers
 plumbing
+plumeria
 plummets
 plumpest
 plumping

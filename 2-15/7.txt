@@ -184,7 +184,6 @@ aliases
 alights
 aligned
 aligner
-aliment
 alimony
 alkalis
 allayed
@@ -7236,7 +7235,6 @@ rustled
 rustler
 rustles
 rutting
-ryokans
 sabbath
 sachets
 sacking
@@ -7931,6 +7929,7 @@ soberly
 socials
 society
 sockets
+sockeye
 socking
 sodding
 sofabed
@@ -9126,6 +9125,7 @@ unboxes
 unbuilt
 unburnt
 uncanny
+uncared
 unchain
 uncheck
 uncivil
@@ -9647,7 +9647,6 @@ widower
 wielded
 wielder
 wieners
-wiggers
 wigging
 wiggled
 wiggles

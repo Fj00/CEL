@@ -733,6 +733,7 @@ blissfully
 blistering
 blitzkrieg
 blockading
+blockchain
 blockheads
 bloodbaths
 bloodhound
@@ -857,6 +858,7 @@ bulldozers
 bulldozing
 bullfights
 bumblebees
+bunkhouses
 burdensome
 bureaucrat
 burgeoning
@@ -3869,6 +3871,7 @@ knifepoint
 knighthood
 knockdowns
 knowledges
+kookaburra
 kryptonite
 laboratory
 labyrinths
@@ -6783,6 +6786,7 @@ stationing
 statistics
 statuesque
 statuettes
+staunchest
 staunching
 staycation
 steadiness

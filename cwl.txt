@@ -1438,10 +1438,7 @@ alignment
 alignments
 aligns
 alike
-aliment
 alimentary
-alimentation
-aliments
 alimony
 alit
 alive
@@ -5837,6 +5834,8 @@ blockage
 blockages
 blockbuster
 blockbusters
+blockchain
+blockchains
 blocked
 blocker
 blockers
@@ -6875,6 +6874,7 @@ brim
 brimmed
 brimming
 brims
+brimstone
 brindle
 brine
 brined
@@ -7319,6 +7319,8 @@ bunker
 bunkered
 bunkering
 bunkers
+bunkhouse
+bunkhouses
 bunking
 bunks
 bunnies
@@ -14022,6 +14024,7 @@ daters
 dates
 dating
 datum
+datura
 daub
 daubed
 daubing
@@ -17098,6 +17101,7 @@ dogma
 dogmas
 dogmatic
 dogmatically
+dogmatism
 dogs
 dogsled
 dogsledding
@@ -29792,6 +29796,7 @@ intelligence
 intelligences
 intelligent
 intelligently
+intelligentsia
 intelligibility
 intelligible
 intelligibly
@@ -30173,6 +30178,7 @@ intractability
 intractable
 intraday
 intramural
+intramurals
 intramuscular
 intramuscularly
 intranasal
@@ -31561,6 +31567,8 @@ koi
 kola
 kolas
 kook
+kookaburra
+kookaburras
 kooks
 kooky
 korma
@@ -36385,6 +36393,7 @@ monsoon
 monsoonal
 monsoons
 monster
+monstera
 monsters
 monstrosities
 monstrosity
@@ -41895,6 +41904,7 @@ persistent
 persistently
 persisting
 persists
+persnickety
 person
 persona
 personable
@@ -43037,6 +43047,8 @@ plumbing
 plumbs
 plume
 plumed
+plumeria
+plumerias
 plumes
 plummet
 plummeted
@@ -50553,8 +50565,6 @@ rutting
 rutty
 rye
 ryegrass
-ryokan
-ryokans
 sabbath
 sabbaths
 sabbatical
@@ -51265,7 +51275,6 @@ schemes
 scheming
 schism
 schisms
-schist
 schizo
 schizoaffective
 schizoid
@@ -54599,6 +54608,7 @@ sock
 socked
 socket
 sockets
+sockeye
 socking
 socks
 sod
@@ -56130,7 +56140,9 @@ statutorily
 statutory
 staunch
 staunched
+stauncher
 staunches
+staunchest
 staunching
 staunchly
 stave
@@ -62331,6 +62343,7 @@ uncalled
 uncannily
 uncanny
 uncapped
+uncared
 uncaring
 uncaught
 unceasing
@@ -63374,6 +63387,7 @@ unprovoked
 unpublished
 unpunished
 unqualified
+unquantifiable
 unquenchable
 unquestionable
 unquestionably
@@ -66117,8 +66131,6 @@ wifely
 wifey
 wig
 wigged
-wigger
-wiggers
 wigging
 wiggle
 wiggled

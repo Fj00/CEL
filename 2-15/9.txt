@@ -1041,6 +1041,7 @@ brigadier
 brightens
 brightest
 brilliant
+brimstone
 briquette
 bristling
 broaching
@@ -1106,6 +1107,7 @@ bumpiness
 bungalows
 bungholes
 bunkering
+bunkhouse
 buoyantly
 burdening
 burgeoned
@@ -2540,6 +2542,7 @@ doddering
 dodgeball
 dogfights
 doghouses
+dogmatism
 dollhouse
 domestics
 domiciled
@@ -6289,6 +6292,7 @@ plenitude
 plentiful
 plotlines
 ploughing
+plumerias
 plummeted
 plundered
 plunderer
@@ -8220,6 +8224,7 @@ statistic
 statuette
 statutory
 staunched
+stauncher
 staunches
 staunchly
 steadfast

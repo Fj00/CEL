@@ -234,6 +234,7 @@ uncalled
 uncannily
 uncanny
 uncapped
+uncared
 uncaring
 uncaught
 unceasing
@@ -1277,6 +1278,7 @@ unprovoked
 unpublished
 unpunished
 unqualified
+unquantifiable
 unquenchable
 unquestionable
 unquestionably

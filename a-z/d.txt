@@ -182,6 +182,7 @@ daters
 dates
 dating
 datum
+datura
 daub
 daubed
 daubing
@@ -3258,6 +3259,7 @@ dogma
 dogmas
 dogmatic
 dogmatically
+dogmatism
 dogs
 dogsled
 dogsledding

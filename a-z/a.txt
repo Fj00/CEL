@@ -1438,10 +1438,7 @@ alignment
 alignments
 aligns
 alike
-aliment
 alimentary
-alimentation
-aliments
 alimony
 alit
 alive
