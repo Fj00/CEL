@@ -1382,6 +1382,7 @@ chant
 chanted
 chanterelle
 chanterelles
+chantilly
 chanting
 chants
 chaos
@@ -4146,7 +4147,6 @@ consolidations
 consolidator
 consolidators
 consoling
-consolingly
 consomme
 consonance
 consonant

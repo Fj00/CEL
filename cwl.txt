@@ -8977,6 +8977,7 @@ chant
 chanted
 chanterelle
 chanterelles
+chantilly
 chanting
 chants
 chaos
@@ -11741,7 +11742,6 @@ consolidations
 consolidator
 consolidators
 consoling
-consolingly
 consomme
 consonance
 consonant
@@ -31434,7 +31434,6 @@ kite
 kiteboarding
 kites
 kitesurfing
-kiting
 kits
 kitsch
 kitschy
@@ -36491,7 +36490,6 @@ morals
 moratorium
 moratoriums
 moray
-morays
 morbid
 morbidities
 morbidity

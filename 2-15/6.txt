@@ -3366,7 +3366,6 @@ kirsch
 kissed
 kisser
 kisses
-kiting
 kitsch
 kitted
 kitten
@@ -3982,7 +3981,6 @@ moping
 mopped
 morale
 morals
-morays
 morbid
 morels
 morgue
