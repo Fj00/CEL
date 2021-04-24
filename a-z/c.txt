@@ -1862,6 +1862,7 @@ chokes
 choking
 cholera
 cholesterol
+choline
 chomp
 chomped
 chomping
@@ -2677,6 +2678,7 @@ cocaine
 coccyx
 coccyxes
 cochlea
+cochleae
 cochlear
 cock
 cockatiel

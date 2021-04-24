@@ -1342,6 +1342,7 @@ hitters
 hitting
 hive
 hives
+ho
 hoagie
 hoagies
 hoard

@@ -188,8 +188,6 @@ salts
 saltwater
 salty
 salubrious
-saluki
-salukis
 salutary
 salutation
 salutations

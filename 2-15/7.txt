@@ -1499,6 +1499,7 @@ choices
 chokers
 choking
 cholera
+choline
 chomped
 chooser
 chooses
@@ -5688,6 +5689,7 @@ osmotic
 ospreys
 ostrich
 ottoman
+ourself
 ousters
 ousting
 outages
@@ -6171,6 +6173,7 @@ pledged
 pledges
 plenary
 plenums
+pleurae
 pleural
 pliable
 plights
@@ -7261,7 +7264,6 @@ saloons
 saltier
 saltine
 salting
-salukis
 saluted
 salutes
 salvage
@@ -9363,7 +9365,6 @@ verdict
 vergers
 verging
 veritas
-vermeil
 version
 vertigo
 vesicle

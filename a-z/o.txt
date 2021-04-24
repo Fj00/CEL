@@ -961,6 +961,7 @@ ounce
 ounces
 our
 ours
+ourself
 ourselves
 oust
 ousted

@@ -5386,7 +5386,6 @@ salons
 saloon
 salsas
 salted
-saluki
 salute
 salves
 salvia

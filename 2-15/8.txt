@@ -1678,6 +1678,7 @@ coauthor
 cobblers
 cobbling
 coccyxes
+cochleae
 cochlear
 cockatoo
 cockerel
@@ -6538,7 +6539,6 @@ phonetic
 phosphor
 photonic
 phrasing
-phthalic
 physical
 physique
 pianists

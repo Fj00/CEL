@@ -1853,7 +1853,6 @@ phrasing
 phrasings
 phthalate
 phthalates
-phthalic
 phyla
 phylogenetic
 phylum
@@ -2556,6 +2555,7 @@ plesiosaur
 plesiosaurs
 plethora
 pleura
+pleurae
 pleural
 plexiglass
 plexus
