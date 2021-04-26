@@ -484,6 +484,7 @@ dime
 dims
 dine
 ding
+dink
 dino
 dips
 dire
