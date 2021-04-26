@@ -2835,7 +2835,6 @@ easement
 easiness
 easterly
 eastward
-eatables
 eateries
 echelons
 echidnas

@@ -102,7 +102,6 @@ easy
 easygoing
 eat
 eatable
-eatables
 eaten
 eater
 eateries

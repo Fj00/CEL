@@ -18115,7 +18115,6 @@ easy
 easygoing
 eat
 eatable
-eatables
 eaten
 eater
 eateries
@@ -37241,7 +37240,6 @@ mythologizing
 mythology
 mythos
 myths
-na
 naan
 nab
 nabbed
