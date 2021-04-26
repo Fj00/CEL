@@ -4892,6 +4892,7 @@ behooved
 behooves
 behooving
 beige
+beiges
 beignet
 beignets
 being
@@ -5523,7 +5524,6 @@ births
 birthstone
 birthstones
 biryani
-biryanis
 bis
 biscotti
 biscuit
@@ -5568,7 +5568,6 @@ bitrates
 bits
 bitstream
 bitstreams
-bitsy
 bitten
 bitter
 bitterer
@@ -7158,6 +7157,8 @@ buffoonish
 buffoons
 buffs
 bug
+bugaboo
+bugaboos
 bugged
 bugger
 buggered
@@ -8482,7 +8483,6 @@ catastrophes
 catastrophic
 catatonic
 catbird
-catbirds
 catcall
 catcalled
 catcalling
@@ -9115,6 +9115,8 @@ chatterboxes
 chattered
 chattering
 chatters
+chattier
+chattiest
 chatting
 chatty
 chauffeur
@@ -9462,6 +9464,7 @@ cholesterol
 choline
 chomp
 chomped
+chompers
 chomping
 chomps
 choose
@@ -9474,6 +9477,9 @@ chop
 chopped
 chopper
 choppers
+choppier
+choppiest
+choppiness
 chopping
 choppy
 chops
@@ -10037,6 +10043,7 @@ clippings
 clips
 clique
 cliques
+cliquey
 clit
 clitoral
 clitoris
@@ -10438,9 +10445,11 @@ cohosted
 cohosting
 cohosts
 cohousing
+coif
 coiffed
 coiffure
 coiffures
+coifs
 coil
 coiled
 coiling
@@ -11267,6 +11276,7 @@ concessional
 concessionary
 concessions
 conch
+conches
 conchs
 concierge
 concierges
@@ -12354,6 +12364,8 @@ cornice
 cornices
 cornichon
 cornichons
+cornier
+corniest
 corning
 cornmeal
 cornrow
@@ -13871,6 +13883,8 @@ dahs
 daikon
 dailies
 daily
+daintier
+daintiest
 daintily
 dainty
 daiquiri
@@ -14448,6 +14462,8 @@ decoupled
 decouples
 decoupling
 decoy
+decoyed
+decoying
 decoys
 decrease
 decreased
@@ -17205,6 +17221,8 @@ donors
 dons
 donut
 donuts
+doodad
+doodads
 doodle
 doodled
 doodler
@@ -18153,6 +18171,7 @@ ecliptic
 eco
 ecocide
 ecofriendly
+ecologic
 ecological
 ecologically
 ecologies
@@ -19961,6 +19980,7 @@ exacerbating
 exacerbation
 exacerbations
 exact
+exacta
 exacted
 exacting
 exactitude
@@ -23502,6 +23522,8 @@ fusions
 fuss
 fussed
 fusses
+fussier
+fussiest
 fussiness
 fussing
 fussy
@@ -24465,6 +24487,8 @@ glossaries
 glossary
 glossed
 glosses
+glossier
+glossiest
 glossing
 glossy
 glove
@@ -24726,6 +24750,8 @@ gorgeously
 gorgeousness
 gorges
 gorging
+gorier
+goriest
 gorilla
 gorillas
 goring
@@ -25036,6 +25062,8 @@ greaseproof
 greaser
 greasers
 greases
+greasier
+greasiest
 greasing
 greasy
 great
@@ -25172,6 +25200,7 @@ grips
 grisly
 grist
 gristle
+gristly
 gristmill
 gristmills
 grit
@@ -25214,6 +25243,8 @@ groomsmen
 groove
 grooved
 grooves
+groovier
+grooviest
 grooving
 groovy
 grope
@@ -25928,6 +25959,7 @@ hanky
 haphazard
 haphazardly
 hapless
+haploid
 happen
 happened
 happening
@@ -26202,6 +26234,9 @@ hazelnut
 hazelnuts
 hazelwood
 hazes
+hazier
+haziest
+haziness
 hazing
 hazmat
 hazy
@@ -26666,7 +26701,6 @@ herrings
 hers
 herself
 hertz
-hes
 hesitance
 hesitancy
 hesitant
@@ -26813,6 +26847,8 @@ hilarity
 hill
 hillbillies
 hillbilly
+hillier
+hilliest
 hillock
 hillocks
 hills
@@ -26824,7 +26860,6 @@ hilly
 hilt
 hilts
 him
-hims
 himself
 hind
 hindbrain
@@ -30660,6 +30695,8 @@ jailers
 jailhouse
 jailhouses
 jailing
+jailor
+jailors
 jails
 jalapeno
 jalapenos
@@ -30895,6 +30932,8 @@ joggers
 jogging
 jogs
 john
+johnnies
+johnny
 johns
 join
 joined
@@ -31030,7 +31069,9 @@ jujutsu
 juke
 jukebox
 jukeboxes
+juked
 jukes
+juking
 julep
 juleps
 julienne
@@ -36133,6 +36174,7 @@ modernize
 modernized
 modernizes
 modernizing
+modernly
 modes
 modest
 modestly
@@ -36788,7 +36830,9 @@ mucous
 mucus
 mud
 muddied
+muddier
 muddies
+muddiest
 muddle
 muddled
 muddles
@@ -36801,6 +36845,8 @@ mudflow
 mudflows
 mudguard
 mudguards
+mudpuppies
+mudpuppy
 mudroom
 mudrooms
 mudslide
@@ -37206,7 +37252,6 @@ nacelles
 nacho
 nachos
 nacre
-nacreous
 nada
 nadir
 nadirs
@@ -42198,6 +42243,9 @@ phoenix
 phoenixes
 phone
 phoned
+phoneme
+phonemes
+phonemic
 phones
 phonetic
 phonetically
@@ -50649,6 +50697,7 @@ safeguarding
 safeguards
 safekeeping
 safely
+safeness
 safer
 safes
 safest
@@ -52672,6 +52721,7 @@ sheathed
 sheathes
 sheathing
 sheaths
+sheave
 sheaves
 shebang
 shed
@@ -52735,7 +52785,6 @@ sheriff
 sheriffs
 sherries
 sherry
-shes
 shiatsu
 shibboleth
 shibboleths
@@ -54347,6 +54396,8 @@ sneak
 sneaked
 sneaker
 sneakers
+sneakier
+sneakiest
 sneakily
 sneaking
 sneaks
@@ -54970,6 +55021,8 @@ southern
 southerner
 southerners
 southernmost
+southpaw
+southpaws
 southward
 southwards
 southwest
@@ -55403,6 +55456,7 @@ spiralizer
 spiralizers
 spiralled
 spiralling
+spirally
 spirals
 spire
 spires
@@ -56189,6 +56243,8 @@ steamboats
 steamed
 steamer
 steamers
+steamier
+steamiest
 steaming
 steampunk
 steamroll
@@ -58146,6 +58202,8 @@ swamps
 swampy
 swan
 swank
+swankier
+swankiest
 swanky
 swans
 swap
@@ -58194,6 +58252,8 @@ sweatbands
 sweated
 sweater
 sweaters
+sweatier
+sweatiest
 sweating
 sweatpants
 sweatproof
@@ -61229,6 +61289,8 @@ trashcan
 trashcans
 trashed
 trashes
+trashier
+trashiest
 trashing
 trashy
 trauma
@@ -61535,8 +61597,6 @@ triptych
 triptychs
 tripwire
 tripwires
-trireme
-triremes
 trisect
 trisected
 trisecting
@@ -63633,6 +63693,7 @@ unswerving
 unsympathetic
 untagged
 untainted
+untaken
 untalented
 untamed
 untangle
@@ -65009,17 +65070,11 @@ volume
 volumes
 volumetric
 voluminous
-volumise
-volumised
 volumiser
 volumisers
-volumises
 volumising
-volumize
-volumized
 volumizer
 volumizers
-volumizes
 volumizing
 voluntarily
 voluntary
@@ -66859,8 +66914,8 @@ yacht
 yachted
 yachting
 yachts
-yah
 yahoo
+yahoos
 yak
 yakitori
 yakked

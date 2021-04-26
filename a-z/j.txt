@@ -57,6 +57,8 @@ jailers
 jailhouse
 jailhouses
 jailing
+jailor
+jailors
 jails
 jalapeno
 jalapenos
@@ -292,6 +294,8 @@ joggers
 jogging
 jogs
 john
+johnnies
+johnny
 johns
 join
 joined
@@ -427,7 +431,9 @@ jujutsu
 juke
 jukebox
 jukeboxes
+juked
 jukes
+juking
 julep
 juleps
 julienne

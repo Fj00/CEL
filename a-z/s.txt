@@ -78,6 +78,7 @@ safeguarding
 safeguards
 safekeeping
 safely
+safeness
 safer
 safes
 safest
@@ -2101,6 +2102,7 @@ sheathed
 sheathes
 sheathing
 sheaths
+sheave
 sheaves
 shebang
 shed
@@ -2164,7 +2166,6 @@ sheriff
 sheriffs
 sherries
 sherry
-shes
 shiatsu
 shibboleth
 shibboleths
@@ -3776,6 +3777,8 @@ sneak
 sneaked
 sneaker
 sneakers
+sneakier
+sneakiest
 sneakily
 sneaking
 sneaks
@@ -4399,6 +4402,8 @@ southern
 southerner
 southerners
 southernmost
+southpaw
+southpaws
 southward
 southwards
 southwest
@@ -4832,6 +4837,7 @@ spiralizer
 spiralizers
 spiralled
 spiralling
+spirally
 spirals
 spire
 spires
@@ -5618,6 +5624,8 @@ steamboats
 steamed
 steamer
 steamers
+steamier
+steamiest
 steaming
 steampunk
 steamroll
@@ -7575,6 +7583,8 @@ swamps
 swampy
 swan
 swank
+swankier
+swankiest
 swanky
 swans
 swap
@@ -7623,6 +7633,8 @@ sweatbands
 sweated
 sweater
 sweaters
+sweatier
+sweatiest
 sweating
 sweatpants
 sweatproof

@@ -343,6 +343,7 @@ hanky
 haphazard
 haphazardly
 hapless
+haploid
 happen
 happened
 happening
@@ -617,6 +618,9 @@ hazelnut
 hazelnuts
 hazelwood
 hazes
+hazier
+haziest
+haziness
 hazing
 hazmat
 hazy
@@ -1081,7 +1085,6 @@ herrings
 hers
 herself
 hertz
-hes
 hesitance
 hesitancy
 hesitant
@@ -1228,6 +1231,8 @@ hilarity
 hill
 hillbillies
 hillbilly
+hillier
+hilliest
 hillock
 hillocks
 hills
@@ -1239,7 +1244,6 @@ hilly
 hilt
 hilts
 him
-hims
 himself
 hind
 hindbrain

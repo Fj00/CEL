@@ -1764,6 +1764,9 @@ phoenix
 phoenixes
 phone
 phoned
+phoneme
+phonemes
+phonemic
 phones
 phonetic
 phonetically

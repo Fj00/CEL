@@ -363,7 +363,6 @@ bison
 bitch
 biter
 bites
-bitsy
 bitty
 blabs
 black
@@ -781,6 +780,7 @@ codes
 codex
 codon
 coeds
+coifs
 coils
 coins
 coked
@@ -2051,6 +2051,7 @@ jowls
 judge
 juice
 juicy
+juked
 jukes
 julep
 jumbo

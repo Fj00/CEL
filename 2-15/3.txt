@@ -240,7 +240,6 @@ heh
 hem
 hen
 her
-hes
 het
 hew
 hex
@@ -613,7 +612,6 @@ won
 woo
 wow
 wry
-yah
 yak
 yam
 yap

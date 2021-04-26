@@ -27,6 +27,8 @@ dahs
 daikon
 dailies
 daily
+daintier
+daintiest
 daintily
 dainty
 daiquiri
@@ -604,6 +606,8 @@ decoupled
 decouples
 decoupling
 decoy
+decoyed
+decoying
 decoys
 decrease
 decreased
@@ -3361,6 +3365,8 @@ donors
 dons
 donut
 donuts
+doodad
+doodads
 doodle
 doodled
 doodler

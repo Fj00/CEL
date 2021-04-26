@@ -937,6 +937,8 @@ glossaries
 glossary
 glossed
 glosses
+glossier
+glossiest
 glossing
 glossy
 glove
@@ -1198,6 +1200,8 @@ gorgeously
 gorgeousness
 gorges
 gorging
+gorier
+goriest
 gorilla
 gorillas
 goring
@@ -1508,6 +1512,8 @@ greaseproof
 greaser
 greasers
 greases
+greasier
+greasiest
 greasing
 greasy
 great
@@ -1644,6 +1650,7 @@ grips
 grisly
 grist
 gristle
+gristly
 gristmill
 gristmills
 grit
@@ -1686,6 +1693,8 @@ groomsmen
 groove
 grooved
 grooves
+groovier
+grooviest
 grooving
 groovy
 grope

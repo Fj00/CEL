@@ -1110,6 +1110,7 @@ behooved
 behooves
 behooving
 beige
+beiges
 beignet
 beignets
 being
@@ -1741,7 +1742,6 @@ births
 birthstone
 birthstones
 biryani
-biryanis
 bis
 biscotti
 biscuit
@@ -1786,7 +1786,6 @@ bitrates
 bits
 bitstream
 bitstreams
-bitsy
 bitten
 bitter
 bitterer
@@ -3376,6 +3375,8 @@ buffoonish
 buffoons
 buffs
 bug
+bugaboo
+bugaboos
 bugged
 bugger
 buggered

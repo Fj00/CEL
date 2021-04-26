@@ -2675,6 +2675,8 @@ trashcan
 trashcans
 trashed
 trashes
+trashier
+trashiest
 trashing
 trashy
 trauma
@@ -2981,8 +2983,6 @@ triptych
 triptychs
 tripwire
 tripwires
-trireme
-triremes
 trisect
 trisected
 trisecting

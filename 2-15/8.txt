@@ -864,7 +864,6 @@ birdshot
 birdsong
 birthday
 birthing
-biryanis
 biscotti
 biscuits
 bisected
@@ -1151,6 +1150,7 @@ buffalos
 buffered
 buffeted
 buffoons
+bugaboos
 buggered
 builders
 building
@@ -1367,7 +1367,6 @@ catalyst
 catalyze
 catapult
 cataract
-catbirds
 catcalls
 catchall
 catchers
@@ -1470,6 +1469,7 @@ chateaux
 chatroom
 chattels
 chatters
+chattier
 chatting
 cheapens
 cheapest
@@ -1526,10 +1526,12 @@ chivalry
 chloride
 chlorine
 choirboy
+chompers
 chomping
 choosers
 choosing
 choppers
+choppier
 chopping
 chorales
 chortled
@@ -1930,6 +1932,7 @@ corduroy
 corncobs
 cornered
 cornices
+corniest
 cornmeal
 cornrows
 corollas
@@ -2194,6 +2197,7 @@ cytosine
 czarinas
 dabbling
 daffodil
+daintier
 daintily
 daiquiri
 dairying
@@ -2289,6 +2293,7 @@ decoding
 decorate
 decorous
 decouple
+decoying
 decrease
 decrepit
 decrying
@@ -2838,6 +2843,7 @@ eclectic
 eclipsed
 eclipses
 ecliptic
+ecologic
 economic
 ecstatic
 edgewise
@@ -3771,6 +3777,7 @@ furrowed
 furthers
 furthest
 fuselage
+fussiest
 futilely
 futility
 futurism
@@ -3908,6 +3915,7 @@ gloomier
 gloomily
 glorious
 glossary
+glossier
 glossing
 glovebox
 glowered
@@ -3988,6 +3996,7 @@ gravitas
 graviton
 grayness
 greasers
+greasier
 greasing
 greatest
 greedier
@@ -4027,6 +4036,7 @@ grokking
 grommets
 groomers
 grooming
+groovier
 grooving
 grossers
 grossest
@@ -4195,6 +4205,7 @@ haymaker
 hayrides
 haystack
 hazelnut
+haziness
 headache
 headband
 headgear
@@ -4292,6 +4303,7 @@ highways
 hijacked
 hijacker
 hilarity
+hilliest
 hillocks
 hillside
 hilltops
@@ -4789,6 +4801,7 @@ jillions
 jingling
 jiujitsu
 jockeyed
+johnnies
 jointing
 jokester
 jokingly
@@ -5619,6 +5632,7 @@ modelled
 modeller
 moderate
 moderato
+modernly
 modestly
 modified
 modifier
@@ -5732,11 +5746,13 @@ moveable
 movement
 movingly
 mucinous
+muddiest
 muddling
 muddying
 mudflats
 mudflows
 mudguard
+mudpuppy
 mudrooms
 mudslide
 mufflers
@@ -5793,7 +5809,6 @@ mystical
 mystique
 mythical
 nacelles
-nacreous
 naloxone
 nameless
 namesake
@@ -6535,6 +6550,8 @@ pharmacy
 phaseout
 pheasant
 phishing
+phonemes
+phonemic
 phonetic
 phosphor
 photonic
@@ -7802,6 +7819,7 @@ saddlers
 saddlery
 saddling
 sadistic
+safeness
 safeties
 sagacity
 sagittal
@@ -8506,6 +8524,7 @@ snatched
 snatcher
 snatches
 sneakers
+sneakier
 sneakily
 sneaking
 sneering
@@ -8615,6 +8634,7 @@ sourcing
 sourness
 sourpuss
 southern
+southpaw
 souvenir
 souvlaki
 soybeans
@@ -8693,6 +8713,7 @@ spinoffs
 spinouts
 spinster
 spiraled
+spirally
 spirited
 spitball
 spiteful
@@ -8855,6 +8876,7 @@ stealers
 stealing
 stealthy
 steamers
+steamier
 steaming
 steeling
 steepens
@@ -9186,6 +9208,7 @@ swaddles
 swaggers
 swallows
 swamping
+swankier
 swapping
 swarming
 swastika
@@ -9195,6 +9218,7 @@ swatters
 swatting
 swearing
 sweaters
+sweatier
 sweating
 sweepers
 sweeping
@@ -9685,6 +9709,7 @@ trapezes
 trappers
 trapping
 trashcan
+trashier
 trashing
 travails
 traveled
@@ -9753,7 +9778,6 @@ trippers
 tripping
 triptych
 tripwire
-triremes
 trisects
 tritones
 triumphs
@@ -10291,8 +10315,6 @@ volcanos
 volition
 volleyed
 voltages
-volumise
-volumize
 volution
 vomiting
 vortexes

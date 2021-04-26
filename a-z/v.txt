@@ -954,17 +954,11 @@ volume
 volumes
 volumetric
 voluminous
-volumise
-volumised
 volumiser
 volumisers
-volumises
 volumising
-volumize
-volumized
 volumizer
 volumizers
-volumizes
 volumizing
 voluntarily
 voluntary

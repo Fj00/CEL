@@ -351,6 +351,7 @@ code
 cods
 coed
 cogs
+coif
 coil
 coin
 coke
@@ -923,7 +924,6 @@ high
 hike
 hill
 hilt
-hims
 hind
 hint
 hips
@@ -1861,7 +1861,6 @@ sham
 shat
 shea
 shed
-shes
 shim
 shin
 ship

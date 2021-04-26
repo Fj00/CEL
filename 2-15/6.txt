@@ -505,6 +505,7 @@ beheld
 behest
 behind
 behold
+beiges
 beings
 belays
 belfry
@@ -1774,6 +1775,7 @@ donkey
 donned
 donors
 donuts
+doodad
 doodle
 doofus
 doomed
@@ -2066,6 +2068,7 @@ evince
 evoked
 evokes
 evolve
+exacta
 exacts
 exalts
 exceed
@@ -2672,6 +2675,7 @@ gooses
 gopher
 gorged
 gorges
+gorier
 goring
 gospel
 gossip
@@ -2864,6 +2868,7 @@ having
 hawked
 hawker
 hazard
+hazier
 hazing
 hazmat
 headed
@@ -3221,6 +3226,7 @@ jagged
 jaguar
 jailed
 jailer
+jailor
 jalopy
 jammed
 jammer
@@ -3265,6 +3271,7 @@ jobber
 jockey
 jogged
 jogger
+johnny
 joined
 joiner
 joints
@@ -3289,6 +3296,7 @@ juiced
 juicer
 juices
 jujube
+juking
 juleps
 jumble
 jumbos
@@ -5627,6 +5635,7 @@ shaves
 shawls
 shears
 sheath
+sheave
 sheers
 sheesh
 sheets
@@ -7288,6 +7297,7 @@ wursts
 wusses
 wyvern
 yachts
+yahoos
 yakked
 yakuza
 yammer

@@ -1360,6 +1360,7 @@ chastised
 chastises
 chatrooms
 chattered
+chattiest
 chauffeur
 cheapened
 cheapness
@@ -1409,6 +1410,7 @@ chocolate
 chocolaty
 choirboys
 chokehold
+choppiest
 chopstick
 chortling
 christens
@@ -2036,6 +2038,7 @@ cytosolic
 cytotoxic
 dachshund
 daffodils
+daintiest
 daiquiris
 dalliance
 dalmatian
@@ -3653,6 +3656,7 @@ globalize
 gloomiest
 glorified
 glorifies
+glossiest
 glowering
 glowingly
 glowstick
@@ -3716,6 +3720,7 @@ gravitate
 gravities
 gravitons
 grayscale
+greasiest
 greatness
 greediest
 greenback
@@ -3738,6 +3743,7 @@ grizzlies
 groceries
 groomsman
 groomsmen
+grooviest
 grossness
 grotesque
 grounders
@@ -7947,6 +7953,7 @@ snappiest
 snapshots
 snatchers
 snatching
+sneakiest
 snickered
 sniffling
 sniggered
@@ -8039,6 +8046,7 @@ soundness
 sourdough
 southeast
 southerly
+southpaws
 southward
 southwest
 souvenirs
@@ -8232,6 +8240,7 @@ steadiest
 steadings
 steadying
 steamboat
+steamiest
 steampunk
 steamroll
 steamship
@@ -8543,9 +8552,11 @@ swaggered
 swallowed
 swallower
 swampland
+swankiest
 swappable
 swastikas
 sweatband
+sweatiest
 sweatshop
 sweatsuit
 sweetcorn
@@ -8955,6 +8966,7 @@ trapezius
 trapezoid
 trappings
 trashcans
+trashiest
 traumatic
 travelers
 traveling
@@ -9519,12 +9531,8 @@ volcanism
 volcanoes
 volleying
 voltmeter
-volumised
 volumiser
-volumises
-volumized
 volumizer
-volumizes
 voluntary
 volunteer
 volutions

@@ -158,6 +158,7 @@ ecliptic
 eco
 ecocide
 ecofriendly
+ecologic
 ecological
 ecologically
 ecologies
@@ -1966,6 +1967,7 @@ exacerbating
 exacerbation
 exacerbations
 exact
+exacta
 exacted
 exacting
 exactitude

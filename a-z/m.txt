@@ -2549,6 +2549,7 @@ modernize
 modernized
 modernizes
 modernizing
+modernly
 modes
 modest
 modestly
@@ -3204,7 +3205,9 @@ mucous
 mucus
 mud
 muddied
+muddier
 muddies
+muddiest
 muddle
 muddled
 muddles
@@ -3217,6 +3220,8 @@ mudflow
 mudflows
 mudguard
 mudguards
+mudpuppies
+mudpuppy
 mudroom
 mudrooms
 mudslide

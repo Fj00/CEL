@@ -885,7 +885,6 @@ catastrophes
 catastrophic
 catatonic
 catbird
-catbirds
 catcall
 catcalled
 catcalling
@@ -1518,6 +1517,8 @@ chatterboxes
 chattered
 chattering
 chatters
+chattier
+chattiest
 chatting
 chatty
 chauffeur
@@ -1865,6 +1866,7 @@ cholesterol
 choline
 chomp
 chomped
+chompers
 chomping
 chomps
 choose
@@ -1877,6 +1879,9 @@ chop
 chopped
 chopper
 choppers
+choppier
+choppiest
+choppiness
 chopping
 choppy
 chops
@@ -2440,6 +2445,7 @@ clippings
 clips
 clique
 cliques
+cliquey
 clit
 clitoral
 clitoris
@@ -2841,9 +2847,11 @@ cohosted
 cohosting
 cohosts
 cohousing
+coif
 coiffed
 coiffure
 coiffures
+coifs
 coil
 coiled
 coiling
@@ -3670,6 +3678,7 @@ concessional
 concessionary
 concessions
 conch
+conches
 conchs
 concierge
 concierges
@@ -4757,6 +4766,8 @@ cornice
 cornices
 cornichon
 cornichons
+cornier
+corniest
 corning
 cornmeal
 cornrow

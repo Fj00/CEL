@@ -1101,6 +1101,7 @@ buffers
 buffets
 buffing
 buffoon
+bugaboo
 buggers
 buggery
 buggies
@@ -1590,6 +1591,7 @@ clipart
 clipped
 clipper
 cliques
+cliquey
 cloaked
 clobber
 cloches
@@ -1730,6 +1732,7 @@ conceit
 concept
 concern
 concert
+conches
 concise
 concoct
 concord
@@ -1818,6 +1821,7 @@ corneas
 corners
 cornets
 cornice
+cornier
 corning
 cornrow
 corolla
@@ -2170,6 +2174,7 @@ decoded
 decoder
 decodes
 decorum
+decoyed
 decreed
 decrees
 decried
@@ -2465,6 +2470,7 @@ donator
 dongles
 donkeys
 donning
+doodads
 doodled
 doodler
 doodles
@@ -3401,6 +3407,7 @@ furrows
 further
 furtive
 fusions
+fussier
 fussing
 futures
 fuzzier
@@ -3612,6 +3619,7 @@ goosing
 gophers
 gordita
 gorging
+goriest
 gorilla
 gosling
 gospels
@@ -3696,6 +3704,7 @@ griping
 gripped
 gripper
 gristle
+gristly
 gritted
 grizzly
 groaned
@@ -3842,6 +3851,7 @@ hangups
 hankers
 hankies
 hapless
+haploid
 happens
 happier
 happily
@@ -3898,6 +3908,7 @@ haycock
 hayride
 haywire
 hazards
+haziest
 headers
 heading
 headman
@@ -3982,6 +3993,7 @@ highest
 highway
 hijacks
 hijinks
+hillier
 hillock
 hilltop
 himself
@@ -4383,6 +4395,7 @@ jacuzzi
 jaguars
 jailers
 jailing
+jailors
 jammers
 jammies
 jamming
@@ -5335,6 +5348,7 @@ movable
 mucking
 mucosal
 muddied
+muddier
 muddies
 muddled
 muddles
@@ -6026,6 +6040,7 @@ phenols
 phenoms
 phobias
 phoenix
+phoneme
 phoneys
 phonics
 phonies
@@ -8981,7 +8996,6 @@ triplex
 tripods
 tripped
 tripper
-trireme
 trisect
 trisomy
 tritium
@@ -9215,6 +9229,7 @@ unsound
 unspent
 unstick
 unstuck
+untaken
 untamed
 untaxed
 untimed
