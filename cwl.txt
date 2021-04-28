@@ -30354,7 +30354,9 @@ inverters
 inverting
 inverts
 invest
+investable
 invested
+investible
 investigate
 investigated
 investigates

@@ -3767,6 +3767,8 @@ invasively
 invectives
 inventions
 inversions
+investable
+investible
 investment
 inveterate
 invigorate
