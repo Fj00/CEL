@@ -1410,8 +1410,6 @@ redshift
 redshifts
 redshirt
 redshirts
-redskin
-redskins
 reduce
 reduced
 reducer

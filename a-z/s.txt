@@ -707,7 +707,6 @@ schemes
 scheming
 schism
 schisms
-schizo
 schizoaffective
 schizoid
 schizophrenia
@@ -4565,8 +4564,6 @@ spay
 spayed
 spaying
 spays
-spazzed
-spazzing
 speak
 speakeasies
 speakeasy

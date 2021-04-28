@@ -5458,7 +5458,6 @@ scents
 schema
 scheme
 schism
-schizo
 school
 scions
 sclera

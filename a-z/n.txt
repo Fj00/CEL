@@ -352,8 +352,6 @@ negotiation
 negotiations
 negotiator
 negotiators
-negro
-negroes
 neigh
 neighbor
 neighbored

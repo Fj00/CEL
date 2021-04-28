@@ -5456,7 +5456,6 @@ needles
 negated
 negates
 neglect
-negroes
 neighed
 neither
 nemeses
@@ -6788,7 +6787,6 @@ redraft
 redrawn
 redraws
 redress
-redskin
 reduced
 reducer
 reduces
@@ -8035,7 +8033,6 @@ spatter
 spatula
 spawned
 spaying
-spazzed
 speaker
 speared
 specced

@@ -37600,8 +37600,6 @@ negotiation
 negotiations
 negotiator
 negotiators
-negro
-negroes
 neigh
 neighbor
 neighbored
@@ -47569,8 +47567,6 @@ redshift
 redshifts
 redshirt
 redshirts
-redskin
-redskins
 reduce
 reduced
 reducer
@@ -51330,7 +51326,6 @@ schemes
 scheming
 schism
 schisms
-schizo
 schizoaffective
 schizoid
 schizophrenia
@@ -55188,8 +55183,6 @@ spay
 spayed
 spaying
 spays
-spazzed
-spazzing
 speak
 speakeasies
 speakeasy
