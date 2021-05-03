@@ -1,6 +1,6 @@
-# CWL
+# CEL
 
-Common Word List (CWL), a word list with common words, for word games.
+Common Word List (CEL), a word list with common words, for word games.
 
 ## Background
 
@@ -8,13 +8,13 @@ I compiled this word list in two months. I am releasing it into the public domai
 
 It was a project envisioned by David Eldar, who is commonly recognized as the second best Scrabble player in the world.
 
-The purpose of CWL is to bring more people to word games. Traditional dictionaries and word lists currently used in conjunction with popular word games are filled with obscure and impractical words.
+The purpose of CEL is to bring more people to word games. Traditional dictionaries and word lists currently used in conjunction with popular word games are filled with obscure and impractical words.
 
 This is still a work in progress and will never achieve perfection. The next steps are to merge additional word lists made by other community members, described in more detail below.
 
 ## Community
 
-CWL will be initially implemented on the Woogles platform for playing OMGWords (Orthogonal Morphemes Game). https://woogles.io
+CEL will be initially implemented on the Woogles platform for playing OMGWords (Orthogonal Morphemes Game). https://woogles.io
 
 Woogles is a community whose mission is to:
 
@@ -26,11 +26,11 @@ Woogles achieved a successful Kickstarter in October last year, and was created 
 
 ## Getting Started
 
-The repository contains `cwl.txt`, the master CWL list. The `2-15` folder contains subsets of CWL by word length, from 2-15 letters. The `a-z` folder contains subsets of CWL by starting letter, from A-Z. More subset lists can be generated if desired. In the future, these lists will be updated to stay consistent with `cwl.txt`.
+The repository contains `cel.txt`, the master CEL list. The `2-15` folder contains subsets of CEL by word length, from 2-15 letters. The `a-z` folder contains subsets of CEL by starting letter, from A-Z. More subset lists can be generated if desired. In the future, these lists will be updated to stay consistent with `cel.txt`.
 
 ## Methodology
 
-The working spreadsheet is public. It currently contains 4 tabs, cwl is the current working list, 2s is just 2 letter word selection, 3s is 3 letter word selection, and movies is another list described below. The spreadsheet can be viewed at: https://docs.google.com/spreadsheets/d/1N-LfFbuuVA176f6pI8oTHYtpUGOy7t2i_ovsCTalq4A/edit?usp=sharing
+The working spreadsheet is public. It currently contains 4 tabs, cel is the current working list, 2s is just 2 letter word selection, 3s is 3 letter word selection, and movies is another list described below. The spreadsheet can be viewed at: https://docs.google.com/spreadsheets/d/1N-LfFbuuVA176f6pI8oTHYtpUGOy7t2i_ovsCTalq4A/edit?usp=sharing
 
 The starter list chosen was 2of12, which contains a list of common words and their inflections, created by finding words that were in at least 2 out of 12 dictionaries that were selected. More information on 2of12 here: http://wordlist.aspell.net/12dicts-readme/#2of12inf
 
@@ -99,7 +99,7 @@ This is just a disclaimer that it is impossible to be objective in every instanc
 
 Again, the initial list contained 80775 words. The number of words removed was 24688, making 56087. There were 150 additions that weren't 2 or 3 letters. The total number of 2 letter words is 65 (out of 127 competitive), and the total number of 3 letter words is 640 (out of 1347 competitive). Combining the purged list with the additions and 2-3 letter words makes 56311 words, and here is the list broken down by word length:
 
-| Length | CWL Count | Competitive Count | Percent CWL/Competitive |
+| Length | CEL Count | Competitive Count | Percent CEL/Competitive |
 | --- | --- | --- | --- |
 | 2 | 65 | 127 | 51.18% |
 | 3 | 640 | 1347 | 47.51% |
@@ -117,9 +117,9 @@ Again, the initial list contained 80775 words. The number of words removed was 2
 | 15 | 382 | 6103 | 6.26% |
 | Total | 56311 | 281857 | 19.98% |
 
-Unsurprisingly, the proportion of words in CWL is strictly decreasing as the number of letters increase. The number of CWL words with 2-8 letters is 31396 for reference. Here is the same table for words starting with letters A-Z:
+Unsurprisingly, the proportion of words in CEL is strictly decreasing as the number of letters increase. The number of CEL words with 2-8 letters is 31396 for reference. Here is the same table for words starting with letters A-Z:
 
-| Letter | CWL Count | Competitive Count | Percent CWL/Competitive |
+| Letter | CEL Count | Competitive Count | Percent CEL/Competitive |
 | --- | --- | --- | --- |
 | A | 3278 | 16315 | 20.09% |
 | B | 3205 | 15380 | 20.84% |
@@ -151,7 +151,7 @@ Unsurprisingly, the proportion of words in CWL is strictly decreasing as the num
 
  After making the first revision, the total number of words is 60133. Here is what the same charts look like:
 
-| Length | CWL Count | Competitive Count | Percent CWL/Competitive |
+| Length | CEL Count | Competitive Count | Percent CEL/Competitive |
 | --- | --- | --- | --- |
 | 2 | 63 | 127 | 49.61% |
 | 3 | 645 | 1347 | 47.88% |
@@ -169,7 +169,7 @@ Unsurprisingly, the proportion of words in CWL is strictly decreasing as the num
 | 15 | 474 | 6103 | 7.77% |
 | Total | 60133 | 281857 | 21.33% |
 
-| Letter | CWL Count | Competitive Count | Percent CWL/Competitive |
+| Letter | CEL Count | Competitive Count | Percent CEL/Competitive |
 | --- | --- | --- | --- |
 | A | 3511 | 16315 | 21.52% |
 | B | 3371 | 15380 | 21.92% |
