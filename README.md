@@ -1,6 +1,6 @@
 # CEL
 
-Common Word List (CEL), a word list with common words, for word games.
+Common English Lexicon (CEL), a word list with common words, for word games.
 
 ## Background
 
