@@ -5,7 +5,7 @@ Common English Lexicon (CEL), a word list with common words, for word games.
 ## Background
 
 1. What is the CEL?
-   - The CEL stands for Common English Lexicon, created by Eric Smith (Fj00) and Kenji Matsumoto. The CEL focuses on the most common words that exist in the international Scrabble dictionary (CSW). As such, the CEL is less than 1/3 the size of CEL, with just over 60,000 words in total and over 35,000 words under 9 letters.
+   - The CEL stands for Common English Lexicon, created by Eric Smith (Fj00) and Kenji Matsumoto. The CEL focuses on the most common words that exist in the international Scrabble dictionary (CSW). As such, the CEL is less than 1/3 the size of CSW, with just over 60,000 words in total and over 35,000 words under 9 letters.
 
 2. How was the CEL compiled?
    - The CEL was compiled by counting the number of times specific words were used in Internet articles, books, and webpages Google searches. Those that made it past pre-specified thresholds had made it into CEL, as well as related words necessary for consistency.  
