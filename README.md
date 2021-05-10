@@ -4,17 +4,32 @@ Common English Lexicon (CEL), a word list with common words, for word games.
 
 ## Background
 
-I compiled this word list in two months. I am releasing it into the public domain so anyone can use or modify it at will.
+1. What is the CEL?
+   - The CEL stands for Common English Lexicon, created by Eric Smith (Fj00) and Kenji Matsumoto. The CEL focuses on the most common words that exist in the international Scrabble dictionary (CSW). As such, the CEL is less than 1/3 the size of CEL, with just over 60,000 words in total and over 35,000 words under 9 letters.
 
-It was a project envisioned by David Eldar, who is commonly recognized as the second best Scrabble player in the world.
+2. How was the CEL compiled?
+   - The CEL was compiled by counting the number of times specific words were used in Internet articles, books, and webpages Google searches. Those that made it past pre-specified thresholds had made it into CEL, as well as related words necessary for consistency.  
 
-The purpose of CEL is to bring more people to word games. Traditional dictionaries and word lists currently used in conjunction with popular word games are filled with obscure and impractical words.
+3. What does it mean for a word to be "common"? Why are there still some weird words in here?
+   - We wanted the CEL to be an inclusive, diverse dictionary that reflected people throughout the world with a variety of interests and expertise. As such, we included entries that may span beyond basic vocabulary, and included various plants, animals, foods, scientific terms, etc. that might not be part of even the most educated person's vocabulary. Such terms are supported by millions of Google hits and sufficient usage in books, internet articles, etc. but may not be familiar to the majority of players using the CEL. Knowing all entries in the CEL would require an absurd amount of information about almost every subject.
 
-This is still a work in progress and will never achieve perfection. The next steps are to merge additional word lists made by other community members, described in more detail below.
+4. What does ________ mean?
+   - Some words may not be initially intuitive. For example, the word 'mac' might not look like a word to many people, and it may confuse people that 'macs' is not a valid string, but will make sense once they understand the intended definition (short for macaroni, i.e. mac and cheese).
+   - All words in CEL have common definitions. The overwhelming number of words can be defined through dictionary or google, although in a few cases, using an advanced search in one of our sources may help players looking to define an entry.
+
+5. Why are there so few -S/-IER/-ED/RE- etc. words?
+   - Scrabble players may be accustomed to a lexicon with every conceivable conjugation, but we feel that many of these conjugations are unwarranted and do not represent common English. As a result, we have removed conjugations that are both uncommonly used and not unessential to the word's common definition. This may make it more difficult to play a game of Scrabble, but restricting conjugations allows us to better reflect the English language.
+
+6. Why isn't (insert common word) found in CEL?
+   - There are a variety of reasons why a common word may not have made it into CEL. The most common reasons are:
+     - It didn't make it into the Scrabble dictionary. For example, KEYCHAIN is not valid in CSW.
+     - It exists primarily as a proper noun. For example, alaska did not make it into CEL, since its primary form is baked alaska, it's still often capitalized, and it's not all that common of a dessert.
+     - It exists in English but primarily from another language. For example, alma (alma mater) did not make it since we deemed it as being primarily Latin.
+     - It failed to get the requisite number of hits in books, webpages, or web articles. There are some words that didn't qualify that mystify us, too.
 
 ## Community
 
-CEL will be initially implemented on the Woogles platform for playing OMGWords (Orthogonal Morphemes Game). https://woogles.io
+CEL is currently implemented on the Woogles platform for playing OMGWords (Orthogonal Morphemes Game). https://woogles.io
 
 Woogles is a community whose mission is to:
 
@@ -22,7 +37,7 @@ Woogles is a community whose mission is to:
 2. Create a tool that lets people of all skill levels from all over the world improve at our favorite board game.
 3. Build the best AI our community has ever seen.
 
-Woogles achieved a successful Kickstarter in October last year, and was created by a team led by César Del Solar, one of the top North American Scrabble players. The Woogles team is also made up of several other top players, including Will Anderson, ranked 1st in North America.
+Woogles achieved a successful Kickstarter in October last year, and was created by a team led by César Del Solar, one of the top North American Scrabble players. The Woogles team is also made up of several other top players.
 
 ## Getting Started
 
@@ -198,36 +213,3 @@ Unsurprisingly, the proportion of words in CEL is strictly decreasing as the num
 | Y | 167 | 1040 | 16.06% |
 | Z | 111 | 1176 | 9.44% |
 | Total | 60133 | 281857 | 21.33% |
-
-## Next Steps
-
-I plan on assimilating several word lists compiled by others.
-
-Kenji Matsumoto, Scrabble Grandmaster and top 10 player in North America independently created a list of common words. The overlap between our lists is over 90%, which seems to validate the idea. Kenji's website is here: http://www.breakingthegame.net/
-
-Dani Barker developed an initial word list based on the TV and movie scripts list on https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists, removing words not commonly considered words, proper nouns, and also adding in other commonly used English words. https://github.com/danibarker/CommonWordLexicon
-
-Another list that I am planning to use is the New General Service List (NGSL) http://www.newgeneralservicelist.org/. It contains 30708 words within competitive word lists, more specifically lemmas (no inflections). There are also frequency scores which have been normalized into a 0-10 score using the function previously described.
-
-One thing I need to do is look at words in the competitive word lists that were not in the original starter list I made using 2of12 and sort by letter and score. This way I can find any common words that were not in the original list.
-
-I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, NGSL, and also the union of some competitive word lists, making sure to point out recently removed words and words only within each list. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all of these next steps in one location.
-
-I put extra effort into creating lists of 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created. Maybe a survey with all the 2s and maybe 3s needs to be created and sent to the appropriate audience for validation.
-
-## UTE
-
-Here is David Eldar's written proof of UTE:
-
-- it would be completely insane for UTE not to be a word
-- i went on a date the other night with a girl who can drive a UTE
-- we spoke the word UTE at least 10 times through the night
-- every person in this country knows what a UTE is
-- UTE = word
-
-## Twitch Shoutouts
-
-- David Eldar https://twitch.tv/deldar182
-- César Del Solar https://twitch.tv/14domino
-- Will Anderson https://twitch.tv/wanderer15
-- Fj00 https://twitch.tv/WTFj00
