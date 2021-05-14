@@ -76,9 +76,7 @@ A cutoff of 4 was used for 2s, and a cutoff of 3.5 was used for 3s.
 
 For the most part, onomatopoeia are left out, especially for 2-3 letter words with consonant clusters. I made that determination mainly due to my PTSD from playing HM in a game with classmates in school and getting mocked for it. There are some instances of onomatopoeia which are common enough to keep, such as various animal sounds used as verbs.
 
-Expletives, slurs and pejorative words were left in for completeness, but there is an ongoing discussion for how to handle them. I don't believe it is up to me whether they get used or not at the end of the day. There is a good case that such words could scare off some audiences. It is at least a good idea to make a list of such words and maintain a separate list with those words removed.
-
-The list currently tends to favor non-British and American-only spellings, although there are British spellings for many words. This might be an area that needs better consistency. There were less than 200 non-American competitive words that made the cut in the end, however there are likely many more that need to be investigated. There is a plan described below in next steps to address this issue.
+Expletives, slurs and pejorative words are not in CEL. There is a good case that such words could scare off some audiences. I am maintaining a separate list that contains such words.
 
 Comparatives and superlatives are a gray area. Internet articles usually avoid using them, and their scores are low in general, whereas conversational English would be more likely to use them. Similarly, adverbs are likely used less in writing. These might need to be handled on a case-by-case basis.
 
@@ -86,17 +84,15 @@ Loanwords are generally avoided, unless they have a significant degree of common
 
 Words that are common but limited to specific fields are avoided. Some instances are words only related to high-level chemistry, physics or mathematics.
 
-Elements 1-103 in the periodic table are all included for completeness. It would be hard to determine what counts as a common element. However, elements 104-118 are all theoretical and in most cases have been synthesized in only very small quantities. In addition, all have been recently named, therefore they are not included.
+Elements 1-118 in the periodic table are all included for completeness. It would be hard to determine what counts as a common element.
 
-Obscure medicines, medical terms and chemicals are left out. Common medicines such as ASPIRIN or IBUPROFEN in the uncountable form are left in.
+Obscure medicines, medical terms and chemicals are left out. Common medicines such as ASPIRIN or IBUPROFEN are left in.
 
-Letters from the Greek alphabet have been included for completeness, regardless of commonality. Letters from the Hebrew alphabet have been omitted. However, spellings of letters from the English alphabet have also been omitted since they aren't typically spelled out in writing. Greek letters typically are treated as uncountable nouns, however a few have auxiliary definitions that require inflections, ALPHA(S), BETA(S), DELTA(S).
+Letters from the Greek alphabet have been included for completeness, regardless of commonality. Letters from the Hebrew alphabet have been omitted. However, spellings of letters from the English alphabet have also been omitted since they aren't typically spelled out in writing. Greek letters typically are treated as uncountable nouns, however a few have auxiliary definitions that require inflections, ALPHA(S), BETA(S), DELTA(S), OMEGA(S).
 
 Uncountable nouns have the plural omitted in almost all cases, mainly thanks to the 2of12 list having labeled them. However, there were still many more that needed to be classified. Often there is a little bit of gray area, so some plurals are included. It mostly depended on the ratio between the frequency of the singular and plural forms.
 
 Inflections are usually all included, however oftentimes a group of inflections will have a subset that are very common, whereas one or more words are not. For example, a noun and its plural along with an adjectival form might be included, where as the present participle of the verb is excluded. Another example is where only the adjectival form and the gerund form are common.
-
-Simple plurals with -ES or -S were favored over more obscure plurals, even in some cases where the usage was skewed in the other direction.
 
 Even though all the 9-15 letter words were examined, they are a lot less important for some games where the majority of words employed are less than 9 letters. They were left in mainly for extending 7-8 letter words using inflections, and also as an attempt to slow Nigel Richards down when he learns the dictionary.
 
@@ -104,9 +100,7 @@ Variants of words are only included if they are common enough. Verbs ending in L
 
 Agent nouns (-ER, -OR, -IST) are avoided, unless they are significantly common, or a profession, machine or tool.
 
-The only major currencies included are DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S) is also included due to commonality.
-
-A number of words were added to the list that were either missed inflections or just missed making the list altogether. There is a plan to analyze the rest of the competitive words described in more detail below.
+The only major currencies included are DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S), RENMINBI, RUBLE(S), RUPEE(S) are also included due to commonality.
 
 This is just a disclaimer that it is impossible to be objective in every instance, and it is fine that people disagree with some of the choices that were made. Hopefully the goal is achieved that people who don't play word games competitively will enjoy playing more with a word list that contains only words they know.
 
