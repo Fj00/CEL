@@ -19,6 +19,7 @@ oath
 oaths
 oatmeal
 oats
+obdurate
 obedience
 obedient
 obediently
@@ -60,6 +61,7 @@ objectivity
 objector
 objectors
 objects
+oblate
 oblation
 oblations
 obligate
@@ -197,6 +199,7 @@ occlude
 occluded
 occludes
 occluding
+occlusal
 occlusion
 occlusions
 occlusive
@@ -250,6 +253,8 @@ octahedron
 octahedrons
 octal
 octane
+octant
+octants
 octave
 octaves
 octet
@@ -282,12 +287,16 @@ oddity
 oddly
 oddness
 odds
+oddsmaker
+oddsmakers
 ode
 odes
 odious
 odometer
 odometers
 odor
+odorant
+odorants
 odorless
 odorous
 odors
@@ -303,6 +312,8 @@ oesophagus
 oestrogen
 oestrogenic
 oestrogens
+oestrous
+oestrus
 oeuvre
 oeuvres
 of
@@ -384,6 +395,7 @@ ogres
 oh
 ohm
 ohms
+oi
 oil
 oilcloth
 oiled
@@ -418,6 +430,7 @@ older
 oldest
 oldie
 oldies
+olds
 ole
 oleander
 oleanders
@@ -504,7 +517,6 @@ onomatopoeia
 onomatopoeic
 onrush
 onrushing
-ons
 onscreen
 onset
 onsets
@@ -526,6 +538,7 @@ oocyte
 oocytes
 oodles
 ooh
+oohs
 oolong
 oomph
 oops
@@ -1126,10 +1139,6 @@ outplay
 outplayed
 outplaying
 outplays
-outpoint
-outpointed
-outpointing
-outpoints
 outpost
 outposts
 outpouring
@@ -1336,6 +1345,10 @@ overcoats
 overcome
 overcomes
 overcoming
+overcommit
+overcommits
+overcommitted
+overcommitting
 overcompensate
 overcompensated
 overcompensates

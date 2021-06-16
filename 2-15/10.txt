@@ -253,6 +253,7 @@ amputating
 amputation
 amusements
 analgesics
+analogical
 analogised
 analogises
 analogized
@@ -409,6 +410,7 @@ arthropods
 artichokes
 articulate
 artificial
+asafoetida
 ascendance
 ascendancy
 ascertains
@@ -516,6 +518,7 @@ avalanches
 avaricious
 avocations
 awakenings
+ayatollahs
 babysitter
 backbiting
 backboards
@@ -731,6 +734,7 @@ blindsided
 blindsides
 blissfully
 blistering
+blithering
 blitzkrieg
 blockading
 blockchain
@@ -1204,6 +1208,7 @@ coastlines
 coauthored
 cockatiels
 cockfights
+cocksucker
 coexistent
 coexisting
 coffeepots
@@ -1856,7 +1861,6 @@ department
 departures
 dependable
 dependably
-dependancy
 dependants
 dependence
 dependency
@@ -2009,6 +2013,7 @@ diplomatic
 directions
 directives
 directness
+dirigibles
 disability
 disabusing
 disallowed
@@ -2445,6 +2450,7 @@ equivalent
 equivocate
 eradicated
 eradicates
+ergometers
 ergonomics
 erotically
 erythritol
@@ -3344,6 +3350,7 @@ humanistic
 humanities
 humanizing
 humbleness
+humdingers
 humidified
 humidifier
 humidifies
@@ -3840,10 +3847,12 @@ judgeships
 judgmental
 judicially
 juggernaut
+julienning
 junctional
 justifying
 juxtaposed
 juxtaposes
+kerfuffles
 kettlebell
 keyloggers
 keylogging
@@ -4187,6 +4196,7 @@ meditative
 mediumship
 megachurch
 megacities
+megalithic
 megalodons
 megaphones
 megapixels
@@ -4708,6 +4718,7 @@ oceangoing
 octahedral
 octahedron
 octillions
+oddsmakers
 oesophagus
 oestrogens
 offensives
@@ -4807,7 +4818,6 @@ outnumbers
 outpatient
 outperform
 outplaying
-outpointed
 outpouring
 outproduce
 outputting
@@ -4839,6 +4849,7 @@ overbuying
 overcharge
 overclocks
 overcoming
+overcommit
 overcooked
 overcrowds
 overdosing
@@ -6749,6 +6760,7 @@ squeezable
 squelching
 squirreled
 squirrelly
+squishiest
 stabilised
 stabiliser
 stabilises
@@ -7404,6 +7416,7 @@ transverse
 transwoman
 transwomen
 trapezoids
+trattorias
 traumatise
 traumatize
 travellers
@@ -7689,6 +7702,7 @@ unmissable
 unmodified
 unmolested
 unmounting
+unnumbered
 unobscured
 unobserved
 unoccupied
@@ -7819,6 +7833,7 @@ variations
 variegated
 varnishing
 vasculitis
+vaudeville
 vectorised
 vectorises
 vectorized
@@ -7861,6 +7876,7 @@ victimises
 victimized
 victimizer
 victimizes
+victimless
 victorious
 videophone
 videotaped
@@ -7929,6 +7945,7 @@ waistlines
 waitlisted
 waitresses
 wakeboards
+walkabouts
 walkathons
 wallflower
 wallpapers

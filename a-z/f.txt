@@ -106,6 +106,10 @@ faeces
 faerie
 faeries
 faery
+faff
+faffed
+faffing
+faffs
 fag
 faggot
 faggots
@@ -155,6 +159,7 @@ fake
 faked
 faker
 fakers
+fakery
 fakes
 faking
 falafel
@@ -426,7 +431,6 @@ fauna
 faunal
 faux
 fava
-favas
 fave
 favela
 favelas
@@ -768,6 +772,7 @@ fevers
 few
 fewer
 fewest
+fey
 fez
 fezzes
 fiance
@@ -1122,6 +1127,8 @@ firstborns
 firsthand
 firstly
 firsts
+firth
+firths
 fiscal
 fiscally
 fish
@@ -1760,6 +1767,8 @@ foetus
 foetuses
 fog
 fogged
+fogger
+foggers
 foggier
 foggiest
 fogginess
@@ -2289,6 +2298,9 @@ fracture
 fractured
 fractures
 fracturing
+frag
+fragged
+fragging
 fragile
 fragility
 fragment
@@ -2301,6 +2313,7 @@ fragrance
 fragranced
 fragrances
 fragrant
+frags
 frail
 frailties
 frailty
@@ -2449,6 +2462,7 @@ frenetically
 frenzied
 frenzies
 frenzy
+freon
 frequencies
 frequency
 frequent
@@ -2645,7 +2659,6 @@ fryer
 fryers
 frying
 fuchsia
-fuchsias
 fuck
 fucked
 fucker
@@ -2741,6 +2754,8 @@ funeral
 funerals
 funerary
 funereal
+funfair
+funfairs
 fungal
 fungi
 fungible

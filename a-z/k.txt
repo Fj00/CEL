@@ -87,6 +87,8 @@ kerbs
 kerbside
 kerchief
 kerchiefs
+kerfuffle
+kerfuffles
 kern
 kerned
 kernel
@@ -340,6 +342,8 @@ kleenexes
 kleptomania
 kleptomaniac
 kleptomaniacs
+klick
+klicks
 klondike
 klutz
 klutzes
@@ -441,6 +445,7 @@ knuckles
 knuckling
 knurled
 knurling
+koa
 koala
 koalas
 kofta

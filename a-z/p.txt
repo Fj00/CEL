@@ -3,6 +3,8 @@ pace
 paced
 pacemaker
 pacemakers
+pacer
+pacers
 paces
 pacesetter
 pacesetters
@@ -960,6 +962,10 @@ peak
 peaked
 peaking
 peaks
+peal
+pealed
+pealing
+peals
 peanut
 peanuts
 pear
@@ -1030,6 +1036,7 @@ pedestrian
 pedestrianised
 pedestrianized
 pedestrians
+pedi
 pediatric
 pediatrician
 pediatricians
@@ -1039,6 +1046,7 @@ pedicures
 pedigree
 pedigreed
 pedigrees
+pedis
 pedometer
 pedometers
 pedophile
@@ -1063,6 +1071,10 @@ peelers
 peeling
 peelings
 peels
+peen
+peened
+peening
+peens
 peep
 peeped
 peeper
@@ -1085,6 +1097,7 @@ peeves
 peeving
 peevish
 peevishly
+peewee
 peg
 pegboard
 pegboards
@@ -2145,6 +2158,8 @@ pinstripe
 pinstriped
 pinstripes
 pint
+pintail
+pintails
 pinto
 pintos
 pints
@@ -2244,6 +2259,8 @@ pities
 pitiful
 pitifully
 pitiless
+piton
+pitons
 pits
 pittance
 pitted
@@ -3014,6 +3031,7 @@ pooches
 poodle
 poodles
 poof
+poofy
 pooh
 pool
 pooled
@@ -3470,14 +3488,13 @@ pranks
 prankster
 pranksters
 praseodymium
-pratfall
-pratfalls
 prattle
 prattled
 prattles
 prattling
 prawn
 prawns
+praxis
 pray
 prayed
 prayer
@@ -4722,6 +4739,8 @@ prostrations
 protactinium
 protagonist
 protagonists
+protea
+proteas
 protease
 proteases
 protect
@@ -5198,6 +5217,7 @@ purge
 purged
 purges
 purging
+puri
 purification
 purified
 purifier

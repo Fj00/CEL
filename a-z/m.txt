@@ -337,7 +337,6 @@ maltreats
 malts
 malty
 malware
-mam
 mama
 mamas
 mamba
@@ -359,7 +358,6 @@ mammography
 mammoth
 mammoths
 mammy
-mams
 man
 mana
 manacle
@@ -379,6 +377,7 @@ manages
 managing
 manatee
 manatees
+mancala
 mandala
 mandalas
 mandarin
@@ -436,6 +435,7 @@ manholes
 manhood
 manhunt
 manhunts
+mani
 mania
 maniac
 maniacal
@@ -479,6 +479,7 @@ manipulatively
 manipulatives
 manipulator
 manipulators
+manis
 mankind
 manlier
 manliest
@@ -713,6 +714,8 @@ marsupial
 marsupials
 mart
 martial
+martian
+martians
 martinet
 martinets
 martingale
@@ -942,6 +945,7 @@ maturities
 maturity
 matzo
 matzos
+maudlin
 maul
 mauled
 mauling
@@ -1191,6 +1195,9 @@ megacity
 megacorporation
 megafauna
 megahertz
+megalith
+megalithic
+megaliths
 megalodon
 megalodons
 megalomania
@@ -1249,7 +1256,9 @@ mellowest
 mellowing
 mellows
 melodic
+melodica
 melodically
+melodicas
 melodies
 melodious
 melodrama
@@ -1435,9 +1444,7 @@ merriment
 merry
 mesa
 mesas
-mescal
 mescaline
-mescals
 mesdames
 mesdemoiselles
 mesh
@@ -1445,6 +1452,7 @@ meshed
 meshes
 meshing
 meshwork
+mesial
 mesmeric
 mesmerise
 mesmerised
@@ -1616,6 +1624,8 @@ mew
 mewed
 mewing
 mews
+mezcal
+mezcals
 mezzanine
 mezzanines
 mezzo
@@ -1952,6 +1962,8 @@ mind
 minded
 mindedly
 mindedness
+minder
+minders
 mindfuck
 mindfucks
 mindful
@@ -2187,6 +2199,8 @@ miscue
 miscued
 miscues
 miscuing
+misdeal
+misdeals
 misdeed
 misdeeds
 misdemeanor
@@ -2236,6 +2250,8 @@ mishear
 misheard
 mishearing
 mishears
+mishit
+mishits
 mishmash
 misidentified
 misidentifies
@@ -2432,6 +2448,10 @@ mitogens
 mitosis
 mitotic
 mitral
+mitre
+mitred
+mitres
+mitring
 mitt
 mitten
 mittens
@@ -2549,7 +2569,6 @@ modernize
 modernized
 modernizes
 modernizing
-modernly
 modes
 modest
 modestly
@@ -2775,6 +2794,8 @@ monoplane
 monoplanes
 monopod
 monopods
+monopole
+monopoles
 monopolies
 monopolisation
 monopolise
@@ -2916,6 +2937,8 @@ morality
 moralizing
 morally
 morals
+morass
+morasses
 moratorium
 moratoriums
 moray
@@ -3006,8 +3029,10 @@ mosses
 mossy
 most
 mostly
+mote
 motel
 motels
+motes
 moth
 mothball
 mothballed
@@ -3249,6 +3274,9 @@ mugs
 mugshot
 mugshots
 mugwort
+mulatto
+mulattoes
+mulattos
 mulberries
 mulberry
 mulch
@@ -3437,6 +3465,8 @@ murmurs
 muscat
 muscle
 muscled
+muscleman
+musclemen
 muscles
 muscling
 muscly
@@ -3572,6 +3602,7 @@ myelin
 myelitis
 myeloid
 myeloma
+mylar
 myocardial
 myocardium
 myopathy

@@ -14,11 +14,9 @@ gadgets
 gadolinium
 gaff
 gaffe
-gaffed
 gaffer
 gaffers
 gaffes
-gaffing
 gaffs
 gag
 gaga
@@ -53,6 +51,8 @@ galaxies
 galaxy
 gale
 gales
+galette
+galettes
 gall
 gallant
 gallantly
@@ -112,8 +112,6 @@ gameplay
 gamer
 gamers
 games
-gameshow
-gameshows
 gamesmanship
 gamete
 gametes
@@ -574,6 +572,7 @@ gerrymandering
 gerrymanders
 gerund
 gerunds
+gesso
 gestalt
 gestate
 gestated
@@ -598,6 +597,8 @@ getaway
 getaways
 gets
 gettable
+getter
+getters
 getting
 getup
 getups
@@ -731,8 +732,10 @@ girlie
 girlish
 girls
 girly
+girt
 girth
 girths
+girts
 gis
 gist
 git
@@ -848,6 +851,8 @@ gleans
 glee
 gleeful
 gleefully
+glen
+glens
 glial
 glib
 glibly
@@ -917,6 +922,10 @@ globules
 globulin
 glockenspiel
 glockenspiels
+glom
+glommed
+glomming
+gloms
 gloom
 gloomier
 gloomiest
@@ -1101,6 +1110,8 @@ going
 goings
 goiter
 goiters
+goitre
+goitres
 goji
 gold
 golden
@@ -1604,6 +1615,12 @@ grieves
 grieving
 grievous
 grievously
+grift
+grifted
+grifter
+grifters
+grifting
+grifts
 grill
 grille
 grilled
@@ -1633,6 +1650,8 @@ grinding
 grinds
 grindstone
 grindstones
+gringo
+gringos
 grinned
 grinning
 grins
@@ -1815,8 +1834,6 @@ grunting
 grunts
 gruyere
 guacamole
-guanaco
-guanacos
 guanine
 guano
 guanosine

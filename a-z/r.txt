@@ -228,6 +228,9 @@ raises
 raisin
 raising
 raisins
+raita
+raja
+rajas
 rake
 raked
 rakes
@@ -523,6 +526,8 @@ reabsorption
 reach
 reachable
 reached
+reacher
+reachers
 reaches
 reaching
 reacquaint
@@ -565,7 +570,9 @@ readers
 readership
 readerships
 readied
+readier
 readies
+readiest
 readily
 readiness
 reading
@@ -1012,6 +1019,10 @@ reclining
 recluse
 recluses
 reclusive
+recoat
+recoated
+recoating
+recoats
 recode
 recoded
 recodes
@@ -1371,6 +1382,8 @@ redline
 redlined
 redlines
 redlining
+redneck
+rednecks
 redness
 redo
 redoes
@@ -1410,6 +1423,8 @@ redshift
 redshifts
 redshirt
 redshirts
+redskin
+redskins
 reduce
 reduced
 reducer
@@ -1566,6 +1581,7 @@ referring
 refers
 reffed
 reffing
+refi
 refile
 refiled
 refiles
@@ -1579,6 +1595,7 @@ refinance
 refinanced
 refinances
 refinancing
+refinancings
 refine
 refined
 refinement
@@ -1593,6 +1610,7 @@ refinish
 refinished
 refinishes
 refinishing
+refis
 refit
 refits
 refitted
@@ -3007,6 +3025,10 @@ respirations
 respirator
 respirators
 respiratory
+respire
+respired
+respires
+respiring
 respite
 respites
 resplendent
@@ -4056,7 +4078,6 @@ romper
 rompers
 romping
 romps
-ronin
 roo
 roof
 roofed
@@ -4234,6 +4255,7 @@ routinely
 routines
 routing
 routs
+roux
 rove
 roved
 rover
@@ -4379,6 +4401,7 @@ rumour
 rumoured
 rumours
 rump
+rumped
 rumple
 rumpled
 rumples
@@ -4406,6 +4429,8 @@ running
 runny
 runoff
 runoffs
+runout
+runouts
 runs
 runt
 runts

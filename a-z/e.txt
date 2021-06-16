@@ -286,7 +286,6 @@ effectuate
 effectuated
 effectuates
 effectuating
-effed
 effeminacy
 effeminate
 effervescence
@@ -300,7 +299,6 @@ efficient
 efficiently
 effigies
 effigy
-effing
 effluent
 effluents
 effort
@@ -544,7 +542,6 @@ elitists
 elixir
 elixirs
 elk
-elks
 ellipse
 ellipses
 ellipsis
@@ -728,6 +725,10 @@ eminence
 eminences
 eminent
 eminently
+emir
+emirate
+emirates
+emirs
 emissaries
 emissary
 emission
@@ -1011,6 +1012,7 @@ endoskeleton
 endoskeletons
 endosome
 endosomes
+endosperm
 endothelial
 endothelium
 endothermic
@@ -1536,6 +1538,7 @@ equivocates
 equivocating
 equivocation
 equivocations
+er
 era
 eradicate
 eradicated
@@ -1564,6 +1567,8 @@ erector
 erectors
 erects
 ergo
+ergometer
+ergometers
 ergonomic
 ergonomically
 ergonomics
@@ -2358,6 +2363,7 @@ expert
 expertise
 expertly
 experts
+expiation
 expiration
 expirations
 expiratory

@@ -240,6 +240,7 @@ checkerboards
 cheeseburgers
 chequerboards
 childlessness
+childproofing
 childrenswear
 chiropractors
 choreographed
@@ -851,6 +852,7 @@ homosexuality
 horticultural
 hospitalising
 hospitalizing
+housebreaking
 housecleaning
 househusbands
 huckleberries
@@ -1392,6 +1394,7 @@ overambitious
 overanalysing
 overanalyzing
 overburdening
+overcommitted
 overconfident
 overcorrected
 overdependent

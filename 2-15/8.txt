@@ -13,6 +13,7 @@ abetting
 abeyance
 abhorred
 abjectly
+ablating
 ablation
 ablution
 abnormal
@@ -250,10 +251,12 @@ allspice
 alluding
 alluring
 allusion
+alluvial
 almanacs
 almighty
 alopecia
 alphabet
+alphorns
 altering
 although
 altitude
@@ -432,6 +435,7 @@ armrests
 aromatic
 arousals
 arousing
+arowanas
 arpeggio
 arraigns
 arranged
@@ -449,6 +453,7 @@ artefact
 arterial
 arteries
 artfully
+arthouse
 articles
 artifact
 artifice
@@ -483,6 +488,7 @@ assesses
 assessor
 assholes
 assigned
+assignee
 assisted
 assorted
 assuaged
@@ -726,6 +732,7 @@ beatings
 beatniks
 beauties
 beautify
+bechamel
 beckoned
 becoming
 bedazzle
@@ -781,7 +788,6 @@ bellowed
 belonged
 beltways
 bemoaned
-bemusing
 benching
 benchtop
 bendable
@@ -1094,6 +1100,7 @@ brightly
 brimming
 bringers
 bringing
+brinjals
 brioches
 briskets
 bristled
@@ -1183,6 +1190,7 @@ bungling
 bunkered
 buntings
 buoyancy
+burbling
 burdened
 burgeons
 burglars
@@ -1277,6 +1285,7 @@ cannolis
 cannoned
 cannulas
 canoeing
+canoeist
 canonise
 canonize
 canopied
@@ -1353,6 +1362,7 @@ cashiers
 cashless
 cashmere
 cassette
+castanet
 castaway
 castings
 castling
@@ -1445,6 +1455,7 @@ changers
 changeup
 changing
 channels
+chanters
 chanting
 chaplain
 chapping
@@ -1522,9 +1533,11 @@ chipsets
 chirping
 chiseled
 chitchat
+chitosan
 chivalry
 chloride
 chlorine
+chlorite
 choirboy
 chompers
 chomping
@@ -1553,6 +1566,7 @@ churning
 chutneys
 chutzpah
 ciabatta
+cichlids
 cilantro
 cinching
 cinnamon
@@ -1821,6 +1835,7 @@ conceits
 conceive
 concepts
 concerns
+concerti
 concerto
 concerts
 conclave
@@ -1829,6 +1844,8 @@ concocts
 concrete
 condemns
 condense
+condoled
+condoles
 condoned
 condones
 conducts
@@ -2002,7 +2019,9 @@ cowbells
 cowering
 cowgirls
 cowhides
+cowlicks
 coworker
+coxswain
 coziness
 crabbing
 crabmeat
@@ -2018,6 +2037,7 @@ craftily
 crafting
 cramming
 cramping
+crampons
 craniums
 cranking
 crannies
@@ -2072,7 +2092,6 @@ crickets
 criminal
 crimpers
 crimping
-crimsons
 cringing
 crinkled
 crinkles
@@ -2180,6 +2199,7 @@ cuteness
 cuticles
 cutscene
 cuttings
+cuvettes
 cybersex
 cyberwar
 cycleway
@@ -2223,6 +2243,7 @@ darndest
 dashcams
 databank
 database
+dateable
 dateline
 daughter
 daunting
@@ -2247,6 +2268,7 @@ deafness
 dealings
 deathbed
 debacles
+debarred
 debasing
 debaters
 debating
@@ -2499,6 +2521,7 @@ diarrhea
 diaspora
 diastole
 diatribe
+dickhead
 dictated
 dictates
 dictator
@@ -2792,6 +2815,8 @@ ductless
 ductwork
 duelists
 duelling
+dulcimer
+dullards
 dullness
 dumbbell
 dumbness
@@ -2805,6 +2830,7 @@ duplexes
 durables
 duration
 dustbins
+dustiest
 dustpans
 dwarfing
 dwarfism
@@ -2923,6 +2949,7 @@ emeritus
 emigrant
 emigrate
 eminence
+emirates
 emissary
 emission
 emissive
@@ -3678,6 +3705,7 @@ fracking
 fractals
 fraction
 fracture
+fragging
 fragment
 fragrant
 francium
@@ -3746,7 +3774,6 @@ fruitful
 fruitier
 fruiting
 fruition
-fuchsias
 fuelling
 fugitive
 fulcrums
@@ -3761,6 +3788,7 @@ fundings
 funerals
 funerary
 funereal
+funfairs
 fungible
 funhouse
 funkiest
@@ -3787,6 +3815,7 @@ gadflies
 gadgetry
 galactic
 galaxies
+galettes
 galleons
 galleria
 galloped
@@ -3794,7 +3823,6 @@ galvanic
 gamblers
 gambling
 gameplay
-gameshow
 gamified
 gamifies
 gangbang
@@ -3910,6 +3938,7 @@ globally
 globular
 globules
 globulin
+glomming
 gloomier
 gloomily
 glorious
@@ -4016,6 +4045,8 @@ gridiron
 gridlock
 grieving
 grievous
+grifters
+grifting
 grillers
 grilling
 grimaced
@@ -4063,7 +4094,6 @@ grumbles
 grumpier
 grumpily
 grunting
-guanacos
 guaranty
 guardian
 guarding
@@ -4117,6 +4147,7 @@ halfback
 halfpipe
 halftime
 hallmark
+halloumi
 hallowed
 hallways
 halogens
@@ -4157,6 +4188,7 @@ hangings
 hangnail
 hangouts
 hangover
+hangtags
 hankered
 happened
 happiest
@@ -4244,6 +4276,7 @@ hedonism
 hedonist
 heedless
 heftiest
+hegemons
 hegemony
 heighten
 heirloom
@@ -4351,6 +4384,7 @@ homeward
 homeware
 homework
 homicide
+homilies
 hominids
 homologs
 homology
@@ -4374,6 +4408,7 @@ horizons
 hormonal
 hormones
 hornbill
+horndogs
 horniest
 hornists
 horology
@@ -4804,6 +4839,7 @@ johnnies
 jointing
 jokester
 jokingly
+jonesing
 jostling
 jottings
 journals
@@ -4998,6 +5034,7 @@ lawyered
 laxative
 layaways
 layering
+layettes
 layovers
 laziness
 leachate
@@ -5369,6 +5406,7 @@ marquise
 marriage
 marrying
 marshals
+martians
 martinet
 martinis
 martyred
@@ -5449,6 +5487,7 @@ meetings
 megabits
 megabyte
 megacity
+megalith
 megamall
 megastar
 megatons
@@ -5459,6 +5498,7 @@ melanism
 melanoma
 mellowed
 mellower
+melodica
 melodies
 meltdown
 membrane
@@ -5568,6 +5608,7 @@ mischief
 miscible
 miscount
 miscuing
+misdeals
 misdeeds
 miseries
 misfired
@@ -5631,7 +5672,6 @@ modelled
 modeller
 moderate
 moderato
-modernly
 modestly
 modified
 modifier
@@ -5676,6 +5716,7 @@ monokini
 monolith
 monomers
 monopods
+monopole
 monopoly
 monorail
 monotone
@@ -5703,6 +5744,7 @@ moraines
 moralism
 moralist
 morality
+morasses
 morbidly
 moreover
 moribund
@@ -5758,6 +5800,7 @@ mufflers
 muffling
 muggings
 mugshots
+mulattos
 mulberry
 mulching
 mulligan
@@ -5993,6 +6036,7 @@ nutshell
 nuttiest
 nuzzling
 oatcakes
+obdurate
 obedient
 obelisks
 obituary
@@ -6023,6 +6067,7 @@ ocarinas
 occasion
 occluded
 occludes
+occlusal
 occupant
 occupied
 occupier
@@ -6035,8 +6080,10 @@ octuplet
 oddballs
 oddities
 odometer
+odorants
 odorless
 odysseys
+oestrous
 offences
 offended
 offender
@@ -6163,7 +6210,6 @@ outmoded
 outpaced
 outpaces
 outplays
-outpoint
 outposts
 outraced
 outraces
@@ -6600,6 +6646,7 @@ pinochle
 pinpoint
 pinprick
 pinscher
+pintails
 pinwheel
 pioneers
 pipeline
@@ -6808,7 +6855,6 @@ praising
 pralines
 prancing
 pranking
-pratfall
 prattled
 prattles
 preached
@@ -7093,7 +7139,6 @@ quavered
 quayside
 queening
 queerest
-queering
 quelling
 quenched
 quencher
@@ -7193,6 +7238,7 @@ raviolis
 ravished
 ravishes
 reabsorb
+reachers
 reaching
 reactant
 reacting
@@ -7200,6 +7246,7 @@ reaction
 reactive
 reactors
 readable
+readiest
 readings
 readjust
 readmits
@@ -7263,6 +7310,7 @@ reclined
 recliner
 reclines
 recluses
+recoated
 recoding
 recoiled
 recolors
@@ -7299,6 +7347,7 @@ redialed
 redirect
 redlined
 redlines
+rednecks
 redolent
 redouble
 redoubts
@@ -7306,6 +7355,7 @@ redounds
 redrafts
 redshift
 redshirt
+redskins
 reducers
 reducing
 redwoods
@@ -7554,6 +7604,8 @@ resorted
 resounds
 resource
 respects
+respired
+respires
 respites
 responds
 response
@@ -8196,6 +8248,7 @@ shellacs
 shelling
 shelters
 shelving
+shemales
 shepherd
 sherbert
 sherbets
@@ -8298,6 +8351,7 @@ sickened
 sickness
 sidearms
 sidebars
+sideburn
 sidecars
 sidekick
 sideline
@@ -8400,6 +8454,7 @@ slamming
 slanders
 slanting
 slapdash
+slappers
 slapping
 slapshot
 slashers
@@ -8540,6 +8595,7 @@ snitched
 snitches
 snobbery
 snobbish
+snogging
 snookers
 snoopers
 snooping
@@ -8602,6 +8658,7 @@ solvable
 solvency
 solvents
 somberly
+sombrely
 sombrero
 somebody
 sometime
@@ -8665,6 +8722,7 @@ spasming
 spatters
 spatulas
 spawning
+spazzing
 speakers
 speaking
 spearing
@@ -8934,6 +8992,7 @@ stitched
 stitches
 stockade
 stockers
+stockier
 stocking
 stockist
 stockpot
@@ -9074,6 +9133,7 @@ subspace
 subsumed
 subsumes
 subtasks
+subtests
 subtexts
 subtitle
 subtlest
@@ -9374,6 +9434,7 @@ teachers
 teaching
 teahouse
 teakwood
+tealight
 teammate
 teamwork
 tearaway
@@ -9429,6 +9490,7 @@ teriyaki
 terminal
 terminus
 termites
+terpenes
 terraced
 terraces
 terrains
@@ -9472,7 +9534,6 @@ theories
 theorise
 theorist
 theorize
-therefor
 theremin
 thermals
 theropod
@@ -9550,7 +9611,9 @@ tiebacks
 tiebreak
 tightens
 tightest
+tightwad
 tiltable
+timbales
 timbered
 timebomb
 timeless
@@ -9719,7 +9782,6 @@ treading
 treadles
 treasure
 treasury
-treaters
 treaties
 treating
 treatise
@@ -9805,6 +9867,7 @@ trumping
 truncate
 trundled
 trundles
+trunking
 trunnion
 trussing
 trustees
@@ -10627,6 +10690,7 @@ yuletide
 yummiest
 zaniness
 zealotry
+zeolites
 zeppelin
 ziggurat
 zillions

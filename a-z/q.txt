@@ -165,10 +165,8 @@ queening
 queenly
 queens
 queer
-queered
 queerer
 queerest
-queering
 queerly
 queerness
 queers
@@ -323,4 +321,3 @@ quotidian
 quotient
 quotients
 quoting
-qwerty

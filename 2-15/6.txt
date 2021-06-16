@@ -11,6 +11,7 @@ abhors
 abided
 abides
 abject
+ablate
 ablaze
 aboard
 abodes
@@ -161,6 +162,7 @@ amends
 amides
 amidst
 amigos
+amines
 aminos
 amoeba
 amoral
@@ -469,6 +471,7 @@ beagle
 beaked
 beaker
 beamed
+beaned
 beanie
 beards
 beardy
@@ -519,7 +522,6 @@ belted
 belter
 beluga
 bemoan
-bemuse
 bender
 benign
 bentos
@@ -757,7 +759,9 @@ bravos
 brawls
 brawny
 brayed
+brazed
 brazen
+brazes
 breach
 breads
 bready
@@ -850,6 +854,7 @@ bunker
 bunsen
 bunted
 buoyed
+burble
 burden
 bureau
 burger
@@ -920,6 +925,7 @@ caiman
 cajole
 caking
 calico
+caliph
 called
 caller
 callow
@@ -1310,6 +1316,7 @@ cooled
 cooler
 coolly
 cooped
+cooper
 cootie
 copays
 copied
@@ -1386,6 +1393,7 @@ craggy
 cramps
 craned
 cranes
+crania
 cranks
 cranky
 cranny
@@ -1564,6 +1572,7 @@ dearie
 dearly
 dearth
 deaths
+debars
 debase
 debate
 debits
@@ -1619,6 +1628,7 @@ deiced
 deices
 deigns
 deists
+deking
 delays
 delete
 delish
@@ -1688,6 +1698,7 @@ devout
 deworm
 dharma
 dialed
+dialer
 dialog
 diaper
 dicing
@@ -1717,13 +1728,17 @@ dingos
 dingus
 dining
 dinked
+dinned
 dinner
 diodes
+dioxin
+dipole
 dipped
 dipper
 direct
 direly
 direst
+dirges
 disarm
 disbar
 discos
@@ -1748,6 +1763,7 @@ divide
 divine
 diving
 divots
+djembe
 doable
 docent
 docile
@@ -1805,7 +1821,6 @@ dowels
 dowers
 downed
 downer
-doxing
 dozens
 dozers
 dozing
@@ -1922,7 +1937,6 @@ eerily
 efface
 effect
 effigy
-effing
 effort
 egging
 eggnog
@@ -2129,6 +2143,7 @@ fading
 faecal
 faeces
 faerie
+faffed
 faggot
 failed
 faints
@@ -2138,6 +2153,7 @@ fairly
 faiths
 fajita
 fakers
+fakery
 faking
 falcon
 fallen
@@ -2266,6 +2282,7 @@ firmed
 firmer
 firmly
 firsts
+firths
 fiscal
 fished
 fisher
@@ -2358,6 +2375,7 @@ fodder
 foetal
 foetus
 fogged
+fogger
 foible
 foiled
 foists
@@ -2490,7 +2508,6 @@ gabled
 gables
 gadfly
 gadget
-gaffed
 gaffer
 gaffes
 gagged
@@ -2578,6 +2595,7 @@ geodes
 geotag
 gerbil
 gerund
+getter
 getups
 geyser
 ghetto
@@ -2658,6 +2676,7 @@ godson
 goggle
 goings
 goiter
+goitre
 golden
 golems
 golfed
@@ -2734,11 +2753,13 @@ greyed
 greyer
 griefs
 grieve
+grifts
 grille
 grills
 grimes
 grimly
 grinds
+gringo
 griped
 gripes
 grippy
@@ -2866,6 +2887,7 @@ haunch
 haunts
 havens
 having
+hawing
 hawked
 hawker
 hazard
@@ -2950,6 +2972,7 @@ hipped
 hipper
 hippie
 hippos
+hirers
 hiring
 hissed
 hisses
@@ -2964,6 +2987,7 @@ hoaxes
 hobbit
 hobble
 hobnob
+hocked
 hockey
 hoeing
 hogged
@@ -2980,6 +3004,7 @@ homage
 homely
 homers
 homies
+homily
 homing
 hominy
 honcho
@@ -3310,6 +3335,7 @@ junked
 junker
 junket
 junkie
+juntas
 juried
 juries
 jurist
@@ -3379,6 +3405,7 @@ kisses
 kitsch
 kitted
 kitten
+klicks
 knacks
 knaves
 kneads
@@ -3541,6 +3568,7 @@ levied
 levies
 levity
 lexica
+lezzes
 liable
 liaise
 lianas
@@ -3684,6 +3712,7 @@ lulled
 lumbar
 lumber
 lumens
+lumina
 lumped
 lumpia
 lunacy
@@ -3862,9 +3891,9 @@ merits
 merlot
 merman
 mermen
-mescal
 meshed
 meshes
+mesial
 mesons
 messed
 messes
@@ -3879,6 +3908,7 @@ metric
 metros
 mettle
 mewing
+mezcal
 miasma
 mickey
 micron
@@ -3911,6 +3941,7 @@ minced
 mincer
 minces
 minded
+minder
 miners
 mingle
 minima
@@ -3931,6 +3962,7 @@ misers
 misery
 misfit
 mishap
+mishit
 misled
 missed
 misses
@@ -3940,6 +3972,8 @@ mister
 misuse
 miters
 mitral
+mitred
+mitres
 mitten
 mixers
 mixing
@@ -3991,6 +4025,7 @@ moping
 mopped
 morale
 morals
+morass
 morbid
 morels
 morgue
@@ -4143,6 +4178,7 @@ niches
 nicked
 nickel
 nieces
+nigger
 niggle
 nights
 nighty
@@ -4212,6 +4248,7 @@ nymphs
 oafish
 obeyed
 object
+oblate
 oblige
 oblong
 oboist
@@ -4224,6 +4261,7 @@ occurs
 oceans
 ocelot
 octane
+octant
 octave
 octets
 octopi
@@ -4341,6 +4379,7 @@ oxides
 oxtail
 oxygen
 oyster
+pacers
 pacify
 pacing
 packed
@@ -4446,6 +4485,7 @@ payors
 payout
 peachy
 peaked
+pealed
 peanut
 pearls
 pearly
@@ -4462,11 +4502,13 @@ peeing
 peeked
 peeled
 peeler
+peened
 peeped
 peeper
 peered
 peeved
 peeves
+peewee
 pegged
 pellet
 pelted
@@ -4581,6 +4623,7 @@ pistol
 piston
 pitied
 pities
+pitons
 pitted
 pitter
 pivots
@@ -4721,6 +4764,7 @@ praise
 prance
 pranks
 prawns
+praxis
 prayed
 prayer
 preach
@@ -4776,6 +4820,7 @@ pronto
 proofs
 propel
 proper
+protea
 proton
 proved
 proven
@@ -4895,7 +4940,6 @@ quorum
 quotas
 quoted
 quotes
-qwerty
 rabbet
 rabbis
 rabbit
@@ -5023,6 +5067,7 @@ recess
 recipe
 recite
 reckon
+recoat
 recode
 recoil
 recook
@@ -5346,10 +5391,12 @@ rumble
 rumens
 rumors
 rumour
+rumped
 rumple
 rumpus
 runner
 runoff
+runout
 runway
 rupees
 rushed
@@ -5400,6 +5447,7 @@ salves
 salvia
 salvos
 sambal
+sambar
 samosa
 sample
 sandal
@@ -5458,6 +5506,7 @@ scents
 schema
 scheme
 schism
+schizo
 school
 scions
 sclera
@@ -5950,6 +5999,7 @@ sopped
 sorbet
 sordid
 sorely
+sorest
 sorrel
 sorrow
 sorted
@@ -6150,6 +6200,7 @@ stinks
 stinky
 stints
 stitch
+stoats
 stocks
 stocky
 stodgy
@@ -6290,6 +6341,7 @@ surfed
 surfer
 surged
 surges
+surimi
 surtax
 survey
 sussed
@@ -6352,6 +6404,7 @@ tackle
 tactic
 tagged
 tagger
+tagine
 tahini
 tailed
 tailor
@@ -6470,6 +6523,7 @@ tenure
 tenuto
 tepees
 termed
+termer
 terror
 teslas
 tested
@@ -6479,6 +6533,7 @@ testis
 tether
 tetrad
 tetras
+tetris
 texted
 thangs
 thanks
@@ -6517,6 +6572,7 @@ thresh
 thrice
 thrift
 thrill
+thrips
 thrive
 throat
 throbs
@@ -6600,7 +6656,6 @@ toeing
 toffee
 toggle
 toiled
-toiles
 toilet
 tokens
 toking
@@ -7001,7 +7056,6 @@ viably
 vicars
 victim
 victor
-vicuna
 videos
 viewed
 viewer

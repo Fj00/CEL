@@ -142,6 +142,7 @@ hallelujah
 hallelujahs
 hallmark
 hallmarks
+halloumi
 hallow
 hallowed
 hallowing
@@ -329,6 +330,8 @@ hangover
 hangovers
 hangry
 hangs
+hangtag
+hangtags
 hangup
 hangups
 hank
@@ -580,12 +583,16 @@ haunting
 hauntingly
 hauntings
 haunts
+haute
 have
 haven
 havens
 haves
 having
 havoc
+haw
+hawed
+hawing
 hawk
 hawked
 hawker
@@ -593,6 +600,7 @@ hawkers
 hawking
 hawkish
 hawks
+haws
 hawthorn
 hawthorns
 hay
@@ -858,7 +866,9 @@ heft
 heftier
 heftiest
 hefty
+hegemon
 hegemonic
+hegemons
 hegemony
 heh
 heifer
@@ -1290,6 +1300,8 @@ hipster
 hipsters
 hire
 hired
+hirer
+hirers
 hires
 hiring
 hirings
@@ -1300,7 +1312,6 @@ hissed
 hisses
 hissing
 hissy
-hist
 histamine
 histamines
 histidine
@@ -1380,9 +1391,10 @@ hobnobs
 hobo
 hobos
 hobs
-hoc
 hock
+hocked
 hockey
+hocking
 hocks
 hodgepodge
 hoe
@@ -1539,6 +1551,8 @@ homicide
 homicides
 homie
 homies
+homilies
+homily
 homing
 hominid
 hominids
@@ -1726,6 +1740,8 @@ hormones
 horn
 hornbill
 hornbills
+horndog
+horndogs
 horned
 hornet
 hornets
@@ -1783,6 +1799,7 @@ horticultural
 horticulture
 horticulturist
 horticulturists
+hos
 hosanna
 hosannas
 hose
@@ -1870,6 +1887,8 @@ houseboats
 housebound
 houseboy
 houseboys
+housebreaking
+housebroken
 housecleaning
 housed
 houseflies
@@ -2015,6 +2034,8 @@ humblest
 humbling
 humbly
 humbug
+humdinger
+humdingers
 humdrum
 humeral
 humeri
@@ -2072,7 +2093,6 @@ humungous
 humus
 humvee
 humvees
-hun
 hunch
 hunchback
 hunchbacks
@@ -2101,7 +2121,6 @@ hunkering
 hunkers
 hunks
 hunky
-huns
 hunt
 hunted
 hunter

@@ -1,4 +1,5 @@
 aah
+aahs
 aardvark
 aardvarks
 ab
@@ -15,6 +16,7 @@ abase
 abased
 abasement
 abases
+abashed
 abasing
 abate
 abated
@@ -83,6 +85,10 @@ abiotic
 abject
 abjection
 abjectly
+ablate
+ablated
+ablates
+ablating
 ablation
 ablations
 ablaze
@@ -489,6 +495,7 @@ acknowledges
 acknowledging
 acknowledgment
 acknowledgments
+acme
 acne
 acolyte
 acolytes
@@ -1101,6 +1108,7 @@ afterward
 afterwards
 afterword
 afterwords
+ag
 again
 against
 agape
@@ -1318,6 +1326,7 @@ airman
 airmen
 airplane
 airplanes
+airplay
 airport
 airports
 airpower
@@ -1537,6 +1546,7 @@ alluring
 alluringly
 allusion
 allusions
+alluvial
 ally
 allying
 almanac
@@ -1578,6 +1588,8 @@ alphabetizing
 alphabets
 alphanumeric
 alphas
+alphorn
+alphorns
 alpine
 already
 alright
@@ -1736,6 +1748,8 @@ amides
 amidst
 amigo
 amigos
+amine
+amines
 amino
 aminos
 amiss
@@ -1865,6 +1879,7 @@ analgesic
 analgesics
 anally
 analog
+analogical
 analogies
 analogise
 analogised
@@ -2031,6 +2046,7 @@ anguishes
 anguishing
 angular
 anhydrous
+anilingus
 anima
 animal
 animalistic
@@ -2068,6 +2084,7 @@ anklet
 anklets
 ankylosaurus
 ankylosauruses
+annal
 annals
 annatto
 anneal
@@ -2892,6 +2909,8 @@ arouse
 aroused
 arouses
 arousing
+arowana
+arowanas
 arpeggio
 arpeggios
 arraign
@@ -2952,6 +2971,7 @@ arteries
 artery
 artful
 artfully
+arthouse
 arthritic
 arthritis
 arthroplasties
@@ -3000,6 +3020,8 @@ arty
 arugula
 arvo
 as
+asafetida
+asafoetida
 asana
 asanas
 asbestos
@@ -3161,6 +3183,8 @@ assignable
 assignation
 assignations
 assigned
+assignee
+assignees
 assigning
 assignment
 assignments
@@ -3673,7 +3697,6 @@ avert
 averted
 averting
 averts
-avgas
 avian
 aviaries
 aviary
@@ -3771,6 +3794,8 @@ axon
 axonal
 axons
 ayahuasca
+ayatollah
+ayatollahs
 aye
 ayes
 ayurveda
@@ -3779,4 +3804,5 @@ azalea
 azaleas
 azimuth
 azimuths
+azuki
 azure

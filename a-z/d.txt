@@ -42,6 +42,8 @@ dais
 daises
 daisies
 daisy
+dale
+dales
 dalliance
 dalliances
 dallied
@@ -176,6 +178,7 @@ databanks
 database
 databases
 date
+dateable
 dated
 dateline
 datelines
@@ -312,6 +315,11 @@ deathtrap
 deathtraps
 debacle
 debacles
+debar
+debarment
+debarred
+debarring
+debars
 debase
 debased
 debasement
@@ -537,6 +545,7 @@ declutter
 decluttered
 decluttering
 declutters
+deco
 decoction
 decoctions
 decode
@@ -935,7 +944,9 @@ dejected
 dejectedly
 dejection
 deke
+deked
 dekes
+deking
 delay
 delayed
 delaying
@@ -1304,8 +1315,6 @@ depend
 dependability
 dependable
 dependably
-dependancies
-dependancy
 dependant
 dependants
 depended
@@ -1533,6 +1542,7 @@ desaturated
 desaturates
 desaturating
 desaturation
+descant
 descend
 descendant
 descendants
@@ -1932,6 +1942,8 @@ dialectical
 dialectics
 dialects
 dialed
+dialer
+dialers
 dialing
 dialled
 dialling
@@ -1982,6 +1994,8 @@ dichotomy
 dicing
 dick
 dicked
+dickhead
+dickheads
 dicking
 dicks
 dicta
@@ -2201,6 +2215,7 @@ dims
 dimwit
 dimwits
 dimwitted
+din
 dine
 dined
 diner
@@ -2230,14 +2245,17 @@ dinked
 dinking
 dinks
 dinky
+dinned
 dinner
 dinners
 dinnertime
 dinnerware
+dinning
 dino
 dinos
 dinosaur
 dinosaurs
+dins
 diocesan
 diocese
 dioceses
@@ -2246,6 +2264,8 @@ diodes
 diorama
 dioramas
 dioxide
+dioxin
+dioxins
 dip
 diphtheria
 diplodocus
@@ -2260,6 +2280,9 @@ diplomates
 diplomatic
 diplomatically
 diplomats
+dipolar
+dipole
+dipoles
 dipped
 dipper
 dippers
@@ -2296,6 +2319,10 @@ directs
 direly
 direr
 direst
+dirge
+dirges
+dirigible
+dirigibles
 dirt
 dirtbag
 dirtbags
@@ -2306,7 +2333,6 @@ dirtiest
 dirtiness
 dirty
 dirtying
-dis
 disabilities
 disability
 disable
@@ -3169,6 +3195,8 @@ dizziness
 dizzy
 dizzying
 dizzyingly
+djembe
+djembes
 do
 doable
 doc
@@ -3597,10 +3625,6 @@ downwind
 downy
 dowries
 dowry
-dox
-doxed
-doxes
-doxing
 doze
 dozed
 dozen
@@ -3990,7 +4014,11 @@ duke
 duked
 dukes
 duking
+dulcimer
+dulcimers
 dull
+dullard
+dullards
 dulled
 duller
 dullest
@@ -4028,6 +4056,7 @@ dumpsites
 dumpster
 dumpsters
 dumpy
+dun
 dunce
 dunces
 dune
@@ -4082,6 +4111,8 @@ dustbins
 dusted
 duster
 dusters
+dustier
+dustiest
 dusting
 dustpan
 dustpans

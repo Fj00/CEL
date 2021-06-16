@@ -225,6 +225,8 @@ imagines
 imaging
 imagining
 imaginings
+imam
+imams
 imbalance
 imbalanced
 imbalances
@@ -767,6 +769,7 @@ incineration
 incinerator
 incinerators
 incipient
+incisal
 incise
 incised
 incises

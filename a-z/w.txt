@@ -55,8 +55,6 @@ wail
 wailed
 wailing
 wails
-wain
-wains
 wainscot
 wainscoting
 wainscots
@@ -105,6 +103,8 @@ wale
 wales
 walk
 walkable
+walkabout
+walkabouts
 walkathon
 walkathons
 walked

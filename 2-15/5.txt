@@ -103,6 +103,7 @@ amble
 amend
 amide
 amigo
+amine
 amino
 amiss
 amity
@@ -125,6 +126,7 @@ anion
 anise
 ankhs
 ankle
+annal
 annex
 annoy
 annul
@@ -201,7 +203,6 @@ auxin
 avail
 avers
 avert
-avgas
 avian
 avoid
 avows
@@ -217,6 +218,7 @@ axing
 axiom
 axles
 axons
+azuki
 azure
 baaed
 babes
@@ -297,6 +299,7 @@ beaus
 beaut
 beaux
 bebop
+becks
 beech
 beefs
 beefy
@@ -354,6 +357,7 @@ binds
 binge
 bingo
 biome
+biota
 biped
 bipod
 birch
@@ -423,6 +427,7 @@ boggy
 bogie
 bogus
 boils
+boles
 bolls
 bolos
 bolts
@@ -491,6 +496,7 @@ bravo
 brawl
 brawn
 brays
+braze
 bread
 break
 bream
@@ -586,6 +592,7 @@ cagey
 cajun
 caked
 cakes
+cakey
 calls
 calms
 calve
@@ -862,7 +869,6 @@ crass
 crate
 crave
 crawl
-craws
 craze
 crazy
 creak
@@ -914,6 +920,7 @@ culls
 cults
 culty
 cumin
+cunts
 curbs
 curds
 cured
@@ -939,6 +946,7 @@ daffy
 daily
 dairy
 daisy
+dales
 dally
 dames
 damns
@@ -964,6 +972,7 @@ dealt
 deans
 dears
 death
+debar
 debit
 debts
 debug
@@ -985,6 +994,7 @@ deign
 deism
 deist
 deity
+deked
 dekes
 delay
 delis
@@ -1033,6 +1043,7 @@ dinos
 diode
 dippy
 direr
+dirge
 dirty
 disco
 discs
@@ -1100,8 +1111,6 @@ dower
 downs
 downy
 dowry
-doxed
-doxes
 dozed
 dozen
 dozer
@@ -1205,7 +1214,6 @@ edict
 edify
 edits
 eerie
-effed
 egged
 egret
 eight
@@ -1226,6 +1234,7 @@ email
 embed
 ember
 emcee
+emirs
 emits
 emoji
 emote
@@ -1296,6 +1305,7 @@ faded
 fader
 fades
 faery
+faffs
 fails
 faint
 fairs
@@ -1323,7 +1333,6 @@ fates
 fatty
 fault
 fauna
-favas
 faves
 favor
 fawns
@@ -1394,6 +1403,7 @@ fired
 fires
 firms
 first
+firth
 fishy
 fists
 fiver
@@ -1502,6 +1512,7 @@ fowls
 foxes
 foyer
 frack
+frags
 frail
 frame
 franc
@@ -1513,6 +1524,7 @@ freak
 freed
 freer
 frees
+freon
 fresh
 frets
 friar
@@ -1611,6 +1623,7 @@ genus
 geode
 germs
 germy
+gesso
 getup
 ghost
 ghoul
@@ -1626,6 +1639,7 @@ girds
 girls
 girly
 girth
+girts
 given
 giver
 gives
@@ -1640,6 +1654,7 @@ glass
 glaze
 gleam
 glean
+glens
 glial
 glide
 glint
@@ -1647,6 +1662,7 @@ glitz
 gloat
 globe
 globs
+gloms
 gloom
 glory
 gloss
@@ -1722,6 +1738,7 @@ greet
 greys
 grids
 grief
+grift
 grill
 grime
 grimy
@@ -1816,9 +1833,11 @@ hater
 hates
 hauls
 haunt
+haute
 haven
 haves
 havoc
+hawed
 hawks
 hazed
 hazel
@@ -1872,6 +1891,7 @@ hints
 hippo
 hippy
 hired
+hirer
 hires
 hissy
 hitch
@@ -1973,6 +1993,7 @@ idols
 idyll
 igloo
 image
+imams
 imbue
 impel
 imply
@@ -2061,6 +2082,7 @@ jumpy
 junco
 junks
 junky
+junta
 juror
 kabab
 kabob
@@ -2097,6 +2119,7 @@ kissy
 kites
 kitty
 kiwis
+klick
 klutz
 knack
 knave
@@ -2330,6 +2353,7 @@ lurks
 lusts
 lusty
 lutes
+lycra
 lying
 lymph
 lynch
@@ -2376,6 +2400,7 @@ mango
 mangy
 mania
 manic
+manis
 manly
 manor
 manta
@@ -2484,6 +2509,7 @@ mists
 misty
 miter
 mites
+mitre
 mitts
 mixed
 mixer
@@ -2535,6 +2561,7 @@ morph
 mosey
 mossy
 motel
+motes
 moths
 motif
 motor
@@ -2581,6 +2608,7 @@ musty
 muted
 mutes
 mutts
+mylar
 myrrh
 myths
 nacho
@@ -2608,6 +2636,7 @@ nears
 necks
 needs
 needy
+negro
 neigh
 nerds
 nerdy
@@ -2753,6 +2782,7 @@ owner
 oxide
 ozone
 paced
+pacer
 paces
 packs
 pacts
@@ -2819,14 +2849,17 @@ payor
 peace
 peach
 peaks
+peals
 pearl
 pears
 peaty
 pecan
 pecks
 pedal
+pedis
 peeks
 peels
+peens
 peeps
 peers
 peeve
@@ -2896,6 +2929,7 @@ pissy
 pitas
 pitch
 pithy
+piton
 pivot
 pixel
 pixie
@@ -2953,6 +2987,7 @@ polos
 polyp
 ponds
 pooch
+poofy
 pools
 poops
 poopy
@@ -3113,6 +3148,8 @@ rails
 rains
 rainy
 raise
+raita
+rajas
 raked
 rakes
 rally
@@ -3171,6 +3208,7 @@ reefs
 reeks
 reels
 refer
+refis
 refit
 regal
 rehab
@@ -3267,7 +3305,6 @@ roles
 rolls
 romeo
 romps
-ronin
 roofs
 rooks
 rooms
@@ -3587,6 +3624,7 @@ skimp
 skims
 skink
 skins
+skint
 skips
 skirt
 skits
@@ -3679,6 +3717,7 @@ snipe
 snips
 snits
 snobs
+snogs
 snook
 snoop
 snoot
@@ -3714,6 +3753,7 @@ sonic
 sonny
 sooty
 soppy
+sorer
 sores
 sorry
 sorta
@@ -3845,6 +3885,7 @@ sting
 stink
 stint
 stirs
+stoat
 stock
 stoic
 stoke
@@ -4007,7 +4048,6 @@ taxes
 taxis
 taxon
 teach
-teals
 teams
 tears
 teary
@@ -4246,6 +4286,7 @@ tutor
 tutus
 tuxes
 twang
+twats
 tweak
 tweed
 tween
@@ -4412,7 +4453,6 @@ wagyu
 wahoo
 waifs
 wails
-wains
 waist
 waits
 waive
@@ -4619,6 +4659,7 @@ zeros
 zests
 zesty
 zilch
+zines
 zings
 zingy
 zippy

@@ -483,6 +483,7 @@ classifiable
 cliffhangers
 climatically
 clotheslines
+cluelessness
 cobblestones
 cockfighting
 codebreakers
@@ -886,7 +887,6 @@ denuclearise
 denuclearize
 denunciation
 departmental
-dependancies
 dependencies
 depilatories
 depoliticise
@@ -2878,6 +2878,7 @@ reevaluating
 reevaluation
 reexplaining
 refashioning
+refinancings
 reflectively
 reflectivity
 reformations
@@ -3126,6 +3127,7 @@ shortsighted
 showstoppers
 showstopping
 shuffleboard
+shuttlecocks
 sidestepping
 sidetracking
 significance
@@ -3522,6 +3524,7 @@ triglyceride
 trigonometry
 trillionaire
 triumphantly
+triumvirates
 trivialising
 trivialities
 trivializing

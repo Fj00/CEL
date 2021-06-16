@@ -328,6 +328,7 @@ angstroms
 anguished
 anguishes
 anhydrous
+anilingus
 animatics
 animating
 animation
@@ -475,6 +476,7 @@ artifacts
 artifices
 artillery
 artisanal
+asafetida
 ascendant
 ascending
 ascension
@@ -501,6 +503,7 @@ assertive
 assessing
 assessors
 assiduous
+assignees
 assigning
 assistant
 assisting
@@ -601,6 +604,7 @@ awfulness
 awkwardly
 axiomatic
 ayahuasca
+ayatollah
 ayurvedic
 babydolls
 bachelors
@@ -1069,6 +1073,8 @@ brushwood
 brushwork
 brusquely
 brutalise
+brutalism
+brutalist
 brutality
 brutalize
 bubblegum
@@ -1148,6 +1154,7 @@ calcifies
 calculate
 calendars
 calibrate
+caliphate
 callbacks
 calloused
 callouses
@@ -1177,6 +1184,7 @@ canisters
 canneries
 cannibals
 cannoning
+canoeists
 canonical
 canonised
 canonises
@@ -1246,6 +1254,7 @@ cashbacks
 casserole
 cassettes
 cassowary
+castanets
 castaways
 castigate
 castrated
@@ -1705,6 +1714,7 @@ condenser
 condenses
 condiment
 condition
+condoling
 condoning
 conducive
 conducted
@@ -1901,6 +1911,7 @@ coverings
 covetable
 cowardice
 coworkers
+coxswains
 crabapple
 crackdown
 crackhead
@@ -2079,6 +2090,8 @@ dealmaker
 deathbeds
 deathless
 deathtrap
+debarment
+debarring
 debatable
 debauched
 debenture
@@ -2350,6 +2363,7 @@ diasporic
 diastolic
 diatribes
 dichotomy
+dickheads
 dictating
 dictation
 dictators
@@ -2396,6 +2410,7 @@ direction
 directive
 directors
 directory
+dirigible
 dirtiness
 disabling
 disabused
@@ -2655,6 +2670,7 @@ duchesses
 duckbills
 ducklings
 ductility
+dulcimers
 dumbbells
 dumplings
 dumpsites
@@ -2843,6 +2859,7 @@ endorsing
 endoscope
 endoscopy
 endosomes
+endosperm
 endowment
 endpoints
 endurance
@@ -2948,6 +2965,7 @@ equitably
 equivocal
 eradicate
 erections
+ergometer
 ergonomic
 erogenous
 erosional
@@ -3092,6 +3110,7 @@ expending
 expensing
 expensive
 expertise
+expiation
 explained
 explainer
 expletive
@@ -3564,7 +3583,6 @@ galloping
 gallstone
 galvanise
 galvanize
-gameshows
 gamifying
 gangbangs
 gangsters
@@ -4093,6 +4111,7 @@ humankind
 humanlike
 humanness
 humanoids
+humdinger
 humiliate
 humongous
 humorists
@@ -4576,6 +4595,7 @@ judicious
 juiciness
 jukeboxes
 julienned
+juliennes
 jumpsuits
 junctions
 junctures
@@ -4589,6 +4609,7 @@ kamikazes
 kangaroos
 keepsakes
 kerchiefs
+kerfuffle
 ketogenic
 keyboards
 keyframes
@@ -5062,6 +5083,7 @@ megabucks
 megabytes
 megafauna
 megahertz
+megaliths
 megalodon
 megamalls
 megaphone
@@ -5073,6 +5095,7 @@ melanomas
 melatonin
 mellowest
 mellowing
+melodicas
 melodious
 melodrama
 meltdowns
@@ -5288,6 +5311,7 @@ monoliths
 monologue
 monomeric
 monoplane
+monopoles
 monorails
 monotonic
 monoxides
@@ -5351,6 +5375,7 @@ moviegoer
 muckraker
 mudguards
 mudslides
+mulattoes
 mulligans
 multicast
 multicore
@@ -5382,6 +5407,8 @@ murdering
 murderous
 murkiness
 murmuring
+muscleman
+musclemen
 mushrooms
 musicales
 musically
@@ -5653,6 +5680,7 @@ octillion
 octopuses
 octuplets
 octupling
+oddsmaker
 odometers
 odourless
 oesophagi
@@ -5784,7 +5812,6 @@ outliving
 outnumber
 outpacing
 outplayed
-outpoints
 outputted
 outracing
 outraging
@@ -6422,7 +6449,6 @@ practised
 practises
 pragmatic
 prankster
-pratfalls
 prattling
 prayerful
 preachers
@@ -6865,6 +6891,7 @@ reclaimed
 recliners
 reclining
 reclusive
+recoating
 recognise
 recognize
 recoiling
@@ -7222,6 +7249,7 @@ resounded
 resourced
 resources
 respected
+respiring
 responded
 responder
 responses
@@ -8176,6 +8204,7 @@ squirming
 squirrels
 squirters
 squirting
+squishier
 squishing
 stabbings
 stabilise
@@ -8276,6 +8305,7 @@ stipulate
 stirrings
 stitching
 stockades
+stockiest
 stockings
 stockists
 stockpile
@@ -8676,6 +8706,7 @@ teachable
 teachings
 teahouses
 teakettle
+tealights
 teammates
 tearaways
 teardowns
@@ -8839,6 +8870,7 @@ tiebreaks
 tightened
 tightness
 tightrope
+tightwads
 tigresses
 tiltrotor
 timbering
@@ -8967,6 +8999,7 @@ trapezoid
 trappings
 trashcans
 trashiest
+trattoria
 traumatic
 travelers
 traveling
@@ -9550,6 +9583,7 @@ waistline
 waitlists
 waitstaff
 wakeboard
+walkabout
 walkathon
 walkovers
 wallabies

@@ -1,5 +1,6 @@
 ab
 ad
+ag
 ah
 am
 an
@@ -13,6 +14,7 @@ by
 do
 ed
 eh
+er
 ew
 ex
 fa
@@ -38,6 +40,7 @@ no
 nu
 of
 oh
+oi
 om
 on
 op
@@ -49,6 +52,7 @@ pi
 qi
 re
 so
+ta
 ti
 to
 uh

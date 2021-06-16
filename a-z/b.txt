@@ -207,8 +207,6 @@ badmouthing
 badmouths
 badness
 bads
-bae
-baes
 baffle
 baffled
 baffles
@@ -857,8 +855,10 @@ beams
 bean
 beanbag
 beanbags
+beaned
 beanie
 beanies
+beaning
 beans
 beanstalk
 beanstalks
@@ -923,10 +923,13 @@ beavers
 bebop
 became
 because
+bechamel
+beck
 beckon
 beckoned
 beckoning
 beckons
+becks
 become
 becomes
 becoming
@@ -1207,11 +1210,8 @@ bemoan
 bemoaned
 bemoaning
 bemoans
-bemuse
 bemused
 bemusement
-bemuses
-bemusing
 bench
 benched
 benches
@@ -1671,6 +1671,7 @@ biostatistician
 biostatistics
 biosynthesis
 biosynthetic
+biota
 biotech
 biotechnologies
 biotechnology
@@ -2026,6 +2027,7 @@ blisteringly
 blisters
 blithe
 blithely
+blithering
 blitz
 blitzed
 blitzes
@@ -2352,7 +2354,6 @@ bogus
 bohemian
 bohemians
 bohrium
-boi
 boil
 boiled
 boiler
@@ -2360,7 +2361,6 @@ boilerplate
 boilers
 boiling
 boils
-bois
 boisterous
 bold
 bolder
@@ -2369,6 +2369,8 @@ boldface
 boldfaced
 boldly
 boldness
+bole
+boles
 boll
 bollard
 bollards
@@ -2441,7 +2443,6 @@ bongos
 bongs
 boning
 bonito
-bonitos
 bonk
 bonked
 bonkers
@@ -2891,11 +2892,15 @@ bray
 brayed
 braying
 brays
+braze
+brazed
 brazen
 brazenly
 brazenness
+brazes
 brazier
 braziers
+brazing
 breach
 breached
 breaches
@@ -3102,6 +3107,8 @@ bringers
 bringing
 brings
 brining
+brinjal
+brinjals
 brink
 brinks
 briny
@@ -3284,6 +3291,8 @@ brutalise
 brutalised
 brutalises
 brutalising
+brutalism
+brutalist
 brutalities
 brutality
 brutalization
@@ -3559,6 +3568,10 @@ buoyed
 buoying
 buoys
 bur
+burble
+burbled
+burbles
+burbling
 burden
 burdened
 burdening

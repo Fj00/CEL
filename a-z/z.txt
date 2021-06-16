@@ -26,6 +26,8 @@ zeitgeists
 zen
 zenith
 zeniths
+zeolite
+zeolites
 zeppelin
 zeppelins
 zeptosecond
@@ -60,6 +62,8 @@ zilch
 zillion
 zillions
 zinc
+zine
+zines
 zinfandel
 zing
 zinged

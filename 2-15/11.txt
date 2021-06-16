@@ -818,6 +818,7 @@ coastguards
 coauthoring
 cobblestone
 cockroaches
+cocksuckers
 codebreaker
 codependent
 coefficient
@@ -2345,6 +2346,7 @@ hospitalize
 hostilities
 houndstooth
 hourglasses
+housebroken
 houseguests
 householder
 housekeeper
@@ -3488,7 +3490,6 @@ outmatching
 outnumbered
 outpatients
 outperforms
-outpointing
 outpourings
 outproduced
 outproduces
@@ -3514,6 +3515,7 @@ overburdens
 overcharged
 overcharges
 overclocked
+overcommits
 overcooking
 overcorrect
 overcrowded
@@ -4739,6 +4741,7 @@ showstopper
 shrivelling
 shrubberies
 shutterbugs
+shuttlecock
 sickeningly
 sidestepped
 sideswiping
@@ -4840,6 +4843,7 @@ specialisms
 specialists
 specialized
 specializes
+specialness
 specialties
 specificity
 spectacular
@@ -5363,6 +5367,7 @@ triennially
 triggerfish
 trillionths
 triplicates
+triumvirate
 trivialised
 trivialises
 trivialized
@@ -5581,6 +5586,7 @@ unravelling
 unreachable
 unrealistic
 unreasoning
+unreceptive
 unregulated
 unrehearsed
 unrelenting
@@ -5675,6 +5681,7 @@ victimisers
 victimising
 victimizers
 victimizing
+victimology
 videography
 videophones
 videotaping

@@ -256,6 +256,7 @@ vastly
 vastness
 vat
 vats
+vaudeville
 vault
 vaulted
 vaulter
@@ -571,12 +572,15 @@ victimisers
 victimises
 victimising
 victimization
+victimizations
 victimize
 victimized
 victimizer
 victimizers
 victimizes
 victimizing
+victimless
+victimology
 victims
 victor
 victories
@@ -585,8 +589,6 @@ victoriously
 victors
 victory
 victuals
-vicuna
-vicunas
 vid
 video
 videocassette

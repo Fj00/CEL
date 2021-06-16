@@ -214,6 +214,7 @@ samaritans
 samarium
 samba
 sambal
+sambar
 same
 sameness
 samosa
@@ -707,6 +708,7 @@ schemes
 scheming
 schism
 schisms
+schizo
 schizoaffective
 schizoid
 schizophrenia
@@ -766,6 +768,7 @@ schoolyard
 schoolyards
 schooner
 schooners
+schtick
 sciatic
 sciatica
 science
@@ -2149,6 +2152,8 @@ shelve
 shelved
 shelves
 shelving
+shemale
+shemales
 shenanigan
 shenanigans
 shepherd
@@ -2555,7 +2560,6 @@ shrugs
 shrunk
 shrunken
 shtick
-shticks
 shuck
 shucked
 shucking
@@ -2602,6 +2606,8 @@ shuttering
 shutters
 shutting
 shuttle
+shuttlecock
+shuttlecocks
 shuttled
 shuttles
 shuttling
@@ -2640,6 +2646,7 @@ sidebar
 sidebars
 sideboard
 sideboards
+sideburn
 sideburns
 sidecar
 sidecars
@@ -3115,6 +3122,7 @@ skinniness
 skinning
 skinny
 skins
+skint
 skintight
 skip
 skipjack
@@ -3232,6 +3240,8 @@ slants
 slap
 slapdash
 slapped
+slapper
+slappers
 slapping
 slaps
 slapshot
@@ -3841,6 +3851,10 @@ snobbery
 snobbish
 snobby
 snobs
+snog
+snogged
+snogging
+snogs
 snook
 snooker
 snookered
@@ -4195,6 +4209,7 @@ somatosensory
 somber
 somberly
 sombre
+sombrely
 sombrero
 sombreros
 some
@@ -4296,7 +4311,9 @@ sordid
 sore
 sorely
 soreness
+sorer
 sores
+sorest
 sorghum
 sororities
 sorority
@@ -4564,6 +4581,10 @@ spay
 spayed
 spaying
 spays
+spaz
+spazzed
+spazzes
+spazzing
 speak
 speakeasies
 speakeasy
@@ -4610,6 +4631,7 @@ specialized
 specializes
 specializing
 specially
+specialness
 specials
 specialties
 specialty
@@ -5256,6 +5278,8 @@ squirts
 squish
 squished
 squishes
+squishier
+squishiest
 squishing
 squishy
 sriracha
@@ -5914,6 +5938,8 @@ stitch
 stitched
 stitches
 stitching
+stoat
+stoats
 stochastic
 stochastically
 stock
@@ -5927,6 +5953,8 @@ stocker
 stockers
 stockholder
 stockholders
+stockier
+stockiest
 stocking
 stockings
 stockist
@@ -6800,6 +6828,8 @@ subtasks
 subterfuge
 subterfuges
 subterranean
+subtest
+subtests
 subtext
 subtexts
 subtitle
@@ -7428,6 +7458,7 @@ surges
 surgical
 surgically
 surging
+surimi
 surly
 surmise
 surmised

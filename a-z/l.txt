@@ -117,6 +117,7 @@ lakefront
 lakes
 lakeshore
 lakeside
+lam
 lamb
 lambast
 lambaste
@@ -408,6 +409,7 @@ laureate
 laureates
 laurel
 laurels
+lav
 lava
 lavage
 lavages
@@ -421,6 +423,7 @@ lavished
 lavishes
 lavishing
 lavishly
+lavs
 law
 lawbreaker
 lawbreakers
@@ -458,6 +461,8 @@ layer
 layered
 layering
 layers
+layette
+layettes
 laying
 layman
 laymen
@@ -865,6 +870,8 @@ lexicographical
 lexicography
 lexicon
 lexicons
+lez
+lezzes
 liabilities
 liability
 liable
@@ -1845,6 +1852,7 @@ lumberyard
 lumberyards
 lumen
 lumens
+lumina
 luminaire
 luminaires
 luminance
@@ -1941,6 +1949,7 @@ luxuriousness
 luxury
 lychee
 lychees
+lycra
 lye
 lyes
 lying

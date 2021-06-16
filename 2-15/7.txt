@@ -1,5 +1,6 @@
 abalone
 abandon
+abashed
 abasing
 abating
 abdomen
@@ -8,6 +9,8 @@ abetted
 abiding
 ability
 abiotic
+ablated
+ablates
 abolish
 aborted
 abounds
@@ -159,6 +162,7 @@ airlift
 airline
 airlock
 airmail
+airplay
 airport
 airship
 airshow
@@ -204,6 +208,7 @@ allying
 almanac
 almonds
 alpacas
+alphorn
 already
 alright
 altered
@@ -356,6 +361,7 @@ armrest
 arousal
 aroused
 arouses
+arowana
 arraign
 arrange
 arrayed
@@ -626,6 +632,7 @@ beakers
 beaming
 beanbag
 beanies
+beaning
 bearcat
 bearded
 bearers
@@ -694,7 +701,6 @@ belugas
 belying
 bemoans
 bemused
-bemuses
 benched
 benches
 benders
@@ -916,7 +922,6 @@ bonbons
 bondage
 bonding
 bonfire
-bonitos
 bonkers
 bonking
 bonnets
@@ -1007,6 +1012,7 @@ brawled
 brawler
 braying
 brazier
+brazing
 breaded
 breadth
 breaker
@@ -1040,6 +1046,7 @@ brimmed
 brindle
 bringer
 brining
+brinjal
 brioche
 brisket
 briskly
@@ -1151,6 +1158,8 @@ bunnies
 bunting
 buoyant
 buoying
+burbled
+burbles
 burdens
 burdock
 bureaus
@@ -1213,6 +1222,7 @@ cabinet
 cabling
 caboose
 cabrios
+cachaca
 cachets
 caching
 cackled
@@ -1235,6 +1245,7 @@ caldera
 caliber
 calibre
 caliper
+caliphs
 callboy
 callers
 calling
@@ -1313,6 +1324,7 @@ careful
 cargoes
 caribou
 carjack
+carless
 carload
 carmine
 carnage
@@ -1355,7 +1367,6 @@ castles
 castoff
 casuals
 catalog
-catbird
 catcall
 catcher
 catches
@@ -1426,6 +1437,7 @@ changer
 changes
 channel
 chanted
+chanter
 chaotic
 chapels
 chapped
@@ -1522,6 +1534,7 @@ churned
 churros
 chutney
 cicadas
+cichlid
 cinched
 cinches
 cinders
@@ -1738,6 +1751,7 @@ concoct
 concord
 concurs
 condemn
+condole
 condoms
 condone
 condors
@@ -1798,6 +1812,7 @@ coolant
 coolers
 coolest
 cooling
+coopers
 cooping
 cooties
 copiers
@@ -1883,6 +1898,7 @@ cowboys
 cowered
 cowgirl
 cowhide
+cowlick
 cowpeas
 coyotes
 coziest
@@ -1897,6 +1913,7 @@ crafted
 crafter
 crammed
 cramped
+crampon
 cranial
 craning
 cranium
@@ -2062,6 +2079,7 @@ cutoffs
 cutouts
 cutters
 cutting
+cuvette
 cyanide
 cyborgs
 cyclery
@@ -2287,6 +2305,7 @@ derived
 derives
 derrick
 dervish
+descant
 descend
 descent
 deserts
@@ -2330,6 +2349,7 @@ devours
 deworms
 diagram
 dialect
+dialers
 dialing
 dialled
 dialogs
@@ -2376,11 +2396,15 @@ dinging
 dingoes
 dinking
 dinners
+dinning
 diocese
 diorama
 dioxide
+dioxins
 diploid
 diploma
+dipolar
+dipoles
 dippers
 dipping
 dipshit
@@ -2441,6 +2465,7 @@ divorce
 divulge
 divvied
 divvies
+djembes
 docents
 dockets
 docking
@@ -2576,6 +2601,7 @@ duffels
 duffles
 dugongs
 dugouts
+dullard
 dullest
 dulling
 dumbest
@@ -2591,6 +2617,7 @@ durably
 durians
 dustbin
 dusters
+dustier
 dusting
 dustpan
 dutiful
@@ -2701,6 +2728,7 @@ emerita
 emetics
 emigres
 eminent
+emirate
 emitted
 emitter
 emoting
@@ -2946,6 +2974,7 @@ factual
 faculty
 faddish
 faeries
+faffing
 faggots
 failing
 failure
@@ -3236,6 +3265,7 @@ flytrap
 foaming
 focused
 focuses
+foggers
 foggier
 fogging
 foghorn
@@ -3323,6 +3353,7 @@ foxtail
 foxtrot
 fracked
 fractal
+fragged
 fragile
 frailty
 framers
@@ -3389,6 +3420,7 @@ fumbles
 funders
 funding
 funeral
+funfair
 funkier
 funnels
 funnest
@@ -3415,13 +3447,13 @@ fuzzier
 gabbing
 gadgets
 gaffers
-gaffing
 gagging
 gaggles
 gainers
 gainful
 gaining
 gaiters
+galette
 gallant
 galleon
 gallery
@@ -3505,6 +3537,7 @@ gestalt
 gestate
 gesture
 getaway
+getters
 getting
 geysers
 ghastly
@@ -3568,6 +3601,7 @@ glitchy
 glitter
 gloated
 globule
+glommed
 glories
 glorify
 glossed
@@ -3604,6 +3638,7 @@ godsend
 godsons
 goggles
 goiters
+goitres
 golfers
 golfing
 goliath
@@ -3693,6 +3728,8 @@ gridded
 griddle
 grieved
 grieves
+grifted
+grifter
 grilled
 griller
 grilles
@@ -3700,6 +3737,7 @@ grimace
 grimmer
 grinded
 grinder
+gringos
 grinned
 griping
 gripped
@@ -3744,7 +3782,6 @@ grudges
 grumble
 grunted
 gruyere
-guanaco
 guanine
 guarana
 guarded
@@ -3848,6 +3885,7 @@ hanging
 hangman
 hangmen
 hangout
+hangtag
 hangups
 hankers
 hankies
@@ -3948,6 +3986,7 @@ heeding
 heelers
 heeling
 heftier
+hegemon
 heifers
 heights
 heinous
@@ -4024,6 +4063,7 @@ hobbits
 hobbled
 hobbles
 hobnobs
+hocking
 hoedown
 hogging
 hogtied
@@ -4072,6 +4112,7 @@ hoppers
 hopping
 horizon
 hormone
+horndog
 hornets
 hornier
 horning
@@ -4235,6 +4276,7 @@ inbuilt
 incense
 inchers
 inching
+incisal
 incised
 incises
 incisor
@@ -4656,6 +4698,7 @@ lawsuit
 lawyers
 layaway
 layered
+layette
 layoffs
 layouts
 layover
@@ -4989,6 +5032,7 @@ managed
 manager
 manages
 manatee
+mancala
 mandala
 mandate
 mandrel
@@ -5049,6 +5093,7 @@ marsala
 marshal
 marshes
 martial
+martian
 martini
 martyrs
 marvels
@@ -5081,6 +5126,7 @@ matters
 matting
 matured
 matures
+maudlin
 mauling
 maxilla
 maximal
@@ -5140,7 +5186,6 @@ merlots
 mermaid
 merrier
 merrily
-mescals
 meshing
 message
 messiah
@@ -5152,6 +5197,7 @@ metered
 methane
 methods
 metrics
+mezcals
 miasmas
 mickeys
 microbe
@@ -5194,6 +5240,7 @@ mimosas
 minaret
 mincers
 mincing
+minders
 mindful
 minding
 mindset
@@ -5222,12 +5269,14 @@ mirrors
 miscast
 miscued
 miscues
+misdeal
 misdeed
 miserly
 misfire
 misfits
 mishaps
 mishear
+mishits
 mislead
 misname
 misplay
@@ -5250,6 +5299,7 @@ mitered
 mitogen
 mitosis
 mitotic
+mitring
 mittens
 mixable
 mixtape
@@ -5364,6 +5414,7 @@ muggers
 mugging
 mugshot
 mugwort
+mulatto
 mulched
 mulches
 mullets
@@ -5456,6 +5507,7 @@ needles
 negated
 negates
 neglect
+negroes
 neighed
 neither
 nemeses
@@ -5492,6 +5544,7 @@ nibbler
 nibbles
 nickels
 nicking
+niggers
 niggled
 niggles
 nightie
@@ -5551,6 +5604,7 @@ notices
 notions
 nougats
 nourish
+nouveau
 novella
 novelty
 novices
@@ -5579,7 +5633,6 @@ nursing
 nurture
 nutcase
 nutjobs
-nutmegs
 nutters
 nuttier
 nutting
@@ -5610,13 +5663,16 @@ occlude
 oceanic
 ocelots
 octagon
+octants
 octaves
 octopus
 octuple
 oddball
 oddness
+odorant
 odorous
 odyssey
+oestrus
 oeuvres
 offbeat
 offence
@@ -5939,6 +5995,7 @@ peacoat
 peacock
 peafowl
 peaking
+pealing
 peanuts
 pearled
 peasant
@@ -5955,6 +6012,7 @@ peddles
 peeking
 peelers
 peeling
+peening
 peepers
 peeping
 peerage
@@ -6113,6 +6171,7 @@ pinking
 pinkish
 pinnies
 pinning
+pintail
 pinyons
 pioneer
 piously
@@ -6447,6 +6506,7 @@ prorate
 prosaic
 prosody
 prosper
+proteas
 protect
 protege
 protein
@@ -6563,7 +6623,6 @@ quashes
 quavers
 queened
 queenly
-queered
 queerer
 queerly
 quelled
@@ -6690,11 +6749,13 @@ rawhide
 rawness
 razzing
 reached
+reacher
 reaches
 reacted
 reactor
 readers
 readied
+readier
 readies
 readily
 reading
@@ -6748,6 +6809,7 @@ reckons
 reclaim
 recline
 recluse
+recoats
 recoded
 recodes
 recoils
@@ -6779,6 +6841,7 @@ redfish
 redhead
 redials
 redline
+redneck
 redness
 redoing
 redoubt
@@ -6787,6 +6850,7 @@ redraft
 redrawn
 redraws
 redress
+redskin
 reduced
 reducer
 reduces
@@ -6983,6 +7047,7 @@ resolve
 resorts
 resound
 respect
+respire
 respite
 respond
 restart
@@ -7242,6 +7307,7 @@ rundown
 runners
 running
 runoffs
+runouts
 runways
 rupture
 rushers
@@ -7385,6 +7451,7 @@ schmalz
 schmuck
 scholar
 schools
+schtick
 sciatic
 science
 scissor
@@ -7608,6 +7675,7 @@ shelled
 shelter
 shelved
 shelves
+shemale
 sherbet
 sheriff
 shiatsu
@@ -7667,7 +7735,6 @@ shrivel
 shrooms
 shrouds
 shrubby
-shticks
 shucked
 shudder
 shuffle
@@ -7793,6 +7860,7 @@ slammer
 slander
 slanted
 slapped
+slapper
 slashed
 slasher
 slashes
@@ -7915,6 +7983,7 @@ snipers
 sniping
 snipped
 snippet
+snogged
 snooker
 snooped
 snooper
@@ -8033,6 +8102,8 @@ spatter
 spatula
 spawned
 spaying
+spazzed
+spazzes
 speaker
 speared
 specced
@@ -8356,6 +8427,7 @@ subsite
 subsoil
 subsume
 subtask
+subtest
 subtext
 subtler
 subtype
@@ -8523,6 +8595,8 @@ tadpole
 taffeta
 taggers
 tagging
+tagines
+tagless
 tagline
 tailing
 tailors
@@ -8667,10 +8741,12 @@ tenures
 tepidly
 tequila
 terbium
+termers
 terming
 termini
 termite
 ternary
+terpene
 terrace
 terrain
 terrier
@@ -8952,7 +9028,6 @@ treaded
 treadle
 treason
 treated
-treater
 trebled
 trebles
 treetop
@@ -9033,6 +9108,7 @@ truisms
 trumped
 trumpet
 trundle
+trunked
 trussed
 trusses
 trusted
@@ -9398,7 +9474,6 @@ vicious
 victims
 victors
 victory
-vicunas
 videoed
 viewers
 viewing
@@ -9812,6 +9887,7 @@ zapping
 zealots
 zealous
 zeniths
+zeolite
 zeroing
 zesters
 zesting

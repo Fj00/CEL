@@ -103,6 +103,7 @@ yet
 yeti
 yetis
 yew
+yews
 yield
 yielded
 yielding
@@ -153,7 +154,6 @@ your
 yours
 yourself
 yourselves
-yous
 youth
 youthful
 youthfulness

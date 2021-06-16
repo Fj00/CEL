@@ -1,3 +1,4 @@
+aahs
 abed
 abet
 able
@@ -9,6 +10,7 @@ aces
 ache
 achy
 acid
+acme
 acne
 acre
 acts
@@ -103,7 +105,6 @@ baby
 back
 bade
 bads
-baes
 bags
 bail
 bait
@@ -142,6 +143,7 @@ bean
 bear
 beat
 beau
+beck
 beds
 beef
 been
@@ -195,8 +197,8 @@ bods
 body
 bogs
 boil
-bois
 bold
+bole
 boll
 bolo
 bolt
@@ -278,6 +280,7 @@ cake
 calf
 call
 calm
+cals
 came
 camo
 camp
@@ -351,6 +354,7 @@ code
 cods
 coed
 cogs
+coho
 coif
 coil
 coin
@@ -391,7 +395,6 @@ crab
 crag
 cram
 crap
-craw
 cred
 crew
 crib
@@ -409,6 +412,7 @@ cuke
 cull
 cult
 cums
+cunt
 cups
 curb
 curd
@@ -428,6 +432,7 @@ dads
 daft
 dahs
 dais
+dale
 dame
 damn
 damp
@@ -453,6 +458,7 @@ dean
 dear
 debt
 deck
+deco
 deed
 deem
 deep
@@ -486,6 +492,7 @@ dine
 ding
 dink
 dino
+dins
 dips
 dire
 dirt
@@ -586,9 +593,9 @@ egos
 eked
 ekes
 elan
-elks
 elms
 else
+emir
 emit
 emus
 ends
@@ -618,6 +625,7 @@ face
 fact
 fade
 fads
+faff
 fags
 fail
 fair
@@ -721,6 +729,7 @@ foul
 four
 fowl
 foxy
+frag
 frat
 fray
 free
@@ -790,14 +799,17 @@ gimp
 gins
 gird
 girl
+girt
 gist
 gits
 give
 glad
 glam
 glee
+glen
 glib
 glob
+glom
 glop
 glow
 glue
@@ -891,6 +903,7 @@ hats
 haul
 have
 hawk
+haws
 hays
 haze
 hazy
@@ -930,7 +943,6 @@ hint
 hips
 hire
 hiss
-hist
 hits
 hive
 hoax
@@ -975,7 +987,6 @@ hump
 hums
 hung
 hunk
-huns
 hunt
 hurl
 hurt
@@ -997,6 +1008,7 @@ idly
 idol
 iffy
 ills
+imam
 imps
 inch
 info
@@ -1128,6 +1140,7 @@ late
 lats
 laud
 lava
+lavs
 lawn
 laws
 lays
@@ -1252,9 +1265,9 @@ male
 mall
 malt
 mama
-mams
 mana
 mane
+mani
 mans
 many
 maps
@@ -1350,6 +1363,7 @@ morn
 mosh
 moss
 most
+mote
 moth
 move
 mown
@@ -1453,6 +1467,7 @@ oily
 oink
 okay
 okra
+olds
 omen
 omit
 once
@@ -1461,6 +1476,7 @@ only
 onto
 onus
 onyx
+oohs
 oops
 ooze
 oozy
@@ -1524,14 +1540,17 @@ pawn
 paws
 pays
 peak
+peal
 pear
 peas
 peat
 peck
 pecs
+pedi
 peed
 peek
 peel
+peen
 peep
 peer
 pees
@@ -1652,6 +1671,7 @@ puny
 pupa
 pups
 pure
+puri
 purr
 push
 puss
@@ -1678,6 +1698,7 @@ ragu
 raid
 rail
 rain
+raja
 rake
 ramp
 rams
@@ -1707,6 +1728,7 @@ reed
 reef
 reek
 reel
+refi
 refs
 regs
 rein
@@ -1770,6 +1792,7 @@ rote
 roti
 rots
 rout
+roux
 rove
 rows
 rube
@@ -1935,6 +1958,7 @@ snap
 snip
 snit
 snob
+snog
 snot
 snow
 snub
@@ -1978,6 +2002,7 @@ spar
 spas
 spat
 spay
+spaz
 spec
 sped
 spew
@@ -2075,6 +2100,7 @@ teed
 teem
 teen
 tees
+teff
 tell
 temp
 tend
@@ -2185,7 +2211,8 @@ turn
 tush
 tusk
 tutu
-twas
+twat
+twee
 twig
 twin
 twit
@@ -2262,7 +2289,6 @@ wage
 wags
 waif
 wail
-wain
 wait
 wake
 wale
@@ -2386,6 +2412,7 @@ yeas
 yell
 yelp
 yeti
+yews
 yips
 yoga
 yogi
@@ -2393,7 +2420,6 @@ yoke
 yolk
 yore
 your
-yous
 yowl
 yuck
 yule
@@ -2408,6 +2434,7 @@ zest
 zeta
 zigs
 zinc
+zine
 zing
 zips
 ziti

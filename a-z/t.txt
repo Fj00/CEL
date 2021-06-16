@@ -1,3 +1,4 @@
+ta
 tab
 tabard
 tabards
@@ -86,6 +87,9 @@ tagged
 tagger
 taggers
 tagging
+tagine
+tagines
+tagless
 tagliatelle
 tagline
 taglines
@@ -515,7 +519,8 @@ teakettle
 teakettles
 teakwood
 teal
-teals
+tealight
+tealights
 team
 teamed
 teaming
@@ -631,6 +636,7 @@ teetotaler
 teetotalers
 teetotaller
 teetotallers
+teff
 teflon
 telco
 telcos
@@ -898,6 +904,8 @@ terbium
 teriyaki
 term
 termed
+termer
+termers
 terminable
 terminal
 terminally
@@ -922,6 +930,8 @@ terms
 tern
 ternary
 terns
+terpene
+terpenes
 terra
 terrace
 terraced
@@ -1036,6 +1046,7 @@ tetralogy
 tetrapod
 tetrapods
 tetras
+tetris
 text
 textbook
 textbooks
@@ -1163,7 +1174,6 @@ there
 thereabouts
 thereafter
 thereby
-therefor
 therefore
 therefrom
 therein
@@ -1366,6 +1376,7 @@ thrillers
 thrilling
 thrillingly
 thrills
+thrips
 thrive
 thrived
 thrives
@@ -1579,13 +1590,14 @@ tightness
 tightrope
 tightropes
 tights
+tightwad
+tightwads
 tigress
 tigresses
 tike
 tikes
 tiki
 tikka
-til
 tilapia
 tilde
 tildes
@@ -1610,6 +1622,7 @@ tilting
 tiltrotor
 tiltrotors
 tilts
+timbales
 timber
 timbered
 timbering
@@ -1752,7 +1765,6 @@ tirelessly
 tires
 tiresome
 tiring
-tis
 tissue
 tissues
 tit
@@ -1859,7 +1871,6 @@ toggling
 toil
 toile
 toiled
-toiles
 toilet
 toiletries
 toiletry
@@ -2679,6 +2690,8 @@ trashier
 trashiest
 trashing
 trashy
+trattoria
+trattorias
 trauma
 traumas
 traumatic
@@ -2748,8 +2761,6 @@ treasury
 treat
 treatable
 treated
-treater
-treaters
 treaties
 treating
 treatise
@@ -3001,6 +3012,8 @@ triumphantly
 triumphed
 triumphing
 triumphs
+triumvirate
+triumvirates
 trivalent
 trivet
 trivets
@@ -3153,6 +3166,8 @@ trundled
 trundles
 trundling
 trunk
+trunked
+trunking
 trunks
 trunnion
 trunnions
@@ -3401,11 +3416,13 @@ twanged
 twanging
 twangs
 twangy
-twas
+twat
+twats
 tweak
 tweaked
 tweaking
 tweaks
+twee
 tweed
 tweeds
 tweedy

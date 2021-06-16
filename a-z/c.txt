@@ -34,6 +34,7 @@ cabriolets
 cabrios
 cabs
 cacao
+cachaca
 cache
 cached
 cachepot
@@ -100,7 +101,9 @@ caked
 cakes
 cakewalk
 cakewalks
+cakey
 caking
+cal
 calabash
 calabashes
 calamansi
@@ -149,6 +152,9 @@ calico
 californium
 caliper
 calipers
+caliph
+caliphate
+caliphs
 calisthenics
 call
 callable
@@ -191,6 +197,7 @@ caloric
 calorie
 calories
 calorific
+cals
 calumnies
 calumny
 calvaries
@@ -360,6 +367,8 @@ canny
 canoe
 canoed
 canoeing
+canoeist
+canoeists
 canoes
 canola
 canon
@@ -645,6 +654,7 @@ carjackers
 carjacking
 carjackings
 carjacks
+carless
 carload
 carloads
 carmaker
@@ -812,6 +822,8 @@ cassettes
 cassowaries
 cassowary
 cast
+castanet
+castanets
 castaway
 castaways
 caste
@@ -884,7 +896,6 @@ catastrophe
 catastrophes
 catastrophic
 catatonic
-catbird
 catcall
 catcalled
 catcalling
@@ -1379,8 +1390,10 @@ channelling
 channels
 chant
 chanted
+chanter
 chanterelle
 chanterelles
+chanters
 chantilly
 chanting
 chants
@@ -1736,6 +1749,7 @@ childminder
 childminders
 childminding
 childproof
+childproofing
 children
 childrenswear
 chile
@@ -1818,6 +1832,7 @@ chitchats
 chitchatted
 chitchatting
 chitin
+chitosan
 chits
 chivalric
 chivalrous
@@ -1834,6 +1849,7 @@ chlorinates
 chlorinating
 chlorination
 chlorine
+chlorite
 chloroform
 chlorophyll
 chloroquine
@@ -2009,6 +2025,8 @@ ciabattas
 ciao
 cicada
 cicadas
+cichlid
+cichlids
 cider
 ciders
 cig
@@ -2570,6 +2588,7 @@ clue
 clued
 clueing
 clueless
+cluelessness
 clues
 cluing
 clump
@@ -2707,6 +2726,8 @@ cockpits
 cockroach
 cockroaches
 cocks
+cocksucker
+cocksuckers
 cocksure
 cocktail
 cocktails
@@ -2840,6 +2861,7 @@ cohesion
 cohesive
 cohesively
 cohesiveness
+coho
 cohort
 cohorts
 cohost
@@ -3664,6 +3686,7 @@ concert
 concerted
 concertgoer
 concertgoers
+concerti
 concertina
 concertinas
 concertmaster
@@ -3765,8 +3788,12 @@ conditioners
 conditioning
 conditions
 condo
+condole
+condoled
 condolence
 condolences
+condoles
+condoling
 condom
 condominium
 condominiums
@@ -4623,6 +4650,7 @@ coonhounds
 coons
 coop
 cooped
+cooper
 cooperate
 cooperated
 cooperates
@@ -4634,6 +4662,7 @@ cooperatively
 cooperatives
 cooperator
 cooperators
+coopers
 cooping
 coops
 coordinate
@@ -5206,6 +5235,8 @@ cowhide
 cowhides
 cowing
 cowl
+cowlick
+cowlicks
 cowls
 coworker
 coworkers
@@ -5213,6 +5244,8 @@ cowpea
 cowpeas
 cowpox
 cows
+coxswain
+coxswains
 coy
 coyly
 coyote
@@ -5284,6 +5317,8 @@ cramming
 cramp
 cramped
 cramping
+crampon
+crampons
 cramps
 crams
 cranberries
@@ -5291,6 +5326,7 @@ cranberry
 crane
 craned
 cranes
+crania
 cranial
 craning
 craniofacial
@@ -5340,7 +5376,6 @@ craven
 craves
 craving
 cravings
-craw
 crawdad
 crawdads
 crawfish
@@ -5351,7 +5386,6 @@ crawlers
 crawling
 crawls
 crawly
-craws
 crayfish
 crayon
 crayons
@@ -5536,7 +5570,6 @@ crimpers
 crimping
 crimps
 crimson
-crimsons
 cringe
 cringed
 cringes
@@ -5978,6 +6011,8 @@ cuneiform
 cunnilingus
 cunning
 cunningly
+cunt
+cunts
 cup
 cupboard
 cupboards
@@ -6170,7 +6205,8 @@ cutthroats
 cutting
 cuttings
 cuttlefish
-cuz
+cuvette
+cuvettes
 cyan
 cyanide
 cyber

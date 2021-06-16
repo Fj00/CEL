@@ -327,6 +327,7 @@ jolt
 jolted
 jolting
 jolts
+jonesing
 josh
 joshed
 joshes
@@ -438,6 +439,8 @@ julep
 juleps
 julienne
 julienned
+juliennes
+julienning
 jumble
 jumbled
 jumbles
@@ -479,6 +482,8 @@ junks
 junky
 junkyard
 junkyards
+junta
+juntas
 juridical
 juried
 juries
@@ -493,7 +498,6 @@ jurists
 juror
 jurors
 jury
-jus
 just
 justice
 justices
