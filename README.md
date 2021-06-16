@@ -5,7 +5,7 @@ Common English Lexicon (CEL), a word list with common words, for word games.
 ## Background
 
 1. What is the CEL?
-   - The CEL stands for Common English Lexicon, created by Eric Smith (Fj00) and Kenji Matsumoto. The CEL focuses on the most common words that exist in the international Scrabble dictionary (CSW). As such, the CEL is less than 1/3 the size of CSW, with just over 60,000 words in total and over 35,000 words under 9 letters.
+   - The CEL stands for Common English Lexicon, created by Eric Smith (Fj00) and Kenji Matsumoto. The CEL focuses on the most common words that exist in the international Scrabble dictionary (CSW). As such, the CEL is less than 1/3 the size of CSW, with just over 67,500 words in total and over 35,800 words under 9 letters.
 
 2. How was the CEL compiled?
    - The CEL was compiled by counting the number of times specific words were used in Internet articles, books, and webpages Google searches. Those that made it past pre-specified thresholds had made it into CEL, as well as related words necessary for consistency.  
@@ -207,3 +207,53 @@ Unsurprisingly, the proportion of words in CEL is strictly decreasing as the num
 | Y | 167 | 1040 | 16.06% |
 | Z | 111 | 1176 | 9.44% |
 | Total | 60133 | 281857 | 21.33% |
+
+After making a second and third revision, the total number of words is 67520. Here is what the same charts look like:
+
+| Length | CEL Count | Competitive Count | Percent CEL/Competitive |
+| --- | --- | --- | --- |
+| 2 | 66 | 127 | 51.97% |
+| 3 | 635 | 1347 | 47.14% |
+| 4 | 2442 | 5638 | 43.31% |
+| 5 | 4665 | 12973 | 35.96% |
+| 6 | 7407 | 23035 | 32.16% |
+| 7 | 9901 | 34345 | 28.83% |
+| 8 | 10700 | 42153 | 25.38% |
+| 9 | 9834 | 42935 | 22.9% |
+| 10 | 8140 | 37749 | 21.56% |
+| 11 | 5823 | 29591 | 19.68% |
+| 12 | 3810 | 21506 | 17.72% |
+| 13 | 2292 | 14703 | 15.59% |
+| 14 | 1185 | 9652 | 12.28% |
+| 15 | 620 | 6103 | 10.16% |
+| Total | 67520 | 281857 | 23.96% |
+
+| Letter | CEL Count | Competitive Count | Percent CEL/Competitive |
+| --- | --- | --- | --- |
+| A | 3808 | 16315 | 23.34% |
+| B | 3829 | 15380 | 24.9% |
+| C | 6290 | 25223 | 24.94% |
+| D | 4190 | 16719 | 25.06% |
+| E | 2685 | 11397 | 23.56% |
+| F | 2872 | 10676 | 26.9% |
+| G | 2081 | 9410 | 22.11% |
+| H | 2400 | 10619 | 22.6% |
+| I | 2645 | 9684 | 27.31% |
+| J | 527 | 2315 | 22.76% |
+| K | 488 | 3411 | 14.31% |
+| L | 1988 | 8105 | 24.53% |
+| M | 3646 | 16034 | 22.74% |
+| N | 1396 | 6782 | 20.58% |
+| O | 1850 | 9017 | 20.52% |
+| P | 5369 | 24560 | 21.86% |
+| Q | 323 | 1413 | 22.86% |
+| R | 4483 | 15168 | 29.56% |
+| S | 8016 | 32194 | 24.9% |
+| T | 3572 | 14656 | 24.37% |
+| U | 1947 | 9695 | 20.08% |
+| V | 1047 | 4609 | 22.72% |
+| W | 1739 | 5950 | 29.23% |
+| X | 11 | 309 | 3.56% |
+| Y | 184 | 1040 | 17.69% |
+| Z | 134 | 1176 | 11.39% |
+| Total | 67520 | 281857 | 23.96% |
