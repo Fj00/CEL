@@ -10363,8 +10363,6 @@ cockpits
 cockroach
 cockroaches
 cocks
-cocksucker
-cocksuckers
 cocksure
 cocktail
 cocktails
@@ -13648,8 +13646,6 @@ cuneiform
 cunnilingus
 cunning
 cunningly
-cunt
-cunts
 cup
 cupboard
 cupboards
@@ -15925,8 +15921,6 @@ dichotomy
 dicing
 dick
 dicked
-dickhead
-dickheads
 dicking
 dicks
 dicta
@@ -25330,8 +25324,6 @@ grinding
 grinds
 grindstone
 grindstones
-gringo
-gringos
 grinned
 grinning
 grins
@@ -27562,7 +27554,6 @@ horticultural
 horticulture
 horticulturist
 horticulturists
-hos
 hosanna
 hosannas
 hose
@@ -32694,8 +32685,6 @@ lexicographical
 lexicography
 lexicon
 lexicons
-lez
-lezzes
 liabilities
 liability
 liable
@@ -37088,9 +37077,6 @@ mugs
 mugshot
 mugshots
 mugwort
-mulatto
-mulattoes
-mulattos
 mulberries
 mulberry
 mulch
@@ -37815,8 +37801,6 @@ negotiation
 negotiations
 negotiator
 negotiators
-negro
-negroes
 neigh
 neighbor
 neighbored
@@ -38111,8 +38095,6 @@ nicotinic
 niece
 nieces
 nifty
-nigger
-niggers
 niggle
 niggled
 niggles
@@ -43744,7 +43726,6 @@ pooches
 poodle
 poodles
 poof
-poofy
 pooh
 pool
 pooled
@@ -47788,8 +47769,6 @@ redline
 redlined
 redlines
 redlining
-redneck
-rednecks
 redness
 redo
 redoes
@@ -47829,8 +47808,6 @@ redshift
 redshifts
 redshirt
 redshirts
-redskin
-redskins
 reduce
 reduced
 reducer
@@ -51601,7 +51578,6 @@ schemes
 scheming
 schism
 schisms
-schizo
 schizoaffective
 schizoid
 schizophrenia
@@ -53045,8 +53021,6 @@ shelve
 shelved
 shelves
 shelving
-shemale
-shemales
 shenanigan
 shenanigans
 shepherd
@@ -55474,10 +55448,6 @@ spay
 spayed
 spaying
 spays
-spaz
-spazzed
-spazzes
-spazzing
 speak
 speakeasies
 speakeasy
@@ -62332,8 +62302,6 @@ twanged
 twanging
 twangs
 twangy
-twat
-twats
 tweak
 tweaked
 tweaking

@@ -1382,8 +1382,6 @@ redline
 redlined
 redlines
 redlining
-redneck
-rednecks
 redness
 redo
 redoes
@@ -1423,8 +1421,6 @@ redshift
 redshifts
 redshirt
 redshirts
-redskin
-redskins
 reduce
 reduced
 reducer

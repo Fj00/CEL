@@ -2521,7 +2521,6 @@ diarrhea
 diaspora
 diastole
 diatribe
-dickhead
 dictated
 dictates
 dictator
@@ -5800,7 +5799,6 @@ mufflers
 muffling
 muggings
 mugshots
-mulattos
 mulberry
 mulching
 mulligan
@@ -7347,7 +7345,6 @@ redialed
 redirect
 redlined
 redlines
-rednecks
 redolent
 redouble
 redoubts
@@ -7355,7 +7352,6 @@ redounds
 redrafts
 redshift
 redshirt
-redskins
 reducers
 reducing
 redwoods
@@ -8248,7 +8244,6 @@ shellacs
 shelling
 shelters
 shelving
-shemales
 shepherd
 sherbert
 sherbets
@@ -8722,7 +8717,6 @@ spasming
 spatters
 spatulas
 spawning
-spazzing
 speakers
 speaking
 spearing

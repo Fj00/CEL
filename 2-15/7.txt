@@ -3737,7 +3737,6 @@ grimace
 grimmer
 grinded
 grinder
-gringos
 grinned
 griping
 gripped
@@ -5414,7 +5413,6 @@ muggers
 mugging
 mugshot
 mugwort
-mulatto
 mulched
 mulches
 mullets
@@ -5507,7 +5505,6 @@ needles
 negated
 negates
 neglect
-negroes
 neighed
 neither
 nemeses
@@ -5544,7 +5541,6 @@ nibbler
 nibbles
 nickels
 nicking
-niggers
 niggled
 niggles
 nightie
@@ -6841,7 +6837,6 @@ redfish
 redhead
 redials
 redline
-redneck
 redness
 redoing
 redoubt
@@ -6850,7 +6845,6 @@ redraft
 redrawn
 redraws
 redress
-redskin
 reduced
 reducer
 reduces
@@ -7675,7 +7669,6 @@ shelled
 shelter
 shelved
 shelves
-shemale
 sherbet
 sheriff
 shiatsu
@@ -8102,8 +8095,6 @@ spatter
 spatula
 spawned
 spaying
-spazzed
-spazzes
 speaker
 speared
 specced

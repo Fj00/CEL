@@ -708,7 +708,6 @@ schemes
 scheming
 schism
 schisms
-schizo
 schizoaffective
 schizoid
 schizophrenia
@@ -2152,8 +2151,6 @@ shelve
 shelved
 shelves
 shelving
-shemale
-shemales
 shenanigan
 shenanigans
 shepherd
@@ -4581,10 +4578,6 @@ spay
 spayed
 spaying
 spays
-spaz
-spazzed
-spazzes
-spazzing
 speak
 speakeasies
 speakeasy

@@ -253,7 +253,6 @@ hob
 hoe
 hog
 hop
-hos
 hot
 how
 hub
@@ -316,7 +315,6 @@ lee
 leg
 lei
 let
-lez
 lid
 lie
 lip

@@ -352,8 +352,6 @@ negotiation
 negotiations
 negotiator
 negotiators
-negro
-negroes
 neigh
 neighbor
 neighbored
@@ -648,8 +646,6 @@ nicotinic
 niece
 nieces
 nifty
-nigger
-niggers
 niggle
 niggled
 niggles

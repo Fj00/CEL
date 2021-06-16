@@ -870,8 +870,6 @@ lexicographical
 lexicography
 lexicon
 lexicons
-lez
-lezzes
 liabilities
 liability
 liable
