@@ -4,17 +4,32 @@ Common English Lexicon (CEL), a word list with common words, for word games.
 
 ## Background
 
-I compiled this word list in two months. I am releasing it into the public domain so anyone can use or modify it at will.
+1. What is the CEL?
+   - The CEL stands for Common English Lexicon, created by Eric Smith (Fj00) and Kenji Matsumoto. The CEL focuses on the most common words that exist in the international Scrabble dictionary (CSW). As such, the CEL is less than 1/3 the size of CSW, with just over 60,000 words in total and over 35,000 words under 9 letters.
 
-It was a project envisioned by David Eldar, who is commonly recognized as the second best Scrabble player in the world.
+2. How was the CEL compiled?
+   - The CEL was compiled by counting the number of times specific words were used in Internet articles, books, and webpages Google searches. Those that made it past pre-specified thresholds had made it into CEL, as well as related words necessary for consistency.  
 
-The purpose of CEL is to bring more people to word games. Traditional dictionaries and word lists currently used in conjunction with popular word games are filled with obscure and impractical words.
+3. What does it mean for a word to be "common"? Why are there still some weird words in here?
+   - We wanted the CEL to be an inclusive, diverse dictionary that reflected people throughout the world with a variety of interests and expertise. As such, we included entries that may span beyond basic vocabulary, and included various plants, animals, foods, scientific terms, etc. that might not be part of even the most educated person's vocabulary. Such terms are supported by millions of Google hits and sufficient usage in books, internet articles, etc. but may not be familiar to the majority of players using the CEL. Knowing all entries in the CEL would require an absurd amount of information about almost every subject.
 
-This is still a work in progress and will never achieve perfection. The next steps are to merge additional word lists made by other community members, described in more detail below.
+4. What does ________ mean?
+   - Some words may not be initially intuitive. For example, the word 'mac' might not look like a word to many people, and it may confuse people that 'macs' is not a valid string, but will make sense once they understand the intended definition (short for macaroni, i.e. mac and cheese).
+   - All words in CEL have common definitions. The overwhelming number of words can be defined through dictionary or google, although in a few cases, using an advanced search in one of our sources may help players looking to define an entry.
+
+5. Why are there so few -S/-IER/-ED/RE- etc. words?
+   - Scrabble players may be accustomed to a lexicon with every conceivable conjugation, but we feel that many of these conjugations are unwarranted and do not represent common English. As a result, we have removed conjugations that are both uncommonly used and not unessential to the word's common definition. This may make it more difficult to play a game of Scrabble, but restricting conjugations allows us to better reflect the English language.
+
+6. Why isn't (insert common word) found in CEL?
+   - There are a variety of reasons why a common word may not have made it into CEL. The most common reasons are:
+     - It didn't make it into the Scrabble dictionary. For example, KEYCHAIN is not valid in CSW.
+     - It exists primarily as a proper noun. For example, alaska did not make it into CEL, since its primary form is baked alaska, it's still often capitalized, and it's not all that common of a dessert.
+     - It exists in English but primarily from another language. For example, alma (alma mater) did not make it since we deemed it as being primarily Latin.
+     - It failed to get the requisite number of hits in books, webpages, or web articles. There are some words that didn't qualify that mystify us, too.
 
 ## Community
 
-CEL will be initially implemented on the Woogles platform for playing OMGWords (Orthogonal Morphemes Game). https://woogles.io
+CEL is currently implemented on the Woogles platform for playing OMGWords (Orthogonal Morphemes Game). https://woogles.io
 
 Woogles is a community whose mission is to:
 
@@ -22,7 +37,7 @@ Woogles is a community whose mission is to:
 2. Create a tool that lets people of all skill levels from all over the world improve at our favorite board game.
 3. Build the best AI our community has ever seen.
 
-Woogles achieved a successful Kickstarter in October last year, and was created by a team led by César Del Solar, one of the top North American Scrabble players. The Woogles team is also made up of several other top players, including Will Anderson, ranked 1st in North America.
+Woogles achieved a successful Kickstarter in October last year, and was created by a team led by César Del Solar, one of the top North American Scrabble players. The Woogles team is also made up of several other top players.
 
 ## Getting Started
 
@@ -61,9 +76,7 @@ A cutoff of 4 was used for 2s, and a cutoff of 3.5 was used for 3s.
 
 For the most part, onomatopoeia are left out, especially for 2-3 letter words with consonant clusters. I made that determination mainly due to my PTSD from playing HM in a game with classmates in school and getting mocked for it. There are some instances of onomatopoeia which are common enough to keep, such as various animal sounds used as verbs.
 
-Expletives, slurs and pejorative words were left in for completeness, but there is an ongoing discussion for how to handle them. I don't believe it is up to me whether they get used or not at the end of the day. There is a good case that such words could scare off some audiences. It is at least a good idea to make a list of such words and maintain a separate list with those words removed.
-
-The list currently tends to favor non-British and American-only spellings, although there are British spellings for many words. This might be an area that needs better consistency. There were less than 200 non-American competitive words that made the cut in the end, however there are likely many more that need to be investigated. There is a plan described below in next steps to address this issue.
+Expletives, slurs and pejorative words are not in CEL. There is a good case that such words could scare off some audiences. I am maintaining a separate list that contains such words.
 
 Comparatives and superlatives are a gray area. Internet articles usually avoid using them, and their scores are low in general, whereas conversational English would be more likely to use them. Similarly, adverbs are likely used less in writing. These might need to be handled on a case-by-case basis.
 
@@ -71,17 +84,15 @@ Loanwords are generally avoided, unless they have a significant degree of common
 
 Words that are common but limited to specific fields are avoided. Some instances are words only related to high-level chemistry, physics or mathematics.
 
-Elements 1-103 in the periodic table are all included for completeness. It would be hard to determine what counts as a common element. However, elements 104-118 are all theoretical and in most cases have been synthesized in only very small quantities. In addition, all have been recently named, therefore they are not included.
+Elements 1-118 in the periodic table are all included for completeness. It would be hard to determine what counts as a common element.
 
-Obscure medicines, medical terms and chemicals are left out. Common medicines such as ASPIRIN or IBUPROFEN in the uncountable form are left in.
+Obscure medicines, medical terms and chemicals are left out. Common medicines such as ASPIRIN or IBUPROFEN are left in.
 
-Letters from the Greek alphabet have been included for completeness, regardless of commonality. Letters from the Hebrew alphabet have been omitted. However, spellings of letters from the English alphabet have also been omitted since they aren't typically spelled out in writing. Greek letters typically are treated as uncountable nouns, however a few have auxiliary definitions that require inflections, ALPHA(S), BETA(S), DELTA(S).
+Letters from the Greek alphabet have been included for completeness, regardless of commonality. Letters from the Hebrew alphabet have been omitted. However, spellings of letters from the English alphabet have also been omitted since they aren't typically spelled out in writing. Greek letters typically are treated as uncountable nouns, however a few have auxiliary definitions that require inflections, ALPHA(S), BETA(S), DELTA(S), OMEGA(S).
 
 Uncountable nouns have the plural omitted in almost all cases, mainly thanks to the 2of12 list having labeled them. However, there were still many more that needed to be classified. Often there is a little bit of gray area, so some plurals are included. It mostly depended on the ratio between the frequency of the singular and plural forms.
 
 Inflections are usually all included, however oftentimes a group of inflections will have a subset that are very common, whereas one or more words are not. For example, a noun and its plural along with an adjectival form might be included, where as the present participle of the verb is excluded. Another example is where only the adjectival form and the gerund form are common.
-
-Simple plurals with -ES or -S were favored over more obscure plurals, even in some cases where the usage was skewed in the other direction.
 
 Even though all the 9-15 letter words were examined, they are a lot less important for some games where the majority of words employed are less than 9 letters. They were left in mainly for extending 7-8 letter words using inflections, and also as an attempt to slow Nigel Richards down when he learns the dictionary.
 
@@ -89,9 +100,7 @@ Variants of words are only included if they are common enough. Verbs ending in L
 
 Agent nouns (-ER, -OR, -IST) are avoided, unless they are significantly common, or a profession, machine or tool.
 
-The only major currencies included are DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S) is also included due to commonality.
-
-A number of words were added to the list that were either missed inflections or just missed making the list altogether. There is a plan to analyze the rest of the competitive words described in more detail below.
+The only major currencies included are DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S), RENMINBI, RUBLE(S), RUPEE(S) are also included due to commonality.
 
 This is just a disclaimer that it is impossible to be objective in every instance, and it is fine that people disagree with some of the choices that were made. Hopefully the goal is achieved that people who don't play word games competitively will enjoy playing more with a word list that contains only words they know.
 
@@ -198,36 +207,3 @@ Unsurprisingly, the proportion of words in CEL is strictly decreasing as the num
 | Y | 167 | 1040 | 16.06% |
 | Z | 111 | 1176 | 9.44% |
 | Total | 60133 | 281857 | 21.33% |
-
-## Next Steps
-
-I plan on assimilating several word lists compiled by others.
-
-Kenji Matsumoto, Scrabble Grandmaster and top 10 player in North America independently created a list of common words. The overlap between our lists is over 90%, which seems to validate the idea. Kenji's website is here: http://www.breakingthegame.net/
-
-Dani Barker developed an initial word list based on the TV and movie scripts list on https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists, removing words not commonly considered words, proper nouns, and also adding in other commonly used English words. https://github.com/danibarker/CommonWordLexicon
-
-Another list that I am planning to use is the New General Service List (NGSL) http://www.newgeneralservicelist.org/. It contains 30708 words within competitive word lists, more specifically lemmas (no inflections). There are also frequency scores which have been normalized into a 0-10 score using the function previously described.
-
-One thing I need to do is look at words in the competitive word lists that were not in the original starter list I made using 2of12 and sort by letter and score. This way I can find any common words that were not in the original list.
-
-I plan on making a spreadsheet containing this list, Kenji's list, Dani's list, NGSL, and also the union of some competitive word lists, making sure to point out recently removed words and words only within each list. The list will contain ngram scores for 2-3 words, as well as the frequency score for all words. In addition, there will be columns for first letter and number of letters, which will help for sorting and filtering. The purpose will be to accomplish all of these next steps in one location.
-
-I put extra effort into creating lists of 2 and 3 letter words, however there will probably be a need to crowdsource the smaller words, especially by non-competitive players. Being as objective as possible probably can't compete with the combined opinion of hundreds or thousands of players for whom the list was created. Maybe a survey with all the 2s and maybe 3s needs to be created and sent to the appropriate audience for validation.
-
-## UTE
-
-Here is David Eldar's written proof of UTE:
-
-- it would be completely insane for UTE not to be a word
-- i went on a date the other night with a girl who can drive a UTE
-- we spoke the word UTE at least 10 times through the night
-- every person in this country knows what a UTE is
-- UTE = word
-
-## Twitch Shoutouts
-
-- David Eldar https://twitch.tv/deldar182
-- César Del Solar https://twitch.tv/14domino
-- Will Anderson https://twitch.tv/wanderer15
-- Fj00 https://twitch.tv/WTFj00
