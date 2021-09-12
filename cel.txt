@@ -33383,6 +33383,7 @@ lodge
 lodged
 lodgement
 lodgements
+lodgepole
 lodger
 lodgers
 lodges
@@ -42971,6 +42972,7 @@ pinwheeling
 pinwheels
 pinyin
 pinyon
+pinyons
 pioneer
 pioneered
 pioneering

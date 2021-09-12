@@ -1492,6 +1492,7 @@ lodge
 lodged
 lodgement
 lodgements
+lodgepole
 lodger
 lodgers
 lodges

@@ -4860,6 +4860,7 @@ locomotor
 locutions
 lodestone
 lodgement
+lodgepole
 logarithm
 logically
 logicians
