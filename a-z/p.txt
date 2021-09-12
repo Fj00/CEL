@@ -307,6 +307,8 @@ panther
 panthers
 panties
 panting
+pantograph
+pantographs
 pantomime
 pantomimed
 pantomimes
@@ -1202,6 +1204,8 @@ pentagonal
 pentagons
 pentagram
 pentagrams
+pentathlete
+pentathletes
 pentathlon
 pentathlons
 pentatonic
@@ -1762,6 +1766,11 @@ philosophized
 philosophizes
 philosophizing
 philosophy
+phish
+phished
+phisher
+phishers
+phishes
 phishing
 phlebotomist
 phlebotomists
@@ -2171,7 +2180,6 @@ pinwheeling
 pinwheels
 pinyin
 pinyon
-pinyons
 pioneer
 pioneered
 pioneering
@@ -2261,6 +2269,7 @@ pitifully
 pitiless
 piton
 pitons
+pitot
 pits
 pittance
 pitted
@@ -4930,6 +4939,7 @@ psychoanalyze
 psychoanalyzed
 psychoanalyzes
 psychoanalyzing
+psychobilly
 psychodrama
 psychodramas
 psychogenic

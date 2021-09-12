@@ -1090,6 +1090,7 @@ cooperators
 coordinated
 coordinates
 coordinator
+coparenting
 copernicium
 copperheads
 coppersmith
@@ -1222,6 +1223,7 @@ decapitated
 decapitates
 decarbonise
 decarbonize
+decathletes
 deceitfully
 decelerated
 decelerates
@@ -2117,6 +2119,7 @@ gentlemanly
 gentlewoman
 gentlewomen
 gentrifying
+genuflected
 genuineness
 geochemical
 geochemists
@@ -2278,6 +2281,7 @@ hemorrhaged
 hemorrhages
 hemorrhagic
 hemorrhoids
+heptathlete
 heptathlons
 herbivorous
 hereinafter
@@ -3186,6 +3190,7 @@ monasteries
 moneylender
 moneymakers
 moneymaking
+monogamists
 monogrammed
 monolingual
 mononuclear
@@ -3606,6 +3611,7 @@ palpitation
 pandemonium
 panhandlers
 panhandling
+pantographs
 pantomiming
 papermaking
 paperweight
@@ -3674,6 +3680,7 @@ penetration
 penetrative
 penitential
 pensionable
+pentathlete
 pentathlons
 penultimate
 peppercorns
@@ -4083,6 +4090,7 @@ psychedelia
 psychedelic
 psychiatric
 psychically
+psychobilly
 psychodrama
 psychogenic
 psychomotor
@@ -4704,6 +4712,7 @@ sexualising
 sexualities
 sexualizing
 shallowness
+shamanistic
 shamelessly
 shantytowns
 shareholder
@@ -5281,6 +5290,7 @@ topological
 torchbearer
 touchscreen
 touchstones
+tourmalines
 tournaments
 tourniquets
 townspeople
@@ -5359,6 +5369,7 @@ trepidation
 trespassers
 trespassing
 triangulate
+triathletes
 tribulation
 tributaries
 triceratops

@@ -353,6 +353,7 @@ sardine
 sardines
 sardonic
 sardonically
+sardonyx
 sarge
 sarges
 sari
@@ -1533,6 +1534,8 @@ semisolid
 semisubmersible
 semisweet
 semisynthetic
+semitone
+semitones
 semitrailer
 semitrailers
 semitransparent
@@ -1988,6 +1991,8 @@ shalt
 sham
 shaman
 shamanic
+shamanism
+shamanistic
 shamans
 shamble
 shambled
@@ -2130,6 +2135,8 @@ sheik
 sheikh
 sheikhs
 sheiks
+shekel
+shekels
 shelf
 shell
 shellac
@@ -3042,6 +3049,8 @@ skedaddled
 skedaddles
 skedaddling
 skeet
+skeg
+skegs
 skein
 skeins
 skeletal
@@ -6088,6 +6097,8 @@ storytelling
 storytime
 storytimes
 stout
+stouter
+stoutest
 stoutly
 stouts
 stove
@@ -7979,6 +7990,7 @@ synthesizing
 synthetic
 synthetically
 synthetics
+synthpop
 synths
 syphilis
 syphilitic

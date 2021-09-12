@@ -91,6 +91,8 @@ caiman
 caimans
 caipirinha
 caipirinhas
+caisson
+caissons
 cajole
 cajoled
 cajoles
@@ -596,6 +598,8 @@ carding
 cardio
 cardiogram
 cardiograms
+cardioid
+cardioids
 cardiologist
 cardiologists
 cardiology
@@ -666,6 +670,7 @@ carnation
 carnations
 carnauba
 carnelian
+carnelians
 carnies
 carnival
 carnivals
@@ -1969,6 +1974,7 @@ chrysalises
 chrysanthemum
 chrysanthemums
 chrysoprase
+chrysoprases
 chub
 chubbier
 chubbiest
@@ -2140,6 +2146,7 @@ citizenships
 citrate
 citric
 citrine
+citrines
 citron
 citronella
 citrons
@@ -4428,6 +4435,7 @@ contour
 contoured
 contouring
 contours
+contra
 contraband
 contraception
 contraceptive
@@ -4677,6 +4685,10 @@ cooties
 coots
 cop
 copacetic
+coparent
+coparented
+coparenting
+coparents
 copay
 copayment
 copayments
@@ -5437,6 +5449,8 @@ creator
 creators
 creature
 creatures
+creche
+creches
 cred
 credence
 credential
@@ -5993,6 +6007,7 @@ culvert
 culverts
 cum
 cumbersome
+cumbia
 cumin
 cummed
 cummerbund
@@ -6066,6 +6081,8 @@ curl
 curled
 curler
 curlers
+curlew
+curlews
 curling
 curls
 curly

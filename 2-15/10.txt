@@ -564,6 +564,7 @@ ballplayer
 bamboozled
 bamboozles
 banalities
+bandicoots
 bandleader
 bandstands
 bandwagons
@@ -590,6 +591,7 @@ barometers
 barometric
 baronesses
 barracudas
+barramundi
 barrelling
 barrenness
 barricaded
@@ -667,12 +669,14 @@ betterment
 bewildered
 bewitching
 biannually
+biathletes
 biblically
 bicultural
 bicyclists
 biennially
 bifurcated
 bifurcates
+bilberries
 bilinguals
 billboards
 billionths
@@ -959,6 +963,7 @@ caricature
 carjackers
 carjacking
 carnations
+carnelians
 carnivores
 carotenoid
 carpenters
@@ -1533,6 +1538,7 @@ cooperated
 cooperates
 cooperator
 coordinate
+coparented
 copayments
 copolymers
 copperhead
@@ -1725,6 +1731,7 @@ debriefing
 debutantes
 decadently
 decapitate
+decathlete
 decathlons
 decelerate
 decennials
@@ -2983,6 +2990,7 @@ genotyping
 gentleness
 gentrified
 gentrifies
+genuflects
 geocaching
 geocentric
 geochemist
@@ -3191,6 +3199,7 @@ hatchbacks
 hatcheries
 hatchlings
 hauntingly
+headbanged
 headbanger
 headboards
 headcounts
@@ -3594,6 +3603,7 @@ informally
 informants
 infraction
 infrequent
+infringers
 infringing
 infuriated
 infuriates
@@ -4257,6 +4267,7 @@ microbeads
 microbiome
 microbiota
 microblogs
+microbrews
 microburst
 microchips
 microcosms
@@ -4409,6 +4420,7 @@ moneymaker
 monitoring
 monochrome
 monoclonal
+monogamist
 monogamous
 monographs
 monolayers
@@ -4952,6 +4964,7 @@ panellists
 panhandled
 panhandler
 panhandles
+pantograph
 pantomimed
 pantomimes
 paperbacks
@@ -5937,6 +5950,8 @@ reimposing
 reinfected
 reinforced
 reinforces
+reinjuries
+reinjuring
 reinserted
 reinstalls
 reinstated
@@ -7438,6 +7453,7 @@ trespassed
 trespasser
 trespasses
 triangular
+triathlete
 triathlons
 tricksters
 tricolours
@@ -7484,6 +7500,7 @@ turnbuckle
 turnstiles
 turntables
 turpentine
+turquoises
 turtleneck
 twentieths
 twittering

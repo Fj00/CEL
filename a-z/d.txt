@@ -11,6 +11,8 @@ dachshunds
 dad
 daddies
 daddy
+dado
+dados
 dads
 daemon
 daemons
@@ -419,6 +421,8 @@ decarbonize
 decarbonized
 decarbonizes
 decarbonizing
+decathlete
+decathletes
 decathlon
 decathlons
 decay
@@ -821,8 +825,12 @@ defocus
 defocused
 defocuses
 defocusing
+defog
+defogged
 defogger
 defoggers
+defogging
+defogs
 deforest
 deforestation
 deforested
@@ -922,6 +930,8 @@ dehydrator
 dehydrators
 deice
 deiced
+deicer
+deicers
 deices
 deicing
 deification
@@ -1478,6 +1488,8 @@ derangement
 derangements
 derbies
 derby
+derecho
+derechos
 deregister
 deregistered
 deregistering

@@ -716,11 +716,13 @@ mart
 martial
 martian
 martians
+martin
 martinet
 martinets
 martingale
 martini
 martinis
+martins
 marts
 martyr
 martyrdom
@@ -1445,6 +1447,7 @@ merry
 mesa
 mesas
 mescaline
+mesclun
 mesdames
 mesdemoiselles
 mesh
@@ -1657,8 +1660,10 @@ microbiota
 microblog
 microblogging
 microblogs
+microbrew
 microbreweries
 microbrewery
+microbrews
 microburst
 microbursts
 microcar
@@ -2765,6 +2770,8 @@ monocrystalline
 monocular
 monocyte
 monocytes
+monogamist
+monogamists
 monogamous
 monogamy
 monogram
@@ -3423,11 +3430,13 @@ munchkins
 mundane
 mundanely
 mung
+muni
 municipal
 municipalities
 municipality
 municipally
 municipals
+munis
 munition
 munitions
 muon
@@ -3600,6 +3609,8 @@ myelitis
 myeloid
 myeloma
 mylar
+myna
+mynas
 myocardial
 myocardium
 myopathy

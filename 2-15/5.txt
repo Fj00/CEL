@@ -335,6 +335,7 @@ beryl
 beset
 bests
 betas
+betel
 betta
 bevel
 bezel
@@ -347,6 +348,7 @@ bigot
 biked
 biker
 bikes
+bilby
 bilge
 bilks
 bills
@@ -381,6 +383,7 @@ blast
 blaze
 bleak
 bleat
+blech
 bleed
 bleep
 blend
@@ -941,6 +944,7 @@ cynic
 cysts
 czars
 daddy
+dados
 daffy
 daily
 dairy
@@ -987,6 +991,7 @@ deeds
 deems
 deeps
 defer
+defog
 deice
 deify
 deign
@@ -1575,6 +1580,7 @@ gages
 gaily
 gains
 gaits
+galah
 galas
 gales
 galls
@@ -2096,8 +2102,10 @@ kebab
 keels
 keeps
 kefir
+kelps
 kendo
 kerbs
+kerfs
 kerns
 keyed
 khaki
@@ -2325,6 +2333,7 @@ louts
 loved
 lover
 loves
+lovey
 lower
 lowly
 loyal
@@ -2593,6 +2602,7 @@ mulls
 mummy
 mumps
 munch
+munis
 muons
 mural
 murky
@@ -2608,6 +2618,7 @@ muted
 mutes
 mutts
 mylar
+mynas
 myrrh
 myths
 nacho
@@ -2888,6 +2899,7 @@ petri
 petty
 phage
 phase
+phish
 phone
 phony
 photo
@@ -2928,6 +2940,7 @@ pitas
 pitch
 pithy
 piton
+pitot
 pivot
 pixel
 pixie
@@ -3117,7 +3130,6 @@ quiet
 quiff
 quill
 quilt
-quint
 quips
 quirk
 quite
@@ -3609,6 +3621,7 @@ sizes
 skank
 skate
 skeet
+skegs
 skein
 skews
 skids
@@ -4439,6 +4452,7 @@ wacky
 waded
 wader
 wades
+wadis
 wafer
 wafts
 waged
@@ -4483,6 +4497,7 @@ waved
 waver
 waves
 waxed
+waxen
 waxes
 wazoo
 weans
@@ -4631,6 +4646,7 @@ years
 yeast
 yells
 yelps
+yerba
 yeses
 yetis
 yield

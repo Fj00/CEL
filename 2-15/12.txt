@@ -90,6 +90,7 @@ agribusiness
 agricultural
 agrochemical
 agroforestry
+alexandrites
 alliteration
 alliterative
 allosauruses
@@ -465,6 +466,7 @@ christenings
 chronographs
 chronologies
 chronometers
+chrysoprases
 circulations
 circumcising
 circumcision
@@ -1360,6 +1362,8 @@ generalising
 generalities
 generalizing
 generational
+genuflecting
+genuflection
 geochemistry
 geographical
 geologically
@@ -1457,6 +1461,7 @@ helplessness
 hematologist
 hemodynamics
 hemorrhaging
+heptathletes
 hereinbefore
 heritability
 hermeneutics
@@ -2444,6 +2449,7 @@ penalisation
 penalization
 penetrations
 penitentiary
+pentathletes
 pepperoncini
 perceptively
 perceptually

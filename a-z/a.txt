@@ -1409,6 +1409,7 @@ alertness
 alerts
 ales
 alexandrite
+alexandrites
 alfalfa
 alfredo
 alfresco
@@ -1701,6 +1702,8 @@ ambitiously
 ambivalence
 ambivalent
 ambivalently
+ambivert
+ambiverts
 amble
 ambled
 ambles
@@ -2393,6 +2396,8 @@ antiwar
 antler
 antlered
 antlers
+antlion
+antlions
 antonym
 antonyms
 ants
@@ -2816,6 +2821,8 @@ argan
 argent
 arginine
 argon
+argonaut
+argonauts
 arguable
 arguably
 argue

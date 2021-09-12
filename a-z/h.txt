@@ -638,9 +638,12 @@ headache
 headaches
 headband
 headbands
+headbang
+headbanged
 headbanger
 headbangers
 headbanging
+headbangs
 headboard
 headboards
 headcount
@@ -996,6 +999,8 @@ hepatology
 heptagon
 heptagonal
 heptagons
+heptathlete
+heptathletes
 heptathlon
 heptathlons
 her
@@ -2088,7 +2093,6 @@ humped
 humping
 humps
 hums
-humungous
 humus
 humvee
 humvees

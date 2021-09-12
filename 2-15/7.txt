@@ -299,6 +299,7 @@ antique
 antivax
 antiwar
 antlers
+antlion
 antonym
 anxiety
 anxious
@@ -754,6 +755,7 @@ bigwigs
 bikeway
 bikinis
 bilayer
+bilbies
 biliary
 bilking
 billers
@@ -1236,6 +1238,7 @@ cadmium
 caesium
 cahoots
 caimans
+caisson
 cajoled
 cajoles
 calcify
@@ -1942,6 +1945,7 @@ creases
 created
 creates
 creator
+creches
 credits
 creeped
 creeper
@@ -2051,6 +2055,7 @@ curdles
 curfews
 curious
 curlers
+curlews
 curling
 currant
 current
@@ -2239,6 +2244,7 @@ defying
 deglaze
 degrade
 degrees
+deicers
 deicing
 deified
 deifies
@@ -2299,6 +2305,7 @@ deputed
 deputes
 derails
 derbies
+derecho
 derided
 derides
 derived
@@ -2636,6 +2643,7 @@ eagling
 earache
 earbuds
 eardrum
+earfuls
 earlier
 earlobe
 earmark
@@ -2992,6 +3000,7 @@ fallacy
 falling
 falloff
 fallout
+fallows
 falsely
 falsify
 falsity
@@ -3015,6 +3024,7 @@ fanzine
 faraway
 farmers
 farming
+farside
 farther
 farting
 fascial
@@ -3558,6 +3568,7 @@ giggled
 giggles
 gigolos
 gilding
+gillnet
 gimbals
 gimlets
 gimmick
@@ -3624,6 +3635,7 @@ gnawing
 gnocchi
 goading
 goalies
+goannas
 goatees
 gobbled
 gobbler
@@ -4446,6 +4458,7 @@ jangles
 janitor
 jarring
 jasmine
+jaspers
 javelin
 jawbone
 jawline
@@ -4494,6 +4507,7 @@ joinery
 joining
 jointed
 jointly
+jollier
 jolting
 joshing
 jostled
@@ -4688,6 +4702,7 @@ latrine
 lattice
 lauding
 laughed
+laugher
 launder
 laundry
 laurels
@@ -5094,6 +5109,7 @@ marshes
 martial
 martian
 martini
+martins
 martyrs
 marvels
 masalas
@@ -5185,6 +5201,7 @@ merlots
 mermaid
 merrier
 merrily
+mesclun
 meshing
 message
 messiah
@@ -5578,6 +5595,7 @@ nonskid
 nonslip
 nonstop
 nonuser
+nonwork
 nonzero
 noodled
 noodles
@@ -5629,6 +5647,7 @@ nursing
 nurture
 nutcase
 nutjobs
+nutrias
 nutters
 nuttier
 nutting
@@ -6092,6 +6111,9 @@ phasers
 phasing
 phenols
 phenoms
+phished
+phisher
+phishes
 phobias
 phoenix
 phoneme
@@ -6168,7 +6190,6 @@ pinkish
 pinnies
 pinning
 pintail
-pinyons
 pioneer
 piously
 pipette
@@ -6648,6 +6669,7 @@ quitter
 quivers
 quizzed
 quizzes
+quokkas
 quoting
 rabbets
 rabbits
@@ -7664,6 +7686,7 @@ shebang
 sheered
 sheeted
 sheikhs
+shekels
 shellac
 shelled
 shelter
@@ -8328,6 +8351,7 @@ storied
 stories
 storing
 stormed
+stouter
 stoutly
 stowage
 stowing
@@ -8752,6 +8776,7 @@ testing
 tetanus
 tethers
 tetrads
+texters
 textile
 texting
 textual
@@ -8921,6 +8946,7 @@ tooltip
 toothed
 tooting
 tootsie
+topazes
 topcoat
 topiary
 topical
@@ -9143,6 +9169,7 @@ turnkey
 turnoff
 turnout
 turrets
+turtled
 turtles
 tussled
 tussles
@@ -9155,6 +9182,7 @@ tweaked
 tweeted
 tweeter
 tweezed
+tweezer
 tweezes
 twelfth
 twelves
@@ -9837,6 +9865,7 @@ wriggly
 wringer
 wrinkle
 wrinkly
+wristed
 writers
 writhed
 writhes
@@ -9879,6 +9908,7 @@ zealots
 zealous
 zeniths
 zeolite
+zephyrs
 zeroing
 zesters
 zesting

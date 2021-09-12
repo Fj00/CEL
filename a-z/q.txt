@@ -260,7 +260,6 @@ quince
 quinces
 quinine
 quinoa
-quint
 quintessence
 quintessential
 quintet
@@ -271,7 +270,6 @@ quintillion
 quintillions
 quintillionth
 quintillionths
-quints
 quintuple
 quintupled
 quintuples
@@ -307,6 +305,8 @@ quizzes
 quizzical
 quizzically
 quizzing
+quokka
+quokkas
 quorum
 quota
 quotable

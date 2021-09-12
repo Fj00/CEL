@@ -289,6 +289,7 @@ rancidity
 rancor
 rancorous
 rancour
+rand
 random
 randomisation
 randomise
@@ -1219,6 +1220,7 @@ recruiting
 recruitment
 recruitments
 recruits
+recs
 rectal
 rectally
 rectangle
@@ -1982,6 +1984,12 @@ reinforcements
 reinforces
 reinforcing
 reining
+reinjure
+reinjured
+reinjures
+reinjuries
+reinjuring
+reinjury
 reins
 reinsert
 reinserted

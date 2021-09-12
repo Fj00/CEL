@@ -273,6 +273,7 @@ amateurs
 ambiance
 ambience
 ambition
+ambivert
 ambrosia
 ambushed
 ambushes
@@ -362,6 +363,7 @@ antiques
 antispam
 antitank
 antlered
+antlions
 antonyms
 anyplace
 anything
@@ -417,6 +419,7 @@ archways
 arcsines
 ardently
 arginine
+argonaut
 arguable
 arguably
 argument
@@ -695,6 +698,7 @@ barrooms
 barstool
 bartends
 bartered
+basaltic
 baseball
 baseless
 baseline
@@ -834,9 +838,9 @@ bigamist
 bigamous
 bigfoots
 bighorns
-bigmouth
 bikeways
 bilayers
+bilberry
 billable
 billeted
 billfold
@@ -1243,6 +1247,7 @@ caddying
 cadences
 cadenzas
 caffeine
+caissons
 cajoling
 cakewalk
 calabash
@@ -1323,6 +1328,7 @@ carbonic
 cardamom
 cardigan
 cardinal
+cardioid
 careened
 careered
 carefree
@@ -1578,6 +1584,7 @@ cisterns
 citadels
 citation
 citizens
+citrines
 citywide
 civilian
 civilise
@@ -1937,6 +1944,7 @@ cookware
 coolants
 cooldown
 coolness
+coparent
 copilots
 coplanar
 copulate
@@ -2349,6 +2357,7 @@ deflated
 deflates
 deflects
 deflower
+defogged
 defogger
 deforest
 deformed
@@ -2430,6 +2439,7 @@ deputise
 deputize
 derailed
 deranged
+derechos
 derelict
 deriding
 derision
@@ -3903,6 +3913,7 @@ gigantic
 gigatons
 gigawatt
 giggling
+gillnets
 gimmicks
 gimmicky
 gingerly
@@ -4238,6 +4249,7 @@ hazelnut
 haziness
 headache
 headband
+headbang
 headgear
 headhunt
 headings
@@ -4838,6 +4850,7 @@ johnnies
 jointing
 jokester
 jokingly
+jolliest
 jonesing
 jostling
 jottings
@@ -5013,6 +5026,7 @@ lattices
 laudable
 laudably
 laudanum
+laughers
 laughing
 laughter
 launched
@@ -5881,6 +5895,7 @@ nautilus
 navigate
 naysayer
 nearness
+nearside
 neatness
 nebulous
 neckband
@@ -6592,6 +6607,7 @@ pharaohs
 pharmacy
 phaseout
 pheasant
+phishers
 phishing
 phonemes
 phonemic
@@ -7426,6 +7442,8 @@ reignite
 reimpose
 reindeer
 reinfect
+reinjure
+reinjury
 reinsert
 reinsure
 reinvent
@@ -7919,6 +7937,7 @@ sapphire
 sarcomas
 sardines
 sardonic
+sardonyx
 sashayed
 sassiest
 satanism
@@ -8151,6 +8170,7 @@ seminars
 seminary
 semiotic
 semipros
+semitone
 semolina
 senators
 sendoffs
@@ -9006,6 +9026,7 @@ storages
 storeyed
 stormier
 storming
+stoutest
 stovetop
 stowable
 stowaway
@@ -9328,6 +9349,7 @@ synopsis
 synoptic
 synovial
 synthase
+synthpop
 syphilis
 syphoned
 syringes
@@ -9894,6 +9916,7 @@ turnouts
 turnover
 turnpike
 turreted
+turtling
 tussling
 tussocks
 tutelage
@@ -10296,7 +10319,6 @@ vibrancy
 vibrated
 vibrates
 vibrator
-vibratos
 viburnum
 vicarage
 viceroys

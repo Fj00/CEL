@@ -1321,6 +1321,8 @@ infringe
 infringed
 infringement
 infringements
+infringer
+infringers
 infringes
 infringing
 infuriate

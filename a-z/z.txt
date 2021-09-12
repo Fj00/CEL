@@ -28,6 +28,8 @@ zenith
 zeniths
 zeolite
 zeolites
+zephyr
+zephyrs
 zeppelin
 zeppelins
 zeptosecond
@@ -88,6 +90,7 @@ zippy
 zips
 zircon
 zirconia
+zirconias
 zirconium
 zircons
 zit

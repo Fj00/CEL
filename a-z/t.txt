@@ -1051,6 +1051,8 @@ text
 textbook
 textbooks
 texted
+texter
+texters
 textile
 textiles
 texting
@@ -2012,6 +2014,7 @@ tootsie
 tootsies
 top
 topaz
+topazes
 topcoat
 topcoats
 topflight
@@ -2207,6 +2210,7 @@ touristic
 tourists
 touristy
 tourmaline
+tourmalines
 tournament
 tournaments
 tourney
@@ -2855,6 +2859,8 @@ triangulated
 triangulates
 triangulating
 triangulation
+triathlete
+triathletes
 triathlon
 triathlons
 tribal
@@ -3379,13 +3385,16 @@ turntables
 turpentine
 turpitude
 turquoise
+turquoises
 turret
 turreted
 turrets
 turtle
+turtled
 turtleneck
 turtlenecks
 turtles
+turtling
 tush
 tushes
 tusk
@@ -3434,6 +3443,7 @@ tweeting
 tweets
 tweeze
 tweezed
+tweezer
 tweezers
 tweezes
 tweezing

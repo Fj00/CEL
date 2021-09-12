@@ -46,6 +46,8 @@ gaits
 gal
 gala
 galactic
+galah
+galahs
 galas
 galaxies
 galaxy
@@ -483,6 +485,12 @@ gentrify
 gentrifying
 gentry
 gents
+genuflect
+genuflected
+genuflecting
+genuflection
+genuflections
+genuflects
 genuine
 genuinely
 genuineness
@@ -680,6 +688,8 @@ gilded
 gilding
 gilds
 gill
+gillnet
+gillnets
 gills
 gilt
 gilts
@@ -1055,6 +1065,8 @@ goalscorers
 goaltender
 goaltenders
 goaltending
+goanna
+goannas
 goat
 goatee
 goatees

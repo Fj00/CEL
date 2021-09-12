@@ -529,6 +529,7 @@ berate
 bereft
 berets
 berths
+beryls
 besets
 beside
 bested
@@ -1303,6 +1304,7 @@ conman
 conmen
 conned
 consul
+contra
 conure
 convex
 convey
@@ -1415,6 +1417,7 @@ creams
 creamy
 crease
 create
+creche
 credit
 credos
 creeds
@@ -1475,6 +1478,7 @@ cudgel
 cueing
 cuffed
 culled
+cumbia
 cummed
 cupful
 cupola
@@ -1489,6 +1493,7 @@ curios
 curium
 curled
 curler
+curlew
 cursed
 curses
 cursor
@@ -1617,6 +1622,7 @@ defied
 defies
 defile
 define
+defogs
 deform
 defrag
 defray
@@ -1625,6 +1631,7 @@ defund
 defuse
 degree
 deiced
+deicer
 deices
 deigns
 deists
@@ -2517,6 +2524,7 @@ gaiety
 gained
 gainer
 gaiter
+galahs
 galaxy
 galled
 galley
@@ -2667,6 +2675,7 @@ gnawed
 gnomes
 goaded
 goalie
+goanna
 goatee
 gobble
 gobies
@@ -3405,6 +3414,7 @@ kitsch
 kitted
 kitten
 klicks
+klutzy
 knacks
 knaves
 kneads
@@ -3697,6 +3707,7 @@ louver
 louvre
 lovely
 lovers
+loveys
 loving
 lowboy
 lowers
@@ -3809,6 +3820,7 @@ marque
 marred
 marrow
 marshy
+martin
 martyr
 marvel
 masala
@@ -4237,6 +4249,7 @@ nursed
 nurses
 nutjob
 nutmeg
+nutria
 nutted
 nutter
 nuzzle
@@ -4275,7 +4288,6 @@ offers
 office
 offing
 offish
-offkey
 offset
 ogling
 oilers
@@ -4929,10 +4941,10 @@ quills
 quilts
 quince
 quinoa
-quints
 quirks
 quirky
 quiver
+quokka
 quorum
 quotas
 quoted
@@ -5686,6 +5698,7 @@ sheesh
 sheets
 sheikh
 sheiks
+shekel
 shells
 shelve
 sherry
@@ -6531,6 +6544,7 @@ tetrad
 tetras
 tetris
 texted
+texter
 thangs
 thanks
 thatch
@@ -6970,6 +6984,7 @@ usable
 usages
 useful
 ushers
+usuals
 usurps
 uterus
 utmost
@@ -7384,6 +7399,7 @@ zapper
 zealot
 zebras
 zenith
+zephyr
 zeroed
 zeroes
 zeroth

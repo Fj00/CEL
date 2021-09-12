@@ -17,7 +17,9 @@ waded
 wader
 waders
 wades
+wadi
 wading
+wadis
 wads
 wafer
 wafers
@@ -436,6 +438,7 @@ waving
 wavy
 wax
 waxed
+waxen
 waxes
 waxing
 waxwing
@@ -733,6 +736,7 @@ wheatgrass
 wheatland
 wheatlands
 wheats
+whee
 wheedle
 wheedled
 wheedles
@@ -1692,6 +1696,7 @@ wrinkly
 wrist
 wristband
 wristbands
+wristed
 wristlet
 wristlets
 wrists

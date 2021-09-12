@@ -74,6 +74,7 @@ keisters
 keloid
 keloids
 kelp
+kelps
 kelvin
 kendo
 kennel
@@ -87,6 +88,8 @@ kerbs
 kerbside
 kerchief
 kerchiefs
+kerf
+kerfs
 kerfuffle
 kerfuffles
 kern
@@ -347,6 +350,7 @@ klicks
 klondike
 klutz
 klutzes
+klutzy
 knack
 knacks
 knapsack

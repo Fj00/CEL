@@ -382,6 +382,8 @@ laugh
 laughable
 laughably
 laughed
+laugher
+laughers
 laughing
 laughingly
 laughingstock
@@ -1243,6 +1245,7 @@ liquored
 liquorice
 liquorices
 liquors
+lira
 lisp
 lisps
 list
@@ -1755,6 +1758,8 @@ loveseat
 loveseats
 lovesick
 lovestruck
+lovey
+loveys
 loving
 lovingly
 low

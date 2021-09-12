@@ -95,6 +95,7 @@ jarringly
 jars
 jasmine
 jasper
+jaspers
 jaundice
 jaundiced
 jaunt
@@ -322,6 +323,8 @@ jokesters
 jokey
 joking
 jokingly
+jollier
+jolliest
 jolly
 jolt
 jolted

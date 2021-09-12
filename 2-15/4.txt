@@ -106,6 +106,7 @@ back
 bade
 bads
 bags
+baht
 bail
 bait
 bake
@@ -427,6 +428,7 @@ cyan
 cyst
 czar
 dabs
+dado
 dads
 daft
 dahs
@@ -1085,6 +1087,7 @@ kelp
 keno
 kept
 kerb
+kerf
 kern
 keto
 keys
@@ -1191,6 +1194,7 @@ lint
 lion
 lipo
 lips
+lira
 lisp
 list
 lite
@@ -1375,6 +1379,7 @@ mule
 mull
 mums
 mung
+muni
 muon
 murk
 muse
@@ -1384,6 +1389,7 @@ muss
 must
 mute
 mutt
+myna
 myth
 naan
 nabs
@@ -1701,6 +1707,7 @@ raja
 rake
 ramp
 rams
+rand
 rang
 rank
 rant
@@ -1721,6 +1728,7 @@ real
 ream
 reap
 rear
+recs
 redo
 reds
 reed
@@ -1919,6 +1927,7 @@ sirs
 site
 sits
 size
+skeg
 skew
 skid
 skim
@@ -2280,6 +2289,7 @@ vote
 vows
 wack
 wade
+wadi
 wads
 waft
 wage
@@ -2332,6 +2342,7 @@ west
 wets
 wham
 what
+whee
 when
 whet
 whew
@@ -2418,6 +2429,7 @@ yolk
 yore
 your
 yowl
+yuan
 yuck
 yule
 yurt
