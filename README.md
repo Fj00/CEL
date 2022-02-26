@@ -100,7 +100,7 @@ Variants of words are only included if they are common enough. Verbs ending in L
 
 Agent nouns (-ER, -OR, -IST) are avoided, unless they are significantly common, or a profession, machine or tool.
 
-The only major currencies included are DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S), RENMINBI, RUBLE(S), RUPEE(S) are also included due to commonality.
+The only major currencies included are DOLLAR(S), EURO(S), [Swiss] FRANC(S), POUND(S), YEN. PESO(S), RENMINBI, RUBLE(S), RUPEE(S), SHEKEL(S), YUAN are also included due to commonality.
 
 This is just a disclaimer that it is impossible to be objective in every instance, and it is fine that people disagree with some of the choices that were made. Hopefully the goal is achieved that people who don't play word games competitively will enjoy playing more with a word list that contains only words they know.
 
