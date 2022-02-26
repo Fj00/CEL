@@ -5,10 +5,10 @@ Common English Lexicon (CEL), a word list with common words, for word games.
 ## Background
 
 1. What is the CEL?
-   - The CEL stands for Common English Lexicon, created by Eric Smith (Fj00) and Kenji Matsumoto. The CEL focuses on the most common words that exist in the international Scrabble dictionary (CSW). As such, the CEL is less than 1/3 the size of CSW, with just over 67,500 words in total and over 35,800 words under 9 letters.
+   - The CEL stands for Common English Lexicon, created by Eric Smith (Fj00) and Kenji Matsumoto (strataji). The CEL focuses on the most common words that exist in the international Scrabble dictionary (CSW). As such, the CEL is less than 1/3 the size of CSW, with just over 67,500 words in total and over 35,800 words under 9 letters.
 
 2. How was the CEL compiled?
-   - The CEL was compiled by counting the number of times specific words were used in Internet articles, books, and webpages Google searches. Those that made it past pre-specified thresholds had made it into CEL, as well as related words necessary for consistency.  
+   - The CEL was compiled by counting the number of times specific words were used in Internet articles, books, webpages, and Google searches. Those that made it past pre-specified thresholds had made it into CEL, as well as related words necessary for consistency.  
 
 3. What does it mean for a word to be "common"? Why are there still some weird words in here?
    - We wanted the CEL to be an inclusive, diverse dictionary that reflected people throughout the world with a variety of interests and expertise. As such, we included entries that may span beyond basic vocabulary, and included various plants, animals, foods, scientific terms, etc. that might not be part of even the most educated person's vocabulary. Such terms are supported by millions of Google hits and sufficient usage in books, internet articles, etc. but may not be familiar to the majority of players using the CEL. Knowing all entries in the CEL would require an absurd amount of information about almost every subject.
