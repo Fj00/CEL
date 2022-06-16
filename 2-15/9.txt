@@ -2119,6 +2119,7 @@ deceiving
 decennial
 deception
 deceptive
+decertify
 decidedly
 deciduous
 decigrams
@@ -3341,7 +3342,6 @@ flagpoles
 flagships
 flakiness
 flameless
-flamencos
 flameouts
 flamingos
 flammable
@@ -4886,6 +4886,7 @@ lookalike
 loopholes
 looseness
 loosening
+loquacity
 lordships
 lotteries
 loudmouth
@@ -5714,6 +5715,7 @@ olfaction
 olfactory
 oligarchs
 oligarchy
+oligomers
 oligopoly
 ombudsman
 ombudsmen
@@ -7011,6 +7013,7 @@ reforming
 reformism
 reformist
 refracted
+refractor
 refrained
 reframing
 refreezes
@@ -8779,6 +8782,7 @@ tentpoles
 tenuously
 terabytes
 terahertz
+teratogen
 teratomas
 terawatts
 terminals
@@ -9070,6 +9074,7 @@ triumphal
 triumphed
 trivalent
 trivially
+trochlear
 trombones
 tropicals
 troubling

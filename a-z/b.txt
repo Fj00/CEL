@@ -176,6 +176,7 @@ bactericidal
 bactericide
 bactericides
 bacteriological
+bacteriologically
 bacteriologist
 bacteriologists
 bacteriology
@@ -232,7 +233,6 @@ bags
 baguette
 baguettes
 bah
-baht
 bail
 bailable
 bailed
@@ -1587,6 +1587,11 @@ bins
 binturong
 binturongs
 bio
+bioaccumulate
+bioaccumulated
+bioaccumulates
+bioaccumulating
+bioaccumulation
 bioactive
 bioactivities
 bioactivity
@@ -1598,6 +1603,9 @@ biochemicals
 biochemist
 biochemistry
 biochemists
+biocompatibility
+biocompatible
+biodegradability
 biodegradable
 biodegradation
 biodegrade
@@ -1621,6 +1629,8 @@ biofilms
 biofuel
 biofuels
 biogas
+biogeochemical
+biogeochemistry
 biographer
 biographers
 biographic
@@ -1641,6 +1651,7 @@ biologists
 biology
 bioluminescence
 bioluminescent
+biomagnification
 biomarker
 biomarkers
 biomass
@@ -1658,11 +1669,15 @@ biometry
 biomimetic
 biomimetics
 biomimicry
+biomineralisation
+biomineralization
 biomolecular
 biomolecule
 biomolecules
 bionic
 bionics
+biopharmaceutical
+biopharmaceuticals
 biophysical
 biophysicist
 biophysicists
@@ -1679,17 +1694,26 @@ biosciences
 biosphere
 biospheres
 biostatistician
+biostatisticians
 biostatistics
+biostratigraphic
+biostratigraphy
 biosynthesis
 biosynthetic
 biota
 biotech
+biotechnological
+biotechnologically
 biotechnologies
+biotechnologist
+biotechnologists
 biotechnology
 biotechs
 bioterrorism
 biotic
 biotin
+biotransformation
+biotransformations
 bioweapon
 bioweapons
 bipartisan
@@ -1771,7 +1795,6 @@ bishop
 bishops
 bismuth
 bison
-bisons
 bisque
 bisques
 bistro
@@ -1808,6 +1831,7 @@ bitterroot
 bitterroots
 bitters
 bittersweet
+bittersweetness
 bitty
 bitumen
 bituminous
@@ -1888,6 +1912,7 @@ blame
 blamed
 blameless
 blames
+blameworthiness
 blameworthy
 blaming
 blanch
@@ -1981,6 +2006,8 @@ blender
 blenders
 blending
 blends
+blepharoplasties
+blepharoplasty
 bless
 blessed
 blessedly
@@ -2122,6 +2149,7 @@ bloodstreams
 bloodsucker
 bloodsuckers
 bloodsucking
+bloodthirstiness
 bloodthirsty
 bloody
 bloodying
@@ -2374,6 +2402,8 @@ boilers
 boiling
 boils
 boisterous
+boisterously
+boisterousness
 bold
 bolder
 boldest
@@ -3202,6 +3232,8 @@ bromides
 bromine
 bronchial
 bronchitis
+bronchoconstriction
+bronchopulmonary
 bronchoscopy
 bronco
 broncos
@@ -3347,6 +3379,8 @@ buckler
 bucklers
 buckles
 buckling
+buckminsterfullerene
+buckminsterfullerenes
 bucks
 buckshot
 buckskin
@@ -3595,6 +3629,11 @@ bureaucracies
 bureaucracy
 bureaucrat
 bureaucratic
+bureaucratically
+bureaucratisation
+bureaucratised
+bureaucratization
+bureaucratized
 bureaucrats
 bureaus
 burgeon

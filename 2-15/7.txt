@@ -3852,7 +3852,6 @@ hafnium
 haggard
 haggled
 haggles
-hahnium
 hailing
 haircut
 hairdos
@@ -5772,6 +5771,7 @@ orphans
 osmosis
 osmotic
 ospreys
+osseous
 ostrich
 ottoman
 ourself

@@ -232,7 +232,6 @@ antidumping
 antifascist
 antifungals
 antigravity
-antileptons
 antimissile
 antinuclear
 antioxidant
@@ -1145,6 +1144,7 @@ craftswoman
 craftswomen
 cranberries
 crankshafts
+crashworthy
 creationism
 creationist
 credentials
@@ -1228,6 +1228,8 @@ deceitfully
 decelerated
 decelerates
 deceptively
+decertified
+decertifies
 decigrammes
 decillionth
 deciphering
@@ -1288,6 +1290,8 @@ deliverable
 deliverance
 deliveryman
 deliverymen
+demagnetise
+demagnetize
 demagoguery
 demarcating
 demarcation
@@ -1328,6 +1332,10 @@ deodorizers
 deodorizing
 departments
 deployments
+depolarised
+depolarises
+depolarized
+depolarizes
 depopulated
 depopulates
 deportation
@@ -1591,6 +1599,8 @@ dragonfruit
 dramatising
 dramatizing
 drastically
+draughtsman
+draughtsmen
 drawbridges
 drawstrings
 dreadnought
@@ -1954,6 +1964,7 @@ fellowships
 femtosecond
 fermentable
 ferociously
+ferromagnet
 fertilisers
 fertilising
 fertilizers
@@ -2281,6 +2292,7 @@ hemorrhaged
 hemorrhages
 hemorrhagic
 hemorrhoids
+hepatotoxic
 heptathlete
 heptathlons
 herbivorous
@@ -2380,12 +2392,14 @@ hyperdrives
 hyperlinked
 hypermarket
 hyperplasia
+hypersexual
 hypersonics
 hyphenating
 hyphenation
 hypnotising
 hypnotizing
 hypocrisies
+hypoglossal
 hypotension
 hypotensive
 hypotenuses
@@ -2562,7 +2576,9 @@ inexcusable
 inexcusably
 inexpensive
 infanticide
+infantilise
 infantilism
+infantilize
 infantryman
 infantrymen
 infarctions
@@ -2626,6 +2642,7 @@ inquisitive
 inquisitors
 inscription
 inscrutable
+inscrutably
 insecticide
 insectivore
 inseminated
@@ -2991,7 +3008,9 @@ marketplace
 marshalling
 marshmallow
 marvelously
+masculinise
 masculinity
+masculinize
 masochistic
 masqueraded
 masquerades
@@ -3304,6 +3323,7 @@ neocortices
 neoliberals
 neonatology
 nephrectomy
+nephrotoxic
 nervousness
 netherworld
 neurologist
@@ -3626,6 +3646,8 @@ parallelise
 parallelism
 parallelize
 paramedical
+parametrise
+parametrize
 paraphrased
 paraphrases
 paraplegics
@@ -3698,6 +3720,7 @@ percolators
 percussions
 perennially
 perestroika
+perfectible
 perfections
 perfectness
 perforating
@@ -3825,6 +3848,8 @@ pockmarking
 podiatrists
 poinsettias
 pointlessly
+polarisable
+polarizable
 polemicists
 policewoman
 policewomen
@@ -5221,6 +5246,7 @@ tenderizers
 tenderizing
 tenderloins
 tentatively
+teratogenic
 terminating
 termination
 terminators

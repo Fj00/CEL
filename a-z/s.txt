@@ -237,6 +237,7 @@ sanctify
 sanctifying
 sanctimonious
 sanctimoniously
+sanctimoniousness
 sanctimony
 sanction
 sanctioned
@@ -758,6 +759,8 @@ schoolmaster
 schoolmasters
 schoolmate
 schoolmates
+schoolmistress
+schoolmistresses
 schoolroom
 schoolrooms
 schools
@@ -1058,8 +1061,10 @@ scrunching
 scrunchy
 scruple
 scruples
+scrupulosity
 scrupulous
 scrupulously
+scrupulousness
 scrutinise
 scrutinised
 scrutinises
@@ -1341,6 +1346,8 @@ sedges
 sediment
 sedimentary
 sedimentation
+sedimentological
+sedimentology
 sediments
 sedition
 seditious
@@ -1492,6 +1499,7 @@ semi
 semiannual
 semiannually
 semiarid
+semiautobiographical
 semiautomatic
 semiautomatics
 semiautonomous
@@ -1524,7 +1532,10 @@ semipermeable
 semiprecious
 semiprivate
 semipro
+semiprofessional
+semiprofessionals
 semipros
+semiquantitative
 semiquaver
 semiquavers
 semiretired
@@ -1532,6 +1543,7 @@ semis
 semiskilled
 semisolid
 semisubmersible
+semisubmersibles
 semisweet
 semisynthetic
 semitone
@@ -1570,12 +1582,15 @@ sensational
 sensationalise
 sensationalised
 sensationalises
+sensationalising
 sensationalism
 sensationalist
+sensationalistic
 sensationalists
 sensationalize
 sensationalized
 sensationalizes
+sensationalizing
 sensationally
 sensations
 sense
@@ -1628,13 +1643,16 @@ sentimental
 sentimentalise
 sentimentalised
 sentimentalises
+sentimentalising
 sentimentalism
 sentimentalist
 sentimentalists
+sentimentalities
 sentimentality
 sentimentalize
 sentimentalized
 sentimentalizes
+sentimentalizing
 sentimentally
 sentiments
 sentinel
@@ -1754,6 +1772,10 @@ sermons
 serologic
 serological
 serology
+seronegative
+seronegativity
+seropositive
+seropositivity
 serotonin
 serous
 serpent
@@ -1804,6 +1826,9 @@ servos
 sesame
 sesh
 seshes
+sesquicentennial
+sesquicentennials
+sesquipedalian
 session
 sessional
 sessions
@@ -2422,6 +2447,7 @@ shortly
 shortness
 shorts
 shortsighted
+shortsightedness
 shortstop
 shortstops
 shortwave
@@ -4046,7 +4072,12 @@ societies
 society
 sociobiology
 sociocultural
+sociodemographic
+sociodemographics
 socioeconomic
+socioeconomically
+sociolinguistic
+sociolinguistics
 sociological
 sociologically
 sociologist
@@ -4417,6 +4448,7 @@ southbound
 southeast
 southeasterly
 southeastern
+southeasternmost
 southeastward
 southeastwards
 southerly
@@ -4431,6 +4463,7 @@ southwards
 southwest
 southwesterly
 southwestern
+southwesternmost
 southwestward
 southwestwards
 souvenir
@@ -4572,6 +4605,7 @@ spates
 spatial
 spatially
 spatiotemporal
+spatiotemporally
 spats
 spatter
 spattered
@@ -4687,7 +4721,15 @@ spectrometer
 spectrometers
 spectrometric
 spectrometry
+spectrophotometer
+spectrophotometers
+spectrophotometric
+spectrophotometrically
+spectrophotometry
+spectroradiometer
+spectroradiometers
 spectroscopic
+spectroscopically
 spectroscopy
 spectrum
 spectrums
@@ -4708,6 +4750,7 @@ sped
 speech
 speeches
 speechless
+speechlessness
 speechwriter
 speechwriters
 speed
@@ -4782,6 +4825,8 @@ sphincter
 sphincters
 sphinx
 sphinxes
+sphygmomanometer
+sphygmomanometers
 spice
 spiced
 spices
@@ -5435,11 +5480,13 @@ standard
 standardbred
 standardbreds
 standardisation
+standardisations
 standardise
 standardised
 standardises
 standardising
 standardization
+standardizations
 standardize
 standardized
 standardizes
@@ -5758,6 +5805,10 @@ stepson
 stepsons
 stepwise
 stereo
+stereochemical
+stereochemistry
+stereomicroscope
+stereomicroscopes
 stereophonic
 stereos
 stereoscope
@@ -6144,6 +6195,8 @@ straightens
 straighter
 straightest
 straightforward
+straightforwardly
+straightforwardness
 straightjacket
 straightjackets
 straightly
@@ -6208,6 +6261,7 @@ stratifies
 stratify
 stratifying
 stratigraphic
+stratigraphically
 stratigraphy
 stratocumulus
 stratosphere
@@ -6563,6 +6617,8 @@ subchapter
 subchapters
 subclass
 subclasses
+subclassification
+subclassifications
 subclinical
 subcommittee
 subcommittees
@@ -6572,6 +6628,7 @@ subcomponent
 subcomponents
 subconscious
 subconsciously
+subconsciousness
 subcontinent
 subcontinental
 subcontinents
@@ -6799,6 +6856,7 @@ substance
 substances
 substandard
 substantial
+substantiality
 substantially
 substantiate
 substantiated
@@ -6809,6 +6867,7 @@ substantive
 substantively
 substation
 substations
+substitutability
 substitutable
 substitute
 substituted
@@ -6896,6 +6955,7 @@ success
 successes
 successful
 successfully
+successfulness
 succession
 successions
 successive
@@ -7208,6 +7268,7 @@ superb
 superbike
 superbikes
 superbly
+supercalifragilisticexpialidocious
 supercar
 supercars
 supercell
@@ -7228,6 +7289,7 @@ supercomputers
 supercomputing
 superconducting
 superconductive
+superconductivity
 superconductor
 superconductors
 supercontinent
@@ -7241,6 +7303,7 @@ superfan
 superfans
 superfast
 superficial
+superficialities
 superficiality
 superficially
 superfine
@@ -7275,9 +7338,14 @@ superimposed
 superimposes
 superimposing
 superimposition
+superimpositions
+superintelligence
+superintelligences
+superintelligent
 superintend
 superintended
 superintendence
+superintendencies
 superintendency
 superintendent
 superintendents
@@ -7306,6 +7374,7 @@ supermoms
 supermoon
 supermoons
 supernatural
+supernaturalism
 supernaturally
 supernormal
 supernova
@@ -7317,6 +7386,8 @@ superpower
 superpowered
 superpowers
 supers
+supersaturated
+supersaturation
 superscript
 superscripts
 supersede
@@ -7375,6 +7446,7 @@ supplement
 supplemental
 supplementary
 supplementation
+supplementations
 supplemented
 supplementing
 supplements
@@ -7537,6 +7609,7 @@ survivor
 survivors
 survivorship
 sus
+susceptibilities
 susceptibility
 susceptible
 sushi
@@ -7890,6 +7963,7 @@ symposiums
 symptom
 symptomatic
 symptomatically
+symptomatology
 symptomless
 symptoms
 synaesthesia
@@ -7906,6 +7980,7 @@ synching
 synchronicities
 synchronicity
 synchronisation
+synchronisations
 synchronise
 synchronised
 synchroniser
@@ -7913,6 +7988,7 @@ synchronisers
 synchronises
 synchronising
 synchronization
+synchronizations
 synchronize
 synchronized
 synchronizer

@@ -318,7 +318,6 @@ anticlimax
 antifreeze
 antifungal
 antiheroes
-antilepton
 antimatter
 antiquarks
 antiquated
@@ -1810,6 +1809,7 @@ degreasers
 degreasing
 dehumanise
 dehumanize
+dehumidify
 dehydrated
 dehydrates
 dehydrator
@@ -1877,6 +1877,8 @@ depletions
 deplorable
 deployable
 deployment
+depolarise
+depolarize
 depopulate
 deportment
 depositary
@@ -3989,6 +3991,7 @@ librarians
 librettist
 licensable
 licensures
+licentious
 lieutenant
 lifeguards
 lifesavers
@@ -4729,6 +4732,7 @@ oceangoing
 octahedral
 octahedron
 octillions
+oculomotor
 oddsmakers
 oesophagus
 oestrogens
@@ -4744,6 +4748,7 @@ offshoring
 offsprings
 oftentimes
 oligarchic
+oligomeric
 omnipotent
 omniscient
 omnivorous
@@ -5906,6 +5911,7 @@ reformists
 refracting
 refraction
 refractive
+refractors
 refractory
 refraining
 refreezing
@@ -7242,6 +7248,7 @@ tendonitis
 tennessine
 tensioners
 tensioning
+teratogens
 terminable
 terminally
 terminated
@@ -7458,6 +7465,7 @@ triathlons
 tricksters
 tricolours
 triennials
+trigeminal
 triggering
 trilateral
 trilingual
@@ -7521,6 +7529,7 @@ ultrasonic
 ultrasound
 umbilicals
 unabridged
+unaccepted
 unadjusted
 unaffected
 unanswered

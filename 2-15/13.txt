@@ -40,6 +40,7 @@ administrator
 admissibility
 admonishments
 adventuresome
+adventurously
 advertisement
 aesthetically
 aestheticians
@@ -50,6 +51,7 @@ afterthoughts
 agglomerating
 agglomeration
 agreeableness
+agriculturist
 agrochemicals
 airworthiness
 alliterations
@@ -175,8 +177,10 @@ bibliographic
 bicentenaries
 bicentennials
 bidirectional
+bioaccumulate
 bioactivities
 biochemically
+biocompatible
 biodegradable
 bioengineered
 bioinformatic
@@ -246,8 +250,11 @@ chiropractors
 choreographed
 choreographer
 choreographic
+chromatograms
+chromatograph
 chronological
 chrysanthemum
+cinematograph
 circumcisions
 circumference
 circumscribed
@@ -283,6 +290,7 @@ commemoration
 commemorative
 commencements
 commendations
+commensurable
 commercialise
 commercialism
 commercialize
@@ -298,6 +306,7 @@ communicating
 communication
 communicative
 communicators
+communitarian
 comorbidities
 companionable
 companionship
@@ -490,20 +499,32 @@ defibrillator
 deforestation
 defragmenting
 dehumidifiers
+dehumidifying
+dehydrogenase
 deliberations
 delicatessens
 deliciousness
 delinquencies
+demagnetising
+demagnetizing
+dematerialise
+dematerialize
 demilitarised
 demilitarises
 demilitarized
 demilitarizes
+demineralised
+demineralized
 democratising
 democratizing
 demonstrating
 demonstration
 demonstrative
 demonstrators
+denaturalised
+denaturalises
+denaturalized
+denaturalizes
 denominations
 denouncements
 densification
@@ -579,6 +600,7 @@ discontinuous
 discourtesies
 discrepancies
 discretionary
+discriminable
 discriminants
 discriminated
 discriminates
@@ -588,6 +610,8 @@ disempowering
 disengagement
 disentangling
 disfigurement
+disfranchised
+disfranchises
 disgracefully
 disheartening
 dishonourable
@@ -644,6 +668,7 @@ dysfunctional
 eavesdroppers
 eavesdropping
 eccentrically
+ecclesiastics
 editorialised
 editorialises
 editorialized
@@ -744,6 +769,7 @@ fantastically
 fascinatingly
 featherweight
 fermentations
+ferroelectric
 ferromagnetic
 fertilisation
 fertilization
@@ -758,6 +784,7 @@ fingerprinted
 flabbergasted
 flamethrowers
 flexibilities
+flirtatiously
 fluorescently
 fluorocarbons
 foregrounding
@@ -786,6 +813,7 @@ generalizable
 genuflections
 geochronology
 geometrically
+geomorphology
 geophysicists
 geoscientists
 geostationary
@@ -872,6 +900,8 @@ hyperextended
 hyperglycemia
 hyperglycemic
 hyperhidrosis
+hyperpolarise
+hyperpolarize
 hypochondriac
 hypoglycaemia
 hypoglycaemic
@@ -898,11 +928,13 @@ impermissible
 impersonating
 impersonation
 impersonators
+imperturbable
 implantations
 imponderables
 impossibility
 impoverishing
 impracticable
+impractically
 impressionism
 impressionist
 imprisonments
@@ -976,6 +1008,8 @@ inexpensively
 inexperienced
 inexpressible
 infallibility
+infantilising
+infantilizing
 infiltrations
 infinitesimal
 inflammations
@@ -1109,6 +1143,7 @@ kleptomaniacs
 knowledgeable
 knowledgeably
 lackadaisical
+laparoscopies
 laughingstock
 legislatively
 lexicographer
@@ -1152,6 +1187,8 @@ marginalizing
 marketability
 marketisation
 marketization
+masculinising
+masculinizing
 masterclasses
 masterminding
 masterstrokes
@@ -1442,6 +1479,8 @@ parameterised
 parameterises
 parameterized
 parameterizes
+parametrising
+parametrizing
 paraphernalia
 parenthetical
 parliamentary
@@ -1572,6 +1611,7 @@ prescriptions
 presentations
 preservatives
 presumptively
+pretentiously
 preternatural
 preventatives
 primatologist
@@ -1628,6 +1668,7 @@ psychiatrists
 psychoanalyse
 psychoanalyst
 psychoanalyze
+psychobiology
 psychological
 psychologists
 psychometrics
@@ -1638,6 +1679,7 @@ psychotropics
 pulmonologist
 pulverisation
 pulverization
+purposelessly
 pyrotechnical
 quadrilateral
 quadrillionth
@@ -1709,6 +1751,8 @@ reconstituted
 reconstitutes
 reconstructed
 recrimination
+recrystallise
+recrystallize
 rectification
 recyclability
 redevelopment
@@ -1723,6 +1767,7 @@ reestablished
 reestablishes
 reevaluations
 reexamination
+referentially
 reflexologist
 reforestation
 reformatories
@@ -1784,6 +1829,7 @@ requisitioned
 reregistering
 restauranteur
 restaurateurs
+restrictively
 restructuring
 resubmissions
 resurrections
@@ -1840,6 +1886,7 @@ scriptwriting
 secessionists
 secretiveness
 sedimentation
+sedimentology
 seductiveness
 segmentations
 seismological
@@ -2075,6 +2122,7 @@ tranquilising
 tranquilizers
 tranquilizing
 transactional
+transaminases
 transcendence
 transcription
 transcriptome
@@ -2200,6 +2248,7 @@ unforeseeable
 unforgettable
 unforgettably
 unfortunately
+ungentlemanly
 ungrammatical
 unimaginative
 unimpeachable
@@ -2209,6 +2258,10 @@ unintelligent
 unintentional
 uninteresting
 uninterrupted
+universalised
+universalises
+universalized
+universalizes
 unjustifiable
 unjustifiably
 unmentionable
@@ -2245,6 +2298,7 @@ unsympathetic
 untraditional
 untrustworthy
 unwillingness
+upgradability
 upperclassman
 upperclassmen
 valedictorian

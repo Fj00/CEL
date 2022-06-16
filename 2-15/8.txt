@@ -5,6 +5,7 @@ abattoir
 abbesses
 abdicate
 abdomens
+abducens
 abducted
 abductee
 abductor
@@ -6116,6 +6117,7 @@ oilseeds
 ointment
 oleander
 oligarch
+oligomer
 omelette
 omission
 omitting
@@ -6335,6 +6337,7 @@ oviducts
 ovulated
 ovulates
 oxidants
+oxidases
 oxidised
 oxidiser
 oxidises

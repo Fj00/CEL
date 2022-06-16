@@ -126,6 +126,7 @@ quarterbacks
 quartered
 quarterfinal
 quarterfinalist
+quarterfinalists
 quarterfinals
 quartering
 quarterlies
@@ -262,6 +263,7 @@ quinine
 quinoa
 quintessence
 quintessential
+quintessentially
 quintet
 quintets
 quintile

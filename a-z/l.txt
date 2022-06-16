@@ -246,6 +246,8 @@ lanyard
 lanyards
 lap
 laparoscopic
+laparoscopically
+laparoscopies
 laparoscopy
 laparotomy
 lapdog
@@ -297,6 +299,7 @@ lasagna
 lasagnas
 lasagne
 lascivious
+lasciviousness
 lase
 lased
 laser
@@ -835,6 +838,7 @@ leveled
 leveler
 levelers
 levelheaded
+levelheadedness
 leveling
 levelled
 leveller
@@ -953,6 +957,8 @@ licensor
 licensors
 licensure
 licensures
+licentious
+licentiousness
 lich
 lichen
 lichens
@@ -1046,6 +1052,7 @@ lighters
 lightest
 lighthearted
 lightheartedly
+lightheartedness
 lighthouse
 lighthouses
 lighting
@@ -1205,6 +1212,8 @@ lipids
 lipo
 lipoma
 lipomas
+lipopolysaccharide
+lipopolysaccharides
 lipoprotein
 lipoproteins
 liposomal
@@ -1245,7 +1254,6 @@ liquored
 liquorice
 liquorices
 liquors
-lira
 lisp
 lisps
 list
@@ -1287,6 +1295,7 @@ lithe
 lithium
 lithograph
 lithographic
+lithographically
 lithographs
 lithography
 lithological
@@ -1361,6 +1370,7 @@ lizard
 lizards
 llama
 llamas
+llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
 lo
 load
 loaded
@@ -1676,6 +1686,8 @@ lopping
 lops
 lopsided
 loquacious
+loquaciousness
+loquacity
 loquat
 loquats
 lord

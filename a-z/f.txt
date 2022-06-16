@@ -347,6 +347,7 @@ fascist
 fascistic
 fascists
 fashion
+fashionability
 fashionable
 fashionably
 fashioned
@@ -650,6 +651,7 @@ feral
 fermata
 fermatas
 ferment
+fermentability
 fermentable
 fermentation
 fermentations
@@ -675,7 +677,13 @@ ferried
 ferries
 ferrite
 ferrites
+ferroelectric
+ferroelectricity
+ferroelectrics
+ferromagnet
 ferromagnetic
+ferromagnetism
+ferromagnets
 ferrous
 ferry
 ferryboat
@@ -820,10 +828,14 @@ fickle
 fickleness
 fiction
 fictional
+fictionalisation
+fictionalisations
 fictionalise
 fictionalised
 fictionalises
 fictionalising
+fictionalization
+fictionalizations
 fictionalize
 fictionalized
 fictionalizes
@@ -1268,7 +1280,6 @@ flame
 flamed
 flameless
 flamenco
-flamencos
 flameout
 flameouts
 flames
@@ -1458,6 +1469,8 @@ flexors
 flexural
 flexure
 flexures
+flibbertigibbet
+flibbertigibbets
 flick
 flicked
 flicker
@@ -1503,6 +1516,8 @@ flirt
 flirtation
 flirtations
 flirtatious
+flirtatiously
+flirtatiousness
 flirted
 flirting
 flirts
@@ -1525,6 +1540,7 @@ floatplane
 floatplanes
 floats
 floaty
+floccinaucinihilipilification
 flock
 flocked
 flocking
@@ -2029,6 +2045,7 @@ forerunners
 fores
 foresaw
 foresee
+foreseeability
 foreseeable
 foreseeing
 foreseen

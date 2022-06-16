@@ -590,7 +590,6 @@ birdie
 births
 bisect
 bishop
-bisons
 bisque
 bistro
 bitchy
@@ -3777,7 +3776,6 @@ mallet
 mallow
 malted
 mambas
-mambos
 mammal
 mammas
 manage

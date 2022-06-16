@@ -276,6 +276,7 @@ octuplets
 octupling
 ocular
 oculi
+oculomotor
 oculus
 odd
 oddball
@@ -441,9 +442,20 @@ oligarchical
 oligarchies
 oligarchs
 oligarchy
+oligodendrocyte
+oligodendrocytes
+oligomer
+oligomeric
+oligomerisation
+oligomerization
+oligomers
+oligonucleotide
+oligonucleotides
 oligopolies
 oligopolistic
 oligopoly
+oligosaccharide
+oligosaccharides
 olive
 olives
 om
@@ -581,6 +593,8 @@ operatic
 operating
 operation
 operational
+operationalisation
+operationalization
 operationally
 operations
 operative
@@ -594,7 +608,9 @@ operon
 operons
 ophthalmic
 ophthalmologic
+ophthalmological
 ophthalmologist
+ophthalmologists
 ophthalmology
 ophthalmoscope
 ophthalmoscopes
@@ -620,6 +636,7 @@ opportunely
 opportunism
 opportunist
 opportunistic
+opportunistically
 opportunists
 opportunities
 opportunity
@@ -642,6 +659,7 @@ oppression
 oppressions
 oppressive
 oppressively
+oppressiveness
 oppressor
 oppressors
 ops
@@ -799,6 +817,7 @@ organically
 organics
 organisation
 organisational
+organisationally
 organisations
 organise
 organised
@@ -814,6 +833,7 @@ organist
 organists
 organization
 organizational
+organizationally
 organizations
 organize
 organized
@@ -821,6 +841,9 @@ organizer
 organizers
 organizes
 organizing
+organophosphate
+organophosphates
+organophosphorus
 organs
 organza
 orgasm
@@ -927,6 +950,8 @@ osmosis
 osmotic
 osprey
 ospreys
+osseointegration
+osseous
 ossification
 ossified
 ostensible
@@ -958,9 +983,16 @@ other
 otherness
 others
 otherwise
+otherworldliness
 otherworldly
 otitis
+otolaryngologist
+otolaryngologists
 otolaryngology
+otorhinolaryngological
+otorhinolaryngologist
+otorhinolaryngologists
+otorhinolaryngology
 otoscope
 otoscopes
 otter
@@ -1277,6 +1309,8 @@ overabundance
 overabundant
 overachieve
 overachieved
+overachievement
+overachievements
 overachiever
 overachievers
 overachieves
@@ -1330,6 +1364,8 @@ overbuying
 overbuys
 overcame
 overcapacity
+overcapitalisation
+overcapitalization
 overcast
 overcharge
 overcharged
@@ -1351,9 +1387,13 @@ overcommitting
 overcompensate
 overcompensated
 overcompensates
+overcompensating
+overcompensation
 overcomplicate
 overcomplicated
 overcomplicates
+overcomplicating
+overconcentration
 overconfidence
 overconfident
 overconsumption
@@ -1413,6 +1453,7 @@ overemphasize
 overemphasized
 overemphasizes
 overemphasizing
+overenthusiastic
 overestimate
 overestimated
 overestimates
@@ -1424,6 +1465,7 @@ overexerted
 overexerting
 overexertion
 overexerts
+overexploitation
 overexpose
 overexposed
 overexposes
@@ -1454,6 +1496,18 @@ overflowed
 overflowing
 overflows
 overfull
+overgeneralisation
+overgeneralisations
+overgeneralise
+overgeneralised
+overgeneralises
+overgeneralising
+overgeneralization
+overgeneralizations
+overgeneralize
+overgeneralized
+overgeneralizes
+overgeneralizing
 overgraze
 overgrazed
 overgrazes
@@ -1595,6 +1649,7 @@ overreactions
 overreacts
 overregulation
 overreliance
+overrepresentation
 overrepresented
 overridden
 override
@@ -1628,6 +1683,7 @@ oversell
 overselling
 oversells
 oversensitive
+oversensitivity
 overshadow
 overshadowed
 overshadowing
@@ -1642,6 +1698,8 @@ overshoots
 overshot
 oversight
 oversights
+oversimplification
+oversimplifications
 oversimplified
 oversimplifies
 oversimplify
@@ -1696,6 +1754,8 @@ overstretches
 overstretching
 overstuffed
 oversubscribed
+oversubscription
+oversubscriptions
 oversupplied
 oversupplies
 oversupply
@@ -1741,6 +1801,8 @@ overuse
 overused
 overuses
 overusing
+overutilisation
+overutilization
 overvaluation
 overvaluations
 overvalue
@@ -1776,6 +1838,7 @@ overwriting
 overwritten
 overwrought
 overzealous
+overzealousness
 oviduct
 oviducts
 ovine
@@ -1813,6 +1876,7 @@ oxen
 oxidant
 oxidants
 oxidase
+oxidases
 oxidation
 oxidative
 oxide

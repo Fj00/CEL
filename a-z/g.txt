@@ -260,6 +260,12 @@ gastrectomy
 gastric
 gastritis
 gastroenteritis
+gastroenterological
+gastroenterologist
+gastroenterologists
+gastroenterology
+gastroesophageal
+gastrointestinal
 gastronomic
 gastronomical
 gastronomy
@@ -394,6 +400,7 @@ genealogists
 genealogy
 genera
 general
+generalisability
 generalisable
 generalisation
 generalisations
@@ -405,6 +412,7 @@ generalist
 generalists
 generalities
 generality
+generalizability
 generalizable
 generalization
 generalizations
@@ -503,6 +511,7 @@ geochemical
 geochemist
 geochemistry
 geochemists
+geochronological
 geochronology
 geode
 geodes
@@ -530,6 +539,8 @@ geometrical
 geometrically
 geometries
 geometry
+geomorphological
+geomorphology
 geophysical
 geophysicist
 geophysicists
@@ -959,6 +970,7 @@ glosses
 glossier
 glossiest
 glossing
+glossopharyngeal
 glossy
 glove
 glovebox
@@ -1481,6 +1493,7 @@ gratitude
 gratuities
 gratuitous
 gratuitously
+gratuitousness
 gratuity
 grave
 gravedigger
@@ -1589,6 +1602,7 @@ greeting
 greetings
 greets
 gregarious
+gregariousness
 gremlin
 gremlins
 grenade

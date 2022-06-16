@@ -352,6 +352,7 @@ journaling
 journalism
 journalist
 journalistic
+journalistically
 journalists
 journals
 journey
@@ -492,6 +493,7 @@ juried
 juries
 jurisdiction
 jurisdictional
+jurisdictionally
 jurisdictions
 jurisprudence
 jurisprudential
@@ -504,6 +506,7 @@ jury
 just
 justice
 justices
+justiciability
 justiciable
 justifiable
 justifiably

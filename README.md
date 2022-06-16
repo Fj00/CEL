@@ -5,7 +5,7 @@ Common English Lexicon (CEL), a word list with common words, for word games.
 ## Background
 
 1. What is the CEL?
-   - The CEL stands for Common English Lexicon, created by Eric Smith (Fj00) and Kenji Matsumoto (strataji). The CEL focuses on the most common words that exist in the international Scrabble dictionary (CSW). As such, the CEL is less than 1/3 the size of CSW, with just over 67,500 words in total and over 35,800 words under 9 letters.
+   - The CEL stands for Common English Lexicon, created by Eric Smith (Fj00) and Kenji Matsumoto (strataji). The CEL focuses on the most common words that exist in the international Scrabble dictionary (CSW). As such, the CEL is about 1/4 the size of CSW, with just over 69,200 words in total and over 35,900 words under 9 letters. Additionally, CEL now contains just under 1,100 words from 16-45 letters.
 
 2. How was the CEL compiled?
    - The CEL was compiled by counting the number of times specific words were used in Internet articles, books, webpages, and Google searches. Those that made it past pre-specified thresholds had made it into CEL, as well as related words necessary for consistency.  
@@ -41,11 +41,13 @@ Woogles achieved a successful Kickstarter in October last year, and was created 
 
 ## Getting Started
 
-The repository contains `cel.txt`, the master CEL list. The `2-15` folder contains subsets of CEL by word length, from 2-15 letters. The `a-z` folder contains subsets of CEL by starting letter, from A-Z. More subset lists can be generated if desired. In the future, these lists will be updated to stay consistent with `cel.txt`.
+The repository contains `cel_2-45.txt`, the master CEL list, which has words ranging from 2-45 letters. `cel_2-15.txt` contains subsets of CEL by word length, from 2-15 letters. `cel_16-21.txt` contains subsets of CEL by word length, from 16-21 letters. `cel_2-21.txt` contains subsets of CEL by word length, from 2-21 letters. `cel_22-45.txt` contains subsets of CEL by word length, from 22-45 letters.
+
+The `2-15` folder contains subsets of CEL by word length, from 2-15 letters. The `16-21` folder contains subsets of CEL by word length, from 16-21 letters. The `a-z` folder contains subsets of CEL by starting letter, from A-Z, 2-15 and 16-21. More subset lists can be generated if desired. In the future, these lists will be updated to stay consistent with `cel.txt`.
 
 ## Methodology
 
-The working spreadsheet is public. It currently contains 4 tabs, cel is the current working list, 2s is just 2 letter word selection, 3s is 3 letter word selection, and movies is another list described below. The spreadsheet can be viewed at: https://docs.google.com/spreadsheets/d/1N-LfFbuuVA176f6pI8oTHYtpUGOy7t2i_ovsCTalq4A/edit?usp=sharing
+The working spreadsheet is public. It currently contains 3 main tabs. CEL is the current working list from 2-15 letters, CEL 16-21 is the current working list from 16-21 letters, and CEL 22-45 is the current working list from 22-45 letters. Other tabs: 2s is just 2 letter word selection, 3s is 3 letter word selection, and movies is another list described below. The spreadsheet can be viewed at: https://docs.google.com/spreadsheets/d/1N-LfFbuuVA176f6pI8oTHYtpUGOy7t2i_ovsCTalq4A/edit?usp=sharing
 
 The starter list chosen was 2of12, which contains a list of common words and their inflections, created by finding words that were in at least 2 out of 12 dictionaries that were selected. More information on 2of12 here: http://wordlist.aspell.net/12dicts-readme/#2of12inf
 
@@ -257,3 +259,59 @@ After making a second and third revision, the total number of words is 67520. He
 | Y | 184 | 1040 | 17.69% |
 | Z | 134 | 1176 | 11.39% |
 | Total | 67520 | 281857 | 23.96% |
+
+After making a fourth major revision which includes 16-45 letter words, the total number of words is 69223. Here is what the same charts look like from 2-21 letters:
+
+| Length | CEL Count | Competitive Count | Percent CEL/Competitive |
+| --- | --- | --- | --- |
+| 2 | 66 | 127 | 51.97% |
+| 3 | 635 | 1340 | 47.39% |
+| 4 | 2450 | 5621 | 43.59% |
+| 5 | 4681 | 12920 | 36.23% |
+| 6 | 7421 | 22971 | 32.31% |
+| 7 | 9932 | 34270 | 28.98% |
+| 8 | 10725 | 42103 | 25.47% |
+| 9 | 9854 | 42899 | 22.97% |
+| 10 | 8166 | 37715 | 21.65% |
+| 11 | 5860 | 29577 | 19.81% |
+| 12 | 3861 | 21499 | 17.96% |
+| 13 | 2348 | 14700 | 15.97% |
+| 14 | 1330 | 9651 | 13.78% |
+| 15 | 806 | 6103 | 13.21% |
+| 16 | 544 | 5810 | 9.36% |
+| 17 | 290 | 4549 | 6.38% |
+| 18 | 113 | 3505 | 3.22% |
+| 19 | 63 | 2285 | 2.76% |
+| 20 | 39 | 1367 | 2.85% |
+| 21 | 14 | 816 | 1.72% |
+| Total | 69223 | 301578 | 22.95% |
+
+| Letter | CEL Count | Competitive Count | Percent CEL/Competitive |
+| --- | --- | --- | --- |
+| A | 3903 | 18428 | 21.18% |
+| B | 3880 | 16092 | 24.11% |
+| C | 6490 | 27658 | 23.47% |
+| D | 4376 | 17746 | 24.66% |
+| E | 2788 | 12187 | 22.88% |
+| F | 2891 | 10847 | 26.65% |
+| G | 2107 | 9702 | 21.72% |
+| H | 2464 | 11784 | 20.91% |
+| I | 2825 | 10914 | 25.88% |
+| J | 533 | 2325 | 22.92% |
+| K | 493 | 3451 | 14.29% |
+| L | 2006 | 8401 | 23.88% |
+| M | 3757 | 16941 | 22.18% |
+| N | 1467 | 8199 | 17.89% |
+| O | 1913 | 9965 | 19.2% |
+| P | 5532 | 26941 | 20.53% |
+| Q | 325 | 1453 | 22.37% |
+| R | 4567 | 15773 | 28.95% |
+| S | 8104 | 33291 | 24.34% |
+| T | 3643 | 15329 | 23.77% |
+| U | 2020 | 10910 | 18.52% |
+| V | 1052 | 4724 | 22.27% |
+| W | 1751 | 5972 | 29.32% |
+| X | 13 | 317 | 4.1% |
+| Y | 186 | 1040 | 17.88% |
+| Z | 137 | 1188 | 11.53% |
+| Total | 69223 | 301578 | 22.95% |

@@ -106,7 +106,6 @@ back
 bade
 bads
 bags
-baht
 bail
 bait
 bake
@@ -898,7 +897,6 @@ harm
 harp
 hash
 hasp
-hast
 hate
 hats
 haul
@@ -1194,7 +1192,6 @@ lint
 lion
 lipo
 lips
-lira
 lisp
 list
 lite
@@ -1707,7 +1704,6 @@ raja
 rake
 ramp
 rams
-rand
 rang
 rank
 rant

@@ -391,6 +391,7 @@ watermills
 waterproof
 waterproofed
 waterproofing
+waterproofness
 waterproofs
 waters
 watershed
@@ -404,6 +405,7 @@ waterslides
 waterspout
 waterspouts
 watertight
+watertightness
 waterway
 waterways
 waterwheel
@@ -513,6 +515,7 @@ weaseled
 weaseling
 weasels
 weather
+weatherability
 weathered
 weathering
 weatherman
@@ -522,6 +525,7 @@ weatherproofed
 weatherproofing
 weatherproofs
 weathers
+weatherstripping
 weave
 weaved
 weaver
@@ -726,6 +730,8 @@ wharf
 wharfs
 wharves
 what
+whatchamacallit
+whatchamacallits
 whatever
 whatnot
 whats
@@ -1725,6 +1731,7 @@ wronged
 wrongful
 wrongfully
 wrongheaded
+wrongheadedness
 wronging
 wrongly
 wrongness

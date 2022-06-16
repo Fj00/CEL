@@ -93,7 +93,6 @@ aloud
 alpha
 altar
 alter
-altho
 altos
 alums
 amass
@@ -4366,6 +4365,7 @@ usury
 utter
 uvula
 vague
+vagus
 vales
 valet
 valid

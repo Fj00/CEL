@@ -190,6 +190,7 @@ architecture
 aristocratic
 arithmetical
 aromatherapy
+aromatically
 arraignments
 arrangements
 arthroplasty
@@ -328,6 +329,7 @@ bloodthirsty
 blueprinting
 bodybuilders
 bodybuilding
+boisterously
 bombardments
 boomeranging
 bootstrapped
@@ -463,6 +465,7 @@ chocolatiers
 choreographs
 choreography
 christenings
+chromatogram
 chronographs
 chronologies
 chronometers
@@ -502,6 +505,7 @@ coincidental
 collaborated
 collaborates
 collaborator
+collaterally
 collectables
 collectibles
 collectively
@@ -815,6 +819,7 @@ decelerating
 deceleration
 decentralise
 decentralize
+decertifying
 decillionths
 decipherable
 decisiveness
@@ -846,7 +851,9 @@ degenerative
 degradations
 dehumanising
 dehumanizing
+dehumidified
 dehumidifier
+dehumidifies
 deleveraging
 deliberately
 deliberating
@@ -857,6 +864,10 @@ delightfully
 delimitation
 delineations
 deliverables
+demagnetised
+demagnetises
+demagnetized
+demagnetizes
 demarcations
 demilitarise
 demilitarize
@@ -881,6 +892,8 @@ demoralising
 demoralizing
 demotivating
 demystifying
+denaturalise
+denaturalize
 denominating
 denomination
 denominators
@@ -891,6 +904,8 @@ denunciation
 departmental
 dependencies
 depilatories
+depolarising
+depolarizing
 depoliticise
 depoliticize
 depopulating
@@ -944,6 +959,7 @@ determinedly
 devaluations
 developments
 diabolically
+diagrammatic
 diamondbacks
 dictatorship
 dictionaries
@@ -1001,6 +1017,8 @@ disempowered
 disenchanted
 disentangled
 disentangles
+disestablish
+disfranchise
 disgorgement
 disgustingly
 disheartened
@@ -1051,6 +1069,7 @@ distillation
 distilleries
 distinctions
 distinctness
+distractible
 distractions
 distributing
 distribution
@@ -1086,6 +1105,7 @@ earthshaking
 eavesdropped
 eavesdropper
 eccentricity
+ecclesiastic
 echolocation
 eclectically
 ecologically
@@ -1195,6 +1215,7 @@ evangelicals
 evangelising
 evangelistic
 evangelizing
+evenhandedly
 eviscerating
 evisceration
 evolutionary
@@ -1290,6 +1311,7 @@ feminization
 femtoseconds
 fenestration
 fermentation
+ferromagnets
 fibrillation
 fibromyalgia
 fictionalise
@@ -1489,6 +1511,7 @@ homesteading
 homoeopathic
 homogenising
 homogenizing
+homozygosity
 honeycombing
 honeymooners
 honeymooning
@@ -1588,6 +1611,7 @@ immutability
 impartiality
 impeachments
 impenetrable
+impenetrably
 imperfection
 imperialists
 imperishable
@@ -1692,6 +1716,10 @@ inexplicably
 inextricable
 inextricably
 infanticides
+infantilised
+infantilises
+infantilized
+infantilizes
 infatuations
 infectiously
 infestations
@@ -1961,6 +1989,10 @@ marketplaces
 marksmanship
 marshmallows
 marvellously
+masculinised
+masculinises
+masculinized
+masculinizes
 masquerading
 mastectomies
 masterminded
@@ -2411,6 +2443,10 @@ parallelized
 parallelizes
 parameterise
 parameterize
+parametrised
+parametrises
+parametrized
+parametrizes
 paramilitary
 paraphrasing
 parasitology
@@ -3077,6 +3113,7 @@ screensavers
 screenwriter
 screwdrivers
 scriptwriter
+scrupulosity
 scrupulously
 scrutinising
 scrutinizing
@@ -3108,6 +3145,8 @@ separateness
 septillionth
 sequentially
 sequestering
+seronegative
+seropositive
 servicewoman
 servicewomen
 seventeenths
@@ -3430,6 +3469,7 @@ thermocouple
 thermography
 thermometers
 thermosphere
+thermostable
 thermostatic
 thoroughbred
 thoroughfare
@@ -3473,6 +3513,7 @@ tranquilizer
 tranquilizes
 tranquillity
 transactions
+transaminase
 transceivers
 transcendent
 transcending
@@ -3654,6 +3695,7 @@ unforgivably
 unfortunates
 unfulfilling
 ungovernable
+ungratefully
 unhealthiest
 unidentified
 unilaterally
@@ -3666,7 +3708,9 @@ uninterested
 unionisation
 unionization
 unironically
+universalise
 universality
+universalize
 universities
 unlawfulness
 unlikelihood
@@ -3730,6 +3774,7 @@ unthinkingly
 untouchables
 untrammelled
 untranslated
+untruthfully
 unvaccinated
 unventilated
 unverifiable

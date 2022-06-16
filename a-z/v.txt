@@ -55,6 +55,7 @@ vaguely
 vagueness
 vaguer
 vaguest
+vagus
 vain
 vainglorious
 vainglory
@@ -243,6 +244,7 @@ vasectomies
 vasectomy
 vaseline
 vases
+vasoconstriction
 vasodilation
 vasodilator
 vasodilators
@@ -487,6 +489,7 @@ vested
 vestibular
 vestibule
 vestibules
+vestibulocochlear
 vestige
 vestiges
 vestigial
@@ -593,6 +596,8 @@ video
 videocassette
 videocassettes
 videoconference
+videoconferences
+videoconferencing
 videoed
 videographer
 videographers
@@ -772,6 +777,7 @@ viscera
 visceral
 viscerally
 viscoelastic
+viscoelasticity
 viscose
 viscosities
 viscosity

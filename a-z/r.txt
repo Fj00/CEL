@@ -101,11 +101,14 @@ radioactivity
 radiocarbon
 radiochemical
 radiochemistry
+radiocommunication
+radiocommunications
 radioed
 radiograph
 radiographer
 radiographers
 radiographic
+radiographically
 radiographs
 radiography
 radioing
@@ -120,7 +123,12 @@ radiometer
 radiometers
 radiometric
 radiometry
+radiopharmaceutical
+radiopharmaceuticals
+radioprotection
 radios
+radiotelephone
+radiotelephones
 radiotherapy
 radish
 radishes
@@ -289,7 +297,6 @@ rancidity
 rancor
 rancorous
 rancour
-rand
 random
 randomisation
 randomise
@@ -437,6 +444,7 @@ rational
 rationale
 rationales
 rationalisation
+rationalisations
 rationalise
 rationalised
 rationalises
@@ -447,6 +455,7 @@ rationalistic
 rationalists
 rationality
 rationalization
+rationalizations
 rationalize
 rationalized
 rationalizes
@@ -774,11 +783,13 @@ reattaches
 reattaching
 reattachment
 reauthorisation
+reauthorisations
 reauthorise
 reauthorised
 reauthorises
 reauthorising
 reauthorization
+reauthorizations
 reauthorize
 reauthorized
 reauthorizes
@@ -884,10 +895,14 @@ recanted
 recanting
 recants
 recap
+recapitalisation
+recapitalisations
 recapitalise
 recapitalised
 recapitalises
 recapitalising
+recapitalization
+recapitalizations
 recapitalize
 recapitalized
 recapitalizes
@@ -938,6 +953,7 @@ receptivity
 receptor
 receptors
 recertification
+recertifications
 recertified
 recertifies
 recertify
@@ -1007,6 +1023,8 @@ reclaimed
 reclaiming
 reclaims
 reclamation
+reclassification
+reclassifications
 reclassified
 reclassifies
 reclassify
@@ -1028,6 +1046,7 @@ recode
 recoded
 recodes
 recoding
+recognisability
 recognisable
 recognisably
 recognisance
@@ -1037,6 +1056,7 @@ recognises
 recognising
 recognition
 recognitions
+recognizability
 recognizable
 recognizably
 recognizance
@@ -1114,6 +1134,18 @@ recomputed
 recomputes
 recomputing
 recon
+reconceptualisation
+reconceptualisations
+reconceptualise
+reconceptualised
+reconceptualises
+reconceptualising
+reconceptualization
+reconceptualizations
+reconceptualize
+reconceptualized
+reconceptualizes
+reconceptualizing
 reconcilable
 reconcile
 reconciled
@@ -1126,6 +1158,7 @@ reconditioned
 reconditioning
 reconditions
 reconfiguration
+reconfigurations
 reconfigure
 reconfigured
 reconfigures
@@ -1147,6 +1180,7 @@ reconquers
 reconquest
 reconsider
 reconsideration
+reconsiderations
 reconsidered
 reconsidering
 reconsiders
@@ -1220,6 +1254,16 @@ recruiting
 recruitment
 recruitments
 recruits
+recrystallisation
+recrystallise
+recrystallised
+recrystallises
+recrystallising
+recrystallization
+recrystallize
+recrystallized
+recrystallizes
+recrystallizing
 recs
 rectal
 rectally
@@ -1342,6 +1386,7 @@ redesigned
 redesigning
 redesigns
 redetermination
+redeterminations
 redevelop
 redeveloped
 redeveloping
@@ -1569,6 +1614,8 @@ referendum
 referendums
 referent
 referential
+referentiality
+referentially
 referents
 referral
 referrals
@@ -1621,6 +1668,7 @@ reflection
 reflections
 reflective
 reflectively
+reflectiveness
 reflectivity
 reflector
 reflectors
@@ -1673,7 +1721,10 @@ refracting
 refraction
 refractions
 refractive
+refractor
 refractories
+refractoriness
+refractors
 refractory
 refracts
 refrain
@@ -1922,6 +1973,10 @@ rehome
 rehomed
 rehomes
 rehoming
+rehospitalisation
+rehospitalisations
+rehospitalization
+rehospitalizations
 rehouse
 rehoused
 rehouses
@@ -2024,6 +2079,8 @@ reintegrates
 reintegrating
 reintegration
 reinterpret
+reinterpretation
+reinterpretations
 reinterpreted
 reinterpreting
 reinterprets
@@ -2045,6 +2102,7 @@ reinvestigated
 reinvestigates
 reinvestigating
 reinvestigation
+reinvestigations
 reinvesting
 reinvestment
 reinvestments
@@ -2295,6 +2353,8 @@ reminder
 reminders
 reminding
 reminds
+remineralisation
+remineralization
 reminisce
 reminisced
 reminiscence
@@ -2662,8 +2722,11 @@ repping
 reprehensible
 represent
 representation
+representational
 representations
 representative
+representatively
+representativeness
 representatives
 represented
 representing
@@ -3019,6 +3082,7 @@ respectably
 respected
 respectful
 respectfully
+respectfulness
 respecting
 respective
 respectively
@@ -3046,6 +3110,7 @@ responding
 responds
 response
 responses
+responsibilities
 responsibility
 responsible
 responsibly
@@ -3102,6 +3167,8 @@ restricting
 restriction
 restrictions
 restrictive
+restrictively
+restrictiveness
 restricts
 restring
 restringing
@@ -3168,6 +3235,8 @@ resuscitating
 resuscitation
 resuscitator
 resuscitators
+resynchronisation
+resynchronization
 retail
 retailed
 retailer
@@ -3311,6 +3380,7 @@ retributions
 retributive
 retried
 retries
+retrievability
 retrievable
 retrieval
 retrievals
@@ -3398,6 +3468,10 @@ revamp
 revamped
 revamping
 revamps
+revascularisation
+revascularisations
+revascularization
+revascularizations
 reveal
 revealed
 revealing
@@ -4036,6 +4110,8 @@ rollerbladed
 rollerblades
 rollerblading
 rollercoaster
+rollercoastered
+rollercoastering
 rollercoasters
 rollers
 rollicking
